@@ -1,25 +1,25 @@
 # NVON
 
-The Dutch Association for Science Education (<a href="https://nvon.nl" target="_blank">NVON</a>) is an active association for in-service and pre-service teachers and technicians in the subjects chemistry, physics, biology, general natural sciences, life science & technology, science orientation, and technology education. One of the objectives of the NVON is to improve the quality of science education in the Netherlands and to promote the professional development of its members. NVON members share subject information, knowledge, and experience with each other: directly from practice, innovative, current, and immediately applicable. The NVON book series are an example of this.
+네덜란드 과학교육 협회(<a href="https://nvon.nl" target="_blank">NVON</a>)는 화학, 물리, 생물학, 일반 자연 과학, 생명 과학 및 기술, 과학 오리엔테이션, 기술 교육 과목의 현직 및 예비 교사와 기술자를 위한 활발한 협회입니다. NVON의 목표 중 하나는 네덜란드의 과학교육의 질을 향상시키고 회원들의 전문성 개발을 촉진하는 것입니다. NVON 회원들은 과목 정보, 지식, 경험을 서로 공유합니다: 실무에서 직접, 혁신적이고, 최신이며, 즉시 적용 가능합니다. NVON 도서 시리즈는 이것의 한 예입니다.
 
-Previously published in the NVON series (titles translated from Dutch):
+이전에 NVON 시리즈에서 출판된 책 (제목은 네덜란드어에서 번역됨):
 
-1. Practicals, ... nice! 
-2. Evolution in secondary education 
-3. Designing is doing 
-4. Global environmental changes 
-5. Showing chemistry 
-6. Contexts in New Chemistry 
-7. Showing chemistry 2 
-8. Spacious and balanced: judgment formation in biology lessons 
-9. Learn about contexts in New Chemistry 
-10. Researching and designing with 4- to 14-year-olds 
-11. Show the physics 1
-12. More about contexts in New Chemistry
-13. Genetics in motion 
-14. Show the physics 2
-15. Learning & teaching ecology
-16. Better knowledge about food
-17. Plan Beta: STEM education for sustainable development
-18. Showing chemistry 3: effective demonstrations
-19. Show the Physics 3 
+1. 실습, ... 멋지다!
+2. 중등 교육에서의 진화
+3. 설계는 실행이다
+4. 전 지구적 환경 변화
+5. 화학 보여주기
+6. 새로운 화학의 맥락
+7. 화학 보여주기 2
+8. 넓고 균형 잡힌: 생물학 수업에서의 판단 형성
+9. 새로운 화학의 맥락에 대해 배우기
+10. 4세에서 14세까지의 연구 및 설계
+11. 물리 보여주기 1
+12. 새로운 화학의 맥락에 대해 더 알아보기
+13. 움직이는 유전학
+14. 물리 보여주기 2
+15. 생태학 학습 및 교육
+16. 식품에 대한 더 나은 지식
+17. 플랜 베타: 지속 가능한 발전을 위한 STEM 교육
+18. 화학 보여주기 3: 효과적인 시연
+19. 물리 보여주기 3

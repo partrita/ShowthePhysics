@@ -1,21 +1,21 @@
-# Why does the water rise?
+# 왜 물이 올라갈까?
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Peter Dekkers</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">저자:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">피터 데커스</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">15-30 minutes</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">시간:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">15-30분</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Grade 10 and up</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">연령 그룹:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">10학년 이상</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Heating and expansion of air, pressure, combustion</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">개념:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">공기의 가열 및 팽창, 압력, 연소</td>
     </tr>
 </table>
 
@@ -31,132 +31,132 @@
     </div>
 </div>
 
-## Introduction
-Everyone knows that, when placing a glass over a burning candle, the candle extinguishes when oxygen in the glass runs out. If the candle is standing in a container with some liquid, the liquid is partially pulled up into the glass in the process. But is that the whole story? What exactly are you observing in this demonstration? Even when we're all looking at the same event, we often see very different things.
+## 소개
+모두가 타는 촛불 위에 유리잔을 놓으면 유리잔 안의 산소가 떨어지면 촛불이 꺼진다는 것을 알고 있습니다. 촛불이 액체가 담긴 용기에 서 있으면 그 과정에서 액체가 부분적으로 유리잔 안으로 빨려 들어갑니다. 하지만 그게 전부일까요? 이 시연에서 정확히 무엇을 관찰하고 있습니까? 우리 모두가 같은 사건을 보고 있을 때에도 우리는 종종 매우 다른 것을 봅니다.
 
-What causes the liquid level in the glass to rise? People tend to come up with different plausible explanations. What are the arguments for and against each explanation? Do those arguments fit all observations?
+유리잔 안의 액체 수위가 상승하는 원인은 무엇입니까? 사람들은 다른 그럴듯한 설명을 내놓는 경향이 있습니다. 각 설명에 대한 찬반 주장은 무엇입니까? 그 주장은 모든 관찰과 일치합니까?
 
-Mere observation do not suffice to develop scientific insight, even less so when more than one explanation seems plausible. The result of research is often the conclusion that more research is needed. Sometimes even for an old and stale problem like this one...
-The teacher performs the experiment but is meant to mainly direct the discussion aimed at generating these insights about the nature of science.
+단순한 관찰만으로는 과학적 통찰력을 개발하기에 충분하지 않으며, 하나 이상의 설명이 그럴듯해 보일 때는 더욱 그렇습니다. 연구의 결과는 종종 더 많은 연구가 필요하다는 결론입니다. 때로는 이와 같은 오래되고 진부한 문제에 대해서도 마찬가지입니다...
+교사는 실험을 수행하지만 주로 과학의 본질에 대한 이러한 통찰력을 생성하는 것을 목표로 하는 토론을 지시하기 위한 것입니다.
 
-## Equipment
-* Candle
-* Plate or saucer
-* Clear transparant drinking glass or jar
-* Some water 
-* (optionally) coloring 
-* Matches
+## 장비
+* 촛불
+* 접시 또는 받침 접시
+* 투명한 음료수 잔 또는 병
+* 약간의 물
+* (선택 사항) 색소
+* 성냥
 
 ```{figure} demo27_figure1.JPG
 ---
 width: 70%
 align: center
-alt: a candle in a bowl with water, a jar at the side.
+alt: 물이 담긴 그릇에 촛불, 옆에 병.
 ---
-Place the glass or jar over the burning candle.
+타는 촛불 위에 유리잔이나 병을 놓습니다.
 ```
 
-## Preparation
-Pour some water, if possible with coloring, into the plate, place the candle in the middle and light it. Have the glass ready. It must be large enough for it not to touch the candle or flame when placed over it.
+## 준비
+접시에 약간의 물(가능하면 색소 포함)을 붓고, 중앙에 촛불을 놓고 불을 붙입니다. 유리잔을 준비하십시오. 촛불이나 불꽃에 닿지 않을 만큼 충분히 커야 합니다.
 
-## Procedure
-A detailed scenario for a Predict-Observe-Explain approach for this demo can be found below. You will find there an outlined, hypothetical lesson plan, with suggestions for questions and assignments. 
+## 절차
+이 데모에 대한 예측-관찰-설명 접근법에 대한 자세한 시나리오는 아래에서 찾을 수 있습니다. 거기에는 질문과 과제에 대한 제안이 포함된 개략적인 가상 수업 계획이 있습니다.
 
-If you place the glass over the burning candle, it will extinguish after a while, causing the water level in the glass to rise. At least three explanations are plausible for explaining this:
-1. The water takes the place of the oxygen that is consumed during combustion.
-2. When the flame goes out, the temperature drops. According to the general gas law, the pressure and/or volume decrease. Atmospheric pressure pushes water inward until a new equilibrium is reached.
-3. Water is formed in the flame, which precipitates when the flame goes out. Then the number of particles in the gas decreases, and therefore so does the pressure. The atmosphere pushes water inward until a new equilibrium is reached.
+타는 촛불 위에 유리잔을 놓으면 잠시 후 꺼지고 유리잔의 수위가 올라갑니다. 이것을 설명하는 데 적어도 세 가지 설명이 그럴듯합니다.
+1. 물은 연소 중에 소비되는 산소의 자리를 차지합니다.
+2. 불꽃이 꺼지면 온도가 떨어집니다. 일반 기체 법칙에 따라 압력 및/또는 부피가 감소합니다. 대기압은 새로운 평형에 도달할 때까지 물을 안으로 밀어 넣습니다.
+3. 불꽃에서 물이 형성되어 불꽃이 꺼지면 침전됩니다. 그러면 기체의 입자 수가 감소하고 따라서 압력도 감소합니다. 대기압은 새로운 평형에 도달할 때까지 물을 안으로 밀어 넣습니다.
 
-Let students brainstorm arguments for and against each explanation, exchange them, and come to a conclusion. The teacher can also ultimately contribute his or her own input.
+학생들이 각 설명에 대한 찬반 주장을 브레인스토밍하고, 교환하고, 결론에 도달하도록 하십시오. 교사는 궁극적으로 자신의 의견을 기여할 수도 있습니다.
 
 ```{figure} demo27_figure2.JPG
 ---
 width: 70%
 align: center
-alt: the jar on top of the candle, water in the jar has risen.
+alt: 촛불 위의 병, 병 안의 물이 올라갔습니다.
 ---
-The candle is extinguished. What made the liquid level rise?
+촛불이 꺼졌습니다. 액체 수위가 올라간 원인은 무엇일까요?
 ```
 
-## Physics background
-**For explanation 3:** With complete combustion of candle wax (mainly paraffin or stearin), roughly speaking, for every two molecules of O$_2$, one molecule of CO$_2$ and two molecules of H$_2$O are formed. When the flame extinguishes, the temperature drops sharply in that area, and H$_2$O precipitates there. The pressure in the glass quickly drops, the atmosphere pushes water inward until equilibrium is reached.
+## 물리 배경
+**설명 3의 경우:** 양초 왁스(주로 파라핀 또는 스테아린)의 완전 연소 시, 대략적으로 O$_2$ 분자 2개당 CO$_2$ 분자 1개와 H$_2$O 분자 2개가 형성됩니다. 불꽃이 꺼지면 그 부분의 온도가 급격히 떨어지고 H$_2$O가 침전됩니다. 유리잔의 압력이 급격히 떨어지고, 대기압이 평형에 도달할 때까지 물을 안으로 밀어 넣습니다.
 
-**For explanation 2:** Heat released to the surroundings of the glass also causes pressure reduction according to the general gas law. However, this process is slow, while the liquid level rises noticeably quickly.
+**설명 2의 경우:** 유리잔 주변으로 방출되는 열도 일반 기체 법칙에 따라 압력 감소를 유발합니다. 그러나 이 과정은 느린 반면 액체 수위는 눈에 띄게 빠르게 상승합니다.
 
-**For explanation 1:** For every oxygen molecule in the air, exactly one water molecule is formed. If that precipitates, the 'resulting space' can be filled by liquid. If we ignore the formation of CO$_2$, then even explanation 1 (according to quite a few biology textbooks the 'correct' one) is somewhat true.
+**설명 1의 경우:** 공기 중의 모든 산소 분자에 대해 정확히 하나의 물 분자가 형성됩니다. 그것이 침전되면 '결과적인 공간'은 액체로 채워질 수 있습니다. CO$_2$ 형성을 무시하면 설명 1(상당히 많은 생물학 교과서에 따르면 '정확한' 설명)조차도 어느 정도 사실입니다.
 
-More important than the 'correct' explanation here is that students themselves come up with, defend, and evaluate arguments for and against the explanations. Another important aspect is that a need arises for empirical evidence.
+여기서 '정확한' 설명보다 더 중요한 것은 학생들이 스스로 설명에 대한 찬반 주장을 제시하고, 방어하고, 평가한다는 것입니다. 또 다른 중요한 측면은 경험적 증거에 대한 필요성이 발생한다는 것입니다.
 
 ```{figure} demo27_figure3.jpg
 ---
 width: 70%
 align: center
-alt: left beaker with hot water and bottle closed with. right bottle in the beaker, balloon is somewhat inflated.
+alt: 왼쪽에는 뜨거운 물이 담긴 비커와 닫힌 병. 오른쪽에는 비커에 담긴 병, 풍선이 약간 부풀어 있습니다.
 ---
-The balloon on the bottle inflates when you place the bottle in hot water.
+병을 뜨거운 물에 넣으면 병 위의 풍선이 부풀어 오릅니다.
 ```
 
 ```{tip}
-Illustration of explanation 2: place an empty balloon over the opening of a bottle, and place it in a bowl of hot water {cite:p}`liem1991invitations`. Due to the heating of the air in the bottle, the balloon inflates, an illustration of Charles's law ($V/T = \text{constant}$ if $p$ and $N$ do not change).
+설명 2의 그림: 빈 풍선을 병 입구에 씌우고 뜨거운 물이 담긴 그릇에 놓습니다 {cite:p}`liem1991invitations`. 병 안의 공기가 가열되어 풍선이 부풀어 오르며, 이는 샤를의 법칙($p$와 $N$이 변하지 않을 때 $V/T = \text{상수}$)의 예시입니다.
 ```
 
-Illustration of explanation 3: bring some water in an empty soda can to a boil, then quickly invert it and place it in a bowl of cold water, with the opening below the water surface. The can collapses with a bang because the water vapor condenses.
+설명 3의 그림: 빈 소다 캔에 물을 약간 넣고 끓인 다음, 재빨리 뒤집어 찬물이 담긴 그릇에 입구를 물 표면 아래로 하여 놓습니다. 수증기가 응축되면서 캔이 쾅 소리를 내며 찌그러집니다.
 
-## Follow-up
-With three candles instead of one, the final water level is higher {cite:p}`liem1991invitations`. Which of the explanations does this observation correspond to?
+## 후속 조치
+촛불 하나 대신 세 개를 사용하면 최종 수위가 더 높습니다 {cite:p}`liem1991invitations`. 이 관찰은 어떤 설명과 일치합니까?
 
 
 ```{warning}
-Hold the can in the illustration of explanation 3 with tongs or oven mitts.
+설명 3의 그림에서 캔을 집게나 오븐 장갑으로 잡으십시오.
 ```
 
-## References
+## 참고문헌
 ```{bibliography}
 :filter: docname in docnames
 ```
 
-## Worksheet
+## 워크시트
 
-``` {admonition} Why Does the Water Rise?
+``` {admonition} 왜 물이 올라갈까?
 :name: demo27_worksheet
 
-**Scenario for a [POE Approach](../../Pedagogy/PoE.md)**
+**[POE 접근법](../../Pedagogy/PoE.md) 시나리오**
 
-**Predict**\
-Pour some (colored) water into the dish, place the candle in it, and light it. Get the glass ready. Explain that you are about to place the glass over the candle.
+**예측**\
+접시에 (색깔 있는) 물을 약간 붓고, 그 안에 촛불을 놓고 불을 붙입니다. 유리잔을 준비하십시오. 촛불 위에 유리잔을 놓을 것이라고 설명하십시오.
 
-Ask for a prediction of what will happen. Even very young children know that the candle will go out after a while. Older students may also know that the liquid will rise in the glass.
+무슨 일이 일어날지 예측하도록 요청하십시오. 아주 어린 아이들도 촛불이 잠시 후 꺼진다는 것을 알고 있습니다. 나이가 많은 학생들은 액체가 유리잔 안으로 올라갈 것이라는 것도 알 수 있습니다.
 
-(Ideally students' predictions are partially, but not entirely, accurate. This way, the observation result is not discouraging, but there is still room for learning.)
+(이상적으로는 학생들의 예측이 부분적으로는 정확하지만 완전히 정확하지는 않습니다. 이렇게 하면 관찰 결과가 실망스럽지 않고 여전히 학습의 여지가 있습니다.)
 
-**Observe**\
-Instruct the students to carefully observe what happens from the moment you place the glass over the candle, and to write down their observations as precisely as possible. Then place the glass and wait.
+**관찰**\
+학생들에게 유리잔을 촛불 위에 놓는 순간부터 무슨 일이 일어나는지 주의 깊게 관찰하고, 관찰 내용을 가능한 한 정확하게 적도록 지시하십시오. 그런 다음 유리잔을 놓고 기다리십시오.
 
-Afterward, compare the observations. Everyone will have seen that the candle goes out, and some will have noticed air bubbles escaping at the beginning. Usually, not everyone notices that the flame gradually gets smaller rather than going out suddenly. Almost everyone sees the water rising in the glass, but it’s not always apparent that this only starts in earnest once the flame is out. Some note that the wick smokes for a while after the flame is out, and a few even observe condensation on the glass.
+나중에 관찰 내용을 비교하십시오. 모두가 촛불이 꺼지는 것을 보았을 것이고, 일부는 처음에 공기 방울이 빠져나가는 것을 알아차렸을 것입니다. 보통, 불꽃이 갑자기 꺼지는 것이 아니라 점차 작아지는 것을 모든 사람이 알아차리지는 않습니다. 거의 모든 사람이 유리잔에서 물이 올라오는 것을 보지만, 이것이 불꽃이 꺼진 후에야 본격적으로 시작된다는 것은 항상 분명하지 않습니다. 일부는 불꽃이 꺼진 후에도 심지가 한동안 연기를 내뿜는 것을 주목하고, 몇몇은 유리잔에 응결이 생기는 것을 관찰하기도 합니다.
 
-It almost always turns out that not everyone sees exactly the same things. The teacher can point out that such differences are also very common among scientists and sometimes even necessary. This happens, for example, because they are interested in different aspects of the event: a biologist, chemist, or physicist might find different aspects of the extinguishing candle interesting.
+거의 항상 모든 사람이 정확히 같은 것을 보지는 않는다는 것이 밝혀집니다. 교사는 이러한 차이가 과학자들 사이에서도 매우 흔하며 때로는 필요하기까지 하다는 것을 지적할 수 있습니다. 이것은 예를 들어, 그들이 사건의 다른 측면에 관심이 있기 때문에 발생합니다. 생물학자, 화학자 또는 물리학자는 꺼지는 촛불의 다른 측면을 흥미롭게 생각할 수 있습니다.
 
-**Explain**\
-*The water replaces the oxygen consumed by combustion.*\
-Students learn that oxygen is necessary for combustion. When the oxygen is depleted, the candle goes out. Some biology textbooks explain the rising liquid level in this experiment by saying that the water rises to replace the disappeared oxygen. The water often does indeed fill a part of the glass that roughly corresponds to the percentage of oxygen in the atmosphere according to Binas (a Dutch reference book): 21%.
+**설명**\
+*물은 연소로 소비된 산소를 대체합니다.*\
+학생들은 연소에 산소가 필요하다는 것을 배웁니다. 산소가 고갈되면 촛불은 꺼집니다. 일부 생물학 교과서는 이 실험에서 액체 수위가 상승하는 것을 사라진 산소를 대체하기 위해 물이 올라온다고 설명합니다. 물은 종종 실제로 Binas(네덜란드 참고서)에 따르면 대기 중 산소 비율과 대략 일치하는 유리잔의 일부를 채웁니다: 21%.
 
-But this is strange: according to chemistry, the oxygen atoms are all still there, just in different compounds than at the beginning. If there are still exactly the same number of atoms, how can there be room for the water to fill? What do the students think, is this explanation correct after all or can they think of an alternative?
+하지만 이것은 이상합니다. 화학에 따르면 산소 원자는 모두 여전히 거기에 있으며, 단지 처음과는 다른 화합물에 있을 뿐입니다. 여전히 정확히 같은 수의 원자가 있다면, 어떻게 물이 채울 공간이 있을 수 있을까요? 학생들은 어떻게 생각할까요, 이 설명이 결국 옳은가요, 아니면 대안을 생각할 수 있을까요?
 
-So far, our audiences have forwarded the following three possible explanations (but there may be others);
-1. The water replaces the oxygen consumed by combustion.
-2. When the flame goes out, the temperature drops. According to the ideal gas law, the pressure and/or volume then decreases. Atmospheric pressure pushes water in until a new equilibrium is reached.
-3. Gaseous water forms in the flame. When the flame goes out, the water condenses. This decreases the number of gas molecules, and thus the pressure. The atmosphere pushes water in until a new equilibrium is reached.
+지금까지 우리 청중은 다음과 같은 세 가지 가능한 설명을 제시했습니다(하지만 다른 설명이 있을 수도 있습니다).
+1. 물은 연소로 소비된 산소를 대체합니다.
+2. 불꽃이 꺼지면 온도가 떨어집니다. 이상 기체 법칙에 따라 압력 및/또는 부피가 감소합니다. 대기압은 새로운 평형에 도달할 때까지 물을 안으로 밀어 넣습니다.
+3. 불꽃에서 기체 상태의 물이 형성됩니다. 불꽃이 꺼지면 물이 응축됩니다. 이것은 기체 분자의 수를 감소시키고, 따라서 압력도 감소시킵니다. 대기압은 새로운 평형에 도달할 때까지 물을 안으로 밀어 넣습니다.
 
-Have students choose the explanation they think is best and come up with arguments for their own explanation and against those of others. Arguments are more plausible if they fit better with known theory and observations. Based on these criteria, groups can compare their views.
+학생들이 가장 좋다고 생각하는 설명을 선택하고 자신의 설명에 대한 주장과 다른 사람들의 설명에 대한 반박 주장을 제시하게 하십시오. 주장은 알려진 이론 및 관찰과 더 잘 일치할수록 더 그럴듯합니다. 이러한 기준에 따라 그룹은 자신의 견해를 비교할 수 있습니다.
 
-In conclusion, the teacher may explain that it is not unusual for scientists to disagree. They can also find different observations important and accept different explanations. The smartest and most creative scientists find the best observations and arguments in favour of some claims (often their own) and against others (usually those of competitors). This has proven to be an excellent approach for the rapid development of reliable scientific knowledge.
+결론적으로, 교사는 과학자들이 의견이 다른 것이 드문 일이 아니라고 설명할 수 있습니다. 그들은 또한 다른 관찰을 중요하게 생각하고 다른 설명을 받아들일 수 있습니다. 가장 똑똑하고 창의적인 과학자들은 일부 주장(종종 자신의 주장)에 찬성하고 다른 주장(보통 경쟁자의 주장)에 반대하는 가장 좋은 관찰과 주장을 찾습니다. 이것은 신뢰할 수 있는 과학적 지식의 빠른 발전을 위한 훌륭한 접근 방식임이 입증되었습니다.
 
-**Further options**\
-To practice observing carefully, set up a webcam for the experiment and replay the events. Have students record their qualitative observations again and note the times. Build a description of events and times on the board. Subsequently, the discussion of explanations can always be linked to direct references to the observations. This raises the scientific level of the activities somewhat.
+**추가 옵션**\
+주의 깊게 관찰하는 연습을 하기 위해 실험용 웹캠을 설치하고 사건을 다시 재생하십시오. 학생들이 질적 관찰을 다시 기록하고 시간을 기록하게 하십시오. 칠판에 사건과 시간의 설명을 구축하십시오. 그 후, 설명에 대한 토론은 항상 관찰에 대한 직접적인 참조와 연결될 수 있습니다. 이것은 활동의 과학적 수준을 다소 높입니다.
 
-Instead of presenting students with possible explanations, you can also have them come up with explanations themselves and a practical way to test them. This will take (much) more time.
+학생들에게 가능한 설명을 제시하는 대신, 스스로 설명을 생각해 내고 그것을 테스트할 실용적인 방법을 생각해 내게 할 수도 있습니다. 이것은 (훨씬) 더 많은 시간이 걸릴 것입니다.
 
-If you do this experiment with three candles instead of one, the final water level rises higher {cite:p}`liem1991invitations`. Which of the explanations does this observation agree with?
+이 실험을 촛불 하나 대신 세 개로 하면 최종 수위가 더 높아집니다 {cite:p}`liem1991invitations`. 이 관찰은 어떤 설명과 일치합니까?
 
-It might be worth considering placing sensors in the glass to record the temperature and pressure changes during the process, and using video measurement to establish the volume changes. This might quantitatively determine which form of the ideal gas law best describes this process. This has not (yet) been tested.
+과정 중 온도 및 압력 변화를 기록하기 위해 유리잔에 센서를 배치하고, 부피 변화를 확인하기 위해 비디오 측정을 사용하는 것을 고려해 볼 가치가 있을 수 있습니다. 이것은 이 과정을 가장 잘 설명하는 이상 기체 법칙의 형태를 정량적으로 결정할 수 있습니다. 이것은 (아직) 테스트되지 않았습니다.
 ```

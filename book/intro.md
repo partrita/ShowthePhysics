@@ -1,10 +1,10 @@
 # <!-- -->
-<head><title>Show the physics</title></head>
+<head><title>물리학을 보여주세요</title></head>
 
 ```{figure} figures/coverbook.jpg
 ---
 width: 90%
 align: center
-alt: cover with the title and names of the two editors, vs 1.1
+alt: 표지에 제목과 두 편집자의 이름이 있음, 버전 1.1
 ---
 ```

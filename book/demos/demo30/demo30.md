@@ -1,21 +1,21 @@
-# Air is not nothing: weighing air
+# 공기는 아무것도 아니다: 공기 무게 재기
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Peter Dekkers</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">저자:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">피터 데커스</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">15-30 minutes</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">시간:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">15-30분</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">10-12</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">연령 그룹:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">10-12세</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">properties of matter, weight, buoyant force, gravity</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">개념:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">물질의 속성, 무게, 부력, 중력</td>
     </tr>
 </table>
 
@@ -23,64 +23,64 @@
 ---
 width: 70%
 align: center
-alt: inflated and empty balloon on balanced rod indicating air has weight. 
+alt: 공기가 채워진 풍선과 빈 풍선이 균형 잡힌 막대에 매달려 있어 공기에 무게가 있음을 나타냅니다.
 ---
-The inflated balloon moves downward.
+부풀린 풍선이 아래로 움직입니다.
 ```
 
-## Introduction
-For young children, 'air' is not really a concept they can grasp. After all, an empty glass contains: nothing. By comparing the weight of air to that of matchsticks, air becomes more tangible. In higher grades, you can involve the effect of buoyant force. The setup is deceptively simple; making a correct prediction and explanation is not trivial.
+## 소개
+어린 아이들에게 '공기'는 실제로 이해하기 어려운 개념입니다. 결국, 빈 유리잔에는 아무것도 들어 있지 않습니다. 공기의 무게를 성냥개비의 무게와 비교함으로써 공기는 더 구체적이 됩니다. 상급 학년에서는 부력의 효과를 포함시킬 수 있습니다. 설정은 기만적으로 간단합니다. 올바른 예측과 설명을 하는 것은 사소하지 않습니다.
 
-## Equipment
-* Two drinking straws
-* Several identical balloons
-* A needle 
-* A piece of fishing line (or string)
+## 장비
+* 빨대 두 개
+* 동일한 풍선 여러 개
+* 바늘
+* 낚싯줄(또는 끈) 조각
 
-## Preparation
-Construct a sensitive weighing device by threading the needle through the straws, attach loops of fishing line to the ends of the horizontal straw in such a way that there is balance when you attach empty balloons to them. See {numref}`Figure {number} <demo30_fig1>`.
+## 준비
+바늘을 빨대에 꿰어 민감한 저울 장치를 만듭니다. 수평 빨대 끝에 낚싯줄 고리를 달아 빈 풍선을 달았을 때 균형이 잡히도록 합니다. {numref}`그림 {number} <demo30_fig1>`을 참조하십시오.
 
-## Procedure
-**Predict**
-1. Show that the balance can rotate with the balloons. Announce that one of the balloons will be inflated and rehung.\
-Ask: *What do you think will happen then? Will the balance*: 
-   1. remain in equilibrium, 
-   2. will the empty balloon go down, or 
-   3. will the inflated balloon go down?\ 
-Explain what you expect, and why you expect that.
+## 절차
+**예측**
+1. 저울이 풍선과 함께 회전할 수 있음을 보여줍니다. 풍선 중 하나를 부풀려 다시 매달 것이라고 알립니다.\
+질문: *그때 무슨 일이 일어날 것이라고 생각합니까? 저울은*:
+   1. 평형을 유지할 것이다,
+   2. 빈 풍선이 내려갈 것이다, 또는
+   3. 부풀린 풍선이 내려갈 것이다?\
+무엇을 기대하는지, 그리고 왜 그렇게 기대하는지 설명하십시오.
 
 ```{figure} demo30_figure1.JPG
 ---
 width: 70%
 align: center
 name: demo30_fig1
-alt: same experiment, both balloons deflated, equally balanced.
+alt: 같은 실험, 두 풍선 모두 바람이 빠져 있고, 똑같이 균형을 이루고 있습니다.
 ---
-Two empty balloons weigh the same.
+두 개의 빈 풍선은 무게가 같습니다.
 ```
 
-2. Discuss the expectations and reasoning. Conclude: the heaviest side will go down. So:
-   - If answer 1 is correct, the air in the balloon weighs **nothing**.
-   - If answer 2 is correct, an empty balloon weighs **more** than an inflated balloon.
-   - If answer 3 is correct, an inflated balloon weighs **more** than an empty balloon.
+2. 기대와 추론을 토론하십시오. 결론: 가장 무거운 쪽이 내려갈 것입니다. 따라서:
+   - 답 1이 맞다면, 풍선 안의 공기는 무게가 **없습니다**.
+   - 답 2가 맞다면, 빈 풍선은 부풀린 풍선보다 **더** 무겁습니다.
+   - 답 3이 맞다면, 부풀린 풍선은 빈 풍선보다 **더** 무겁습니다.
 
-3. For upper grades, add: *Consider in your prediction that you must not neglect the buoyant force in this case! When inflating the balloon, both gravity and buoyant force may change.*
+3. 상급 학년의 경우, 다음을 추가하십시오: *예측에 이 경우 부력을 무시해서는 안 된다는 점을 고려하십시오! 풍선을 부풀릴 때 중력과 부력 모두 변할 수 있습니다.*
 
-**Observe**
+**관찰**
 
-4. Inflate one of the balloons and attach it to the straw. If this is done carefully, there will no longer be an equilibrium: the air in the inflated balloon makes that side heavier. Equilibrium can be restored by, for example, putting matches in the still-empty balloon. Typically, you need 2 to 3 matches to restore equilibrium.
+4. 풍선 중 하나를 부풀려 빨대에 부착합니다. 이것을 조심스럽게 하면 더 이상 평형이 없을 것입니다. 부풀린 풍선 안의 공기가 그쪽을 더 무겁게 만듭니다. 예를 들어, 아직 비어 있는 풍선에 성냥을 넣어 평형을 회복할 수 있습니다. 일반적으로 평형을 회복하려면 2~3개의 성냥이 필요합니다.
 
-**Explain**
+**설명**
 
-Explanation for lower grades: *A balance is a clever device for determining how much of something you have. There are all kinds of balances; our type has been used by people for thousands of years to measure weights. Our balance is special; you can even use it to measure the weight of the air in a balloon. That weight is very small but larger than that of a match.*
+저학년 설명: *저울은 무언가를 얼마나 가지고 있는지 결정하는 영리한 장치입니다. 온갖 종류의 저울이 있습니다. 우리 유형은 수천 년 동안 사람들이 무게를 측정하는 데 사용해 왔습니다. 우리 저울은 특별합니다. 풍선 안의 공기 무게도 측정할 수 있습니다. 그 무게는 매우 작지만 성냥보다 큽니다.*
 
-Explanation for upper grades: *When inflating the balloon, gravity increases (more mass), but so does the buoyant force (more volume). Because the air in the balloon is compressed compared to the surrounding air, the density has increased. Therefore, gravity has increased more than the buoyant force, causing the inflated balloon to descend.*
+상급 학년 설명: *풍선을 부풀릴 때 중력은 증가하고(질량이 더 많음), 부력도 증가합니다(부피가 더 많음). 풍선 안의 공기는 주변 공기에 비해 압축되어 밀도가 증가했기 때문입니다. 따라서 중력은 부력보다 더 많이 증가하여 부풀린 풍선이 내려가게 됩니다.*
 
-## Physics background
-A balance compares the force of gravity acting on two objects. This works well if there is only a single homogeneous gravitational field, as in an accelerating elevator, but not necessarily in a medium with high density and a second, buoyant force. In scales that compare gravity with a spring force, often the exact opposite is the case.
-The buoyant force on the inflated balloon is equal to the gravity that would act on that volume if ordinary air were there: $F_{\text{buoyant}} = F_{\text{g, ordinary air}}$. For the whole balance, the right side can be written as:
+## 물리 배경
+저울은 두 물체에 작용하는 중력의 힘을 비교합니다. 이것은 가속하는 엘리베이터에서와 같이 단일 균일한 중력장이 있을 때 잘 작동하지만, 밀도가 높은 매체와 두 번째 부력이 있는 경우에는 반드시 그렇지는 않습니다. 중력을 스프링 힘과 비교하는 저울에서는 종종 정반대의 경우가 발생합니다.
+부풀린 풍선에 작용하는 부력은 보통의 공기가 그 부피에 있을 때 작용하는 중력과 같습니다: $F_{\text{부력}} = F_{\text{g, 보통 공기}}$. 전체 저울에 대해 오른쪽은 다음과 같이 쓸 수 있습니다.
 
-$$F_{\text{g, inflated balloon}} - F_{\text{buoyant}} = F_{\text{g, balloon + compressed air - ordinary air}} \\ F_{\text{g, inflated balloon}} - F_{\text{buoyant}} = F_{\text{g, balloon + extra air}}$$
+$$F_{\text{g, 부풀린 풍선}} - F_{\text{부력}} = F_{\text{g, 풍선 + 압축 공기 - 보통 공기}} \\ F_{\text{g, 부풀린 풍선}} - F_{\text{부력}} = F_{\text{g, 풍선 + 추가 공기}}$$
 
-If you neglect the buoyant force on the left, then the gravity on the matches is equal to that on the extra air compressed into the balloon. The following bit is a little subtle:
-The Dutch and German word 'Gewicht' translate as 'Weight' but do not always mean exactly the same. 'Gewicht' is usually defined as the net force exerted by an object on its support (hence in free fall it is 'weightless'). With that definition, the weight of the matchsticks is equal to *the weight of **all** the air in the inflated balloon.* The weight of that air is then not equal to the gravity acting on that air, and your statement in the lower grades that 'the weight of the matchsticks equals that of the inflated balloon' is correct. However in English the usual definition of 'weight' is 'the gravitational force acting on an object'. With that definition, the weight of the matchsticks equals the weight of only the **extra** air in the inflated balloon as compared to normal air in that space.
+왼쪽의 부력을 무시하면 성냥에 작용하는 중력은 풍선에 압축된 추가 공기에 작용하는 중력과 같습니다. 다음 비트는 약간 미묘합니다.
+네덜란드어와 독일어 단어 'Gewicht'는 '무게'로 번역되지만 항상 정확히 같은 의미는 아닙니다. 'Gewicht'는 보통 물체가 지지대에 가하는 알짜힘으로 정의됩니다(따라서 자유 낙하 시 '무게가 없음'). 그 정의로, 성냥개비의 무게는 *부풀린 풍선에 있는 **모든** 공기의 무게와 같습니다.* 그 공기의 무게는 그 공기에 작용하는 중력과 같지 않으며, 저학년에서 '성냥개비의 무게는 부풀린 풍선의 무게와 같다'는 진술은 정확합니다. 그러나 영어에서 '무게'의 일반적인 정의는 '물체에 작용하는 중력'입니다. 그 정의로, 성냥개비의 무게는 그 공간의 일반 공기와 비교하여 부풀린 풍선에 있는 **추가** 공기의 무게와 같습니다.

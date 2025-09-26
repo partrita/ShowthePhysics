@@ -1,14 +1,13 @@
-Show the Physics
+물리학을 보여주세요
 --------------
 
 CC-BY-NC
 
-Creators:
+제작자:
 
 NVON
-TU Delft
+델프트 공과대학교
 
-Issues:
+문제:
 
-Teachbooks:
-
+교과서:

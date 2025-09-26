@@ -1,38 +1,38 @@
-# Foreword
-<span style="font-size: 25px; color: gray;">Demonstrations – creating excitement and memorable experiences</span>
+# 머리말
+<span style="font-size: 25px; color: gray;">시연 – 흥미와 기억에 남는 경험 만들기</span>
  
-From my own undergraduate studies, I recall several spectacular demonstrations, including gyros, van der Graaf experiments and Tesla coils. As a new lecturer, after many years as a computational atomic physicist, I asked to be shown the equipment – after all, I knew it was there. I also learned about smaller demonstrations that could be used for station labs with small groups or for a mini science-center for visiting classes. Sometimes I created assignments for small groups to perform a couple of demonstrations for the rest of the class. When suitable, I brought equipment to problem-solving classes to let students experience it hands-on, when they needed a short break from the math.
+학부 시절, 자이로스코프, 반 데 그라프 실험, 테슬라 코일 등 몇 가지 멋진 시연을 본 기억이 납니다. 수년간 계산 원자 물리학자로 일한 후 신임 강사가 되었을 때, 저는 장비를 보여달라고 요청했습니다. 결국 그곳에 있다는 것을 알고 있었으니까요. 또한 소그룹을 위한 스테이션 랩이나 방문 학급을 위한 미니 과학 센터에서 사용할 수 있는 소규모 시연에 대해서도 배웠습니다. 때로는 소그룹에게 나머지 학급을 위해 몇 가지 시연을 하도록 과제를 내주기도 했습니다. 적절할 때는 학생들이 수학에서 잠시 벗어나 직접 체험할 수 있도록 문제 해결 수업에 장비를 가져갔습니다.
 
 ```{figure} Figures/cupboard.jpg
 ---
 width: 90%
 figclass: margin
-alt: cupboard with various physics experiments
+alt: 다양한 물리 실험 도구가 있는 찬장
 ---
-Treasures hidden in the cupboard
+찬장에 숨겨진 보물들
 ```
 
-Looking around the demonstration room in the department, I see a lot of stuff that I have no idea about how to use. I have learned that the two enthusiastic lecturers I first encountered as a young undergraduate had spent a lot of time building and collecting materials to use for lecture demonstrations. I have also learned that many of my current colleagues in the department are unaware of the treasures hidden in the cupboards, and would not know how to integrate the demonstrations in their teaching. To them, access to this book will be very helpful!
+학과의 시연실을 둘러보면 어떻게 사용해야 할지 전혀 모르는 물건들이 많이 있습니다. 제가 젊은 학부생 시절 처음 만났던 두 명의 열정적인 강사님들이 강의 시연에 사용할 자료를 만들고 수집하는 데 많은 시간을 할애했다는 것을 알게 되었습니다. 또한 현재 학과의 많은 동료들이 찬장에 숨겨진 보물에 대해 모르고 있으며, 시연을 강의에 어떻게 통합해야 할지 모른다는 것도 알게 되었습니다. 그들에게 이 책은 매우 도움이 될 것입니다!
 
 
-The book emphasizes the importance of listening to all students' thoughts before providing answers. I have found that this works well even for a large lecture hall, where students' different ways of describing a phenomenon can be elicited using *peer instruction*, when students vote use clickers, phones or even colored papers, and then discuss predictions and outcomes with their neighbors. 
+이 책은 답을 제공하기 전에 모든 학생들의 생각을 듣는 것의 중요성을 강조합니다. 저는 이것이 대규모 강의실에서도 잘 작동한다는 것을 발견했습니다. 학생들이 클릭커, 전화기 또는 유색 종이를 사용하여 투표한 다음 이웃과 예측 및 결과에 대해 토론하는 *동료 지도*를 사용하여 학생들의 현상에 대한 다양한 설명 방식을 이끌어 낼 수 있습니다.
 
-This book provides a rich treasure chest of examples to surprise and inspire students and to challenge and develop their understanding of physics.
+이 책은 학생들에게 놀라움과 영감을 주고 물리학에 대한 이해에 도전하고 발전시킬 수 있는 풍부한 사례의 보물 상자를 제공합니다.
 
 <div  align="right">
 
-Ann-Marie Pendrill\
-Prof. em. \
-University of Gothenburg and Lund university
+앤-마리 펜드릴\
+명예 교수\
+예테보리 대학교 및 룬드 대학교
 </div>
 
 ```{figure} Figures/AMP.jpg
 ---
 width: 60%
-alt: Ann-Marie Pendrill doing physics on a playground.
+alt: 놀이터에서 물리학을 하고 있는 앤-마리 펜드릴.
 ---
-Ann-Marie Pendrill doing physics on a playground {cite:p}`pendrill2019training`.\
-Photo: Emelie Asplund
+놀이터에서 물리학을 하고 있는 앤-마리 펜드릴 {cite:p}`pendrill2019training`.\
+사진: 에멜리 아스플룬드
 ```
 
 ```{bibliography}

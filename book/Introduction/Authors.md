@@ -1,135 +1,135 @@
-# About the authors
+# 저자 소개
 
 ```{figure} ../Pedagogy/Figures/team.jpg
 ---
 width: 70%
-alt: part of the author team standing around a table where one of the authors demonstrate a demonstration.
+alt: 저자 팀의 일부가 테이블 주위에 서서 저자 중 한 명이 시연을 보여주고 있습니다.
 ---
-Part of the team discussing one of the potential demonstrations of the third edition of Show*de*Fysica.
+Show*de*Fysica 3판의 잠재적인 시연 중 하나에 대해 논의하는 팀의 일부.
 ```
 
 ```{figure} authors/auth_Leo.JPG
 :figclass: margin
 :width: 50%
 ```
-**Leo te Brinke**
+**레오 테 브링케**
 
-Leo te Brinke (1954) obtained his MO-B in physics from the Catholic University of Nijmegen. Since then he has been physics teacher at several schools for havo (senior general secondary education) and vwo (pre-university), and in adult education. He was one of the founders of the Scan and Pulsar school  textbooks for physics. At NOT-Teleac he contributed to the video series Milestones in Physics and Engineering and Science Bank.
+레오 테 브링케(1954)는 네이메헨 가톨릭 대학교에서 물리학 MO-B를 취득했습니다. 그 이후로 그는 여러 학교에서 havo(고등 일반 중등 교육) 및 vwo(대학 예비 교육)와 성인 교육에서 물리 교사로 재직했습니다. 그는 Scan 및 Pulsar 학교 물리 교과서의 창립자 중 한 명이었습니다. NOT-Teleac에서는 비디오 시리즈 '물리학 및 공학의 이정표'와 '과학 은행'에 기여했습니다.
 
 
 ```{figure} authors/auth_Ed.jpg
 :figclass: margin
 :width: 50%
 ```
-**Ed van den Berg** 
+**에드 반 덴 베르크**
 
-Ed van den Berg (1951) studied physics at the Vrije Universiteit Amsterdam (VU) and received his PhD in Science Education from the University of Iowa (USA). He worked as a teacher/developer in teacher training programs in Indonesia, the Philippines and in the Netherlands. Until recently, he was a lecturer in nature and technology education at the Knowledge Center Domain of Education and Education of the Hogeschool van Amsterdam and a lecturer in science didactics at the teacher training program of the VU. Among other things, he was involved in the Modern Physics and New Physics projects and published over 300 articles in journals for teachers at home and abroad.
+에드 반 덴 베르크(1951)는 암스테르담 자유 대학교(VU)에서 물리학을 공부했으며 아이오와 대학교(미국)에서 과학교육 박사 학위를 받았습니다. 그는 인도네시아, 필리핀 및 네덜란드의 교사 양성 프로그램에서 교사/개발자로 일했습니다. 최근까지 그는 암스테르담 응용과학대학교의 교육 및 교육 지식 센터에서 자연 및 기술 교육 강사였으며 VU의 교사 양성 프로그램에서 과학 교수법 강사였습니다. 무엇보다도 그는 현대 물리학 및 새로운 물리학 프로젝트에 참여했으며 국내외 교사를 위한 저널에 300편 이상의 기사를 발표했습니다.
 
 
 ```{figure} authors/auth_Peter.jpg
 :figclass: margin
 :width: 50%
 ```
-**Peter Dekkers** *(editor)*
+**피터 데커스** *(편집자)*
 
-Peter Dekkers (1960) worked as a physics teacher, teacher trainer and physics education teacher in Botswana, South Africa and The Netherlands, at TU Delft since 2014. He did his Master in Foundations of Physics in Utrecht and received his PhD in Physics Education from the VU. He did research on conceptual development, the role of practical work and Nature of Science. 
+피터 데커스(1960)는 보츠와나, 남아프리카 및 네덜란드에서 물리 교사, 교사 양성가 및 물리 교육 교사로 일했으며 2014년부터 델프트 공과대학교에서 근무했습니다. 그는 위트레흐트에서 물리학 기초 석사 학위를 받았고 VU에서 물리 교육 박사 학위를 받았습니다. 그는 개념 개발, 실습의 역할 및 과학의 본성에 대한 연구를 수행했습니다.
 
 ```{figure} authors/auth_Ineke.jpg
 :figclass: margin
 :width: 50%
 ```
-**Ineke Frederik**
+**이네케 프레데릭**
 
-Ineke Frederik (1943) has worked as a teacher educator and professional education specialist in physics and engineering at the universities of Leiden (ICLON) and Delft (SEC). She coordinated the national in-service education for physics teachers, was chairman of the NVON section physics and of VeDoTech. She is an honorary member of VeDoTech. For her achievements in Dutch physics education she received the Minnaert Prize in 2007; the NVOX oeuvre prize she received in 2010. As an author and editor-in-chief, Ineke has many publications to her credit, including the book Techniekdidactiek published at the initiative of ECENT.
+이네케 프레데릭(1943)은 레이던 대학교(ICLON)와 델프트 대학교(SEC)에서 물리 및 공학 분야의 교사 교육자 및 전문 교육 전문가로 일했습니다. 그녀는 물리 교사를 위한 전국 현직 교육을 조정했으며 NVON 물리 섹션 및 VeDoTech의 의장이었습니다. 그녀는 VeDoTech의 명예 회원입니다. 네덜란드 물리 교육에 대한 그녀의 업적으로 그녀는 2007년에 민나르트 상을 받았고, 2010년에는 NVOX 평생 공로상을 받았습니다. 저자 및 편집장으로서 이네케는 ECENT의 주도로 출판된 'Techniekdidactiek' 책을 포함하여 많은 출판물을 보유하고 있습니다.
 
 
 ```{figure} authors/auth_Karel.jpg
 :figclass: margin
 :width: 50%
 ```
-**Karel Langendonck**
+**카렐 랑겐동크**
 
-Karel Langendonck (1974) studied technical physics in Eindhoven. He worked in secondary education as a physics teacher for fifteen years and has been affiliated with Fontys Tilburg as a teacher trainer for ten years. He was also involved in NiNa (a Dutch science curriculum innovation project), was associated with Schooltv, developed teaching materials for Walibi Holland amusement park and was a member of the construction group for the central exams vwo at CITO for eleven years. His goal is to make physics appealing and teachable for students. For his achievements for the subject of physics in secondary education, Karel received the Minnaert Prize in 2022.
+카렐 랑겐동크(1974)는 아인트호벤에서 기술 물리학을 공부했습니다. 그는 중등 교육에서 15년 동안 물리 교사로 일했으며 10년 동안 폰티스 틸뷔르흐에 교사 양성가로 소속되어 있습니다. 그는 또한 NiNa(네덜란드 과학 교육 과정 혁신 프로젝트)에 참여했으며 Schooltv와 관련이 있었고 Walibi Holland 놀이 공원을 위한 교재를 개발했으며 CITO에서 11년 동안 vwo 중앙 시험 구성 그룹의 일원이었습니다. 그의 목표는 물리학을 학생들에게 매력적이고 가르칠 수 있게 만드는 것입니다. 중등 교육에서 물리학 과목에 대한 그의 업적으로 카렐은 2022년에 민나르트 상을 받았습니다.
 
 
 ```{figure} authors/auth_Freek.jpg
 :figclass: margin
 :width: 50%
 ```
-**Freek Pols** *(editor)*
+**프릭 폴스** *(편집자)*
 
-Freek Pols (1986) worked as a physics teacher for 10 years. Since 2019, he has been working as a practicum coordinator at TU Delft's Engineering Physics program. In 2023 he obtained his PhD on practicum education, specifically on teaching scientific inquiry. He now is an assistant professor at the Science & Engineering Education department. His [research](https://polslab.tnw.tudelft.nl) remains directed at the development of  experimental physics education, but now with a focus on university level. 
+프릭 폴스(1986)는 10년 동안 물리 교사로 일했습니다. 2019년부터 그는 델프트 공과대학교의 공학 물리 프로그램에서 실습 코디네이터로 일하고 있습니다. 2023년에 그는 실습 교육, 특히 과학적 탐구 교육에 대한 박사 학위를 받았습니다. 그는 현재 과학 및 공학 교육과의 조교수입니다. 그의 [연구](https://polslab.tnw.tudelft.nl)는 실험 물리 교육의 발전에 계속 초점을 맞추고 있지만 이제는 대학 수준에 중점을 둡니다.
 
 
 ```{figure} authors/auth_Wim.jpg
 :figclass: margin
 :width: 50%
 ```
-**Wim Sonneveld** 
+**빔 손네벨트**
 
-Wim Sonneveld (1955) studied Applied Physics at TU Delft. He has taught physics since 1976. He later also taught mathematics and the transdisciplinary subjects ANW (General Sciences)and NLT (Nature, Life, Technology). From 2000 he has  been a teacher trainer and physics teacher at TU Delft. He has been a member of the NiNa committee that established the current physics examination program. He was  active in the curriculum innovation projects Salvo and  Getting Practical. As an author, Wim has many publications to his name and he is final editor of the physics method Overal Natuurkunde for the second education.
+빔 손네벨트(1955)는 델프트 공과대학교에서 응용 물리학을 공부했습니다. 그는 1976년부터 물리학을 가르쳤습니다. 그는 나중에 수학과 학제간 과목인 ANW(일반 과학) 및 NLT(자연, 생명, 기술)도 가르쳤습니다. 2000년부터 그는 델프트 공과대학교에서 교사 양성가 및 물리 교사로 재직했습니다. 그는 현재 물리 시험 프로그램을 수립한 NiNa 위원회의 위원이었습니다. 그는 교육 과정 혁신 프로젝트 Salvo 및 Getting Practical에서 활발히 활동했습니다. 저자로서 빔은 많은 출판물을 보유하고 있으며 2차 교육을 위한 물리 방법 'Overal Natuurkunde'의 최종 편집자입니다.
 
 
 ```{figure} authors/auth_Wouter.jpg
 :figclass: margin
 :width: 50%
 ```
-**Wouter Spaan** 
+**바우터르 스판**
 
-Wouter Spaan (1982) studied astronomy at Leiden University. That choice of study stemmed mainly from curiosity about the world (and more) around us. After his studies, he chose to become a physics teacher. That offered and still offers the opportunity to help young people develop their curiosity and to support them in satisfying it. After several years in secondary education, Wouter has been working as a teacher trainer at the Hogeschool van Amsterdam since 2011.
+바우터르 스판(1982)은 레이던 대학교에서 천문학을 공부했습니다. 그 연구 선택은 주로 우리 주변의 세계(그리고 그 이상)에 대한 호기심에서 비롯되었습니다. 학업을 마친 후 그는 물리 교사가 되기로 결정했습니다. 그것은 젊은이들이 호기심을 키우고 그것을 만족시키는 데 도움을 줄 기회를 제공했고 지금도 제공하고 있습니다. 중등 교육에서 몇 년을 보낸 후 바우터르는 2011년부터 암스테르담 응용과학대학교에서 교사 양성가로 일하고 있습니다.
 
 
 ```{figure} authors/auth_Kirsten.jpg
 :figclass: margin
 :width: 50%
 ```
-**Kirsten Stadermann**
+**키르스텐 슈타더만**
 
-Kirsten Stadermann (1966) studied physics and mathematics at the universities of Münster (D), Cologne (D) and Leiden. She started as a developer of FIR ring lasers at the Max-Planck-Institut for Radioastronomy. She was a physics teacher for more than 20 years, became physics teacher of the year, participated in 'Science on Stage' and dedicated herself to the STEM top class (amongst others). She received her PhD from the RUG on the connection between Quantum Physics and Nature of Science in physics classes. She then became a physics teacher at the University of Flensburg (D) and Twente. Today at UT, Kirsten is affiliated with the ELAN teacher training program and the TNW faculty. 
+키르스텐 슈타더만(1966)은 뮌스터(독일), 쾰른(독일) 및 레이던 대학교에서 물리 및 수학을 공부했습니다. 그녀는 막스 플랑크 전파 천문학 연구소에서 FIR 링 레이저 개발자로 시작했습니다. 그녀는 20년 이상 물리 교사였으며 올해의 물리 교사가 되었고 'Science on Stage'에 참여했으며 STEM 상위반(무엇보다도)에 헌신했습니다. 그녀는 RUG에서 물리 수업에서 양자 물리학과 과학의 본성 사이의 연관성에 대한 박사 학위를 받았습니다. 그런 다음 그녀는 플렌스부르크(독일) 및 트벤테 대학교에서 물리 교사가 되었습니다. 오늘날 UT에서 키르스텐은 ELAN 교사 양성 프로그램 및 TNW 학부에 소속되어 있습니다.
 
 
 ```{figure} authors/auth_Norbert.jpg
 :figclass: margin
 :width: 50%
 ```
-**Norbert van Veen**
+**노르베르트 반 빈**
 
-Norbert van Veen (1976) obtained his Physics teaching qualifications  at the Hogeschool van Rotterdam. He completed his master's degree in Mathematics and Science Education at the University of Amsterdam. He has been involved in various projects of the Its Academy and was employed for several years in the HiSPARC research group at NIKHEF. Nowadays, in addition to his job as physics teacher, he also works as educational assistant for Physics at CMA.
+노르베르트 반 빈(1976)은 로테르담 응용과학대학교에서 물리 교사 자격을 취득했습니다. 그는 암스테르담 대학교에서 수학 및 과학교육 석사 학위를 마쳤습니다. 그는 Its Academy의 다양한 프로젝트에 참여했으며 NIKHEF의 HiSPARC 연구 그룹에서 몇 년 동안 근무했습니다. 요즘에는 물리 교사라는 직업 외에도 CMA에서 물리학 교육 조교로도 일하고 있습니다.
 
 
 ```{figure} authors/auth_Maarten.jpg
 :figclass: margin
 :width: 50%
 ```
-**Maarten van Woerkom**
+**마르턴 반 부르콤**
 
-Maarten van Woerkom (1944) studied theoretical solid state physics at the Catholic University of Nijmegen. After his studies he was a physics teacher at HBS-b, havo and vwo in Almelo and Groenlo. In that period he was a member of the construction group of final exam papers for vwo and subsequently for ten years a member of the central exam committee developing assignments (CEVO). For his contributions to Dutch physics education he received the Minnaert Prize in 1994. He was a physics teacher at the University of Twente for ten years.
+마르턴 반 부르콤(1944)은 네이메헨 가톨릭 대학교에서 이론 고체 물리학을 공부했습니다. 학업을 마친 후 그는 알멜로와 그룬로의 HBS-b, havo 및 vwo에서 물리 교사였습니다. 그 기간 동안 그는 vwo 최종 시험지 구성 그룹의 일원이었고 이후 10년 동안 과제 개발 중앙 시험 위원회(CEVO)의 위원이었습니다. 네덜란드 물리 교육에 대한 그의 공헌으로 그는 1994년에 민나르트 상을 받았습니다. 그는 트벤테 대학교에서 10년 동안 물리 교사였습니다.
 
-**Contributors**\
-Below a list of contributors. THey have contributed to the book by either making photographs, including a single demonstration, and or taking care of the technical work etc.  
+**기여자**\
+아래는 기여자 목록입니다. 그들은 사진을 찍거나, 단일 시연을 포함하거나, 기술 작업을 처리하는 등의 방법으로 책에 기여했습니다.
 
-A special thanks to Stefan Dekker for his lovely pictures that support the demonstrations of Wouter Spaan.
+바우터르 스판의 시연을 지원하는 멋진 사진을 찍어준 스테판 데커에게 특별한 감사를 드립니다.
 
 
-Ad Mooldijk\
-Anton Schins\
-Bart van Dalen\
-Ella van Leeuwen\
-Frank Schweickert\
-Frits Hidden\
-Henny Kramer-Pals\
-Jelmer van Diepen\
-Jorn Boomsma\
-Liliane Bouma\
-Loran de Vries\
-Luuk Froling\
-Maria Antonia Jiminez Ruiz\
-Oda Warringa\
-Onne Slooten\
-Paul Hupkens\
-Ron Vonk\
-Rutger Ockhorst\
-Stefan Dekker\
-Suzanne Schuurman\
-Tom Haanstra\
-Tom van Woudenberg
+아드 물데이크\
+안톤 신스\
+바르트 반 달렌\
+엘라 반 레이우엔\
+프랑크 슈바이케르트\
+프리츠 히든\
+헤니 크라머-팔스\
+옐머르 반 디펀\
+요른 봄스마\
+릴리안 바우마\
+로란 더 프리스\
+뤽 프롤링\
+마리아 안토니아 히메네스 루이스\
+오다 바링아\
+오너 슬로턴\
+파울 휘프컨스\
+론 봉크\
+뤼트허르 오크호르스트\
+스테판 데커\
+쉬잔 스휘르만\
+톰 한스트라\
+톰 반 바우덴베르흐

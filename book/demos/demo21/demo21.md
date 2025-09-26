@@ -1,21 +1,21 @@
-# Making Einstein young again 
+# 아인슈타인을 다시 젊게 만들기
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Maarten van Woerkom</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">저자:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">마르턴 반 부르콤</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">15 minutes</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">시간:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">15분</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">14 and up</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">연령 그룹:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">14세 이상</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">object distance, image distance, focal length, thin lens formula </td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">개념:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">물체 거리, 상 거리, 초점 거리, 얇은 렌즈 공식</td>
     </tr>
 </table>
 
@@ -24,76 +24,76 @@
 width: 50%
 align: center
 name: demo21_fig1
-alt: a drawing; left old Einstein, right young Einstein
+alt: 그림; 왼쪽은 늙은 아인슈타인, 오른쪽은 젊은 아인슈타인
 ---
-Can we turn the old Einstein into the young one?
+늙은 아인슈타인을 젊은 아인슈타인으로 바꿀 수 있을까요?
 ```
 
-## Introduction
-With a clever use of the overhead projector we can make the old Einstein young again. This provides a nice conceptual exercise with the thin lens formula.
+## 소개
+오버헤드 프로젝터를 영리하게 사용하면 늙은 아인슈타인을 다시 젊게 만들 수 있습니다. 이것은 얇은 렌즈 공식에 대한 멋진 개념적 연습을 제공합니다.
 
-## Equipment
-* An overheadprojector (OHP)
-* A box (see instructions below)
-* A white carton screen
-* A fixed screen or white wall
-* Transparencies of the old and young Einstein {numref}`Figure {number} <demo21_fig1>`.
+## 장비
+* 오버헤드 프로젝터(OHP)
+* 상자 (아래 지침 참조)
+* 흰색 판지 스크린
+* 고정된 스크린 또는 흰색 벽
+* 늙고 젊은 아인슈타인의 투명 필름 {numref}`그림 {number} <demo21_fig1>`.
 
 ```{figure} demo21_figure2a.jpg
 ---
 width: 70%
 align: center
 name: demo21_fig2
-alt: Box with transparant perspex. Both drawings of Einstein on transparant plate are visible.
+alt: 투명한 퍼스펙스가 있는 상자. 투명판에 아인슈타인의 두 그림이 모두 보입니다.
 ---
-Box with a transparent perspex or glass plate as top and bottom and opaque sides and with a black carton mask surrounding the bottom. The box is on top of the overhead projector.
+상단과 하단이 투명한 퍼스펙스 또는 유리판이고 측면이 불투명하며 하단을 둘러싼 검은색 판지 마스크가 있는 상자. 상자는 오버헤드 프로젝터 위에 있습니다.
 ```
 
-Construct a box with a transparent top and bottom of perspex or glass with a distance of about 6 cm between top and bottom, {numref}`Figure {number} <demo21_fig2>`. On the top put a transparency with the old Einstein and on the bottom the young Einstein. The sides of the box are opaque so the young Einstein is hidden from view. Surrounding the bottom of the box is a black mask (cut from black carton) which covers the remaining part of the overhead projector ({numref}`Figure {number} <demo21_fig2b>`). 
+상단과 하단이 투명한 퍼스펙스 또는 유리로 된 상자를 만드십시오. 상단과 하단 사이의 거리는 약 6cm입니다({numref}`그림 {number} <demo21_fig2>`). 상단에는 늙은 아인슈타인이 있는 투명 필름을 놓고 하단에는 젊은 아인슈타인을 놓습니다. 상자의 측면은 불투명하여 젊은 아인슈타인이 보이지 않습니다. 상자 하단을 둘러싼 것은 오버헤드 프로젝터의 나머지 부분을 덮는 검은색 마스크(검은색 판지로 자름)입니다({numref}`그림 {number} <demo21_fig2b>`).
 
 ```{figure} demo21_figure2b.jpg
 ---
 width: 50%
 align: center
 name: demo21_fig2b
-alt: the same box in the classroom, projecting Einstein on the all.
+alt: 교실에 있는 같은 상자, 벽에 아인슈타인을 투사합니다.
 ---
-The projection that is created by the setup when placing old Einstein over young Einstein.
+늙은 아인슈타인을 젊은 아인슈타인 위에 놓을 때 설정에 의해 생성되는 투사.
 ```
 
-## Preparation
-Put the box on top of the overhead projector ({numref}`Figure {number} <demo21_fig2b>`). At the start adjust the overhead projector such that the old Einstein is on the screen.
+## 준비
+오버헤드 프로젝터 위에 상자를 놓습니다({numref}`그림 {number} <demo21_fig2b>`). 시작 시 오버헤드 프로젝터를 조정하여 늙은 아인슈타인이 스크린에 나오도록 합니다.
 
 ```{figure} demo21_figure3.png
 ---
 width: 50%
 align: center
-alt: a schematic of how the physics with the lenses works.
+alt: 렌즈를 사용한 물리학이 어떻게 작동하는지에 대한 개략도.
 ---
-The old Einstein is on the screen; the young one appears by moving the white screen toward the OHP. Object distances are $o_1$ and $o_2$, and image distances are $i_1$ and $i_2$.
+늙은 아인슈타인은 스크린에 있습니다. 흰색 스크린을 OHP 쪽으로 움직이면 젊은 아인슈타인이 나타납니다. 물체 거리는 $o_1$ 및 $o_2$이고, 상 거리는 $i_1$ 및 $i_2$입니다.
 ```
 
-## Procedure
-1.	The old Einstein is projected on the screen. When you put the white carton on top of the fixed screen, one sees a sharp image of the old Einstein. However, when the white carton is moved in the direction of the OHP the old Einstein fades away and the young Einstein appears. When you have moved the carton 1 or 2 meters towards the OHP, then only the young Einstein appears.  Pay attention to details such as the “growth” of the hair of the moustache and the hair on the head.  
+## 절차
+1. 늙은 아인슈타인이 스크린에 투사됩니다. 고정된 스크린 위에 흰색 판지를 놓으면 늙은 아인슈타인의 선명한 이미지가 보입니다. 그러나 흰색 판지를 OHP 방향으로 움직이면 늙은 아인슈타인은 사라지고 젊은 아인슈타인이 나타납니다. 판지를 OHP 쪽으로 1~2미터 움직이면 젊은 아인슈타인만 나타납니다. 콧수염과 머리카락의 "성장"과 같은 세부 사항에 주의하십시오.
 
-2.	Again start with the old Einstein. Then move the head of the OHP (with mirror and lens) downward. The old Einstein fades away and the young Einstein appears. Moving the head of the OHP up again shows the reverse process, the old Einstein reappears at the expense of the young Einstein. 
+2. 다시 늙은 아인슈타인으로 시작합니다. 그런 다음 OHP의 헤드(거울과 렌즈 포함)를 아래로 움직입니다. 늙은 아인슈타인은 사라지고 젊은 아인슈타인이 나타납니다. OHP의 헤드를 다시 위로 움직이면 반대 과정이 나타나고, 젊은 아인슈타인을 희생하여 늙은 아인슈타인이 다시 나타납니다.
 
 ```{figure} demo21_figure4.png
 ---
 width: 50%
 align: center
-alt: the same schematic illustrating how the young Einstein may appear.
+alt: 젊은 아인슈타인이 어떻게 나타날 수 있는지 설명하는 동일한 개략도.
 ---
-The old Einstein is on the screen, the young one appears when moving the OHP head (mirror + lens) downward.
+늙은 아인슈타인은 스크린에 있습니다. OHP 헤드(거울 + 렌즈)를 아래로 움직이면 젊은 아인슈타인이 나타납니다.
 ```
 
 ```{tip}
-* The glass/perspex top and bottom should be surrounded by carton so the audience cannot look inside and cannot see the young Einstein picture. The audience only sees the box with on top the old Einstein. The audience often suspects that there is some kind of computer inside the box. This computer is thought to change the image.  
-* A three-layer box is possible, but complicated and it is difficult to tune the distances properly.
-* Instead of Einstein one could also use the head of a colleague in the school, but then you need an expert drawer of portraits. 
+* 유리/퍼스펙스 상단과 하단은 판지로 둘러싸여 있어 청중이 안을 들여다보거나 젊은 아인슈타인 사진을 볼 수 없습니다. 청중은 늙은 아인슈타인이 위에 있는 상자만 봅니다. 청중은 종종 상자 안에 어떤 종류의 컴퓨터가 있다고 의심합니다. 이 컴퓨터가 이미지를 바꾼다고 생각됩니다.
+* 3층 상자는 가능하지만 복잡하고 거리를 제대로 조정하기 어렵습니다.
+* 아인슈타인 대신 학교 동료의 머리를 사용할 수도 있지만, 그러면 초상화 전문가가 필요합니다.
 ```
 
-## Physics background
-1.	You start with object distance $O_1$ and image distance $I_1$. When moving the white carton towards the projector, the image distance becomes smaller: $I_2$. But with a smaller image distance, the object distance becomes greater: $O_2$. At that distance is the transparency with the young Einstein which now shows well defined on the screen. Because of the small “depth of field” of the lens, the old head is not visible anymore, unless the height of the box is too small.  
+## 물리 배경
+1. 물체 거리 $O_1$과 상 거리 $I_1$으로 시작합니다. 흰색 판지를 프로젝터 쪽으로 움직이면 상 거리가 더 작아집니다: $I_2$. 그러나 상 거리가 작아지면 물체 거리는 더 커집니다: $O_2$. 그 거리에는 젊은 아인슈타인이 있는 투명 필름이 있어 이제 스크린에 잘 정의되어 보입니다. 렌즈의 "피사계 심도"가 작기 때문에 상자의 높이가 너무 작지 않으면 늙은 머리는 더 이상 보이지 않습니다.
 
-2.	Again start with object distance $O_1$ and image distance $I_1$. When the head (mirror + lens) of the OHP is moved downward, then the image distance $I_2$ will not change. So $I = I_1 = I_2$, the object distance will decrease. So the object distance must remain the same as well. But at that distance is now the young Einstein instead of the old one. So if the head moves down by a distance which is the same as the height of the box, then the young Einstein will have a sharp image on the screen.  
+2. 다시 물체 거리 $O_1$과 상 거리 $I_1$으로 시작합니다. OHP의 헤드(거울 + 렌즈)를 아래로 움직이면 상 거리 $I_2$는 변하지 않습니다. 따라서 $I = I_1 = I_2$이고, 물체 거리는 감소할 것입니다. 따라서 물체 거리도 동일하게 유지되어야 합니다. 그러나 그 거리에는 이제 늙은 아인슈타인 대신 젊은 아인슈타인이 있습니다. 따라서 헤드가 상자의 높이와 같은 거리만큼 아래로 움직이면 젊은 아인슈타인은 스크린에 선명한 이미지를 갖게 됩니다.

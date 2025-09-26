@@ -1,63 +1,63 @@
-# Predict Explain Observe Explain
-In many phenomena, students and laypeople come up with predictions in which they have a lot of confidence, that yet turn out to be wrong. Our intuition is often off the mark. It is precisely in these cases that demonstrations can be extra motivating and useful. But then it all comes down to the proper approach and your role as a teacher. You must optimally emphasize the contrast between prediction and outcome and try to stimulate the thinking of all students instead of that of just a few smart ones.
+# 예측 설명 관찰 설명
+많은 현상에서 학생들과 일반인들은 자신들이 매우 자신감을 가지고 있지만 결국 틀린 것으로 판명되는 예측을 내놓습니다. 우리의 직관은 종종 빗나갑니다. 바로 이러한 경우에 시연이 특히 동기 부여가 되고 유용할 수 있습니다. 그러나 그때는 적절한 접근 방식과 교사로서의 역할에 모든 것이 달려 있습니다. 예측과 결과 사이의 대조를 최적으로 강조하고 단지 몇몇 똑똑한 학생들뿐만 아니라 모든 학생들의 사고를 자극하려고 노력해야 합니다.
 
 ```{figure} ../demos/demo32/demo32_figure2.jpg
 ---
 width: 100%
 align: center
 figclass: margin
-alt: a picture of two springs in series with a weight attached
+alt: 무게추가 달린 두 개의 직렬 스프링 사진
 ---
-What happens to the block when the hook is cut with pliers?
+집게로 고리를 자르면 블록은 어떻게 될까요?
 ```
 
-The idea is that students first predict what will happen and explain, at least to themselves, why they think it will happen in that particular way. This first step includes both the prediction and an explanation, emphasizing that we ask students for a prediction with reasoning, not just a guess. This step encourages students to draw on their prior knowledge and understanding of physical concepts to anticipate what will happen. Predicting first will encourage students also to observe more carefully. They become aware of their own 'preconceptions'. Moreover, writing down their prediction may motivate them to want to know the answer, and an explanation of why they think the demonstration will happen in a certain way provides valuable insights in their thinking.
+아이디어는 학생들이 먼저 무슨 일이 일어날지 예측하고, 적어도 스스로에게는 왜 그런 특정한 방식으로 일어날 것이라고 생각하는지 설명하는 것입니다. 이 첫 번째 단계는 예측과 설명을 모두 포함하며, 우리가 학생들에게 단지 추측이 아닌 추론이 있는 예측을 요구한다는 것을 강조합니다. 이 단계는 학생들이 무슨 일이 일어날지 예상하기 위해 물리적 개념에 대한 사전 지식과 이해를 활용하도록 장려합니다. 먼저 예측하는 것은 학생들이 더 신중하게 관찰하도록 장려할 것입니다. 그들은 자신의 '선입견'을 인식하게 됩니다. 더욱이, 예측을 적어두는 것은 그들이 답을 알고 싶어하도록 동기를 부여할 수 있으며, 시연이 특정 방식으로 일어날 것이라고 생각하는 이유에 대한 설명은 그들의 사고에 귀중한 통찰력을 제공합니다.
 
 ```{note}
-A great example of the importance of making a prediction is found in [Two springs, series or parallel?](../demos/demo32/demo32.md) Students there predict what happens to the block when the hook is cut with pliers. They have sufficient knowledge of springs to make a considered choice, but will probably still be surprised by the result.
+예측의 중요성에 대한 훌륭한 예는 [두 개의 스프링, 직렬 또는 병렬?](../demos/demo32/demo32.md)에서 찾을 수 있습니다. 학생들은 집게로 고리를 자를 때 블록에 무슨 일이 일어날지 예측합니다. 그들은 신중한 선택을 할 수 있을 만큼 스프링에 대한 충분한 지식을 가지고 있지만, 결과에 여전히 놀랄 것입니다.
 ```
 
-The demonstration is then performed by the teacher. A demonstration is often well suited as it reduces distracting elements, for instance handling the equipment, observing what happens and simultaneously making sense of it. During this phase, students gather empirical evidence that either supports or contradicts their initial predictions. 
+그런 다음 교사가 시연을 수행합니다. 시연은 예를 들어 장비 취급, 무슨 일이 일어나는지 관찰하고 동시에 그것을 이해하는 것과 같은 산만하게 하는 요소를 줄여주기 때문에 종종 잘 맞습니다. 이 단계에서 학생들은 초기 예측을 뒷받침하거나 반박하는 경험적 증거를 수집합니다.
 
-In the final step, students are asked to explain the observed results and compare the outcome with their initial prediction. This step involves thus critical thinking and reasoning. Through guided discussion and reflection, students develop a deeper understanding of the underlying physics concepts. 
+마지막 단계에서 학생들은 관찰된 결과를 설명하고 결과를 초기 예측과 비교하도록 요청받습니다. 따라서 이 단계는 비판적 사고와 추론을 포함합니다. 안내된 토론과 성찰을 통해 학생들은 기본 물리 개념에 대한 더 깊은 이해를 개발합니다.
 
-A great example is found in the demonstration [Twice as much isn't twice as big](../demos/demo45/demo45.md) where the idea of *More of **A** results in more of **B*** is dispelled. Especially explaining why (surprisingly) nothing changes is important in that demonstration.
+훌륭한 예는 *A가 많아지면 B도 많아진다*는 생각이 깨지는 시연 [두 배가 두 배로 크지는 않다](../demos/demo45/demo45.md)에서 찾을 수 있습니다. 특히 (놀랍게도) 아무것도 변하지 않는 이유를 설명하는 것이 그 시연에서 중요합니다.
 
 ```{tip}
-An excellent example of a POE-approach is presented in [Rich boiling phenomena](../demos/demo36/demo36.md), including a table which scaffolds the process.
+POE 접근법의 훌륭한 예는 과정을 구조화하는 표를 포함하여 [풍부한 끓는 현상](../demos/demo36/demo36.md)에 제시되어 있습니다.
 ```
 
-These steps are further elaborated on in the table below We use the trivial example of a large and small falling stone ({numref}`Figure {number} <fig_poe>`). (Both the mass and the volume of the stones are different). Many students (and their parents) expect a large stone to fall faster than a small one.
+이러한 단계는 아래 표에서 더 자세히 설명됩니다. 우리는 크고 작은 낙하하는 돌의 사소한 예를 사용합니다({numref}`그림 {number} <fig_poe>` 참조). (돌의 질량과 부피는 모두 다릅니다). 많은 학생들(그리고 그들의 부모들)은 큰 돌이 작은 돌보다 더 빨리 떨어질 것이라고 예상합니다.
 
 ``` {figure} Figures/POE.PNG
 ---
 name: fig_poe
 width: 70%
-alt: left a hand with a rock, right a hand with a book and on top a paper.
+alt: 왼쪽에는 바위를 든 손, 오른쪽에는 책 위에 종이가 놓인 손.
 ---
-The steps of PEOE are explain using this simple demonstration.
+이 간단한 시연을 사용하여 PEOE의 단계를 설명합니다.
 ```
 
-```{table} The various steps in the PEOE approach
-| Step | PEOE | Example |
+```{table} PEOE 접근법의 다양한 단계
+| 단계 | PEOE | 예시 |
 |------|---------------|---------|
-| 1    | Show how you will perform the experiment or ask "how can I investigate whether...?". Then come up with a plan for the demonstration with the students and make sure it is clear to all students before they start predicting. | I (teacher) have two stones, a large and a small one. How can I investigate which one falls faster? |
-| 2    | **Predict – Explain:** Let students individually write down their expectation (predict what will happen) and the reason for it. This can be done in their notebooks or on a special worksheet. Alternatively ask multiple-choice questions in e.g. <a href="https://www.Socrative.com" target="_blank">Socrative</a> or <a href="https://get.plickers.com/" target="_blank">Plickers</a>. | I will let the stones fall simultaneously by pulling my hand downward (see {numref}`Figure {number}<fig_poe>`). Write down which stone will hit the ground first. Explain why you think so. |
-| 3    | A short inventory of expectations. It is most important that students realize there are different predictions, usually all with 'reasonable' arguments. Because everyone has written down a prediction with a reason (or has voted on Socrative), any student can be randomly asked to contribute to the discussion instead of only volunteers. | Inventory of reasons for the three possible predictions (large or small stone or equal). Results of the vote and possibly arguments noted on the board. |
-| 4    | **Observe:** Have each student write down their own observation before discussion begins. If this part is skipped, students will 'adjust' their observations as soon as the discussion starts, and differences in observation will become vague. It is usually possible to repeat the experiment until there is consensus about the observation or measurement. | The teacher stands on the table with the two stones and lets them fall onto the table surface or onto a plank on the ground that makes a clear noise. Everyone listens to the result. Repeat until everyone agrees on the result. |
-| 5    | **Explain:** Ask students to discuss (think-pair-share) the explanation for the observation or measurement. In the subsequent class discussion (step 6), each student can again be asked to contribute. | Think-share-exchange ideas about whether size has anything to do with fall speed. |
-| 6    | Class discussion. | Class discussion and conclusion that size apparently does not matter. However also address: Are there examples of objects that do not hit the ground at the same time? |
-| 7    | Noting the complete explanation on the board or referencing the notebook. |  |
-| 8    | Are there other similar phenomena that we can now also explain? Continue the demonstration with objects where air resistance plays a role, for example, first an A4 paper, then a crumpled ball, then placing the A4 sheet on top of a book and letting them fall together. |  |
+| 1 | 실험을 어떻게 수행할지 보여주거나 "내가 ...인지 어떻게 조사할 수 있을까요?"라고 묻습니다. 그런 다음 학생들과 함께 시연 계획을 세우고 예측을 시작하기 전에 모든 학생들에게 명확하게 전달되도록 합니다. | 나(교사)는 크고 작은 두 개의 돌을 가지고 있습니다. 어느 것이 더 빨리 떨어지는지 어떻게 조사할 수 있을까요? |
+| 2 | **예측-설명:** 학생들이 개별적으로 자신의 예상(무슨 일이 일어날지 예측)과 그 이유를 적도록 합니다. 이것은 공책이나 특별한 워크시트에 할 수 있습니다. 또는 <a href="https://www.Socrative.com" target="_blank">Socrative</a>나 <a href="https://get.plickers.com/" target="_blank">Plickers</a>와 같은 곳에서 객관식 질문을 할 수도 있습니다. | 손을 아래로 당겨 돌을 동시에 떨어뜨릴 것입니다({numref}`그림 {number}<fig_poe>` 참조). 어느 돌이 먼저 땅에 닿을지 적으십시오. 왜 그렇게 생각하는지 설명하십시오. |
+| 3 | 기대치에 대한 간단한 목록. 학생들이 다른 예측이 있다는 것을 깨닫는 것이 가장 중요하며, 보통 모두 '합리적인' 주장을 가지고 있습니다. 모든 사람이 이유와 함께 예측을 적었기 때문에(또는 Socrative에서 투표했기 때문에), 자원 봉사자뿐만 아니라 모든 학생에게 무작위로 토론에 기여하도록 요청할 수 있습니다. | 세 가지 가능한 예측(큰 돌 또는 작은 돌 또는 동일)에 대한 이유 목록. 투표 결과와 가능한 주장을 칠판에 기록합니다. |
+| 4 | **관찰:** 토론이 시작되기 전에 각 학생이 자신의 관찰을 적도록 합니다. 이 부분을 건너뛰면 학생들은 토론이 시작되자마자 자신의 관찰을 '조정'할 것이고, 관찰의 차이는 모호해질 것입니다. 관찰이나 측정에 대한 합의가 있을 때까지 실험을 반복하는 것이 보통 가능합니다. | 교사는 두 개의 돌을 들고 테이블 위에 서서 테이블 표면이나 바닥에 있는 판자 위로 떨어뜨려 명확한 소리를 냅니다. 모두가 결과를 듣습니다. 모두가 결과에 동의할 때까지 반복합니다. |
+| 5 | **설명:** 학생들에게 관찰이나 측정에 대한 설명을 토론하도록(생각-짝-공유) 요청합니다. 후속 수업 토론(6단계)에서 각 학생은 다시 기여하도록 요청받을 수 있습니다. | 크기가 낙하 속도와 관련이 있는지에 대한 아이디어를 생각-공유-교환합니다. |
+| 6 | 수업 토론. | 수업 토론과 크기는 분명히 중요하지 않다는 결론. 그러나 또한 다루어야 할 내용: 동시에 땅에 닿지 않는 물체의 예가 있습니까? |
+| 7 | 완전한 설명을 칠판에 적거나 공책을 참조합니다. | |
+| 8 | 이제 우리가 설명할 수 있는 다른 유사한 현상이 있습니까? 공기 저항이 역할을 하는 물체로 시연을 계속합니다. 예를 들어, 먼저 A4 용지, 그 다음 구겨진 공, 그 다음 A4 시트를 책 위에 놓고 함께 떨어뜨립니다. | |
 
 ```
 
-In most PEOEs, step 7 concludes the activity. With falling objects, you ought to also investigate the role of friction as indicated in step 8.
+대부분의 PEOE에서 7단계는 활동을 마무리합니다. 떨어지는 물체의 경우, 8단계에 표시된 대로 마찰의 역할도 조사해야 합니다.
 
-## All Students
-An important aspect of this approach is the involvement of **ALL** students. They should individually formulate their expectations/predictions on paper with a rationale. **All** students then observe the result of the demonstration. **All** are involved in resolving the difference between prediction and observation. This approach is, with an emphasis on *comparing* and *contrasting* prediction and observation, can only be requested in demonstrations where students themselves have some prior knowledge and can be expected to think they know what will happen. The PEOE model is not suitable in every demonstration.
+## 모든 학생
+이 접근법의 중요한 측면은 **모든** 학생의 참여입니다. 그들은 개별적으로 근거와 함께 자신의 기대/예측을 종이에 공식화해야 합니다. **모든** 학생들은 그런 다음 시연의 결과를 관찰합니다. **모두**는 예측과 관찰 사이의 차이를 해결하는 데 관여합니다. 이 접근법은 예측과 관찰을 *비교*하고 *대조*하는 데 중점을 두며, 학생들이 스스로 약간의 사전 지식을 가지고 있고 무슨 일이 일어날지 안다고 생각할 것으로 예상되는 시연에서만 요청될 수 있습니다. PEOE 모델은 모든 시연에 적합하지는 않습니다.
 
-To get attention for the actual demonstration, make sure that students are aware of their own expectations/predictions and those of the others. Writing down the prediction and an accompanying rationale leads to more engagement. The common practice of just asking what the class thinks and letting a single smart student answer is not effective. Asking all students for the reasoning behind their prediction also provides the teacher with insight into students' thought processes. Important is that students notice that different thoughts exist about the phenomenon; that there are conflicting predictions and different ideas about the phenomenon. This generates motivation to find out how things really are. It helps students evaluate their own learning and construct new ideas.
+실제 시연에 대한 관심을 끌기 위해 학생들이 자신의 기대/예측과 다른 사람들의 기대/예측을 인식하도록 하십시오. 예측과 그에 따른 근거를 적어두는 것은 더 많은 참여로 이어집니다. 반이 어떻게 생각하는지 그냥 묻고 한 명의 똑똑한 학생에게 답하게 하는 일반적인 관행은 효과적이지 않습니다. 모든 학생에게 예측의 근거를 묻는 것은 교사에게 학생들의 사고 과정에 대한 통찰력을 제공합니다. 중요한 것은 학생들이 현상에 대해 다른 생각이 존재한다는 것, 즉 상충되는 예측과 현상에 대한 다른 아이디어가 있다는 것을 알아차리는 것입니다. 이것은 일이 실제로 어떻게 되는지 알아내려는 동기를 유발합니다. 그것은 학생들이 자신의 학습을 평가하고 새로운 아이디어를 구성하는 데 도움이 됩니다.
 
 <div style="display: flex; justify-content: center;">
     <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
@@ -71,21 +71,21 @@ To get attention for the actual demonstration, make sure that students are aware
     </div>
 </div>
 <div style="text-align: center;">
-  <i>What do you think will happen when the glass is place over the candle?</i>
+  <i>유리잔을 촛불 위에 놓으면 어떻게 될 것이라고 생각하십니까?</i>
 </div>
 
 
-{cite:t}`mitchell1992some` give the following advice based on his extensive PEOE experience:
+{cite:t}`mitchell1992some`는 그의 광범위한 PEOE 경험을 바탕으로 다음과 같은 조언을 제공합니다.
 
-1.  It is very important that students realize that they are not alone in their prediction. Therefore, it is important to summarize the class's ideas and report back to the class (see for instance [Falling candle](../demos//demo35/demo35.md)). An effective way to do this is to have predictions written down in a handy format so that the teacher can quickly take inventory by walking around.
-2.  Students must feel safe to give their opinion. Therefore, never link assessment to a PEOE, not even by praise for a correct answer. Emphasize to students that you are interested in their ideas and that both wrong and correct predictions are important for the class reasoning process    and for their own learning process.
-3. A discussion after the prediction where different predictions are explained and discussed often works well. This discussion precedes the observation, the execution of the demonstration itself.
-4. At the end of PEOE, emphasize that incorrect predictions are often quite understandable or even 'logical' and that they are very useful in the learning process.
+1. 학생들이 자신의 예측에 혼자가 아니라는 것을 깨닫는 것이 매우 중요합니다. 따라서 수업의 아이디어를 요약하고 수업에 다시 보고하는 것이 중요합니다(예: [떨어지는 촛불](../demos//demo35/demo35.md) 참조). 이를 효과적으로 수행하는 한 가지 방법은 교사가 돌아다니면서 신속하게 목록을 작성할 수 있도록 편리한 형식으로 예측을 적어두는 것입니다.
+2. 학생들은 자신의 의견을 제시하는 데 안전함을 느껴야 합니다. 따라서 PEOE에 평가를 연결하지 마십시오. 정답에 대한 칭찬으로도 안 됩니다. 학생들에게 당신이 그들의 아이디어에 관심이 있으며, 틀린 예측과 올바른 예측 모두 수업 추론 과정과 자신의 학습 과정에 중요하다고 강조하십시오.
+3. 다른 예측이 설명되고 논의되는 예측 후의 토론은 종종 잘 작동합니다. 이 토론은 관찰, 즉 시연 자체의 실행에 앞섭니다.
+4. PEOE가 끝날 때, 틀린 예측이 종종 매우 이해할 수 있거나 심지어 '논리적'이며 학습 과정에서 매우 유용하다는 것을 강조하십시오.
 
-See {cite:t}`white2014probing` for a very complete description of the pedagogy. Google with 'POE' and 'physics demonstrations' as search terms to find examples. {cite:t}`liem1991invitations` "Invitations to Science Inquiry" contains over 400 demonstrations with surprising outcomes for students. In this book you will find many demonstrations where the PEOE approach is used and the steps have been made explicit, for instance in our demonstration [Why does the water rise?](../demos//demo27/demo27.md).
+교육학에 대한 매우 완전한 설명은 {cite:t}`white2014probing`를 참조하십시오. 예제를 찾으려면 검색어로 'POE'와 '물리 시연'으로 구글링하십시오. {cite:t}`liem1991invitations` "과학 탐구에의 초대"에는 학생들에게 놀라운 결과를 주는 400개 이상의 시연이 포함되어 있습니다. 이 책에서는 PEOE 접근법이 사용되고 단계가 명시적으로 만들어진 많은 시연을 찾을 수 있습니다. 예를 들어, 우리의 시연 [왜 물이 올라갈까?](../demos//demo27/demo27.md)에서 볼 수 있습니다.
 
 
-## References
+## 참고문헌
 ```{bibliography}
 :filter: docname in docnames
 ```

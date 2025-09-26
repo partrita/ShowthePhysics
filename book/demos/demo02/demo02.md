@@ -1,159 +1,159 @@
-# Making a perfect cappuccino
-<span style="font-size: 25px; color: gray;">Specific heat versus heat of vaporization</span>
+# 완벽한 카푸치노 만들기
+<span style="font-size: 25px; color: gray;">비열 대 기화열</span>
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Frits Hidden, Jorn Boomsma, Anton Schins, Ed van den Berg</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">저자:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">프리츠 히든, 요른 봄스마, 안톤 신스, 에드 반 덴 베르크</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">10 - 15 minutes, more if student computation work is integrated in the demo</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">시간:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">10 - 15분, 학생 계산 작업이 데모에 통합되면 더 길어짐</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">14 - 18</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">연령 그룹:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">14 - 18세</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Heat of vaporization and condensation, specific heat</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">개념:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">기화 및 응축열, 비열</td>
     </tr>
 </table>
 
-This demonstration has been published by the authors in {cite:t}`hidden2012`.
+이 시연은 저자들이 {cite:t}`hidden2012`에 발표했습니다.
 
-## Introduction
-A cup of cappuccino is prepared by adding about 50 mL frothing, foaming milk to a cup of espresso. Whole milk is best for foaming and the ideal milk temperature when adding it to the espresso is 65°C. The espresso itself may be warmer than that. Moreover, during the heating, the milk should not burn as that would spoil the taste. The best way is to heat the milk slowly while stirring the milk to froth and create foam. However, in restaurants they do not have time for slow heating. Could we heat the milk by just adding hot water?
+## 소개
+카푸치노 한 잔은 약 50mL의 거품이 나는 우유를 에스프레소 한 잔에 첨가하여 준비합니다. 전유가 거품 내기에 가장 좋으며 에스프레소에 첨가할 때 이상적인 우유 온도는 65°C입니다. 에스프레소 자체는 그보다 더 뜨거울 수 있습니다. 또한, 가열하는 동안 우유가 타지 않아야 맛을 망치지 않습니다. 가장 좋은 방법은 우유를 저어 거품을 내면서 천천히 가열하는 것입니다. 그러나 레스토랑에서는 천천히 가열할 시간이 없습니다. 뜨거운 물을 그냥 첨가하여 우유를 데울 수 있을까요?
 
 ```{figure} demo02_figure2.JPG
 ---
 width: 50%
 align: center
-alt: a cappuccino where the milk foam is clearly visible.
+alt: 우유 거품이 선명하게 보이는 카푸치노.
 ---
-The context of this demonstration: A cappuccino
+이 시연의 맥락: 카푸치노
 ```
 
-This question can be posed to your students first. 
+이 질문은 먼저 학생들에게 제기될 수 있습니다.
 
 ```{exercise}
 :label: ex-q1
 
-How many mL of 90°C hot water would be needed to heat 50 mL of milk from refrigerator temperature (say 4°C) to 65°C? Assume that the specific heat of milk is the same as the specific heat of water. 
+냉장고 온도(예: 4°C)의 우유 50mL를 65°C로 데우려면 90°C의 뜨거운 물이 몇 mL 필요할까요? 우유의 비열은 물의 비열과 같다고 가정하십시오.
 ```
 
-Students answer the question on a {ref}`worksheet<demo02_worksheet>` and practice their computation skills. The answer: 122g. This would mean an unacceptable dilution of the milk, 2.5 mL of water for every mL of milk. 
+학생들은 {ref}`워크시트<demo02_worksheet>`에서 질문에 답하고 계산 기술을 연습합니다. 답: 122g. 이것은 우유 1mL당 물 2.5mL라는 용납할 수 없는 희석을 의미합니다.
 
-What would the answer be if we use boiling hot water of 100°C? Students calculate again, the answer is 87 g, still an unacceptable dilution. What then? What if we use steam?
+100°C의 끓는 뜨거운 물을 사용하면 답은 어떻게 될까요? 학생들이 다시 계산하면 답은 87g으로 여전히 용납할 수 없는 희석입니다. 그렇다면 어떻게 해야 할까요? 증기를 사용하면 어떨까요?
 
 ```{solution} ex-q1
 :class: dropdown
 
-The absorbed heat by the milk is the emitted heat by the water:
+우유에 의해 흡수된 열은 물에 의해 방출된 열입니다:
 
 $$ |c_m m_m \Delta T_m| = |c_w m_w \Delta T_w| $$
 
-With the assumption the specific heat is the same, $m_w$ can be calculated:
+비열이 같다는 가정 하에, $m_w$는 다음과 같이 계산할 수 있습니다:
 
 $$ m_w = \frac{m_m \Delta T_m}{\Delta T_W} = \frac{50·61}{25} = 122 \text{g}$$
 ```
 
-## Equipment
-* A large erlenmeyer flask
-* Measurement cylinder of van 100 mL
-* Thermometer
-* Cork or rubber stopper with hole 
-* Rubber tube
-* Water
-* Burner
-* Heat resistant gloves (to handle the hot rubber tube) or tongs
-* Access to refrigerator for cold water or milk
+## 장비
+* 큰 에를렌마이어 플라스크
+* 100mL짜리 측정 실린더
+* 온도계
+* 구멍이 있는 코르크 또는 고무 마개
+* 고무 튜브
+* 물
+* 버너
+* 내열 장갑(뜨거운 고무 튜브를 다루기 위함) 또는 집게
+* 냉장고에 접근하여 차가운 물이나 우유 사용 가능
 
 ```{warning}
-Steam can cause bad burns. So watch out with the steam coming through the rubber tube, use insulating gloves or use tongs. 
+증기는 심한 화상을 유발할 수 있습니다. 따라서 고무 튜브를 통해 나오는 증기에 주의하고, 단열 장갑을 사용하거나 집게를 사용하십시오.
 ```
 
 ```{figure} demo02_figure1.jpg
 ---
 width: 50%
 align: center
-alt: a bunsenburner heating the water in a flask, a connected tube to heat the milk.
+alt: 플라스크의 물을 가열하는 분젠 버너, 우유를 데우기 위해 연결된 튜브.
 ---
-The experimental setup
+실험 설정
 ```
 
-## Preparation
-Fill the Erlenmeyer with water, preferably boiling water to prevent waiting by students. Connect the rubber tube with the stopper. Fill the measuring cylinder with about 50 ml water from the refrigerator (5 ml). This water functions as “milk”. Using real milk is fine too. 
+## 준비
+에를렌마이어 플라스크에 물을 채우십시오. 학생들의 대기를 막기 위해 끓는 물을 사용하는 것이 좋습니다. 고무 튜브를 마개에 연결하십시오. 측정 실린더에 냉장고에서 꺼낸 약 50ml의 물(5ml)을 채우십시오. 이 물은 "우유" 역할을 합니다. 진짜 우유를 사용해도 좋습니다.
 
-## Procedure
-The first part of the execution consists of calculations. 
+## 절차
+실행의 첫 번째 부분은 계산으로 구성됩니다.
 
-A cappuccino is made by ...... (here follows the text of the introduction but **without the information that a cappuccino machine uses steam**)...... but what can you do if there is no time to heat the milk slowly like in a restaurant or coffee shop? A cappuccino machine adds “hot water” to heat the milk. The maximum dilution that is acceptable for the taste is 10%. Such a small dilution does not matter as espresso is strong coffee with a small amount of water. 
+카푸치노는 ...... (여기에는 **카푸치노 기계가 증기를 사용한다는 정보 없이** 소개 텍스트가 이어집니다) ...... 하지만 레스토랑이나 커피숍처럼 우유를 천천히 데울 시간이 없다면 어떻게 할 수 있을까요? 카푸치노 기계는 우유를 데우기 위해 "뜨거운 물"을 추가합니다. 맛에 허용되는 최대 희석은 10%입니다. 에스프레소는 소량의 물을 넣은 진한 커피이므로 이러한 작은 희석은 중요하지 않습니다.
 
-> *Calculate on your worksheet how much water of 90°C has to be added to 50 ml milk of 5°C to heat it to a temperature of 65°C. Assume that the specific heat of milk equals that of water. The formulas and constants you need are on the worksheet (or on the board). (Answer 120 g).*
+> *워크시트에서 5°C의 우유 50ml에 90°C의 물을 얼마나 첨가해야 65°C의 온도가 되는지 계산하십시오. 우유의 비열은 물의 비열과 같다고 가정하십시오. 필요한 공식과 상수는 워크시트(또는 칠판)에 있습니다. (답 120g).*
 
-> *That (120 ml) is more than 2x as much as the milk (50 ml). Suppose we use water of 100°C, how much do we need then? (Answer 86 g).*
+> *그것(120ml)은 우유(50ml)의 2배 이상입니다. 100°C의 물을 사용한다고 가정하면 얼마나 필요할까요? (답 86g).*
 
-> *That is still more than 1.5 times more water than milk!*
+> *그것은 여전히 우유보다 1.5배 이상 많은 물입니다!*
 
-> *Suppose that water would not evaporate at 100°C. How high should be the temperature of 5 g water to be added to 50 g milk of 5°C such that the final temperature of water and milk would become 65°C? Just use the same formulas. (Answer: 665°C).*
+> *물이 100°C에서 증발하지 않는다고 가정해 봅시다. 5°C의 우유 50g에 5g의 물을 첨가하여 물과 우유의 최종 온도가 65°C가 되려면 물의 온도는 얼마나 높아야 할까요? 같은 공식을 사용하십시오. (답: 665°C).*
 
-> *That is very high, 665°C, that is not going to work. Let’s now look at what happens if we use steam, which is what we get when we heat water above 100°C.*
+> *그것은 매우 높습니다, 665°C, 그것은 작동하지 않을 것입니다. 이제 100°C 이상으로 물을 가열할 때 얻는 증기를 사용하면 어떻게 되는지 살펴봅시다.*
 
 
-The teacher explains the set-up and asks a student to come to the front to measure the volume of “milk” and its temperature (should be about 5°C). 
+교사는 설정을 설명하고 학생에게 앞으로 나와 "우유"의 부피와 온도를 측정하도록 요청합니다(약 5°C여야 함).
 
-Start the experiment. Light the burner. First get the pre-heated water in the Erlenmeyer to boil. Wait until steam comes out of the rubber tube. Then put the end of the rubber tube into the “milk”. The student measurer reads the temperature every 10 seconds. Another student does general observations and is asked to look for bubbles. At about 62°C, the burner is removed. At about 65°C, the tube is removed using insulation gloves. Do not wait too long removing the tube because after turning off the burner the remaining steam will condense and reverse the flow in the tube (suction). The observer student measures the final temperature (about 65°C) and estimates how much water was added to the “milk” (about 7 g).
+실험을 시작하십시오. 버너에 불을 붙입니다. 먼저 에를렌마이어 플라스크에 미리 데워진 물을 끓입니다. 고무 튜브에서 증기가 나올 때까지 기다립니다. 그런 다음 고무 튜브의 끝을 "우유"에 넣습니다. 학생 측정자는 10초마다 온도를 읽습니다. 다른 학생은 일반적인 관찰을 하고 거품을 찾도록 요청받습니다. 약 62°C에서 버너를 제거합니다. 약 65°C에서 단열 장갑을 사용하여 튜브를 제거합니다. 버너를 끈 후 남은 증기가 응축되어 튜브의 흐름을 역전시키므로(흡입) 튜브를 제거하는 것을 너무 오래 기다리지 마십시오. 관찰 학생은 최종 온도를 측정하고(약 65°C) "우유"에 얼마나 많은 물이 추가되었는지 추정합니다(약 7g).
 
-> *The milk is now 65°C and we only needed about 7 g of steam! Not 86 g!  And we did not heat up to 665°C either. How is that possible, where did the energy come from?*
+> *우유는 이제 65°C이고 우리는 약 7g의 증기만 필요했습니다! 86g이 아닙니다! 그리고 우리는 665°C까지 가열하지도 않았습니다. 어떻게 그럴 수 있을까요? 에너지는 어디에서 왔을까요?*
 
-## Physics background
-The experiment clearly shows that much less steam of 100°C is needed than water of 100°C. When steam condenses to water an enormous amount of energy is released: 2256 Joules per gram steam. This energy is used to heat up the milk.  This is comparable to the heat released bij cooling 665°C water to 65°C if the water would still be liquid rather than steam. A cappuccino machine uses this heat of vaporization to heat up the milk, a clever trick. That lots of energy is released is also clear from the noise. Furthermore, the machine simultaneously froths the milk. Have a nice cappuccino!
+## 물리 배경
+실험은 100°C의 증기가 100°C의 물보다 훨씬 적게 필요하다는 것을 명확하게 보여줍니다. 증기가 물로 응축될 때 엄청난 양의 에너지, 즉 증기 1g당 2256줄이 방출됩니다. 이 에너지는 우유를 데우는 데 사용됩니다. 이것은 물이 증기가 아닌 액체일 경우 665°C의 물을 65°C로 냉각시켜 방출되는 열과 비슷합니다. 카푸치노 기계는 이 기화열을 사용하여 우유를 데우는데, 이는 영리한 방법입니다. 많은 에너지가 방출된다는 것은 소음에서도 분명합니다. 또한 기계는 동시에 우유에 거품을 냅니다. 맛있는 카푸치노 드세요!
 
 ```{tip}
-See the comment on withdrawing the tube timely from the milk before suction appears. 
+흡입이 나타나기 전에 우유에서 튜브를 적시에 빼내는 것에 대한 의견을 참조하십시오.
 ```
 
-```{admonition} Worksheet
+```{admonition} 워크시트
 :name: demo02_worksheet
 :class: dropdown
-The following formulas may be of help:
-Specific heat:
+다음 공식이 도움이 될 수 있습니다.
+비열:
 
 $$ Q = m · c_w · ∆T $$
 
-Heat of evaporation:
+기화열:
 
 $$  Q = L · m $$
 
-In this experiment: 
+이 실험에서:
 
-$$ Q_{absorbed} = Q_{emitted} $$
+$$ Q_{흡수} = Q_{방출} $$
 
-$$ 50 \text{[g]} · 4.2 \text{[J/g°C]} · (65\text{[°C]} – 5\text{[°C]}) = m_{hot} · 4.2 \text{[J/g°C]} · (T_{hot} – 65\text{°C)}$$
+$$ 50 \text{[g]} · 4.2 \text{[J/g°C]} · (65\text{[°C]} – 5\text{[°C]}) = m_{뜨거운} · 4.2 \text{[J/g°C]} · (T_{뜨거운} – 65\text{°C)}$$
 
-$ ρ_{water} ≈ 1.0$ [g/ml];\
-$c_{milk} ≈ c_{water} = 4.18·10^3$ [J/g°C];\
-$L = 2.26·10^6$ [J/kg] (heat of evaporation)
+$ ρ_{물} ≈ 1.0$ [g/ml];\
+$c_{우유} ≈ c_{물} = 4.18·10^3$ [J/g°C];\
+$L = 2.26·10^6$ [J/kg] (기화열)
 
-**Attempt 1:** hot water ($T_{hot} = 90$°C)\
-Calculate the amount of hot water $T_{hot} = 90$°C we need to add to 50 g milk with a temperature of 5°C to reach a temperature of 65°C.\
-Answer: ...
+**시도 1:** 뜨거운 물 ($T_{뜨거운} = 90$°C)\
+5°C의 우유 50g에 65°C의 온도를 만들기 위해 추가해야 하는 90°C의 뜨거운 물의 양을 계산하십시오.\
+답: ...
 
-**Attempt 2:** boiling water ($T_{hot} = 100$°C)\
-Calculate the amount of hot water $T_{hot} = 100$°C we need to add to 50 g milk with a temperature of 5°C to reach a temperature of 65°C.\
-Answer: ...
+**시도 2:** 끓는 물 ($T_{뜨거운} = 100$°C)\
+5°C의 우유 50g에 65°C의 온도를 만들기 위해 추가해야 하는 100°C의 뜨거운 물의 양을 계산하십시오.\
+답: ...
 
-**Attempt 3:** Very hot water\
-Calculate the temperature of the water, $T_{hot}$, if we decide that we only poor 5 g of really hot water to 50 g milk with a temperature of 5°C to reach a temperature of 65°C. Reflect on whether that is possible at all.\
-Answer: ...
+**시도 3:** 매우 뜨거운 물\
+5°C의 우유 50g에 65°C의 온도를 만들기 위해 5g의 정말 뜨거운 물만 붓기로 결정했다면 물의 온도 $T_{뜨거운}$을 계산하십시오. 그것이 전혀 가능한지 성찰하십시오.\
+답: ...
  
-**Attempt 4:** steam ($T=100$°C)\
-Calculate how much gram steam with a temperature of 100°C we need to add to 50 g ‘milk’ with a temperature of 5°C to reach a temperature of 65°C.\
-Answer: ...
+**시도 4:** 증기 ($T=100$°C)\
+5°C의 '우유' 50g에 65°C의 온도를 만들기 위해 추가해야 하는 100°C의 증기 양을 계산하십시오.\
+답: ...
 ```
 
-## References
+## 참고문헌
 ```{bibliography}
 :filter: docname in docnames
 ```

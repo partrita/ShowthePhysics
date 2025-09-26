@@ -1,22 +1,22 @@
-# Feeling physics with your own body!
-<span style="font-size: 25px; color: gray;">Center of mass demonstrations</span>
+# 자신의 몸으로 물리학 느끼기!
+<span style="font-size: 25px; color: gray;">질량 중심 시연</span>
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Ed van den Berg</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">저자:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">에드 반 덴 베르크</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">10 minutes</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">시간:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">10분</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">6 and up (elementary and secondary)</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">연령 그룹:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">6세 이상 (초등 및 중등)</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">center of mass, distribution of mass, stability</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">개념:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">질량 중심, 질량 분포, 안정성</td>
     </tr>
 </table>
 
@@ -24,54 +24,54 @@
 ---
 width: 70%
 name: demo25_fig3
-alt: students standing with heels against wall trying to pick up money in front of them.
+alt: 학생들이 벽에 발뒤꿈치를 대고 서서 앞에 있는 돈을 집으려고 합니다.
 ---
-It is 'impossible' to pick up the money.
+돈을 집는 것은 '불가능'합니다.
 ```
 
-## Introduction
-Learning to recognize *physics in the everyday environment*, visualizing physics and “feeling” it with your own body, and then [thinking back-and-forth](../../Pedagogy/BackAndForthThinking.md) between phenomena and concepts, that is the object of this series of demonstrations. That is possible with a class of 30 students, but also with a conference room of 500 students and parents. And it is fun! 
+## 소개
+*일상 환경에서 물리학*을 인식하고, 물리학을 시각화하고 자신의 몸으로 "느끼고", 그런 다음 현상과 개념 사이를 [왔다 갔다 생각](../../Pedagogy/BackAndForthThinking.md)하는 것이 이 일련의 시연의 목적입니다. 이것은 30명의 학생이 있는 교실뿐만 아니라 500명의 학생과 학부모가 있는 회의실에서도 가능합니다. 그리고 재미있습니다!
 
-## Equipment
-* A ruler of 1 m or just a stick
-* Various objects
-* The audience
-* Computer/beamer/powerpoint for some spectacular photo’s
-* A loaded backpack
+## 장비
+* 1m 자 또는 그냥 막대기
+* 다양한 물체
+* 청중
+* 몇 가지 멋진 사진을 위한 컴퓨터/빔 프로젝터/파워포인트
+* 짐이 든 배낭
 
-## Preparation
-At the location (classroom or auditorium), think briefly about maximizing visibility and how to create just enough movement space for the participating audience. 
+## 준비
+장소(교실 또는 강당)에서 가시성을 극대화하고 참여하는 청중을 위해 충분한 이동 공간을 만드는 방법에 대해 잠시 생각하십시오.
 
-## Procedure
-The description is for a demo during an event with a large audience. For a demo in the classroom the teacher will include more interaction. 
+## 절차
+설명은 많은 청중이 있는 행사 중의 데모를 위한 것입니다. 교실에서의 데모의 경우 교사는 더 많은 상호 작용을 포함할 것입니다.
 
-1. Take a (meter)stick, put it on the table, pull it slowly over the edge until it starts to tip over. Then put your finger under this tip-over-point and lift the stick. The stick remains balanced.
-- *It is as if all the mass of the stick is concentrated in that point. If we support that point, then the stick is balanced. That point we call the center of mass. As if that is where gravity acts on the stick.*
-2. We can shift the location of the center of mass by adding masses on the left or the right. If we put our purse or some other object on one side, then the center of mass shifts toward that side. Show this!
-3. The teacher stands on top of a chair or table for visibility, his/her side toward the audience.
-- *Our body also has a center of mass and that will probably be somewhere in our belly. Stand up everyone! Lean forward, farther and farther. What do you feel? Cramp in your toes? When we lean over so much that our center of mass passes over our toes, then we have to take a step forward to avoid falling.*
-- *Lift up your right leg forward. What happens to your shoulders? They go backward. Now lift up your right leg sideways. What happens to your shoulders? They move in the opposite direction to compensate, so that the center of mass remains above the left leg standing on the floor.*
-4. Everybody sits. The teacher remains sideways on top of the table and sinks through his/her legs.
-- *My buttocks go backward, then something has to go forward to compensate. Knees and shoulders go forward.*\
-Alternative is to take someone from the audience to illustrate these movements.
-5. The teacher takes a backpack or other large bag and puts that under his sweater or jacket and walks like a 9-month pregnant woman.
-- *There are times in life that the distribution of our mass changes. The shoulders have to go backward to compensate for the passenger up front, particularly when the pregnancy proceeds into the 9th month. Luckily after 9 months the passenger comes out and things go back to normal. However, men can have a similar problem with beer bellies and these do not go away after 9 months.*\
-All of this takes some acting, but it is fun.
-6. Now hold the backpack in one hand with a stretched arm.
-- *How does the body adjust to make sure that the center of mass of heavy backpack and body is still above the feet?*
-7. Take some people from the audience and put them with their heels and buttocks against the wall. Put a bank note of \$5 of \$10 or equivalent currency in front of their feet ({numref}`Figure {number} <demo25_fig3>`). 
-- *Keep your heels against the wall. If you can pick this up without falling, you can keep it.*\
-But this is impossible, to pick up the banknote, the upper part of the body has to bend far, the center of mass will pass the toes. 
-8.  Show the [photo of the child and the man on the see-saw](https://thenextweb.com/news/uk-tv-on-demand-service-seesaw-is-saved-at-the-death).
-- *Is this possible? Is something wrong? Using the center of mass concept or the law of moments of force, how can you explain?*
+1. (미터) 막대기를 가져다가 테이블 위에 놓고, 넘어지기 시작할 때까지 가장자리 위로 천천히 당깁니다. 그런 다음 이 넘어지는 지점 아래에 손가락을 놓고 막대기를 들어 올립니다. 막대기는 균형을 유지합니다.
+- *마치 막대의 모든 질량이 그 지점에 집중된 것 같습니다. 우리가 그 지점을 지지하면 막대는 균형을 이룹니다. 그 지점을 질량 중심이라고 합니다. 마치 중력이 막대에 작용하는 곳인 것처럼 말입니다.*
+2. 왼쪽이나 오른쪽에 질량을 추가하여 질량 중심의 위치를 이동시킬 수 있습니다. 한쪽에 지갑이나 다른 물체를 놓으면 질량 중심이 그쪽으로 이동합니다. 이것을 보여주십시오!
+3. 교사는 가시성을 위해 의자나 테이블 위에 서서 청중을 향해 옆으로 섭니다.
+- *우리 몸에도 질량 중심이 있으며 아마도 배 어딘가에 있을 것입니다. 모두 일어나세요! 앞으로, 점점 더 앞으로 기울이세요. 무엇을 느끼나요? 발가락에 쥐가 나나요? 질량 중심이 발가락을 지날 정도로 몸을 기울이면 넘어지지 않기 위해 앞으로 한 걸음 내디뎌야 합니다.*
+- *오른쪽 다리를 앞으로 들어 올리세요. 어깨는 어떻게 되나요? 뒤로 갑니다. 이제 오른쪽 다리를 옆으로 들어 올리세요. 어깨는 어떻게 되나요? 보상하기 위해 반대 방향으로 움직여서 질량 중심이 바닥에 서 있는 왼쪽 다리 위에 남아 있도록 합니다.*
+4. 모두 앉습니다. 교사는 테이블 위에 옆으로 남아 다리를 통해 가라앉습니다.
+- *엉덩이가 뒤로 가면 보상하기 위해 무언가가 앞으로 가야 합니다. 무릎과 어깨가 앞으로 갑니다.*\
+대안은 청중 중에서 누군가를 데려와 이러한 움직임을 설명하는 것입니다.
+5. 교사는 배낭이나 다른 큰 가방을 가져다가 스웨터나 재킷 아래에 넣고 9개월 임산부처럼 걷습니다.
+- *인생에는 우리 질량 분포가 변하는 시기가 있습니다. 승객을 보상하기 위해 어깨가 뒤로 가야 합니다. 특히 임신이 9개월에 접어들면 더욱 그렇습니다. 다행히 9개월이 지나면 승객이 나오고 정상으로 돌아갑니다. 그러나 남성은 맥주 배와 비슷한 문제가 있을 수 있으며 이것들은 9개월이 지나도 사라지지 않습니다.*\
+이 모든 것은 약간의 연기가 필요하지만 재미있습니다.
+6. 이제 배낭을 한 손에 뻗은 팔로 잡습니다.
+- *무거운 배낭과 몸의 질량 중심이 여전히 발 위에 있도록 몸은 어떻게 조정합니까?*
+7. 청중 중에서 몇 명을 데려와 발뒤꿈치와 엉덩이를 벽에 대고 서게 합니다. 발 앞에 5달러나 10달러 또는 그에 상응하는 통화의 지폐를 놓습니다({numref}`그림 {number} <demo25_fig3>`).
+- *발뒤꿈치를 벽에 대고 계십시오. 넘어지지 않고 이것을 집을 수 있다면 가져도 좋습니다.*\
+그러나 이것은 불가능합니다. 지폐를 집기 위해 몸의 윗부분이 멀리 구부러져야 하고, 질량 중심이 발가락을 지날 것입니다.
+8. [시소에 있는 아이와 남자의 사진](https://thenextweb.com/news/uk-tv-on-demand-service-seesaw-is-saved-at-the-death)을 보여줍니다.
+- *이것이 가능할까요? 뭔가 잘못되었나요? 질량 중심 개념이나 힘의 모멘트 법칙을 사용하여 어떻게 설명할 수 있습니까?*
 
-## Physics background
-For definitions and background, see the physics textbooks. 
+## 물리 배경
+정의와 배경은 물리 교과서를 참조하십시오.
 
-## Follow-up
-There are many interesting phenomena around us which illustrate the power of the center of mass concept. Students could collect such examples like: 
-* A fishing heron has to stand such that the center of mass is above the toes. The long toes of some birds prevent them from tipping over. 
-* A chair can be made to lean over but when let go, returns to its normal position, as long as the center of mass has not passed the tipping point. 
-* A center of mass can be outside the actual object, example: a ring. 
-* Many sports rely on the manipulation of the center of mass: dance, gymnastics, figure skating.
-* A high jumper jumps backward across the rope and bends his back in an arch such that the center of mass passes under the rope while the body passes over it (Fosbury flop). 
+## 후속 조치
+우리 주변에는 질량 중심 개념의 힘을 보여주는 흥미로운 현상이 많이 있습니다. 학생들은 다음과 같은 예를 수집할 수 있습니다.
+* 낚시하는 왜가리는 질량 중심이 발가락 위에 오도록 서 있어야 합니다. 일부 새의 긴 발가락은 넘어지는 것을 방지합니다.
+* 의자는 기울어지게 만들 수 있지만, 놓으면 질량 중심이 임계점을 지나지 않는 한 정상 위치로 돌아옵니다.
+* 질량 중심은 실제 물체 외부에 있을 수 있습니다. 예: 반지.
+* 많은 스포츠는 질량 중심 조작에 의존합니다: 춤, 체조, 피겨 스케이팅.
+* 높이뛰기 선수는 줄 위로 뒤로 점프하여 등을 아치 모양으로 구부려 몸이 줄 위를 지나는 동안 질량 중심이 줄 아래를 지나도록 합니다(포스베리 플롭).

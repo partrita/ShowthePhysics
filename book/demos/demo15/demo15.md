@@ -1,22 +1,22 @@
-# Self-propelling car 
-<span style="font-size: 25px; color: gray;">Violating conservation of momentum?</span>
+# 자가 추진 자동차
+<span style="font-size: 25px; color: gray;">운동량 보존 법칙 위반?</span>
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Leo te Brinke</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">저자:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">레오 테 브링케</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">15 minutes</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">시간:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">15분</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">15 - 18</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">연령 그룹:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">15 - 18세</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)"> (conservation of) linear momentum, Newtons third law, rolling resistance</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">개념:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">(선형) 운동량 보존, 뉴턴의 제3법칙, 구름 저항</td>
     </tr>
 </table>
 
@@ -33,92 +33,92 @@
 </div>
 
 
-## Introduction
-Conservation of linear momentum can be shown by mounting a pendulum on an easy-rolling cart. Pendulum and cart will always move in opposite directions. At the moment the pendulum is released the total linear momentum is zero, and of course it will stay that way.
-If the cart turns out to ride away, even if it is in a jerky way, something must be wrong with a fundamental conservation law, isn’t it?
-Most of us know from our childhood that if you’re sitting in a cart, you can move forward without touching the ground, just by moving your upper body back and forward in the right way.
+## 소개
+선형 운동량 보존은 쉽게 구르는 카트에 진자를 장착하여 보여줄 수 있습니다. 진자와 카트는 항상 반대 방향으로 움직일 것입니다. 진자가 풀리는 순간 총 선형 운동량은 0이며, 물론 그렇게 유지될 것입니다.
+카트가 갑자기 움직이는 방식으로라도 멀리 굴러간다면, 근본적인 보존 법칙에 뭔가 문제가 있는 것이 아닐까요?
+우리 대부분은 어린 시절에 카트에 앉아 땅에 닿지 않고도 상체를 앞뒤로 올바르게 움직여 앞으로 나아갈 수 있다는 것을 알고 있습니다.
 
-This experiment will only succeed if the cart is not running too smoothly, so friction is part of the secret. Although it is not the most spectacular experiment, it is one that gets you thinking about physics.
+이 실험은 카트가 너무 부드럽게 움직이지 않을 때만 성공하므로 마찰이 비밀의 일부입니다. 가장 화려한 실험은 아니지만, 물리학에 대해 생각하게 만드는 실험입니다.
 
-## Equipment
-A suitable cart with a specially-prepared asymmetric pendulum, with a suitable mass on a suitable surface.
+## 장비
+특별히 준비된 비대칭 진자가 있는 적합한 카트, 적합한 표면에 적합한 질량.
 ```{figure} demo15_figure1.jpg
 ---
 width: 50%
 align: center
-alt: the setup of the self-propelling car
+alt: 자가 추진 자동차의 설정
 ---
-The self-propelling car
+자가 추진 자동차
 ```
 
-## Preparation
-The cart should run with a small amount of friction, and it is important that this rolling resistance force is constant. Our cart isn’t much more than a block of wood with three ball-bearings as wheels.
-* Mount a pendulum on the cart, make sure the whole construction, including the pendulum plus weights, is stable.
-* Secure a cross bar to the middle of the pendulum, to stop the string of the pendulum. It must be easily removable and adjustable in height.
-* Hang a mass on the pendulum.
+## 준비
+카트는 약간의 마찰로 움직여야 하며, 이 구름 저항력이 일정하다는 것이 중요합니다. 우리 카트는 바퀴로 세 개의 볼 베어링이 있는 나무 블록에 지나지 않습니다.
+* 카트에 진자를 장착하고, 진자와 추를 포함한 전체 구조가 안정적인지 확인하십시오.
+* 진자의 중앙에 가로대를 고정하여 진자의 줄을 멈추게 하십시오. 쉽게 제거하고 높이를 조절할 수 있어야 합니다.
+* 진자에 질량을 매달아 주십시오.
 
-This pendulum is alternatingly long during half a period and short during the other half period.
-Now it’s a matter of trial-and error: due to resistance the cart should only move during the ‘short’ half-period, and not during the ‘long’ half-period. To achieve that you can vary and tune the following variables to maximum effect:
-* The amplitude 
-* The mass of the pendulum
-* The height of the cross-bar
-* The mass of the cart itself 
-* The underlying surface
+이 진자는 반 주기 동안은 길고 다른 반 주기 동안은 짧게 번갈아 가며 움직입니다.
+이제 시행착오의 문제입니다. 저항 때문에 카트는 '짧은' 반 주기 동안만 움직여야 하고 '긴' 반 주기 동안은 움직이지 않아야 합니다. 이를 달성하기 위해 다음 변수를 최대 효과를 내도록 변화시키고 조정할 수 있습니다.
+* 진폭
+* 진자의 질량
+* 가로대의 높이
+* 카트 자체의 질량
+* 밑면
 
-After all the cart should jerkily ride into one direction, after releasing the pendulum. 
+결국 카트는 진자를 놓은 후 한 방향으로 갑자기 움직여야 합니다.
 
-Our cart has a total mass of about one kilogram (including the pendulum), the mass of the pendulum is 0.10 kg, the pendulum has a length of 65 cm and the crossbar is about 45 cm underneath the point of suspension.
+우리 카트의 총 질량은 약 1kg(진자 포함)이고, 진자의 질량은 0.10kg이며, 진자의 길이는 65cm이고 가로대는 현수점에서 약 45cm 아래에 있습니다.
 
-## Procedure
-First, show the cart without cross-bar and ask for predictions what will happen after the pendulum has been released. Verify the predictions and discuss the outcome; this can be done considering conservation of momentum or Newtons third law.
+## 절차
+먼저, 가로대가 없는 카트를 보여주고 진자를 놓은 후 무슨 일이 일어날지 예측하도록 요청하십시오. 예측을 확인하고 결과를 토론하십시오. 이것은 운동량 보존 또는 뉴턴의 제3법칙을 고려하여 수행할 수 있습니다.
 
-Then show that the cart doesn’t move when the amplitude is small, and discuss the reason for this.
+그런 다음 진폭이 작을 때 카트가 움직이지 않는 것을 보여주고 그 이유를 토론하십시오.
 
-The final question is whether there is a way to get the cart moving in one direction. After having discussed that, it is time for the experiment: *mount the cross-bar and show it…*
+마지막 질문은 카트를 한 방향으로 움직이게 할 방법이 있는지 여부입니다. 그것에 대해 토론한 후 실험 시간입니다. *가로대를 장착하고 보여주십시오…*
 
-Ask the audience to look closely at the motion of the cart: during which stage of the oscillation does it move?
+청중에게 카트의 움직임을 자세히 보도록 요청하십시오. 진동의 어느 단계에서 움직이는가?
 
 ```{figure} demo15_figure2.jpg
 ---
 width: 50%
 align: center
-alt: a close up showing the end of the pendulum and the cart
+alt: 진자의 끝과 카트를 보여주는 클로즈업
 ---
-Showroomview
+쇼룸 뷰
 ```
 
-The discussion that follows must make clear in which way the properties of rolling resistance are responsible for this phenomenon.
-There might be a discussion about the question if this could also work with a sleigh, an air-cushion vehicle, or a boat.
+이어지는 토론에서는 구름 저항의 특성이 이 현상에 어떻게 책임이 있는지 명확히 해야 합니다.
+이것이 썰매, 공기 부양 차량 또는 보트에서도 작동할 수 있는지에 대한 토론이 있을 수 있습니다.
 
 ```{tip}
 :class: dropdown
-A thorough preparation is very important for this experiment to make sure it will work. In the case your demonstration table is not perfectly horizontal: don’t try to ride uphill but accept a little help from gravity…
+이 실험이 성공하려면 철저한 준비가 매우 중요합니다. 시연 테이블이 완벽하게 수평이 아닌 경우, 오르막길을 타려고 하지 말고 중력의 약간의 도움을 받으십시오…
 
-The demonstration could be expanded by using two different surfaces. On a very smooth surface conservation of momentum will occur regardless of the pendulum’s properties, on a surface with more friction it won’t. 
+시연은 두 가지 다른 표면을 사용하여 확장될 수 있습니다. 매우 매끄러운 표면에서는 진자의 특성에 관계없이 운동량 보존이 발생하지만, 마찰이 더 많은 표면에서는 그렇지 않습니다.
 
-This experiment can be used as a design assignment too. In that case the cart must be built with hardly any instructions and then be optimized for the experiment. That is only feasible when all the variables are being changed one-by-one in a very systematic way.
+이 실험은 설계 과제로도 사용될 수 있습니다. 이 경우 카트는 거의 지침 없이 만들어져야 하며 실험에 최적화되어야 합니다. 이는 모든 변수가 매우 체계적인 방식으로 하나씩 변경될 때만 가능합니다.
 ```
 
-## Physics background
-The pendulum bob is alternatingly accelerated and decelerated to the left and to the right.  So there must be an alternating force from the suspension point on the pendulum bob and - according to Newtons third law - also from the pendulum bob on the suspension point. It is important to realize that a force on the suspension point also means a force on the cart. 
+## 물리 배경
+진자추는 왼쪽과 오른쪽으로 번갈아 가속되고 감속됩니다. 따라서 현수점에서 진자추에 번갈아 가며 힘이 작용해야 하며, 뉴턴의 제3법칙에 따라 진자추에서 현수점에도 힘이 작용해야 합니다. 현수점에 가해지는 힘은 카트에도 힘을 의미한다는 것을 깨닫는 것이 중요합니다.
 
-If there is only mutual interaction the total linear momentum will be conserved which causes the momentums of the cart and the pendulum to be equal and have opposite directions. A small resistance between the underlying surface and the cart will cause gradual loss of energy but this won’t change the equality of momentums. And if the amplitude is sufficiently small the force on the suspension point will not exceed the maximum rolling resistance and the cart will not move.
+상호 작용만 있는 경우 총 선형 운동량은 보존되어 카트와 진자의 운동량이 같고 방향이 반대입니다. 밑면과 카트 사이의 작은 저항은 점진적인 에너지 손실을 유발하지만 이것이 운동량의 평등을 바꾸지는 않습니다. 그리고 진폭이 충분히 작으면 현수점에 가해지는 힘이 최대 구름 저항을 초과하지 않아 카트가 움직이지 않습니다.
 
-But if the pendulum is asymmetric, the force between pendulum and suspension point in one direction will be smaller but lasting longer than the force in the opposite direction. In this situation you can arrange it in such way that in one direction the force exceeds the maximal rolling resistance, but in the opposite direction it does not. So the cart will have a pulsed acceleration in one direction. In this situation there is an external force (friction), so linear momentum is no longer conserved. 
+그러나 진자가 비대칭이면 한 방향으로 진자와 현수점 사이의 힘이 다른 방향의 힘보다 작지만 더 오래 지속됩니다. 이 상황에서는 한 방향으로 힘이 최대 구름 저항을 초과하지만 반대 방향으로는 그렇지 않도록 배열할 수 있습니다. 따라서 카트는 한 방향으로 펄스 가속을 가질 것입니다. 이 상황에서는 외부 힘(마찰)이 있으므로 선형 운동량은 더 이상 보존되지 않습니다.
 
-The phenomenon can also be explained with Newtons laws: if the forces in both directions are equal and acting for equal intervals, then the acceleration in both directions will be equal too, as well as the increase and decrease of velocity. A friction force will not change that as long as it is equally strong in both directions. But due to the fact that rolling resistance has a maximum value, things are different as soon as the forces to the left and to the right are different.
+이 현상은 뉴턴의 법칙으로도 설명할 수 있습니다. 양방향의 힘이 같고 같은 간격 동안 작용하면 양방향의 가속도도 같으며 속도의 증가와 감소도 같습니다. 마찰력은 양방향으로 똑같이 강한 한 그것을 바꾸지 않을 것입니다. 그러나 구름 저항이 최대값을 갖는다는 사실 때문에 왼쪽과 오른쪽으로의 힘이 다를 때 상황이 달라집니다.
 
-This experiment could work with a sleigh (sliding resistance) as well, but not with a boat or a flying vehicle, because air-resistance and resistance in liquids are velocity-dependent and don’t have a maximum value. 
+이 실험은 썰매(미끄럼 저항)에서도 작동할 수 있지만, 보트나 비행 차량에서는 작동하지 않습니다. 왜냐하면 공기 저항과 액체 저항은 속도에 따라 달라지며 최대값이 없기 때문입니다.
 
 
-## Follow-up
-The phenomenon can be visualized by making graphs of the forces vs. time. You might sketch graphs of:
--	The force on the suspension point
--	The rolling resistance force
--	The resultant force
+## 후속 조치
+이 현상은 힘 대 시간 그래프를 만들어 시각화할 수 있습니다. 다음과 같은 그래프를 스케치할 수 있습니다.
+- 현수점에 가해지는 힘
+- 구름 저항력
+- 합력
 
-Draw the graphs straight above one another with the same time axis.
+동일한 시간 축으로 그래프를 서로 바로 위에 그립니다.
 
-Instead of sketching the graphs you could also have them calculated and drawn by means of a mathematics modelling programme.
+그래프를 스케치하는 대신 수학 모델링 프로그램을 사용하여 계산하고 그리게 할 수도 있습니다.
 
-Of course, the motion of the cart and the pendulum can also be measured and analyzed, e.g. by means of a video-measurement. In the case of a symmetric pendulum the amplitudes of the cart and the pendulum could be compared to their masses.
+물론, 카트와 진자의 움직임은 비디오 측정과 같은 방법으로 측정하고 분석할 수도 있습니다. 대칭 진자의 경우 카트와 진자의 진폭을 질량과 비교할 수 있습니다.

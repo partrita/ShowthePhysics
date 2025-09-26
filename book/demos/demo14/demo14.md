@@ -1,22 +1,22 @@
-# Stick-slip motion
-<span style="font-size: 25px; color: gray;">Kinetic versus static friction</span>
+# 스틱-슬립 운동
+<span style="font-size: 25px; color: gray;">운동 마찰 대 정지 마찰</span>
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Ineke Frederik</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">저자:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">이네케 프레데릭</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">15 minutes</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">시간:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">15분</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">16 - 18</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">연령 그룹:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">16 - 18세</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Kinetic and static friction</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">개념:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">운동 마찰 및 정지 마찰</td>
     </tr>
 </table>
 
@@ -33,55 +33,55 @@
 </div>
 
 
-## Introduction
-Friction is an everyday phenomenon. How would the world behave without friction? We describe two inexpensive demonstrations which show very clearly the difference between friction when there is no movement (static friction) and friction when two surfaces move relative to each other (kinetic friction). Many interesting applications can be found when static friction becomes kinetic friction.   
+## 소개
+마찰은 일상적인 현상입니다. 마찰이 없다면 세상은 어떻게 될까요? 우리는 움직임이 없을 때의 마찰(정지 마찰)과 두 표면이 서로 상대적으로 움직일 때의 마찰(운동 마찰)의 차이를 매우 명확하게 보여주는 두 가지 저렴한 시연을 설명합니다. 정지 마찰이 운동 마찰이 될 때 많은 흥미로운 응용 분야를 찾을 수 있습니다.
 
-Inspired by {cite:t}`Balsma`.
+{cite:t}`Balsma`에서 영감을 받았습니다.
 
-## Equipment
-* Smooth pvc-tube (diameter32 mm) 
-* Piece of cloth which easily slips over the surface of the tube (see {numref}`Figure {number} <demo14_fig1>`)
-* Small metal tray  (see {numref}`Figure {number} <demo14_fig2>`)
-* Spring (not stiff)
-* String
-* Washers  
+## 장비
+* 부드러운 PVC 튜브(직경 32mm)
+* 튜브 표면 위로 쉽게 미끄러지는 천 조각({numref}`그림 {number} <demo14_fig1>` 참조)
+* 작은 금속 쟁반({numref}`그림 {number} <demo14_fig2>` 참조)
+* 스프링(뻣뻣하지 않음)
+* 끈
+* 와셔
 
-## Preparation
-1. Test whether the cloth slides easily across the tube. Check whether it slides off towards one side as soon as the tube is tilted a bit. 
-2. Connect the spring to the small metal basket and attach a string on the other side of the spring. Make the container heavier using some washers or weights. 
+## 준비
+1. 천이 튜브를 가로질러 쉽게 미끄러지는지 테스트하십시오. 튜브를 약간 기울이면 한쪽으로 미끄러지는지 확인하십시오.
+2. 스프링을 작은 금속 바구니에 연결하고 스프링의 다른 쪽에 끈을 부착하십시오. 일부 와셔나 추를 사용하여 용기를 더 무겁게 만드십시오.
 
 
-## Procedure
-1. Hang the piece of cloth across the horizontal pvc-tube. One end should be lower than the other, but the cloth should not slide sideways (static friction)! Then move the tip of the tube gradually downward. The cloth starts to slide, not only downward, but also sideways! As soon as the cloth starts moving a bit, it will also slip sideways and rapidly slide off the tube. When starting to move, static friction becomes kinetic friction. Kinetic friction is smaller than the static friction which kept the cloth in its place initially. 
+## 절차
+1. 수평 PVC 튜브에 천 조각을 걸어 놓습니다. 한쪽 끝이 다른 쪽보다 낮아야 하지만, 천이 옆으로 미끄러져서는 안 됩니다(정지 마찰)! 그런 다음 튜브 끝을 점차 아래로 움직입니다. 천이 미끄러지기 시작하면 아래쪽뿐만 아니라 옆으로도 미끄러집니다! 천이 약간 움직이기 시작하면 옆으로도 미끄러져 튜브에서 빠르게 미끄러져 나옵니다. 움직이기 시작하면 정지 마찰이 운동 마찰이 됩니다. 운동 마찰은 처음에 천을 제자리에 고정시켰던 정지 마찰보다 작습니다.
 ```{figure} demo14_figure1.jpg
 ---
 width: 70%
 name: demo14_fig1
-alt: small rod with cloth, rod is turned.
+alt: 천이 있는 작은 막대, 막대가 회전합니다.
 ---
-Here it is shown that static friction is larger than kinetic friction.
+여기서는 정지 마찰이 운동 마찰보다 크다는 것을 보여줍니다.
 ```
 
-2. Put the tray on the floor then pull the string and walk with constant speed across the room, it is a bit like walking a dog (here the tray). The tray will jump ahead, stand still, jump ahead, etc. Ask your students for more examples of this phenomenon.
+2. 쟁반을 바닥에 놓고 끈을 당겨 방을 가로질러 일정한 속도로 걸어가면, 마치 개를 산책시키는 것과 같습니다(여기서는 쟁반). 쟁반이 앞으로 뛰었다가 멈추고, 다시 뛰었다가 멈추는 것을 반복합니다. 학생들에게 이 현상의 다른 예를 물어보십시오.
 
 ```{figure} demo14_figure2.jpg
 ---
 width: 70%
 name: demo14_fig2
-alt: small box pulled using spring 
+alt: 스프링을 사용하여 당겨지는 작은 상자
 ---
-Stick-slip demonstrated
+스틱-슬립 시연
 ```
 
-## Physics background
-When the piece of cloth is not moving, static friction ensures that the cloth does not move, even though one side is longer than the other. Once it starts moving, friction becomes kinetic rather than static and this kinetic friction turns out to be insufficient to compensate for the difference in weight of both sides of the cloth. 
+## 물리 배경
+천 조각이 움직이지 않을 때, 정지 마찰은 한쪽이 다른 쪽보다 길어도 천이 움직이지 않도록 합니다. 움직이기 시작하면 마찰은 정지 마찰이 아닌 운동 마찰이 되며, 이 운동 마찰은 천의 양쪽 무게 차이를 보상하기에 불충분한 것으로 나타났습니다.
 
-Through static friction the tray remains at rest until the force is big enough to overcome friction and the tray starts moving. While moving, the spring becomes shorter and yet the tray keeps moving, kinetic friction is smaller than static friction. That is until the spring becomes so short that the pulling force is smaller than kinetic friction. Now the tray stops and the process repeats itself. 
+정지 마찰을 통해 쟁반은 힘이 마찰을 극복하고 쟁반이 움직이기 시작할 만큼 커질 때까지 정지 상태를 유지합니다. 움직이는 동안 스프링은 짧아지지만 쟁반은 계속 움직이며, 운동 마찰은 정지 마찰보다 작습니다. 이는 스프링이 너무 짧아져 당기는 힘이 운동 마찰보다 작아질 때까지 계속됩니다. 이제 쟁반이 멈추고 과정이 반복됩니다.
 
-Stick-slip is jerking motion which occurs when a moving object stands still for a moment (sticks) and then jumps forward (slips). The effect may repeat itself continuously. It is the same phenomenon, which occurs when a piece of chalk is moved perpendicular to a traditional blackboard and produces a very unpleasant screeching sound. But also the screeching brakes of a car and the movement of a bow across the violin strings are examples of stick-slip friction, as well as earth quakes when layers of rock move across each other.   
-A bag drawn across a table with a string might exhibit stick-slip motion as well.
+스틱-슬립은 움직이는 물체가 잠시 멈추었다가(스틱) 앞으로 뛰는(슬립) 것을 반복하는 경련 운동입니다. 이 효과는 계속 반복될 수 있습니다. 전통적인 칠판에 수직으로 분필 조각을 움직일 때 매우 불쾌한 삐걱거리는 소리를 내는 것과 같은 현상입니다. 그러나 자동차의 삐걱거리는 브레이크와 바이올린 줄을 가로지르는 활의 움직임도 스틱-슬립 마찰의 예이며, 암석층이 서로를 가로질러 움직일 때의 지진도 마찬가지입니다.
+끈으로 테이블을 가로질러 끄는 가방도 스틱-슬립 운동을 보일 수 있습니다.
 
-## References
+## 참고문헌
 ```{bibliography}
 :filter: docname in docnames
 ```

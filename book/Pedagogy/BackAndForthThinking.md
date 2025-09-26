@@ -1,69 +1,69 @@
-# Thinking-Back-and-Forth 
-In all natural sciences, describing and explaining phenomena is key. A scientific description of a phenomenon evolves from everyday language to professional language, and from an arrangement of concepts into a coherent theory or model. These models and theories (in the world of ideas) allow us to develop hypotheses and predictions that can be tested by going back to the phenomenon (in the world of observations). When returning to the world of observations, our 'improved' theoretical understanding allows us to see more than we did when first observing the phenomenon. With 'new' observations come new questions, and so our understanding of the natural world develops in a process of observing, reflecting/questioning, and experimenting. This iterative and dynamic process of thinking-back-and-forth (TBF) {cite:p}`spaan2022analysing` between the empirical and the theory at each step of the process is a more accurate description of science than describing the scientific method as a linear process, from research question to experiment to conclusion.
+# 왔다 갔다 생각하기
+모든 자연 과학에서는 현상을 설명하고 기술하는 것이 핵심입니다. 현상에 대한 과학적 설명은 일상 언어에서 전문 언어로, 개념의 배열에서 일관된 이론이나 모델로 발전합니다. 이러한 모델과 이론(아이디어의 세계에서)을 통해 우리는 가설과 예측을 개발할 수 있으며, 이는 현상(관찰의 세계에서)으로 돌아가 테스트할 수 있습니다. 관찰의 세계로 돌아갈 때, 우리의 '개선된' 이론적 이해는 현상을 처음 관찰했을 때보다 더 많은 것을 볼 수 있게 해줍니다. '새로운' 관찰과 함께 새로운 질문이 생기고, 그렇게 자연 세계에 대한 우리의 이해는 관찰, 성찰/질문, 실험의 과정에서 발전합니다. 과정의 각 단계에서 경험적인 것과 이론 사이를 왔다 갔다 생각하는 이 반복적이고 역동적인 과정(TBF) {cite:p}`spaan2022analysing`은 과학적 방법을 연구 질문에서 실험, 결론에 이르는 선형적인 과정으로 설명하는 것보다 더 정확한 과학에 대한 설명입니다.
 
-## World of ideas and observations
+## 아이디어와 관찰의 세계
 ```{figure} Figures/stacked_liquids.jpg
 ---
 width: 50%
 name: fig:stacked_liquids
 figclass: margin
-alt: various objects stacked in a jar with different coloured liquids.
+alt: 다른 색의 액체가 담긴 병에 쌓인 다양한 물체들.
 ---
-Liquid column of 'stacked' liquids as shown in [Playing with density](../demos/demo34/demo34.md).
+[밀도 놀이](../demos/demo34/demo34.md)에서 보여지는 '쌓인' 액체의 액체 기둥.
 ```
 
-To define thinking-back-and-forth (TBF) properly, we distinguish between the domain of phenomena, objects and observations ('*hands-on*') and the domain of concepts and ideas ('*minds-on*'), see {numref}`Figure {number} <fig:Domain_explainer>`. A TBF activity links these two domains, it is an activity in which a line of reasoning or argument is constructed in which a hands-on aspect is linked to a minds-on aspect. As an example, we consider a demonstration in which the teacher creates a column of ["stacked" liquids of different densities](../demos/demo34/demo34.md), in which some objects are situated at the boundary planes, see {numref}`Figure {number} <fig:stacked_liquids>`. Present in the domain of *phenomena, objects and observations* are observations such as the stratification of liquids and the exact location of objects in the liquids. In the domain of *concepts and ideas* are underlying concepts such as volume, mass, density and buoyancy. When you formulate a line of reasoning like "the object is at the interface of water and oil so the density of the object is in between that of oil and water," you are engaged in TBF.
+왔다 갔다 생각하기(TBF)를 제대로 정의하기 위해, 우리는 현상, 사물, 관찰의 영역('*핸즈온*')과 개념과 아이디어의 영역('*마인즈온*')을 구별합니다({numref}`그림 {number} <fig:Domain_explainer>` 참조). TBF 활동은 이 두 영역을 연결하며, 핸즈온 측면이 마인즈온 측면과 연결되는 추론 또는 주장이 구성되는 활동입니다. 예를 들어, 교사가 서로 다른 밀도의 ["쌓인" 액체 기둥](../demos/demo34/demo34.md)을 만드는 시연을 생각해 봅시다. 여기에는 일부 물체가 경계면에 위치합니다({numref}`그림 {number} <fig:stacked_liquids>` 참조). *현상, 사물 및 관찰*의 영역에는 액체의 층상화 및 액체 내 물체의 정확한 위치와 같은 관찰이 존재합니다. *개념 및 아이디어*의 영역에는 부피, 질량, 밀도 및 부력과 같은 기본 개념이 있습니다. "물체가 물과 기름의 경계면에 있으므로 물체의 밀도는 기름과 물의 밀도 사이에 있다"와 같은 추론을 공식화할 때 TBF에 참여하는 것입니다.
 
 ```{figure} Figures/Domain_explainer.png
 ---
 width: 80%
 name: fig:Domain_explainer
-alt: a representation of the worlds of objects and the world of ideas
+alt: 사물의 세계와 아이디어의 세계를 표현한 그림
 ---
-In the domain of objects and observations, we observe and measure. In the domain of concepts and ideas, we try to reason with theories about how they are interrelated. Between those two domains we can think back-and-forth, identifying four kinds of activity.
+사물과 관찰의 영역에서는 관찰하고 측정합니다. 개념과 아이디어의 영역에서는 이론을 가지고 그것들이 어떻게 상호 관련되어 있는지 추론하려고 노력합니다. 이 두 영역 사이에서 우리는 네 가지 종류의 활동을 식별하면서 왔다 갔다 생각할 수 있습니다.
 ```
 
-TBF is shown schematically in {numref}`Figure {number} <fig:Domain_explainer>`. On the left is the world of phenomena in which we make observations and take measurements. On the right is the world of concepts and ideas in which we reason with concepts and models. The connecting arrows display the four different types (*explaining*, *concluding*, *predicting* and *designing*). Explaining and concluding include activities in which the students move from the world of observations (phenomena) to the world of ideas (theory and models). In *predicting*, the direction is reversed and theory is used to make statements about phenomena and measurements. We *design* experiments to test these predictions. 
+TBF는 {numref}`그림 {number} <fig:Domain_explainer>`에 개략적으로 표시되어 있습니다. 왼쪽은 우리가 관찰하고 측정하는 현상의 세계입니다. 오른쪽은 우리가 개념과 모델로 추론하는 개념과 아이디어의 세계입니다. 연결 화살표는 네 가지 다른 유형(*설명하기*, *결론 내리기*, *예측하기* 및 *설계하기*)을 표시합니다. 설명하고 결론 내리는 활동에는 학생들이 관찰의 세계(현상)에서 아이디어의 세계(이론 및 모델)로 이동하는 활동이 포함됩니다. *예측하기*에서는 방향이 반전되고 이론이 현상과 측정에 대한 진술을 하는 데 사용됩니다. 우리는 이러한 예측을 테스트하기 위해 실험을 *설계*합니다.
 
-Demonstrations are ideally suited to develop conceptual knowledge using TBF. As the teacher is (much) more skilled in the hands-on aspects such as manipulating the equipment, distracting 'noise' {cite:p}`johnstone1982demands` is reduced. With the help of the teacher, using interactive discussions, students can connect the world of phenomena with the world of ideas. A great example of this can be found in the demonstration [Speed of light in a liquid](../demos/demo62/demo62.ipynb).
+시연은 TBF를 사용하여 개념적 지식을 개발하는 데 이상적입니다. 교사가 장비 조작과 같은 핸즈온 측면에서 (훨씬) 더 숙련되어 있으므로 산만하게 하는 '소음' {cite:p}`johnstone1982demands`이 줄어듭니다. 교사의 도움과 대화형 토론을 통해 학생들은 현상의 세계와 아이디어의 세계를 연결할 수 있습니다. 이에 대한 훌륭한 예는 [액체 속 빛의 속도](../demos/demo62/demo62.ipynb) 시연에서 찾을 수 있습니다.
 
-When *explaining*, students search for a natural-science-based explanation for an observation or describe that observation using scientific terms. Instead of having students formulate their own explanation, concept cartoons {cite:p}`naylor2013concept` provide an opportunity for students to select a given explanation. Demonstrations in which explaining plays a major role include [Blowing out a light bulb](../demos/demo31/demo31.md), [Boiling by cooling](../demos/demo64/demo64.md), [Shadow of a flame](../demos/demo33/demo33.md) and [Mysterious fountain](../demos/demo91/demo91.md).
+*설명하기*에서 학생들은 관찰에 대한 자연 과학 기반 설명을 찾거나 과학 용어를 사용하여 해당 관찰을 설명합니다. 학생들이 자신의 설명을 공식화하게 하는 대신, 개념 만화 {cite:p}`naylor2013concept`는 학생들이 주어진 설명을 선택할 수 있는 기회를 제공합니다. 설명하기가 중요한 역할을 하는 시연에는 [전구 불 끄기](../demos/demo31/demo31.md), [냉각으로 끓이기](../demos/demo64/demo64.md), [불꽃의 그림자](../demos/demo33/demo33.md) 및 [신비한 분수](../demos/demo91/demo91.md)가 포함됩니다.
 
-*Concluding* often comes down to finding a general rule or determining some value that cannot be measured directly, such as the gravitational acceleration. Usually the general rule has the form of a mathematical relationship. Statements about a property of an object or substance are also part of drawing conclusions, such as whether or not an electric current is flowing. A conclusion is complete only if it is substantiated, which requires additional TBF. This becomes clear in, for example, [Measuring 'stars'](../demos/demo80/demo80.md). Reflecting on the accuracy of a determination occurs in [Determining g](../demos/demo73/demo73.ipynb) using a concept cartoon. Other demonstrations focusing on drawing conclusions include [Physics of the panflute](../demos/demo79/demo79.ipynb) and [Standing waves with an electric toothbrush](../demos/demo77/demo77.ipynb).
+*결론 내리기*는 종종 일반적인 규칙을 찾거나 중력 가속도와 같이 직접 측정할 수 없는 일부 값을 결정하는 것으로 귀결됩니다. 일반적으로 일반적인 규칙은 수학적 관계의 형태를 가집니다. 물체나 물질의 속성에 대한 진술도 결론 도출의 일부이며, 예를 들어 전류가 흐르는지 여부와 같습니다. 결론은 입증될 때만 완전하며, 이는 추가적인 TBF를 필요로 합니다. 이것은 예를 들어, ['별' 측정하기](../demos/demo80/demo80.md)에서 분명해집니다. 결정의 정확성에 대한 성찰은 개념 만화를 사용하여 [g 결정하기](../demos/demo73/demo73.ipynb)에서 발생합니다. 결론 도출에 초점을 맞춘 다른 시연에는 [팬플루트의 물리학](../demos/demo79/demo79.ipynb) 및 [전동 칫솔로 정상파 만들기](../demos/demo77/demo77.ipynb)가 포함됩니다.
 
-*Prediction* involves predictions of observations on the basis of (perceived) knowledge, it includes substantiation and is not meant to be a blind guess. Substantiation may be based in legitimate physics prior knowledge, but also in popular misconceptions based on "alternative theories." Prediction combines well with explanation. Examples of demonstrations that include predicting are [Investigating a devastating flame](../demos/demo39/demo39.md), [Up and down the hill](../demos/demo69/demo69.md), [Cooling of metal spheres](../demos/demo75/demo75.md) and [Upward and downward force](../demos/demo26/demo26.md).
+*예측하기*는 (인식된) 지식을 바탕으로 관찰을 예측하는 것을 포함하며, 입증을 포함하며 맹목적인 추측을 의미하지 않습니다. 입증은 합법적인 물리학 사전 지식에 기반할 수도 있지만, "대체 이론"에 기반한 대중적인 오해에 기반할 수도 있습니다. 예측은 설명과 잘 결합됩니다. 예측을 포함하는 시연의 예로는 [파괴적인 불꽃 조사하기](../demos/demo39/demo39.md), [언덕 위아래로](../demos/demo69/demo69.md), [금속 구 냉각하기](../demos/demo75/demo75.md) 및 [위쪽 및 아래쪽 힘](../demos/demo26/demo26.md)이 있습니다.
 
-*Designing* includes the designing of an experiment as part of research, as well as engineering design. Although design is not usually the focus of demonstrations, aspects of it can be addressed with a question such as "*If I want to achieve ..., what should I change about the setup?*". This plays out in [Lorentz force on charged particles](../demos/demo84/demo84.md) and [Crookes' radiometer](../demos/demo59/demo59.md).
+*설계하기*는 연구의 일부로서 실험을 설계하는 것뿐만 아니라 공학 설계도 포함합니다. 설계는 일반적으로 시연의 초점이 아니지만, "*...을 달성하려면 설정에 대해 무엇을 변경해야 합니까?*"와 같은 질문으로 그 측면을 다룰 수 있습니다. 이것은 [대전된 입자에 대한 로렌츠 힘](../demos/demo84/demo84.md) 및 [크룩스 복사계](../demos/demo59/demo59.md)에서 나타납니다.
 
-## Stimulation of TBF
-Once students link theories and concepts to observable phenomena, new questions arise that provide an opportunity to further stimulate thinking-back-and-forth. Sometimes it suffices to challenge students to formulate the research question precisely in terms of the physics language they have learned, thus highlighting the central importance of using correct language. As an example, consider a demonstration in which a large and a small stone are released and hit the ground at the same time. Would it make any difference if a very small stone was used? Would we get the same observation if they were dropped from a greater height? What would happen if a feather was attached to one of the stones? If students are challenged to formulate these questions in terms of physics concepts they can be expected to start using terms encountered previously such as air friction, gravity and possibly inertia. Using correct scientific language is essential because you cannot obtain a scientifically answerable question without it.
+## TBF 자극하기
+학생들이 이론과 개념을 관찰 가능한 현상과 연결하면, 왔다 갔다 생각을 더욱 자극할 수 있는 새로운 질문이 생깁니다. 때로는 학생들이 배운 물리 언어로 연구 질문을 정확하게 공식화하도록 도전하는 것만으로도 충분하며, 이는 올바른 언어 사용의 중심적인 중요성을 강조합니다. 예를 들어, 크고 작은 돌을 놓아 동시에 땅에 떨어지는 시연을 생각해 봅시다. 아주 작은 돌을 사용하면 차이가 있을까요? 더 높은 높이에서 떨어뜨리면 같은 관찰을 얻을 수 있을까요? 돌 중 하나에 깃털을 붙이면 어떻게 될까요? 학생들이 이러한 질문을 물리 개념으로 공식화하도록 도전받으면, 이전에 접했던 공기 마찰, 중력, 그리고 아마도 관성과 같은 용어를 사용하기 시작할 것으로 예상할 수 있습니다. 올바른 과학 언어를 사용하는 것은 필수적입니다. 왜냐하면 그것 없이는 과학적으로 답할 수 있는 질문을 얻을 수 없기 때문입니다.
 
-Often several pedagogical pathways are available to engage students in thinking-back-and-forth. The teacher chooses in advance which thinking-back-and-forth -tasks the students will undertake and which ones will not be included this time. As a example, we will look at a [PEOE demonstration](PoE.md) of an electrical mixed circuit, see {numref}`Figure {number} <fig:combi_schakeling>`. 
+종종 학생들을 왔다 갔다 생각에 참여시키기 위해 여러 교육적 경로를 사용할 수 있습니다. 교사는 학생들이 어떤 왔다 갔다 생각 과제를 수행하고 이번에는 어떤 것을 포함하지 않을지 미리 선택합니다. 예를 들어, 전기 혼합 회로의 [PEOE 시연](PoE.md)을 살펴보겠습니다({numref}`그림 {number} <fig:combi_schakeling>` 참조).
 
 ```{figure} Figures/combi_schakeling.png
 ---
 width: 50%
 name: fig:combi_schakeling
-alt: an electric circuit with a light bulb in series with two parallel light bulbs.
+alt: 직렬로 연결된 전구 하나와 병렬로 연결된 두 개의 전구가 있는 전기 회로.
 ---
-Mixed circuit. Explaining what happens with the brightness of the lamps if one is unscrewed requires a lot of TBF.
+혼합 회로. 전구 하나를 풀었을 때 램프의 밝기에 무슨 일이 일어나는지 설명하려면 많은 TBF가 필요합니다.
 ```
 
-As a teacher you may elect to focus on the concepts of (replacement) resistance and current flow via *predicting* and *explaining*. The starting question could be *What happens to the brightness of bulbs **B** and **C** if bulb **A** is unscrewed?* You may help students through asking multiple-choice questions. After a brief exchange of answers and arguments, you as the teacher unscrew bulb **A**. Bulb **B** and **C** appear to be turned off. The explanation is sought in class and linked to the concepts resistance (which becomes very large) and current (which becomes zero). You now tighten bulb **A** again and ask what happens to the brightness of bulbs **A** and **C** when bulb **B** is unscrewed. The students should now be asked to formulate their answer and justify it. Again there is an exchange of ideas before you actually unscrew bulb **B**. Then the assignment is for students in pairs to figure out what was wrong with their previously given incorrect explanations (which are very likely to occur) and ultimately find the correct explanation. Doing the explanation task in this way will produce strong ack-and-forth thinking. It is important that you as a teacher finalize by relating the concepts of (replacement) resistance and current correctly to the explanation. 
+교사로서 당신은 (대체) 저항과 전류 흐름의 개념에 *예측하기*와 *설명하기*를 통해 초점을 맞추도록 선택할 수 있습니다. 시작 질문은 *전구 **A**를 풀면 전구 **B**와 **C**의 밝기는 어떻게 됩니까?*가 될 수 있습니다. 객관식 질문을 통해 학생들을 도울 수 있습니다. 답변과 주장에 대한 간단한 교환 후, 교사로서 당신은 전구 **A**를 풉니다. 전구 **B**와 **C**는 꺼진 것처럼 보입니다. 설명은 수업에서 찾아지고 (매우 커지는) 저항과 (0이 되는) 전류의 개념과 연결됩니다. 이제 전구 **A**를 다시 조이고 전구 **B**를 풀었을 때 전구 **A**와 **C**의 밝기에 무슨 일이 일어나는지 묻습니다. 학생들은 이제 답을 공식화하고 정당화하도록 요청받아야 합니다. 실제로 전구 **B**를 풀기 전에 다시 아이디어 교환이 있습니다. 그런 다음 과제는 학생들이 짝을 지어 이전에 제시된 잘못된 설명(발생할 가능성이 매우 높음)에 무엇이 잘못되었는지 알아내고 궁극적으로 올바른 설명을 찾는 것입니다. 이런 방식으로 설명 과제를 수행하면 강력한 왔다 갔다 생각이 생성됩니다. 교사로서 (대체) 저항과 전류의 개념을 설명과 올바르게 관련시켜 마무리하는 것이 중요합니다.
 
-With a different approach and through other TBF activities, further concepts may be developed. For example, draw circuit diagrams using clearly visible wires (use a camera!). Then let students think back and forth between the abstract representation of the circuit diagram and the built circuit actually on the table. Yet another way in would be to ask students what in the circuit would have to be changed in order for all three bulbs to light up with the appropriate brightness without adding any other bulb. This would be a design activity. Possibilities abound. Our job as teachers is to make an optimally appropriate selection from these and develop conceptual understanding as best we can!
+다른 접근 방식과 다른 TBF 활동을 통해 추가 개념을 개발할 수 있습니다. 예를 들어, 명확하게 보이는 전선을 사용하여 회로도를 그립니다(카메라 사용!). 그런 다음 학생들이 회로도의 추상적인 표현과 실제로 테이블 위에 만들어진 회로 사이를 왔다 갔다 생각하게 하십시오. 또 다른 방법은 학생들에게 다른 전구를 추가하지 않고 세 개의 전구 모두 적절한 밝기로 켜지려면 회로에서 무엇을 변경해야 하는지 묻는 것입니다. 이것은 설계 활동이 될 것입니다. 가능성은 무궁무진합니다. 교사로서 우리의 임무는 이들 중에서 최적으로 적절한 선택을 하고 가능한 한 최선을 다해 개념적 이해를 개발하는 것입니다!
 
-> **How do we bring thinking-back-and-forth into the pedagogy of demonstrations**
-> 
-> One way to do so is by a solid **preparation** of the demonstration:
-> 1. List the phenomena that are observable in the demonstration.
-> 2. List the concepts associated with these phenomena. Which of these concepts fit the learning objectives of your activity? <br> Steps 1 and 2 are best carried out while you yourself are building the setup.
-> 3. Maintain focus. Which phenomena merely distract from the goal and create noise? Furthermore, which concepts will you want to avoid to prevent distracting 'noise'?
-> 4. Devise a stepwise plan for the demonstration with explicit attention for the back-and-forth thinking questions you will ask and the assignments you will give.
+> **어떻게 왔다 갔다 생각을 시연 교육학에 도입할 수 있을까요?**
 >
-> See [Force and motion with a bowling ball](../demos/demo43/demo43.md) and [Lorentz force on charged particles](../demos/demo84/demo84.md) for worked out examples of the stepwise plan.
+> 그렇게 하는 한 가지 방법은 시연을 철저히 **준비**하는 것입니다:
+> 1. 시연에서 관찰 가능한 현상을 나열합니다.
+> 2. 이러한 현상과 관련된 개념을 나열합니다. 이 개념 중 어느 것이 활동의 학습 목표에 부합합니까? <br> 1단계와 2단계는 직접 설정을 구축하는 동안 수행하는 것이 가장 좋습니다.
+> 3. 초점을 유지하십시오. 어떤 현상이 목표에서 단지 주의를 분산시키고 소음을 만듭니까? 또한, 주의를 분산시키는 '소음'을 피하기 위해 어떤 개념을 피하고 싶습니까?
+> 4. 물어볼 왔다 갔다 생각 질문과 줄 과제에 명시적으로 주의를 기울여 시연을 위한 단계별 계획을 세우십시오.
+>
+> 단계별 계획의 구체적인 예는 [볼링공으로 힘과 운동](../demos/demo43/demo43.md) 및 [대전된 입자에 대한 로렌츠 힘](../demos/demo84/demo84.md)을 참조하십시오.
 
-## References
+## 참고문헌
 ```{bibliography}
 :filter: docname in docnames
 ```

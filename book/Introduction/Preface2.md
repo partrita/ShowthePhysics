@@ -1,14 +1,14 @@
-# Preface from the editor
+# 편집자 서문
 
-Demonstrations never got the attention they deserve in my physics classroom. That was until I started working on the Show*de*Fysica books. There were just so many lovely, inspiring and educational demonstrations - made by my fellow authors - that I could use in my own lessons, I got hooked. It is for good reason that the three volumes of Show*de*Fysica are treasured in the Netherlands.
+시연은 제 물리 교실에서 마땅히 받아야 할 관심을 받지 못했습니다. Show*de*Fysica 책 작업을 시작하기 전까지는요. 동료 저자들이 만든 사랑스럽고 영감을 주며 교육적인 시연이 너무 많아서 제 수업에 활용할 수 있었고, 저는 푹 빠졌습니다. 세 권의 Show*de*Fysica가 네덜란드에서 소중히 여겨지는 데에는 그만한 이유가 있습니다.
 
-As team of authors, we always believed that these demonstrations well suited a wider audience than the physics teachers from the Netherlands and Vlaanderen. With the completion of the translation of a selection of about 1/3 of the original demonstrations, we finally reach this goal. It has been a tremendous job to translate these demos and make these fit the online book format. That is, we had to redo several demos, video recording these so small clips could be include and include online (for instance) Python simulations as done in this [demo about radioactive decay](../demos/demo97/demo97.ipynb). Moreover, we did our best to even lower barriers to do a full data-analysis using Python, for instance in this [demo about determining $g$](../demos/demo73/demo73.ipynb). 
+저자 팀으로서 저희는 항상 이러한 시연이 네덜란드와 플랑드르의 물리 교사보다 더 넓은 독자층에게 적합하다고 믿었습니다. 원본 시연의 약 1/3을 선정하여 번역을 완료함으로써 마침내 이 목표를 달성했습니다. 이러한 데모를 번역하고 온라인 책 형식에 맞게 만드는 것은 엄청난 작업이었습니다. 즉, 저희는 여러 데모를 다시 촬영하여 작은 클립을 포함하고 온라인에 포함시켜야 했습니다. 예를 들어, [방사성 붕괴에 대한 이 데모](../demos/demo97/demo97.ipynb)에서처럼 파이썬 시뮬레이션을 포함했습니다. 또한, 예를 들어 [$g$를 결정하는 이 데모](../demos/demo73/demo73.ipynb)에서처럼 파이썬을 사용하여 전체 데이터 분석을 수행하는 장벽을 더욱 낮추기 위해 최선을 다했습니다.
 
-We hope that this book may serve as a source of inspiration and captivates you just as it has each member of the author team.
+이 책이 저자 팀의 각 구성원을 사로잡았던 것처럼 여러분에게도 영감의 원천이 되기를 바랍니다.
 
 <div align="right">
 
-Freek Pols *(editor)*\
+프릭 폴스 *(편집자)*\
 2024 - 07 - 15
 
 </div>
@@ -16,7 +16,7 @@ Freek Pols *(editor)*\
 ```{figure} Figures/FP.JPG
 ---
 width: 70%
-alt: two of the authors doing a physics demonstration at a workshop. Freek is standing on the table.
+alt: 두 명의 저자가 워크숍에서 물리 시연을 하고 있습니다. 프릭이 테이블 위에 서 있습니다.
 ---
-Norbert (left) and Freek (on table) at a workshop on physics demonstrations.
+워크숍에서 물리 시연을 하고 있는 노르베르트(왼쪽)와 프릭(테이블 위).
 ```

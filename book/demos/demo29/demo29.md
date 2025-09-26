@@ -1,21 +1,21 @@
-# Extinguishing without water
+# 물 없이 끄기
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Wim Sonneveld</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">저자:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">빔 손네벨트</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">5 minutes</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">시간:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">5분</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">연령 그룹:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">14</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">gas, density, fire</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">개념:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">가스, 밀도, 불</td>
     </tr>
 </table>
 
@@ -31,41 +31,41 @@
     </div>
 </div>
 
-## Introduction
-In this demonstration, you light a tea light candle and then extinguish it without water. The existence of a gas is difficult for lower-grade students to imagine. Almost all gases are invisible, so it's hard to conceive how a gas behaves. The demonstration illustrates the behavior of a gas.
+## 소개
+이 시연에서는 티라이트 촛불을 켜고 물 없이 끕니다. 가스의 존재는 저학년 학생들이 상상하기 어렵습니다. 거의 모든 가스는 보이지 않으므로 가스가 어떻게 행동하는지 상상하기 어렵습니다. 이 시연은 가스의 행동을 보여줍니다.
 
 ```{figure} demo29_figure3.jpg
 ---
 width: 50%
 align: center
-alt: schematic, lit candle in beaker and a tube filled with carbondioxide, poured in beaker with candle
+alt: 개략도, 비커에 켜진 촛불과 이산화탄소로 채워진 튜브, 촛불이 있는 비커에 부음
 ---
-Diagram of a burning tea light candle and a glass with vinegar and baking soda.
+타는 티라이트 촛불과 식초와 베이킹 소다가 담긴 유리잔의 다이어그램.
 ```
 
-## Equipment
-* Tea light candle
-* Glass that fits the candle
-* Glass or jar
-* Lighter/matches
-* Vinegar
-* Baking soda or soda
+## 장비
+* 티라이트 촛불
+* 촛불에 맞는 유리잔
+* 유리잔 또는 병
+* 라이터/성냥
+* 식초
+* 베이킹 소다 또는 소다
 
-## Preparation
-Put vinegar and baking soda or soda in the jar. Not too much, as it will bubble and overflow from the jar. This can be clearly seen in the video. The bubbling is caused by the carbon dioxide gas that is released.
+## 준비
+병에 식초와 베이킹 소다 또는 소다를 넣으십시오. 너무 많이 넣지 마십시오. 거품이 일어 병에서 넘칠 수 있습니다. 이것은 비디오에서 명확하게 볼 수 있습니다. 거품은 방출되는 이산화탄소 가스에 의해 발생합니다.
 
-## Procedure
-1. Place the candle in a glass and light it.
-2. Make a pouring motion with the jar just above the flame (see {numref}`Figure {number} <demo29_fig2>`). The flame goes out ({numref}`Figure {number} <demo29_fig1>`) because the carbon dioxide flows over it.
+## 절차
+1. 촛불을 유리잔에 놓고 불을 붙입니다.
+2. 불꽃 바로 위에서 병으로 붓는 동작을 합니다({numref}`그림 {number} <demo29_fig2>` 참조). 이산화탄소가 그 위로 흐르기 때문에 불꽃이 꺼집니다({numref}`그림 {number} <demo29_fig1>`).
 
 ```{figure} demo29_figure2.jpg
 ---
 width: 50%
 align: center
 name: demo29_fig2
-alt: lit candle, carbondioxide poured in
+alt: 켜진 촛불, 이산화탄소 부음
 ---
-Pour the contents of the glass with vinegar and baking soda over the candle.
+식초와 베이킹 소다가 담긴 유리잔의 내용물을 촛불 위에 붓습니다.
 ```
 
 ```{figure} demo29_figure1.jpg
@@ -73,23 +73,23 @@ Pour the contents of the glass with vinegar and baking soda over the candle.
 width: 50%
 align: center
 name: demo29_fig1
-alt: candle extinguished 
+alt: 촛불 꺼짐
 ---
-The tea light candle is extinguished by something invisible... what is it?
+티라이트 촛불이 보이지 않는 무언가에 의해 꺼졌습니다... 그것은 무엇일까요?
 ```
 
-## Physics background
-Baking soda and vinegar react with each other, producing carbon dioxide. This gas is heavier than air and remains in the glass, and it's invisible. Pouring it over the candle, this gas extinguishes the candle flame without seeming to have done anything.
+## 물리 배경
+베이킹 소다와 식초는 서로 반응하여 이산화탄소를 생성합니다. 이 가스는 공기보다 무거워서 유리잔에 남아 있으며 보이지 않습니다. 촛불 위에 부으면, 이 가스는 아무것도 하지 않은 것처럼 보이면서 촛불 불꽃을 끕니다.
 
 ```{tip}
-* After the demonstration, you can talk about the dangers of suffocation due to CO2 and other heavy gases. An example is the [Nyos disaster](https://en.wikipedia.org/wiki/Lake_Nyos_disaster) in 1986, where a large number of residents in Cameroon were suffocated in their sleep due to the sudden release of CO$_2$ from a volcanic crater lake.
-* Show a fire extinguisher that relies on this extinguishing effect of carbon dioxide. These extinguishers are easily recognizable because they have a black expansion tube or snow tube at the end of the hose. There is a handle between the expansion tube and the hose that must be held during use of the extinguisher. The handle is necessary because the end of the unprotected tube becomes very cold (up to about -80°C), and one can suffer third-degree burns from this extreme cold.
+* 시연 후, CO2 및 기타 무거운 가스로 인한 질식의 위험에 대해 이야기할 수 있습니다. 예를 들어, 1986년 [니오스 재앙](https://en.wikipedia.org/wiki/Lake_Nyos_disaster)이 있습니다. 이 재앙에서는 카메룬의 많은 주민들이 화산 분화구 호수에서 갑자기 방출된 CO$_2$로 인해 잠자는 동안 질식사했습니다.
+* 이산화탄소의 소화 효과에 의존하는 소화기를 보여주십시오. 이 소화기는 호스 끝에 검은색 팽창 튜브 또는 스노우 튜브가 있기 때문에 쉽게 알아볼 수 있습니다. 팽창 튜브와 호스 사이에는 소화기 사용 중에 잡아야 하는 손잡이가 있습니다. 손잡이는 보호되지 않은 튜브 끝이 매우 차가워지기 때문에(최대 약 -80°C) 필요하며, 이 극심한 추위로 인해 3도 화상을 입을 수 있습니다.
 ```
 
-## Follow-up
-Light a second candle in a jam jar and seal it. When it is extinguished, pour the gas over the burning first candle: does it extinguish?
+## 후속 조치
+잼 병에 두 번째 촛불을 켜고 밀봉하십시오. 꺼지면 가스를 타는 첫 번째 촛불 위에 붓습니다. 꺼질까요?
 
-> One of our testers  used two tall standing glasses as an alternative, one of which is filled with CO$_2$ from a cylinder; the other glass contains air.\
-> A candle on a wire is kept in the glass with air and remains lit. Then in the glass with CO$_2$; it immediately extinguishes.\
-> Then, as if pouring liquid, pour the CO$_2$ gas into the other glass. The heavier carbon dioxide gas displaces the air, and you repeat the experiment with the burning candle. Especially the pouring is hilarious for the students; it makes the experiment memorable.\
-> If no CO$_2$ gas cylinder is available, you may use some solid dry ice from a discarded extinguisher to fill the glass with CO$_2$. That works just as well.
+> 우리 테스터 중 한 명은 대안으로 두 개의 키가 큰 유리잔을 사용했습니다. 그중 하나는 실린더에서 나온 CO$_2$로 채워져 있고, 다른 유리잔에는 공기가 들어 있습니다.\
+> 철사에 달린 촛불을 공기가 든 유리잔에 넣으면 계속 타오릅니다. 그런 다음 CO$_2$가 든 유리잔에 넣으면 즉시 꺼집니다.\
+> 그런 다음, 액체를 붓는 것처럼 CO$_2$ 가스를 다른 유리잔에 붓습니다. 더 무거운 이산화탄소 가스가 공기를 밀어내고, 타는 촛불로 실험을 반복합니다. 특히 붓는 것은 학생들에게 재미있습니다. 그것은 실험을 기억에 남게 만듭니다.\
+> CO$_2$ 가스 실린더를 사용할 수 없는 경우, 버려진 소화기에서 나온 고체 드라이아이스를 사용하여 유리잔을 CO$_2$로 채울 수 있습니다. 그것도 마찬가지로 잘 작동합니다.

@@ -1,22 +1,22 @@
-# Does Van de Graaff not like a shower? 
-<span style="font-size: 25px; color: gray;">Testing statements about electrostatics with a Van de Graaff generator and soap bubbles</span>
+# 반 데 그라프는 샤워를 싫어할까?
+<span style="font-size: 25px; color: gray;">반 데 그라프 발전기와 비눗방울로 정전기에 대한 진술 테스트하기</span>
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Wouter Spaan</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">저자:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">바우터르 스판</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">15 minutes</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">시간:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">15분</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">15 - 18</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">연령 그룹:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">15 - 18세</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Charge, electrostatic induction, Coulomb force</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">개념:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">전하, 정전기 유도, 쿨롱 힘</td>
     </tr>
 </table>
 
@@ -24,61 +24,61 @@
 ---
 width: 80%
 align: center
-alt: soap bubbles above a Van de Graaff generator
+alt: 반 데 그라프 발전기 위의 비눗방울
 ---
-The soap bubble gun and the Van de Graaff generator. In this picture, most bubbles move away from the generator. 
+비눗방울 총과 반 데 그라프 발전기. 이 사진에서 대부분의 비눗방울은 발전기에서 멀어집니다.
 ```
 
-## Introduction
-The demonstration of the interaction of Van de Graaff generator with soap bubbles is well-known. In the version described below, our focus is on the development of reasoning skills. 
+## 소개
+반 데 그라프 발전기와 비눗방울의 상호작용 시연은 잘 알려져 있습니다. 아래에 설명된 버전에서는 추론 능력 개발에 중점을 둡니다.
 
-## Equipment
-* Van de Graaff generator
-* Soap bubble gun
-* Camera
+## 장비
+* 반 데 그라프 발전기
+* 비눗방울 총
+* 카메라
 
-## Preparation
-For the best visibility, the bubbles should be blown from above to the Van de Graaf generator. Try this out.
+## 준비
+가장 잘 보이도록 하려면 비눗방울을 위에서 반 데 그라프 발전기로 불어야 합니다. 이것을 시도해 보십시오.
 
-## Procedure
-Blow the bubbles from above to the Van de Graaff generator (or let a student do this). Ask the students to write down their observations. You will probably get remarks such as 'the bubbles move away from the generator'. A good observer may have seen that initially the bubbles are moving towards the generator.
+## 절차
+위에서 반 데 그라프 발전기로 비눗방울을 불어보십시오(또는 학생에게 시켜보십시오). 학생들에게 관찰한 내용을 적도록 요청하십시오. 아마도 '비눗방울이 발전기에서 멀어진다'와 같은 말을 듣게 될 것입니다. 좋은 관찰자는 처음에 비눗방울이 발전기 쪽으로 움직이는 것을 보았을 것입니다.
 
 ```{figure} demo10_figure2.jpg
 ---
 width: 70%
 align: center
-alt: soap bubbles above a Van de Graaff generator
+alt: 반 데 그라프 발전기 위의 비눗방울
 ---
-The bubbles on the left move towards the Van de Graaff generator, while the bubbles on the right move away from the generator. How is that possible?
+왼쪽의 비눗방울은 반 데 그라프 발전기 쪽으로 움직이는 반면, 오른쪽의 비눗방울은 발전기에서 멀어집니다. 어떻게 그럴 수 있을까요?
 ```
 
-Then you start the process of developing explanations and testing these using (better) observations. The concept cartoon in {numref}`Figure {number} <demo10_fig3>` can be helpful as a start. It is important to determine what (observable) consequences each of the proposed explanations has. One can look for these in the experiment and help decide which explanation is the best one:
-1.	The bubbles are neutral (carry no net charge) throughout the process: the bubbles will move towards the Van de Graaff generator just like small pieces of paper.
-2.	The bubbles are charged from the start: depending on the charge of the bubbles they will move towards the generator or away from it.
-3.	The bubbles get charged on the way: the bubbles will change their behavior halfway. First they move towards the generator (as in explanation 1) and then their behavior depends on the charge of the bubbles (as in explanation 2).
+그런 다음 (더 나은) 관찰을 사용하여 설명을 개발하고 테스트하는 과정을 시작합니다. {numref}`그림 {number} <demo10_fig3>`의 개념 만화가 시작으로 도움이 될 수 있습니다. 제안된 각 설명이 어떤 (관찰 가능한) 결과를 갖는지 결정하는 것이 중요합니다. 실험에서 이것들을 찾아보고 어떤 설명이 가장 좋은지 결정하는 데 도움을 줄 수 있습니다.
+1. 비눗방울은 과정 내내 중성입니다(순 전하를 띠지 않음): 비눗방울은 작은 종잇조각처럼 반 데 그라프 발전기 쪽으로 움직일 것입니다.
+2. 비눗방울은 처음부터 대전되어 있습니다: 비눗방울의 전하에 따라 발전기 쪽으로 움직이거나 멀어질 것입니다.
+3. 비눗방울은 도중에 대전됩니다: 비눗방울은 중간에 행동을 바꿀 것입니다. 먼저 발전기 쪽으로 움직이고(설명 1에서처럼) 그런 다음 비눗방울의 전하에 따라 행동이 달라집니다(설명 2에서처럼).
 
 ``` {figure} demo10_figure3.png
 ---
 width: 70%
 name: demo10_fig3
-alt: a cartoon with four different statements to express what is happening
+alt: 무슨 일이 일어나고 있는지 표현하는 네 가지 다른 진술이 있는 만화
 ---
-The concept cartoon can be used to start the discussion.
+개념 만화는 토론을 시작하는 데 사용될 수 있습니다.
 ```
 
-You can record the experiment on video and play it on a screen. Using the recording, students can improve their own observations and then discuss which explanation best fits the observations. It is helpful to play it half speed, making it clear that the bubbles initially move towards the Van de Graaff generator, only to turn around and move away eventually. It can be seen that some bubbles even move away from each other. Obviously, explanation number 3 (the bubbles acquire charge along the way) is the most likely conclusion, although some students will persevere their own opinion. 
+실험을 비디오로 녹화하여 화면에 재생할 수 있습니다. 녹화물을 사용하여 학생들은 자신의 관찰을 개선한 다음 어떤 설명이 관찰에 가장 잘 맞는지 토론할 수 있습니다. 절반 속도로 재생하면 비눗방울이 처음에는 반 데 그라프 발전기 쪽으로 움직이다가 결국 돌아서 멀어지는 것이 분명해져 도움이 됩니다. 일부 비눗방울은 서로 멀어지는 것도 볼 수 있습니다. 분명히, 3번 설명(비눗방울이 도중에 전하를 얻음)이 가장 가능성 있는 결론이지만, 일부 학생들은 자신의 의견을 고집할 것입니다.
 
-For a correct explanation, it is important to focus on the moment the bubbles change their behavior, since there is no explanation to the crucial question how these bubbles get charged yet. It turns out the bubbles change their behavior just after one of them hits the generator and pops. 
+정확한 설명을 위해서는 비눗방울이 행동을 바꾸는 순간에 집중하는 것이 중요합니다. 왜냐하면 이 비눗방울이 어떻게 대전되는지에 대한 결정적인 질문에 대한 설명이 아직 없기 때문입니다. 비눗방울 중 하나가 발전기에 부딪혀 터진 직후에 행동이 바뀌는 것으로 나타났습니다.
 
-Finally, it is important to evaluate the process of doing inquiry. Starting with a research question, we developed possible explanations (hypotheses) and formulated observable consequences (predictions) which would be the consequence of a correct explanation. Using other techniques we verified which of our prediction, and therefor explanation is the right one.  
+마지막으로, 탐구 과정을 평가하는 것이 중요합니다. 연구 질문으로 시작하여, 우리는 가능한 설명(가설)을 개발하고 올바른 설명의 결과가 될 관찰 가능한 결과(예측)를 공식화했습니다. 다른 기술을 사용하여 우리의 예측 중 어느 것이, 따라서 설명이 옳은지 확인했습니다.
 
 ```{tip}
-There are more ways to work on research skills using this demonstration:
-* If the students write down their observations, then you can pay attention to the objective formulation of these observations. For example, what is the difference between 'the bubbles are attracted by the sphere' and 'the bubbles move towards the sphere'? Is it important to distinguish between these two types of sentences?
-* You can discuss the difference between a hypothesis and a prediction. A hypothesis is independent of the experiment, the prediction is dependent on the set-up of the experiment. One possible hypothesis is ‘the bubbles are negatively charged from the start’, a potential corresponding prediction is 'the bubbles will move away from the negatively charged Van de Graaff generator’.
+이 시연을 사용하여 연구 기술을 연구하는 방법은 더 많습니다.
+* 학생들이 관찰 내용을 적는다면, 이러한 관찰의 객관적인 표현에 주의를 기울일 수 있습니다. 예를 들어, '비눗방울이 구에 의해 끌린다'와 '비눗방"울이 구 쪽으로 움직인다'의 차이점은 무엇입니까? 이 두 가지 유형의 문장을 구별하는 것이 중요합니까?
+* 가설과 예측의 차이점에 대해 토론할 수 있습니다. 가설은 실험과 독립적이며, 예측은 실험 설정에 따라 달라집니다. 가능한 가설 중 하나는 '비눗방울은 처음부터 음전하를 띤다'이고, 해당 예측은 '비눗방울은 음전하를 띤 반 데 그라프 발전기에서 멀어질 것이다'입니다.
 ```
 
-## Physics background
-Initially, the bubbles are attracted by the Van de Graaff generator through electrostatic induction: the dipolar water molecules align with the electric field of the generator. Because the field is inhomogeneous, there is an attracting force towards the charged sphere of the generator. The bubbles have no net charge yet! 
+## 물리 배경
+처음에 비눗방울은 정전기 유도에 의해 반 데 그라프 발전기에 끌립니다: 쌍극자 물 분자가 발전기의 전기장에 정렬됩니다. 장이 불균일하기 때문에 발전기의 대전된 구 쪽으로 인력이 작용합니다. 비눗방울은 아직 순 전하를 띠지 않습니다!
 
-When the first bubble touches the generator sphere, it will receive the same type of charge as the generator and it will burst. The resulting droplets have the same charge and are thus repelled by the sphere and hit the bubbles that are still on their way to the generator. These bubbles get charged resulting in a repulsive force, consequently, the bubbles will start moving away from the generator. A new series of bubbles will initially be attracted again and so on.
+첫 번째 비눗방울이 발전기 구에 닿으면 발전기와 같은 종류의 전하를 받고 터집니다. 결과 물방울은 같은 전하를 띠고 따라서 구에 의해 밀려나 아직 발전기로 향하는 비눗방울에 부딪힙니다. 이 비눗방울은 대전되어 반발력이 발생하므로 비눗방울은 발전기에서 멀어지기 시작합니다. 새로운 일련의 비눗방울은 처음에 다시 끌릴 것이고 계속됩니다.

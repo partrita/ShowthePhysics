@@ -1,106 +1,106 @@
-# Introduction
-Physics demonstrations are fascinating, inspiring, and educational—they truly deserve to be spotlighted in our classrooms. However, they also require a significant investment of time. Gathering and coordinating materials, setting up components in such a way that the focus is on the key aspects, preparing the presentation—these are just the starting point. Engaging students and involving them deeply, sparking curiosity, building suspense, to ultimately unveil the phenomenon. All this effort is meant to ensure that your audience will never forget your demonstration! And, finally, all the cleaning up... Should you even bother doing demonstrations? **Absolutely!!!** But when you do, do it right! Make it memorable and impactful, turning a simple lesson into an unforgettable learning experience. 
+# 소개
+물리 시연은 매혹적이고, 영감을 주며, 교육적입니다. 진정으로 우리 교실에서 주목받을 가치가 있습니다. 하지만 상당한 시간 투자도 필요합니다. 자료를 모으고 조정하며, 핵심적인 측면에 초점을 맞추도록 구성 요소를 설정하고, 발표를 준비하는 것은 시작에 불과합니다. 학생들의 참여를 유도하고 깊이 관여시키며, 호기심을 자극하고, 긴장감을 조성하여 마침내 현상을 공개합니다. 이 모든 노력은 청중이 여러분의 시연을 절대 잊지 못하게 하기 위함입니다! 그리고 마지막으로, 모든 것을 정리해야 합니다... 시연을 굳이 해야 할까요? **물론입니다!!!** 하지만 할 때는 제대로 해야 합니다! 기억에 남고 영향력 있게 만들어 단순한 수업을 잊을 수 없는 학습 경험으로 바꾸십시오.
 
 ```{figure} ../demos/demo12/demo12_figure2.jpg
 ---
 width: 100%
 figclass: margin
-alt: a teacher balancing a stick on his finger
+alt: 손가락으로 막대기의 균형을 잡고 있는 선생님
 ---
-A teacher demonstrating [stability](../demos/demo12/demo12.md)
+[안정성](../demos/demo12/demo12.md)을 시연하는 선생님
 ```
 
-Where most books on physics demonstrations describe the experiments only, we provide thoughtful approaches and elaborate what is known about the pedagogy of demonstrations.
+대부분의 물리 시연에 관한 책들이 실험 자체만을 설명하는 반면, 우리는 사려 깊은 접근 방식을 제공하고 시연 교육학에 대해 알려진 바를 상세히 설명합니다.
 
-## What can demonstrations accomplish?
-Almost everyone who is enthusiastic about STEM education remembers a great demonstration. One that sticks in the memory. One that you would like to share because you enjoyed it so much yourself. But did you learn anything from it? Do physics concepts become better anchored? An article in the *American Journal of Physics* states:
+## 시연으로 무엇을 이룰 수 있을까요?
+STEM 교육에 열정적인 거의 모든 사람들은 멋진 시연을 기억합니다. 기억에 남는 시연, 너무 즐거워서 다른 사람들과 공유하고 싶은 시연 말입니다. 하지만 그 시연에서 무엇을 배웠나요? 물리 개념이 더 잘 자리 잡았나요? *American Journal of Physics*의 한 기사는 다음과 같이 말합니다.
 
-> Despite popular beliefs to the contrary, students learn little, if anything, from traditionally presented classroom demonstrations {cite:p}`crouch2004classroom`.
+> 일반적인 믿음과는 달리, 학생들은 전통적으로 제시되는 교실 시연으로부터 거의 아무것도 배우지 못합니다 {cite:p}`crouch2004classroom`.
 
-So... should we abandon those demonstrations? That at least would save time... a lot of time. {cite:t}`crouch2004classroom` fortunately also report that you can significantly increase the learning effect of demonstrations. To do so, one important part of your demonstration may involve asking your students to [predict the result](PoE). Meaningful predictions of the results (requiring some understanding of the phenomenon) followed by their observation is reported to lead to increased learning. They also show significantly more insight and understanding, which in the study was reflected in a better test result. Whether students learn anything from a demonstration is then much less in question.
+그렇다면... 시연을 포기해야 할까요? 그러면 적어도 시간을 절약할 수 있을 텐데... 많은 시간을 말입니다. {cite:t}`crouch2004classroom`은 다행히도 시연의 학습 효과를 크게 높일 수 있다고 보고합니다. 그렇게 하려면 시연의 중요한 부분 중 하나가 학생들에게 [결과를 예측](PoE)하도록 요청하는 것일 수 있습니다. (현상에 대한 어느 정도의 이해를 요구하는) 의미 있는 결과 예측과 그에 따른 관찰은 학습 증가로 이어진다고 보고됩니다. 또한 그들은 훨씬 더 많은 통찰력과 이해를 보여주었고, 이는 연구에서 더 나은 시험 결과로 반영되었습니다. 학생들이 시연에서 무언가를 배우는지 여부는 훨씬 덜 의심스럽습니다.
 
 ```{figure} ../demos/demo98/demo98_figure2.JPG
 ---
 width: 70%
-alt: a crumbled can.
+alt: 구겨진 캔.
 ---
-Who will forget a great demonstration, one that comes with a BANG?!
+누가 멋진 시연, 쾅! 소리와 함께하는 시연을 잊을 수 있을까요?!
 ```
 
-A carefully considered pedagogical strategy can increase the likelihood that a demonstration increases students' comprehension of the phenomenon at hand. This is why this book, alongside many physics demonstrations, presents those strategies relevant to physics demonstrations. We first cover some basic ideas and then for each of the four demonstration categories in this book devote a section to their specific purposes.
+신중하게 고려된 교육학적 전략은 시연이 당면한 현상에 대한 학생들의 이해를 높일 가능성을 높일 수 있습니다. 이것이 이 책이 많은 물리 시연과 함께 물리 시연과 관련된 전략을 제시하는 이유입니다. 우리는 먼저 몇 가지 기본 아이디어를 다루고, 이 책의 네 가지 시연 범주 각각에 대해 특정 목적에 대한 섹션을 할애합니다.
 
-So what exactly can you accomplish with demonstrations? The overall learning goals can be categorized as follows (after {cite:t}`hodson1993re`):
+그렇다면 시연으로 정확히 무엇을 성취할 수 있을까요? 전체적인 학습 목표는 다음과 같이 분류할 수 있습니다({cite:t}`hodson1993re` 이후).
 
-### Learning physics
-It is often said that *"practical activities help students understand the theory better by relating it to the world around them"*. We think the converse is also very important: *"Students learn to better understand the world around them by linking it to the theory"*. This is known as "learning physics". Our [Demonstrations for conceptual development](../demos/Conceptdemos1.md) cover learning objectives of this kind. 
+### 물리학 배우기
+*"실용적인 활동은 학생들이 이론을 주변 세계와 연관시켜 더 잘 이해하도록 돕는다"*고 흔히 말합니다. 우리는 그 반대도 매우 중요하다고 생각합니다. *"학생들은 이론과 연결하여 주변 세계를 더 잘 이해하게 된다"*. 이것은 "물리학 배우기"로 알려져 있습니다. 우리의 [개념 발달을 위한 시연](../demos/Conceptdemos1.md)은 이러한 종류의 학습 목표를 다룹니다.
 
-Most of our demonstrations relate to conceptual development. They have been chosen for their suitability for elucidating a physical phenomenon or concept. They belong in regular instruction lessons. The descriptions often include step-by-step suggestions for implementation in class, including opportunities to get students thinking for themselves as much as possible. They stimulate physical thinking and help students build a conceptual network in physics.
+우리 시연의 대부분은 개념 발달과 관련이 있습니다. 물리적 현상이나 개념을 명확히 설명하는 데 적합하기 때문에 선택되었습니다. 정규 수업에 속합니다. 설명에는 학생들이 가능한 한 스스로 생각할 수 있는 기회를 포함하여 수업에서 구현하기 위한 단계별 제안이 종종 포함됩니다. 그들은 물리적 사고를 자극하고 학생들이 물리학에서 개념적 네트워크를 구축하도록 돕습니다.
 
-### Learning about physics
-*How do physicist work?* If physicists come across an interesting phenomenon or problem, is there a strategy that always works and provides a rigorous answer or solution? Is that answer set in stone for ever or may it be modified or replaced later on? How sure are scientists if they have come up with a new theory that explains a phenomenon in, e.g., the field of quantum mechanics? "Learning about physics" *focuses* (amongst others) *on the methods scientists employ to pursue those concerns, the distinctive language in which scientific knowledge is expressed, the role and status of the knowledge scientists generate and how that knowledge is scrutinized and validated* {cite:p}`hodson2014learning`.
+### 물리학에 대해 배우기
+*물리학자들은 어떻게 일할까요?* 물리학자들이 흥미로운 현상이나 문제에 직면했을 때, 항상 작동하고 엄격한 답이나 해결책을 제공하는 전략이 있을까요? 그 답은 영원히 확정된 것일까요, 아니면 나중에 수정되거나 대체될 수 있을까요? 과학자들은 양자 역학 분야의 현상을 설명하는 새로운 이론을 제시했을 때 얼마나 확신할까요? "물리학에 대해 배우기"는 (무엇보다도) *과학자들이 이러한 관심사를 추구하기 위해 사용하는 방법, 과학적 지식이 표현되는 독특한 언어, 과학자들이 생성하는 지식의 역할과 위상, 그리고 그 지식이 어떻게 면밀히 조사되고 검증되는지에 초점을 맞춥니다* {cite:p}`hodson2014learning`.
 
-Our demonstrations on [nature of science](../demos/NOSdemos.md) aim at a deeper understanding of the characteristics of science/physics.
+[과학의 본성](../demos/NOSdemos.md)에 대한 우리의 시연은 과학/물리학의 특성에 대한 더 깊은 이해를 목표로 합니다.
 
-### Learning to do physics
-Physics education aims at developing in students the ability to think like a physicist {cite:p}`van1991learning`. This requires a thorough understanding of the nature of science, a broad and deep conceptual understanding of many phenomena, but also expertise in doing physics. 
+### 물리학 하기 배우기
+물리학 교육은 학생들에게 물리학자처럼 생각하는 능력을 개발하는 것을 목표로 합니다 {cite:p}`van1991learning`. 이를 위해서는 과학의 본성에 대한 철저한 이해, 많은 현상에 대한 폭넓고 깊은 개념적 이해, 그리고 물리학을 하는 전문성이 필요합니다.
 
-As stated by {cite:t}`kozminski2014aapt`:
->Physics is a way of approaching problem solving, which requires direct observation and physical experimentation. Being successful in this endeavor requires one to synthesize and use a broad spectrum of knowledge and skills, including mathematical, computational, experimental, and practical skills; and to develop particular habits of mind. “Thinking like a physicist” and constructing knowledge of our physical universe pervade all of the recommended learning outcomes.
+{cite:t}`kozminski2014aapt`에서 언급했듯이:
+> 물리학은 직접적인 관찰과 물리적 실험을 필요로 하는 문제 해결 접근 방식입니다. 이 노력에서 성공하려면 수학적, 계산적, 실험적, 실용적 기술을 포함한 광범위한 지식과 기술을 종합하고 사용해야 하며, 특정 사고 습관을 개발해야 합니다. "물리학자처럼 생각하기"와 우리 물리적 우주에 대한 지식 구축은 권장되는 모든 학습 결과에 스며들어 있습니다.
 
-It this therefore not sufficient to learn (about) physics, students need to *do physics* to gain a deeper understanding of what being a physicist entails. Citing {cite:t}`hodson2014learning`: 
-> Here the emphasis is not on learning about the methods used by scientists, nor on developing expertise in using particular laboratory techniques (the emphasis of much laboratory work in school), but on using the methods and procedures of science to investigate phenomena, test and develop understanding, solve problems and follow interests.
+따라서 (물리학에 대해) 배우는 것만으로는 충분하지 않으며, 학생들은 물리학자가 되는 것이 무엇을 수반하는지에 대한 더 깊은 이해를 얻기 위해 *물리학을 해야* 합니다. {cite:t}`hodson2014learning`을 인용하면:
+> 여기서 강조점은 과학자들이 사용하는 방법에 대해 배우는 것도 아니고, 특정 실험실 기술을 사용하는 전문성을 개발하는 것도 아닙니다(학교 실험실 작업의 많은 부분에서 강조됨). 오히려 과학의 방법과 절차를 사용하여 현상을 조사하고, 이해를 테스트하고 발전시키며, 문제를 해결하고, 관심사를 따르는 것입니다.
 
 ```{figure} ../Introduction/Figures/pols.jpg
 ---
 figclass: margin
 width: 75%
-alt: Freek standing on a ladder, large stance with a balloon. Freek will pop the balloon.
+alt: 프릭이 사다리 위에 서서 풍선을 들고 크게 서 있습니다. 프릭이 풍선을 터뜨릴 것입니다.
 ---
-[Determination of $g$](../demos/demo73/demo73.ipynb) revolves around the question how you can determine the acceleration due to gravity as precise as possible.
+[$g$의 결정](../demos/demo73/demo73.ipynb)은 중력으로 인한 가속도를 가능한 한 정확하게 결정하는 방법에 대한 문제를 중심으로 전개됩니다.
 ```
 
-Our [demonstrations on teaching scientific inquiry](../demos/Inquirydemos.md) cover this learning objective. These demonstrations aim at teaching students to become aware of the decisions they have to make when conceiving a scientific investigation. They are meant to teach students to thoroughly consider various options and determine, also in regard of the practical limitations, what decision is 'best' from a scientific perspective. [Argumentation](./Argumentation.ipynb) plays a major role in this. 
+[과학적 탐구 교육에 대한 우리의 시연](../demos/Inquirydemos.md)은 이 학습 목표를 다룹니다. 이러한 시연은 학생들이 과학적 조사를 구상할 때 내려야 할 결정에 대해 인식하도록 가르치는 것을 목표로 합니다. 학생들에게 다양한 옵션을 철저히 고려하고 실질적인 한계를 고려하여 과학적 관점에서 어떤 결정이 '최선'인지 결정하도록 가르치기 위한 것입니다. [논증](./Argumentation.ipynb)은 이것에 중요한 역할을 합니다.
 
-Teaching students how to investigate their world independently in a scientific way includes addressing questions such as:
-1. What does it mean when some claim is said to be *"scientifically proven"*? 
-2. What values are attached to a claim if it is *"scientifically proven"*? 
-3. What do you have to do to prove something scientifically, and how certain is knowledge obtained in that way?
+학생들에게 자신의 세계를 과학적인 방식으로 독립적으로 조사하는 방법을 가르치는 것에는 다음과 같은 질문을 다루는 것이 포함됩니다.
+1. 어떤 주장이 *"과학적으로 입증되었다"*고 할 때 그것은 무엇을 의미합니까?
+2. 어떤 주장이 *"과학적으로 입증되었다"*면 그 주장에 어떤 가치가 부여됩니까?
+3. 무언가를 과학적으로 증명하기 위해 무엇을 해야 하며, 그렇게 얻은 지식은 얼마나 확실합니까?
 
-It also involves answering these questions based on observations, and obtaining observations of sufficient quality. During this process, the students get an idea what it is to be a scientist. The demonstrations described here revolve around the skills that are indispensable in scientific research on the one hand and about the characteristics of science on the other. These skills include carefully observing, critically analyzing a problem, developing a model to explain observations, or testing expectations with an experiment {cite:p}`pols2022defining`. The knowledge created in the process is man-made. That knowledge is as certain as knowledge ever gets and yet will always be amenable to improvement. 
+또한 관찰을 기반으로 이러한 질문에 답하고 충분한 품질의 관찰을 얻는 것도 포함됩니다. 이 과정에서 학생들은 과학자가 되는 것이 무엇인지에 대한 아이디어를 얻습니다. 여기에 설명된 시연은 한편으로는 과학 연구에 없어서는 안 될 기술과 다른 한편으로는 과학의 특성을 중심으로 전개됩니다. 이러한 기술에는 신중하게 관찰하고, 문제를 비판적으로 분석하고, 관찰을 설명하기 위한 모델을 개발하거나, 실험으로 기대를 테스트하는 것이 포함됩니다 {cite:p}`pols2022defining`. 그 과정에서 생성된 지식은 사람이 만든 것입니다. 그 지식은 지식이 얻을 수 있는 한 확실하며 그럼에도 불구하고 항상 개선될 수 있습니다.
 
-### Affective goals
-There might be a fourth reason why we include demonstrations in our teaching-not included in the framework of {cite:t}`hodson2014learning`. Although *all physics* should be taught in such a way that it is interesting and relevant to students, especially demonstrations have the possibility to motivate students, evoke pleasure in physics, arouse interest in the subject, and develop fascination with the phenomena {cite:p}`kempa1988functions`. Demonstrations contribute to an understanding of the motivations of physicists and an appreciation of their achievements. This aspect of "learning about physics" in [Demonstrations for special occasions](../demos/Specialdemos.md) probably requires no further explanation.
+### 정서적 목표
+{cite:t}`hodson2014learning`의 프레임워크에는 포함되지 않았지만, 우리가 교육에 시연을 포함하는 네 번째 이유가 있을 수 있습니다. *모든 물리학*은 학생들에게 흥미롭고 관련성 있는 방식으로 가르쳐야 하지만, 특히 시연은 학생들에게 동기를 부여하고, 물리학에 대한 즐거움을 불러일으키며, 과목에 대한 관심을 불러일으키고, 현상에 대한 매력을 개발할 수 있는 가능성을 가지고 있습니다 {cite:p}`kempa1988functions`. 시연은 물리학자들의 동기를 이해하고 그들의 업적을 감상하는 데 기여합니다. [특별한 경우를 위한 시연](../demos/Specialdemos.md)에서 "물리학에 대해 배우기"의 이 측면은 아마도 더 이상의 설명이 필요 없을 것입니다.
 
-Demonstrations are fun to include in special occasions: at an open day, an anniversary or a farewell. In this book you will find examples of demonstrations that stimulate thought, but which also have a surprising or playful twist, making them suitable to show at such special occasions. The topics are by no means always part of the school physics curriculum. However they all appeal to common sense while the outcome is often counterintuitive. The charm of physics is taken full advantage of in this section!
+시연은 개교기념일, 기념일 또는 송별회와 같은 특별한 행사에 포함시키기에 재미있습니다. 이 책에서는 생각을 자극하지만 놀랍거나 장난기 있는 반전이 있어 그러한 특별한 행사에서 보여주기에 적합한 시연의 예를 찾을 수 있습니다. 주제가 항상 학교 물리 교육 과정의 일부인 것은 아닙니다. 그러나 그것들은 모두 상식에 호소하는 반면 결과는 종종 직관에 반합니다. 이 섹션에서는 물리학의 매력을 최대한 활용합니다!
 
 ``` {figure} Figures/singingrod.jpg
 ---
 width: 40%
 align: center
-alt: a teacher with a tall rod, moving his fingers along the rod.
+alt: 키가 큰 막대를 든 선생님이 막대를 따라 손가락을 움직이고 있습니다.
 ---
-A teacher demonstrating the [singing rod](../demos/demo81/demo81.ipynb) to teach students about standing waves.
+학생들에게 정상파에 대해 가르치기 위해 [노래하는 막대](../demos/demo81/demo81.ipynb)를 시연하는 선생님.
 ```
 
-## Different goals demand different methods
-Many of our demonstrations can be easily adapted to be used for a different purpose. Our description may focus on conceptual development and support your exploration with students of what is happening and why it happens in a certain way. But you may equally well use that same demonstration to ask students to think of further questions associated with the observed phenomena and experiments to explore them, and instead aim at teaching them how to set up a scientific investigation. It needs little explanation that each of these goals require different teaching strategies and, hence, obtained their own chapter in this book.
+## 다른 목표는 다른 방법을 요구합니다
+우리의 많은 시연은 다른 목적으로 사용되도록 쉽게 조정될 수 있습니다. 우리의 설명은 개념 개발에 초점을 맞추고 무슨 일이 일어나고 왜 특정 방식으로 일어나는지에 대한 학생들과의 탐구를 지원할 수 있습니다. 그러나 동일한 시연을 사용하여 학생들에게 관찰된 현상 및 실험과 관련된 추가 질문을 생각하도록 요청하고 대신 과학적 조사를 설정하는 방법을 가르치는 것을 목표로 할 수도 있습니다. 이러한 각 목표에는 다른 교육 전략이 필요하며, 따라서 이 책에서 자체 장을 얻었다는 설명은 거의 필요하지 않습니다.
 
-We have found the following questions of value: 
-1. What is happening here? Do I understand this, or is it different than I thought?
-2. What is the meaning of what is happening here? When we say that this is how it *'really'* is, what exactly do we mean?
-3. Is this actually true? Can I convince myself and others that this is really the way it is?
+다음 질문이 가치가 있다는 것을 발견했습니다.
+1. 여기서 무슨 일이 일어나고 있습니까? 이것을 이해합니까, 아니면 내가 생각했던 것과 다릅니까?
+2. 여기서 일어나는 일의 의미는 무엇입니까? 이것이 *'실제로'* 이렇다고 말할 때, 우리는 정확히 무엇을 의미합니까?
+3. 이것이 실제로 사실입니까? 이것이 정말로 그렇다는 것을 나 자신과 다른 사람들을 설득할 수 있습니까?
 
-In physics research, all of these questions matter but in demonstrations this is not always the case. And certainly not all of them at the same time. Demonstrations play a role in the learning process where you have to offer problems in stepwise fashion, gradually shifting the emphasis over the course of the learning process to more complex problems. That provides the viewer with the opportunity to processing and develop skills that ultimately add up to an inquisitive attitude.
+물리학 연구에서는 이러한 모든 질문이 중요하지만 시연에서는 항상 그런 것은 아닙니다. 그리고 확실히 모든 것이 동시에 그런 것은 아닙니다. 시연은 학습 과정에서 문제를 단계적으로 제공해야 하는 역할을 하며, 학습 과정 전반에 걸쳐 점차적으로 더 복잡한 문제로 강조점을 이동시킵니다. 이는 시청자에게 궁극적으로 탐구적인 태도로 이어지는 기술을 처리하고 개발할 수 있는 기회를 제공합니다.
 
-Questions like question 1. encourage [thinking-back-and-forth between theory and practice](../Pedagogy/BackAndForthThinking.md). In demonstrations of this kind something often happens that your audience doesn't expect and that raises questions. This will allow you to illustrate how in physical research you are constantly testing theory and practice against each other. Students experience this with the support of the teacher in the demonstrations. 
+질문 1과 같은 질문은 [이론과 실제 사이의 앞뒤로 생각하기](../Pedagogy/BackAndForthThinking.md)를 장려합니다. 이러한 종류의 시연에서는 청중이 예상하지 못했던 일이 종종 발생하며 이는 질문을 제기합니다. 이를 통해 물리적 연구에서 이론과 실제를 지속적으로 서로 테스트하는 방법을 설명할 수 있습니다. 학생들은 시연에서 교사의 지원을 받아 이것을 경험합니다.
 
-Questions like question 2. focus on [argumentation](../Pedagogy/Argumentation.ipynb). When doing scientific inquiry students often seem satisfied with any answer they can find, without spending further effort in finding the most *convincing* answer available. In science only that optimally convincing answer would be good enough.
-But what do we find convincing in science, and why? Demonstrations can develop scientific understandings of this kind in students. 
+질문 2와 같은 질문은 [논증](../Pedagogy/Argumentation.ipynb)에 중점을 둡니다. 과학적 탐구를 할 때 학생들은 찾을 수 있는 모든 답변에 만족하는 것처럼 보이며, 사용 가능한 가장 *설득력 있는* 답변을 찾는 데 더 이상 노력을 기울이지 않습니다. 과학에서는 오직 그 최적으로 설득력 있는 답변만이 충분히 좋을 것입니다.
+그러나 우리는 과학에서 무엇을 설득력 있다고 생각하며, 그 이유는 무엇입니까? 시연은 학생들에게 이러한 종류의 과학적 이해를 발전시킬 수 있습니다.
 
-Questions such as question 3. deal with the [nature of science](../Pedagogy/Nos.md). In successful research the researcher is looking for something that was not yet known. 
-But what exactly does it mean when that researcher says, "I have scientifically established this"? Are the findings definitely and definitely true then? Would another researcher always and everywhere come to the same conclusion then? Demonstrations contribute to an understanding of the nature and quality of the product of physical research: scientific knowledge. 
+질문 3과 같은 질문은 [과학의 본성](../Pedagogy/Nos.md)을 다룹니다. 성공적인 연구에서 연구원은 아직 알려지지 않은 것을 찾고 있습니다.
+그러나 그 연구원이 "나는 이것을 과학적으로 확립했다"고 말할 때 그것은 정확히 무엇을 의미합니까? 그러면 그 발견은 확실하고 확실히 사실입니까? 다른 연구원은 항상 그리고 어디서나 같은 결론에 도달할까요? 시연은 물리적 연구의 산물인 과학적 지식의 본질과 질에 대한 이해에 기여합니다.
 
-## References
+## 참고문헌
 ```{bibliography}
 :filter: docname in docnames
 ```
