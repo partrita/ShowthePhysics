@@ -4,10 +4,9 @@ __pycache__/
 *$py.class
 docs/data/
 !./_build/html/CNAME
-_build/html/
+# Jupyter Book build outputs
 _build/
-.vscode/
-private/
+book/_build/
 .ipynb_checkpoints/
 
 # C extensions
@@ -123,3 +122,5 @@ WND/
 
 sdf yt/
 *.code-workspace
+.DS-Store
+
