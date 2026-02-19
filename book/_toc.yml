@@ -178,20 +178,21 @@ parts:
       - file: external/content/Magnetism.md
       - file: external/content/Heat.md
       - file: external/content/Earthscience.md    
-      - file: external/content/Modernphysics.md    
-    
+      - file: external/content/Modernphysics.md
+
+      - url: https://github.com/Natuurkunde/Broekzakdemos/blob/main/content/demos.md
+        title: Broekzakdemos source
             
-      - external: https://github.com/Natuurkunde/Broekzakdemos/blob/main/content/demos.md
-    # - external: https://github.com/Natuurkunde/Broekzakdemos/blob/main/content/Mechanics.md
-    # - external: https://github.com/Natuurkunde/Broekzakdemos/blob/main/content/Electricity.md
-    # - external: https://github.com/Natuurkunde/Broekzakdemos/blob/main/content/Magnetism.md
-    # - external: https://github.com/Natuurkunde/Broekzakdemos/blob/main/content/Light.md
-    # - external: https://github.com/Natuurkunde/Broekzakdemos/blob/main/content/Oscillations.md
-    # - external: https://github.com/Natuurkunde/Broekzakdemos/blob/main/content/Sound.md
-    # - external: https://github.com/Natuurkunde/Broekzakdemos/blob/main/content/Liquids.md
-    # - external: https://github.com/Natuurkunde/Broekzakdemos/blob/main/content/Heat.md    
-    # - external: https://github.com/Natuurkunde/Broekzakdemos/blob/main/content/Modernphysics.md
-    # - external: https://github.com/Natuurkunde/Broekzakdemos/blob/main/content/Earthscience.md
+    # - url: https://github.com/Natuurkunde/Broekzakdemos/blob/main/content/Mechanics.md
+    # - url: https://github.com/Natuurkunde/Broekzakdemos/blob/main/content/Electricity.md
+    # - url: https://github.com/Natuurkunde/Broekzakdemos/blob/main/content/Magnetism.md
+    # - url: https://github.com/Natuurkunde/Broekzakdemos/blob/main/content/Light.md
+    # - url: https://github.com/Natuurkunde/Broekzakdemos/blob/main/content/Oscillations.md
+    # - url: https://github.com/Natuurkunde/Broekzakdemos/blob/main/content/Sound.md
+    # - url: https://github.com/Natuurkunde/Broekzakdemos/blob/main/content/Liquids.md
+    # - url: https://github.com/Natuurkunde/Broekzakdemos/blob/main/content/Heat.md    
+    # - url: https://github.com/Natuurkunde/Broekzakdemos/blob/main/content/Modernphysics.md
+    # - url: https://github.com/Natuurkunde/Broekzakdemos/blob/main/content/Earthscience.md
 
   - caption: References
     chapters:
