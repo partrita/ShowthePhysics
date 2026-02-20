@@ -1,21 +1,21 @@
-# Rich boiling phenomena
+# 풍부한 끓음 현상
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Ron Vonk</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">저자:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">론 봉크</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">15 minutes</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">시간:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">15분</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">14 - 18</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">연령 그룹:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">14 - 18세</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Heating, expansion, boiling, condensation, pressure</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">개념:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">가열, 팽창, 끓음, 응결, 압력</td>
     </tr>
 </table>
 
@@ -31,81 +31,81 @@
     </div>
 </div>
 
-## Introduction
-Boiling might seem ordinary at first glance, but there's a lot to observe and explain physically in this seemingly mundane situation.
+## 소개
+끓는 현상은 언뜻 평범해 보일 수 있지만, 이 겉보기에 평범한 상황 속에는 물리적으로 관찰하고 설명할 내용이 아주 많습니다.
 
-This demonstration is earlier described in {cite:t}`Vonk2015`.
+이 시연은 이전에 {cite:t}`Vonk2015`에서 설명되었습니다.
 
-## Equipment
-- Thick-walled Erlenmeyer flask
-- 500 mL beaker or water basin
-- 1 m rubber tubing
-- Sealing cork or rubber stopper with hole for tubing for the Erlenmeyer
-- Glass U-tube that fits the tubing
-- Burner
-- Tripod
-- Stand with male connectors and clamps
-- Slightly colored water
-- Matches or lighter
-- Safety goggles
+## 장비
+- 벽이 두꺼운 삼각 플라스크
+- 500mL 비커 또는 수조
+- 1m 고무 튜브
+- 튜브용 구멍이 있는 삼각 플라스크용 고무 마개
+- 고무 튜브에 맞는 유리 U자관
+- 버너
+- 삼각대
+- 커넥터와 클램프가 있는 스탠드
+- 약간의 색을 넣은 물
+- 성냥 또는 라이터
+- 보호 안경
 
 ```{figure} demo36_figure1.jpg
 ---
 width: 70%
 align: center
-alt: the setup consisting of a heater with a flask on it, an aquarium filled with blue colored water, flask and water are connected with a tube
+alt: 버너 위에 플라스크가 있고, 파란색 물이 담긴 수조와 플라스크가 튜브로 연결된 설정
 ---
-The setup of the experiment.
+실험 설정.
 ```
 
-## Preparation
-Prepare the setup:
-1. Fill the 500 mL beaker with water and color it slightly.
-2. Put a layer of 1 to 2 cm water in the Erlenmeyer and seal it with the stopper + tubing. Place it on the tripod and secure the whole to the stand.
-3. Hang the tubing in the water of the beaker, ensuring the end is a few cm below the water surface.
+## 준비
+설정 준비:
+1. 500mL 비커에 물을 채우고 색을 약간 넣습니다.
+2. 삼각 플라스크에 1~2cm 높이로 물을 넣고 마개와 튜브로 막습니다. 삼각대 위에 올리고 스탠드에 전체를 고정합니다.
+3. 튜브의 끝이 수면 아래 몇 cm 깊이에 오도록 비커의 물속에 담급니다.
 
 ```{warning}
-There is a risk that the Erlenmeyer flask will burst due to contact with the cold water. That is why we recommend safety glasses.
+찬물과의 접촉으로 인해 삼각 플라스크가 깨질 위험이 있습니다. 따라서 보호 안경 착용을 권장합니다.
 ```
 
-## Procedure
-1. Teacher: *We are going to heat the water in the Erlenmeyer flask until it boils. What will you see in the beaker or water container while the water is heated and not yet boiling and why?* Students write their individual predictions in the table (see below).
-2. Teacher: *What will you see in the beaker when the water in the Erlenmeyer flask boils and why?*
-3. Now turn on the burner, bubbles will soon appear in the beaker/water container.
-4. Teacher: *What are those bubbles made of? What causes the bubbles?* (see [Can it be air?](../demo09/demo09.md))
-5. After the water in the Erlenmeyer flask boils, the bubbles decrease and the bubbles stop. 
-6. Teacher: *How did that happen? What are they made of?*
-7. Teacher: *We will remove the burner, what will happen in the Erlenmeyer flask? Why?*
-7. Burner is removed. The water stops boiling, but then suddenly starts boiling again. At the same time, water is sucked back from the beaker and the Erlenmeyer flask quickly fills up.
-8. Teacher: *Describe what you see and explain what happens.*
+## 절차
+1. 교사: *삼각 플라스크의 물이 끓을 때까지 가열할 것입니다. 물이 가열되는 동안 아직 끓지 않을 때 비커나 수조에서 무엇을 볼 수 있을까요? 그 이유는 무엇일까요?* 학생들은 아래 표에 개별 예측을 적습니다.
+2. 교사: *삼각 플라스크의 물이 끓을 때 비커에서는 무엇을 보게 될까요? 그 이유는 무엇일까요?*
+3. 이제 버너를 켭니다. 곧 비커/수조에 기포가 나타날 것입니다.
+4. 교사: *저 기포들은 무엇으로 만들어졌을까요? 기포가 생기는 원인은 무엇일까요?* ([공기일까요?](../demo09/demo09.md) 참조)
+5. 삼각 플라스크의 물이 끓기 시작하면 기포가 줄어들다가 멈춥니다.
+6. 교사: *어떻게 그런 일이 일어났을까요? 기포는 무엇으로 만들어졌을까요?*
+7. 교사: *이제 버너를 치울 것입니다. 삼각 플라스크 안에서 어떤 일이 일어날까요? 왜 그럴까요?*
+8. 버너를 치웁니다. 물이 끓는 것을 멈췄다가 갑자기 다시 끓기 시작합니다. 동시에 비커의 물이 튜브를 타고 역류하여 삼각 플라스크가 빠르게 채워집니다.
+9. 교사: *보이는 것을 기술하고 어떤 일이 일어나는지 설명해 보세요.*
 
 
-Phase| Predict                                | Explain                                 | Observe                                | Explain                                |
-|--|----------------------------------------|-----------------------------------------|----------------------------------------|----------------------------------------|
-| | Describe what you expect to see        | Explain your prediction                 | Describe what happens                  | Explain what happens                   |
-| 1. What is to be seen in the beaker or the water bath while the water in the Erlenmeyer flask is being heated? |                 |                        |                                        |                                        |
-| 2. What is to be seen in the beaker or the water bath when the water in the Erlenmeyer flask boils? |                 |                        |                                        |                                        |
-| 3. What will be seen in the Erlenmeyer flask after the burner is turned off? |                  |                       |                                        |                                        |
+단계 | 예측 | 설명 | 관찰 | 설명 |
+| :--- | :--- | :--- | :--- | :--- |
+| | 예상되는 현상 기술 | 예측에 대한 설명 | 실제 일어난 일 기술 | 일어난 일에 대한 설명 |
+| 1. 삼각 플라스크의 물이 가열되는 동안 비커나 수조에서 무엇이 보이나요? | | | | |
+| 2. 삼각 플라스크의 물이 끓을 때 비커나 수조에서 무엇이 보이나요? | | | | |
+| 3. 버너를 끈 후 삼각 플라스크 안에서 무엇이 보이나요? | | | | |
 
-## Physics background
-When the Erlenmeyer flask is heated, the air inside it expands. This means you see large bubbles in the beaker. As the water becomes hot, proportionately more water vapor enters the air at the top of the Erlenmeyer flask. The air bubbles in the beaker become smaller because the water vapor part condenses as soon as it arrives in the beaker. When the water in the Erlenmeyer flask boils, the last air is pushed  through the tube (small bubbles) and replaced by water vapor. This condenses along the way through the tube. There are now much smaller bubbles or no bubbles anymore.
+## 물리 배경
+삼각 플라스크가 가열되면 내부의 공기가 팽창합니다. 이로 인해 비커에서 큰 기포를 보게 됩니다. 물이 뜨거워짐에 따라 삼각 플라스크 윗부분의 공기 속에 수증기가 차지하는 비율이 점점 높아집니다. 비커에 도달하자마자 수증기가 응결되기 때문에 비커의 기포 크기는 점점 작아집니다. 삼각 플라스크의 물이 끓으면 마지막 남은 공기가 튜브를 통해 밀려나가고(작은 기포들) 수증기로 대체됩니다. 이 수증기는 튜브를 통과하는 동안 응결됩니다. 이제 기포가 훨씬 작아지거나 더 이상 보이지 않게 됩니다.
 
 ```{figure} demo36_figure2.jpg
 ---
 width: 70%
 align: center
-alt: the flask is fully filled with the blue colored water from the aquarium
+alt: 플스크가 수조의 파란색 물로 가득 채워진 모습
 ---
-The flask is fully filled with water at the end of the demonstration. 
+시연이 끝날 때 플라스크는 물로 가득 채워집니다. 
 ```
 
-After the burner is turned off, the boiling stops; the water vapor in the Erlenmeyer flask condenses quickly. Due to the sharp drop in pressure, the water starts to boil again. In addition, cold water is drawn in from the beaker. The Erlenmeyer flask fills up easily. In this phase, large forces act on the Erlenmeyer flask. 
+버너를 치우면 끓는 것이 멈춥니다. 삼각 플라스크 안의 수증기가 빠르게 응결됩니다. 압력이 급격히 떨어지기 때문에 물이 다시 끓기 시작합니다. 또한 비커의 찬물이 안으로 빨려 들어갑니다. 삼각 플라스크는 쉽게 채워집니다. 이 단계에서 삼각 플라스크에는 큰 힘이 작용합니다.
 
 ```{tip}
-A complete description (Dutch) can be found <a href="https://www.natuurkunde.nl/artikelen/3007/water-koken-bij-30-c" target="_blank">here</a>.
+전체 설명(네덜란드어)은 <a href="https://www.natuurkunde.nl/artikelen/3007/water-koken-bij-30-c" target="_blank">여기</a>에서 찾을 수 있습니다.
 ```
 
-## References
+## 참고 문헌
 ```{bibliography}
 :filter: docname in docnames
 ```

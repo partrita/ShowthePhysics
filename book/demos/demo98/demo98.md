@@ -1,21 +1,21 @@
-# Implosion
+# 내폭 (Implosion)
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Ineke Frederik</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">저자:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">이네케 프레데릭</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">15 minutes</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">시간:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">15분</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">From grade 8 onwards</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">연령 그룹:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">8학년부터</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Pressure, vapour pressure, forces</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">개념:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">압력, 증기압, 힘</td>
     </tr>
 </table>
 
@@ -31,55 +31,54 @@
     </div>
 </div>
 
-## Introduction
-Here you demonstrate the force that can be exerted by the outside air. As a bit of water just is evaporated in a vessel and is then cooled down, an enormous force acts on the outside resulting in a spectacular implosion. A classic and spectacular demonstration! 
+## 소개
+여기서는 외부 공기에 의해 가해질 수 있는 거대한 힘을 시연합니다. 용기 안의 소량의 물이 증발한 뒤 냉각되면, 외부에서 엄청난 힘이 작용하여 극적인 내폭(implosion)이 일어납니다. 고전적이면서도 화려한 시연입니다!
 
 ```{figure} demo98_figure1.JPG
 ---
 width: 50%
 align: center
-alt: a soda can is heated using a bunzenburner
+alt: 분젠 버너를 사용하여 탄산음료 캔을 가열하는 모습
 ---
-Heating a can with a layer of water.
+소량의 물이 든 캔 가열하기.
 ```
 
-## Equipment
-* Sealable metal container (slightly cleaned oil drum, a large paint can, an empty soft drink can)
-* Gas burner or electric stove 
-* Room temperature water
-* Wet cloth
-* Cold water (possibly with ice cubes)
-* Pair of gloves
+## 장비
+* 밀폐 가능한 금속 용기 (세척된 오일 드럼통, 큰 페인트 통, 빈 탄산음료 캔 등)
+* 가스 버너 또는 전기 레인지 
+* 실온의 물
+* 젖은 헝겊
+* 찬물 (얼음 조각 포함 가능)
+* 장갑 한 켤레
 
 ```{figure} demo98_figure3.jpg
 ---
 width: 70%
 align: center
-alt: a sodacan heated with an electric stove
+alt: 전기 레인지로 가열되는 탄산음료 캔
 ---
-Heating a can with a layer of water, without the need for gas.
+가스 없이 전기 레인지로 물이 든 캔을 가열하는 모습.
 ```
 
-## Preparation
-Test the demonstration so that you know approximately how long it takes for the can to implode. 
+## 준비
+캔이 내폭하는 데 대략 얼마나 걸리는지 알 수 있도록 시연을 미리 테스트해 봅니다.
 
-## Procedure
-Put a bit of water in the can and heat it. *What happens to the air in the can?* Let the water boil for some time, so that the water vapour can displace the air present. Close the - now hot - container with the cap tightly. Don't burn your hands! Turn off the gas. *What is now in the sealed vessel? What happens when the contents cool down?* Now bring a wet cloth over the vessel. Wet the cloth liberally with cold (ice) water. 
+## 절차
+캔에 물을 조금 넣고 가열합니다. *캔 안의 공기에는 어떤 일이 일어날까요?* 물이 한동안 끓게 하여 수증기가 내부의 공기를 밀어내도록 합니다. 뜨거워진 용기의 뚜껑을 단단히 닫습니다. 손이 데지 않도록 주의하십시오! 가스를 끕니다. *밀폐된 용기 안에는 무엇이 들어있나요? 내용물이 식으면 어떤 일이 일어날까요?* 이제 젖은 헝겊을 용기 위에 덮습니다. 헝겊을 찬물(얼음물)로 듬뿍 적십니다.
 
 ```{figure} demo98_figure2.JPG
 ---
 width: 70%
 align: center
-alt: the soda can is crumbled after the experiment
+alt: 실험 후 찌그러진 탄산음료 캔
 ---
-The outcome of this experiment: a crumpled can.
+실험 결과: 찌그러진 캔.
 ```
 
 ```{tip} 
-The living room version of this experiment uses a soda can. Now you need a container of cold water and a beaker pliers. When the water in the can is well boiled through, pick it up with the tongs and put it in the cold water with the opening facing down as quickly as possible. The stopper is not needed now. The can crumples.
-The teacher can give a bonus to students who can show a video of their own imploding soda can.
+이 실험의 가정용 버전은 탄산음료 캔을 사용합니다. 찬물이 담긴 그릇과 집게가 필요합니다. 캔 속의 물이 충분히 끓으면, 집게로 캔을 집어 입구가 아래를 향하도록 찬물 속에 최대한 빨리 넣습니다. 이때는 마개가 필요 없습니다. 캔이 순식간에 찌그러집니다.
+교사는 직접 찌그러뜨린 캔 영상을 보여주는 학생에게 보너스 점수를 줄 수 있습니다.
 ```
 
-## Physics background
-The vessel is filled with air and a bit of liquid water. Heating the water creates water vapour. If the stopper is open, the vessel is filled with water vapour and the air is 'pushed' out. You close the vessel and cool it down. Now the water vapour condenses. Now, at lower temperatures, air can contain much less water vapour per litre of air - the water vapour thus condensates with the result that the pressure in the sealed vessel drops. The pressure is much lower than the pressure of the outside air and the vessel will be compressed from the outside. With a robust vessel like an oil drum, it can take several minutes for something to happen!
-
+## 물리 배경
+용기는 공기와 소량의 액체 상태의 물로 채워져 있습니다. 물을 가열하면 수증기가 발생합니다. 뚜껑이 열려 있으면 용기는 수증기로 채워지고 공기는 밖으로 '밀려' 나갑니다. 용기를 닫고 식히면 수증기가 응결됩니다. 낮은 온도에서 공기는 공기 리터당 포함할 수 있는 수증기량이 훨씬 적어지므로, 수증기가 응결되면서 밀폐된 용기 내부의 압력이 급격히 떨어집니다. 이 압력은 외부 공기의 압력보다 훨씬 낮기 때문에 용기가 외부에서부터 압축되는 것입니다. 오일 드럼통과 같이 튼튼한 용기의 경우 반응이 나타나기까지 몇 분이 걸릴 수도 있습니다!

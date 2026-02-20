@@ -1,7 +1,7 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: ShowingPhysics
+title: 물리학 보여주기 (ShowingPhysics)
 author: Freek Pols & Peter Dekkers (ed.)
 date: today
 logo: figures/logo.png
@@ -61,4 +61,3 @@ html:
   use_multitoc_numbering: true
   favicon: figures/favi.ico
     #nb_render_text: ["remove-input", "hide-input"]  # to hide or remove input cells with tags
- 

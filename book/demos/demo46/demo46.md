@@ -1,21 +1,21 @@
-# Floating pearls
+# 떠 있는 진주
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Peter Dekkers</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">저자:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">피터 데커스</td>
     </tr>
     <tr style="background-color: var(--background-color);">
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">30 minutes</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">시간:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">30분</td>
     </tr>
     <tr style="background-color: var(--background-color);">
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Level:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Grade 10</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">레벨:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">10학년</td>
     </tr>
     <tr style="background-color: var(--background-color);">
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Free fall, projectile motion, horizontal launch</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">개념:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">자유 낙하, 포물선 운동, 수평 발사</td>
     </tr>
 </table>
 
@@ -24,79 +24,79 @@
 width: 80%
 align: center
 name: demo46_fig2
-alt: parabolic orbit illustrated by water dropplets 
+alt: 물방울에 의해 시각화된 포물선 궤도 
 ---
-Ticker (height 2.4 cm, frequency 100 drops/s) and parabola of drops.
+타이머(높이 2.4cm, 주파수 100방울/초)와 물방울 포물선.
 ```
 
-## Introduction
-This demonstration beautifully shows the independence of motion in mutually perpendicular directions. In this demonstration, the example of horizontal projectile motion is used where water droplets are the projectiles. The principle is clarified almost entirely conceptually, without quadratic equations but with stunning visuals.
+## 소개
+이 시연은 서로 수직인 방향의 운동이 독립적임을 아름답게 보여줍니다. 여기서는 물방울을 발사체로 하는 수평 포물선 운동의 예가 사용됩니다. 이차 방정식 없이 거의 전적으로 개념적으로 원리를 명확히 하면서도 시각적으로 매우 훌륭합니다.
 
-## Equipment
-* Dark room that can preferably be fully darkened
-* Overflow vessel (see {numref}`Figure {number} <demo46_fig1>`)
-* Two stands
-* Height-adjustable table
-* Clamps
-* Ticker timer
-* Bicycle valve tube (> 80 cm)
-* Faucet with (about 1.5 m) flexible tube
-* Sink
-* Stroboscope
-* Ruler
+## 장비
+* 가급적 완전히 어둡게 할 수 있는 암실
+* 오버플로우 용기 ({numref}`그림 {number} <demo46_fig1>` 참조)
+* 두 개의 스탠드
+* 높이 조절이 가능한 테이블
+* 클램프
+* 시간 기록계 (Ticker timer)
+* 자전거 밸브용 튜브 (> 80 cm)
+* 플렉시블 튜브(약 1.5 m)가 달린 수도꼭지
+* 싱크대
+* 스트로보스코프
+* 자
 
 ```{warning}
-Stroboscopic lighting can trigger seizures in people with certain kinds of epilepsy; this demonstration is not suitable for them.
+스트로보스코프 조명은 특정 유형의 간질이 있는 사람에게 발작을 일으킬 수 있으므로, 해당되는 사람에게는 이 시연이 적합하지 않습니다.
 ```
 
-## Preparation
-* Place a stand on the table next to the faucet by the sink.
-* Attach a hose to the faucet.
-* Attach the overflow vessel to the stand at a considerable height, letting the hose from the faucet hang into it.
-* Attach one end of the valve tube to the outlet of the overflow vessel.
-* Attach the ticker timer with a clamp to the second, securely clamped stand, slightly lower than the vessel.
-* Normally, your ticker timer taps with a point on carbon paper to make dots on a paper strip. It will now tap on the valve tube to produce water droplets, but that point might puncture the tube. Therefore, remove the plate on which the point is situated, turn it over and re-attach it, with the point facing up and the tube underneath. Make sure it is loosely attached and water can still flow through the tube.
-* Position the ticker timer and valve tube so that a stream of water flows horizontally out of the hose and falls from a considerable height into the sink.
-* Finally, set up the stroboscope to illuminate the falling water stream from the side.
+## 준비
+* 싱크대 수도꼭지 옆 테이블에 스탠드를 놓습니다.
+* 수도꼭지에 호스를 연결합니다.
+* 오버플로우 용기를 스탠드의 높은 곳에 고정하고 수도꼭지의 호스를 그 안에 넣습니다.
+* 밸브용 튜브의 한쪽 끝을 오버플로우 용기의 배출구에 연결합니다.
+* 시간 기록계를 클램프로 두 번째 스탠드에 고정하되, 용기보다 약간 낮은 위치에 둡니다.
+* 원래 시간 기록계는 먹지 위의 핀이 종이 띠에 점을 찍는 방식입니다. 여기서는 밸브용 튜브를 두드려 물방울을 만들게 되는데, 핀이 튜브를 뚫을 수도 있습니다. 따라서 핀이 달린 판을 떼어내어 뒤집어서 핀이 위를 향하고 튜브가 그 아래에 오도록 다시 부착하십시오. 튜브가 너무 꽉 조이지 않아 물이 흐를 수 있어야 합니다.
+* 시간 기록계와 튜브의 위치를 조절하여 물줄기가 호스에서 수평으로 나와 높은 곳에서 싱크대로 떨어지게 합니다.
+* 마지막으로 스트로보스코프를 설치하여 떨어지는 물줄기를 옆에서 비추도록 합니다.
 
 ```{figure} demo46_figure1.jpg
 ---
 width: 80%
 align: center
 name: demo46_fig1
-alt: schematic setup
+alt: 설정 도식
 ---
-The setup.
+설정.
 ```
 
-Next, some fine-tuning is required:
-1. Turn the faucet on slightly, adjust so that after a while, the outflow through the spout is exactly the same as the inflow from the faucet. The overflow vessel ensures a constant pressure on the outgoing water stream.
-2. Adjust the positions of the vessel and the ticker timer so that the stream falls into the sink in a nice arc. During the demonstration you will want to change the height and make various arcs: ensure that for the whole intended range the water falls into the sink.
-3. Turn on the ticker timer. Adjust the vibrating plate pressing on the valve tube so that it produces individual droplets. (You will only see the individual droplets under stroboscopic lighting but the ticker timer rattles, no longer hums, when properly adjusted.)
-4. Darken the room, and illuminate the falling water with the stroboscope from the side. Adjust the frequency so that the droplets appear to hang motionless in the air, forming a parabola.
-5. Adjust the flow rate by changing the height of the table with the overflow vessel.
+다음으로 미세 조정이 필요합니다:
+1. 수도꼭지를 살짝 틀어 일정 시간 후 배출되는 물의 양과 들어오는 물의 양이 정확히 같아지도록 조절합니다. 오버플로우 용기는 나가는 물줄기에 일정한 압력을 유지해 줍니다.
+2. 용기와 시간 기록계의 위치를 조절하여 물줄기가 싱크대에 예쁜 곡선을 그리며 떨어지게 합니다. 시연 중에 높이를 바꾸어 다양한 곡선을 만들 것이므로, 의도한 모든 범위에서 물이 싱크대 안으로 떨어지도록 확인하십시오.
+3. 시간 기록계를 켭니다. 튜브를 누르는 진동판을 조절하여 개별 물방울이 생성되도록 합니다. (개별 물방울은 스트로보스코프 조명 아래에서만 보이지만, 제대로 조절되면 시간 기록계에서 윙윙거리는 소리가 아닌 달그락거리는 소리가 납니다.)
+4. 방을 어둡게 하고 스트로보스코프로 떨어지는 물을 옆에서 비춥니다. 물방울이 공중에 정지해 있는 것처럼 보여 포물선을 형성하도록 주파수를 조절합니다.
+5. 오버플로우 용기가 놓인 테이블의 높이를 바꾸어 유량을 조절합니다.
 
-## Procedure
-Your demonstration might proceed as follows, starting from when the audience sees the droplet parabola.
+## 절차
+청중이 물방울 포물선을 보게 된 시점부터 시연을 다음과 같이 진행할 수 있습니다.
 
-*"How long does a droplet take to fall from the ticker to the edge of the sink?"*
-  From the vibrating frequency, you get the time between two visible droplets (In the photos: 0.01s). That is the time it takes a droplet to move between the visible positions. Count the number of floating pearls in the arc ({numref}`Figure {number}<demo46_fig2>`) and you know the duration of the fall.
+*"물방울이 시간 기록계에서 싱크대 가장자리까지 떨어지는 데 시간이 얼마나 걸릴까요?"*
+  진동 주파수로부터 눈에 보이는 두 물방울 사이의 시간(사진에서는 0.01초)을 알 수 있습니다. 그것은 물방울이 보이는 위치 사이를 이동하는 데 걸리는 시간입니다. 곡선에 있는 떠 있는 진주들의 개수를 세면({numref}`그림 {number}<demo46_fig2>`) 낙하 시간을 알 수 있습니다.
 
-*"The pattern seems regular. What is regular about it?"*
-  Not only the time taken but also the horizontal distance moved between successive droplets is equal ({numref}`Figure {number}<demo46_fig3>`). You can measure this. From this, the horizontal speed of each droplet follows. It remains nearly constant during the fall.
+*"패턴이 규칙적으로 보입니다. 무엇이 규칙적인가요?"*
+  걸린 시간뿐만 아니라 연속된 물방울 사이의 수평 이동 거리도 같습니다({numref}`그림 {number}<demo46_fig3>`). 이를 측정할 수 있습니다. 이를 통해 각 물방울의 수평 속도를 알 수 있으며, 낙하하는 동안 거의 일정하게 유지됨을 확인할 수 있습니다.
 
   ```{figure} demo46_figure3.JPG
 ---
 width: 80%
 align: center
 name: demo46_fig3
-alt: picture of water dropplets and parabolic orbit with small horizontal velocity of water dropplets.
+alt: 물방울의 수평 속도가 작을 때의 물방울 포물선 궤도 사진.
 ---
-Small initial speed.
+초기 속도가 작을 때.
 ```
 
-*"How could we increase the horizontal speed?"*
-  If you hang the overflow vessel higher, the outflow speed increases ({numref}`Figure {number}<demo46_fig4>`). The arc widens and initially descends less steeply.
+*"수평 속도를 어떻게 높일 수 있을까요?"*
+  오버플로우 용기를 더 높이 매달면 유출 속도가 증가합니다({numref}`그림 {number}<demo46_fig4>`). 포물선이 넓어지고 초기 하강 경사가 완만해집니다.
 
   
 ```{figure} demo46_figure4.JPG
@@ -104,30 +104,30 @@ Small initial speed.
 width: 80%
 align: center
 name: demo46_fig4
-alt: picture of water dropplets and parabolic orbit with larger horizontal velocity of water dropplets.
+alt: 물방울의 수평 속도가 더 클 때의 물방울 포물선 궤도 사진.
 ---
-Large initial speed.
+초기 속도가 클 때.
 ```
 
-*"If we hang the vessel higher, the outflow speed increases. So the arc widens. Does the fall of a droplet take longer now? How can you see that?"*
-  The number of floating pearls in the arc does not change, so the duration of the fall is the same as before. No matter how you change the height of the vessel, the duration of the fall is always the same for the same height of fall. The fall of the droplet is a combination of horizontal and vertical motion, and these two motions proceed independently.
+*"용기를 더 높이 매달면 유출 속도가 증가하여 포물선이 넓어집니다. 그렇다면 물방울이 떨어지는 시간이 이제 더 오래 걸릴까요? 어떻게 확인할 수 있죠?"*
+  곡선에 있는 물방울의 개수가 변하지 않으므로 낙하 시간은 이전과 같습니다. 용기의 높이를 어떻게 바꾸든, 같은 낙하 높이에 대해서 낙하 시간은 항상 같습니다. 물방울의 낙하는 수평 운동과 수직 운동의 결합이며, 이 두 운동은 독립적으로 진행됩니다.
 
-*"The vertical distance between the droplets increases. What does that mean for the vertical speed of the droplets?"*
-  The vertical distance between successive droplets grows: they accelerate in the vertical direction. Measurements of the vertical distances between the droplets roughly show: the same vertical distance is added to the falling distance of successive pairs of droplets. (The *"increment"* of the falling distance in successive time intervals is constant.)
+*"물방울 사이의 수직 거리가 증가합니다. 이것은 물방울의 수직 속도에 대해 무엇을 의미하나요?"*
+  연속된 물방울 사이의 수직 거리가 커집니다: 즉 수직 방향으로 가속됩니다. 물방울 사이의 수직 거리를 측정해 보면 대략 다음과 같습니다: 연속된 물방울 쌍의 낙하 거리 차이가 일정하게 추가됩니다. (연속된 시간 간격 동안 낙하 거리의 *"증가분"*이 일정합니다.)
 
-*"What is the name of this type of motion, in which the vertical speed increases uniformly?"*
-  This is a uniformly accelerated motion. Using *'g'* and noting that droplets are produced at a rate of 100 Hz, the vertical distance expected between successive pairs of droplets increases by 1 mm. This is too small for live direct measurement with a ruler, but can be measured sufficiently accurately using a photo ({numref}`Figure {number} <demo46_fig4>`).
+*"수직 속도가 일정하게 증가하는 이러한 종류의 운동을 무엇이라고 부르나요?"*
+  이것은 등가속도 운동입니다. 중력 가속도 '$g$'를 사용하고 물방울이 100Hz의 속도로 생성됨을 고려하면, 연속된 물방울 쌍 사이의 예상 수직 거리는 1mm씩 증가합니다. 이는 자를 이용해 직접 측정하기에는 너무 작지만, 사진을 통해 충분히 정확하게 측정할 수 있습니다 ({numref}`그림 {number} <demo46_fig4>`).
 
-From the measurements, an approximate value for *g* can be determined. With time intervals of $0.01$ s and noting that the distance increase is indeed $0.001$ m in the photo, the increase in the average speed is $\frac{0.001}{0.01} = 0.1$ m/s, and the acceleration is $\frac{0.1}{0.01} = 10$ m/s$^2$. During the fall, the vertical speed increases uniformly.
+측정값을 통해 $g$의 근사치를 결정할 수 있습니다. 시간 간격이 0.01초이고 사진에서 거리 증가가 실제로 0.001m임을 확인하면, 평균 속도의 증가는 $\frac{0.001}{0.01} = 0.1$ m/s이고, 가속도는 $\frac{0.1}{0.01} = 10$ m/s$^2$입니다. 낙하하는 동안 수직 속도는 일정하게 증가합니다.
 
 ```{tip}
-Always fun to finish: increase the stroboscope frequency a bit, and the droplets will climb up the parabola, 'back into the faucet.'
-Also nice: zoom in on the part where the stream breaks into individual droplets, the stroboscope beautifully shows this process.
-If you can't use your own photos, you can use those from this article: the originals can be found on the website and enlarged. The scale of the photos is based on the height of the ticker: it is 2.4 cm in reality.
+마지막으로 재미있는 연출: 스트로보스코프 주파수를 약간 높이면 물방울들이 포물선을 따라 올라가 '수도꼭지 속으로 다시 들어가는' 것처럼 보입니다.
+또한 물줄기가 개별 물방울로 쪼개지는 부분을 확대하면 스트로보스코프가 이 과정을 아름답게 보여줍니다.
+직접 찍은 사진을 사용할 수 없다면 이 글의 사진을 사용하십시오: 원본은 웹사이트에서 찾아 확대할 수 있습니다. 사진의 축척은 시간 기록계의 높이(실제 2.4cm)를 기준으로 합니다.
 ```
 
-## Physics background
-Each droplet undergoes identical horizontal projectile motion. The droplets are launched at fixed time intervals. When illuminated briefly at the end of each time interval, each droplet precisely occupies the position of its predecessor at each subsequent flash. Thus, the parabola of droplets appears to be hanging still in the air (if the stroboscope and ticker time are at the same frequency).
+## 물리 배경
+각 물방울은 동일한 수평 포물선 운동을 합니다. 물방울은 일정한 시간 간격으로 발사됩니다. 각 시간 간격의 끝에서 짧게 조명을 비추면, 각 물방울은 다음 플래시가 터질 때 정확히 이전 물방울이 있던 위치를 차지합니다. 따라서 (스트로보스코프와 시간 기록계의 주파수가 같으면) 물방울 포물선이 공중에 가만히 매달려 있는 것처럼 보입니다.
 
-If illuminated at the end of slightly longer intervals (lower strobe frequency), the droplets appear to move slightly beyond where their predecessor was, and collectively they appear to move slowly downward. If illuminated at slightly shorter intervals, they appear to move upward, back toward the ticker timer.
-In the beginning of the stream, you don’t see individual droplets; they form later as the accelerating pieces of water are pulled apart. The ticker timer apparently creates almost evenly sized droplets with equal intervals. Cohesion does the rest.
+간격을 약간 더 길게 하여 조명을 비추면(스트로보 주파수를 낮춤), 물방울들이 이전 물방울이 있던 위치보다 약간 더 나아간 곳에서 보이게 되어 전체적으로 천천히 아래로 움직이는 것처럼 보입니다. 간격을 약간 더 짧게 하면 위쪽으로, 즉 시간 기록계 쪽으로 움직이는 것처럼 보입니다.
+물줄기 시작 부분에서는 개별 물방울이 보이지 않습니다. 가속되는 물 조각들이 서로 당겨져 떨어지면서 나중에 형성되기 때문입니다. 시간 기록계는 분명히 거의 같은 크기의 물방울을 같은 간격으로 만들어냅니다. 응집력이 나머지를 처리합니다.

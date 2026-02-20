@@ -1,46 +1,46 @@
-# Condensation heat in infrared
+# 적외선으로 보는 응결열
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Norbert van Veen</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">저자:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">노르베르트 반 빈</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">10-30 minutes</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">시간:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">10-30분</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">14-18</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">연령 그룹:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">14-18세</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Condensation, evaporation</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">개념:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">응결, 증발</td>
     </tr>
 </table>
 
-## Introduction
-In this demonstration, you make a nanoscale process visible in a simple way. Due to continuous evaporation, water in a cup has a lower temperature than the room its in, even after hours of being in that room. We monitor the temperature of a sheet of paper as evaporated water condenses on it. With the measured temperature rise, we estimate the number (layers) of water molecules needed for this increase. This demonstration is described in detail by {cite}`Xie2011`. 
+## 소개
+이 시연에서는 나노 규모의 과정을 간단한 방법으로 시각화합니다. 지속적인 증발 때문에 컵에 든 물은 몇 시간 동안 같은 방에 있었더라도 방 안의 온도보다 낮습니다. 증발한 물이 종이 위에서 응결될 때 종이 한 장의 온도를 관찰합니다. 측정된 온도 상승을 바탕으로, 이 온도 상승에 필요한 물 분자의 수(층수)를 추정해 봅니다. 이 시연은 {cite}`Xie2011`에 자세히 설명되어 있습니다.
 
 ```{figure} demo63_figure1.png
 ---
 width: 70%
 align: center
 ---
-Setup for this experiment: FLIR C5 camera connected to a computer. Clamped in a stand clamp perpendicular to the dish under the paper.
+실험 설정: 컴퓨터에 연결된 FLIR C5 카메라. 종이 아래 수조와 수직이 되도록 스탠드 클램프로 고정합니다.
 ```
-## Materials Needed
-- Infrared camera (Flir C5)
-- Round dish (e.g. a petri dish)
-- A few sheets of (printer) paper
-- Stand clamp
+## 필요 재료
+- 적외선 카메라 (FLIR C5)
+- 둥근 그릇 (예: 페트리 접시)
+- (프린터용) 종이 몇 장
+- 스탠드 클램프
 
-## Preparation
-1. Place the infrared camera in a stand so that it is directed from above onto the setup. 
-2. Place the dish with water under the camera. 
-3. Turn on the camera with streaming mode enabled and connect it to your computer.
-4. Open a camera app on the computer and let it display the image from the infrared camera. 
-5. Set the distance (on the touchscreen) of the infrared camera to the correct value. Enter the emissivity value of paper (approximately 0.70) into the infrared camera.
+## 준비
+1. 적외선 카메라를 위에서 설정을 내려다보도록 스탠드에 고정합니다.
+2. 카메라 아래에 물이 담긴 그릇을 놓습니다.
+3. 스트리밍 모드가 활성화된 상태에서 카메라를 켜고 컴퓨터에 연결합니다.
+4. 컴퓨터에서 카메라 앱을 열어 적외선 카메라의 영상을 표시합니다.
+5. 적외선 카메라의 거리(터치스크린에서 설정)를 올바른 값으로 조절합니다. 종이의 방사율 값(약 0.70)을 적외선 카메라에 입력합니다.
 
 ```{figure} demo63_figure_2.jpg
 ---
@@ -48,77 +48,77 @@ width: 100%
 align: center
 name: demo63_fig2
 ---
-*a.* The surface of the paper on which water has condensed is clearly visible. At the edge of the paper, you see two water droplets where the water evaporates and causes a lower temperature.\
-*b.* Cooling of the paper due to evaporation.
+*a.* 물이 응결된 종이 표면이 명확하게 보입니다. 종이 가장자리에는 물이 증발하여 온도가 낮아진 두 개의 물방울이 보입니다.\
+*b.* 증발로 인해 냉각된 종이.
 ```
 
-## Procedure
-Students already have knowledge of molecular theory and phase transitions.
-1. Set up the apparatus and explain to the students what they see. Tell them you are going to place the sheet of paper on the dish of water. The infrared camera measures the temperature.
-1. *What happens to the temperature of the paper?*\
-   A. The temperature will remain the same\
-   B. The temperature will decrease\
-   C. The temperature will increase
-2. Perform the measurement. Read the temperature of the paper above the water and also of the part of the paper that falls beside the dish. Use the movable temperature spot on the touchscreen to measure the temperature of these parts of the paper.
-3. Now tell them that you are going to remove the paper from the dish and quickly turn the paper. Measure the temperature of the bottom of the paper.
-4. *What happens to the temperature of the part of the paper that was above the dish with water?*\
-   A. The temperature will remain the same
-   B. The temperature will decrease
-   C. The temperature will increase
-5. Talk about the condensation and evaporation of water and how energy is needed and released respectively.
-6. Questions to check students' understanding: *Why do you blow on a bowl of soup to cool it down? A puddle of rainwater also evaporates even if it is not one hundred degrees Celsius outside. What can you say about the temperature of the puddle compared to the ambient temperature?*
-8. Perform the calculation of the number of layers of water molecules on the paper. See [physical background](demo63PB).
+## 절차
+학생들은 이미 분자론과 상전이에 대한 지식을 가지고 있습니다.
+1. 장치를 설치하고 학생들에게 보이는 것을 설명합니다. 물이 담긴 그릇 위에 종이 한 장을 올릴 것이라고 말합니다. 적외선 카메라가 온도를 측정합니다.
+1. *종이의 온도는 어떻게 될까요?*\
+   A. 온도가 그대로 유지될 것이다.\
+   B. 온도가 내려갈 것이다.\
+   C. 온도가 올라갈 것이다.
+2. 측정을 수행합니다. 물 위의 종이 온도와 그릇 옆으로 튀어나온 부분의 온도를 읽습니다. 터치스크린의 이동식 온도 측정 지점을 사용하여 종이의 각 부분의 온도를 측정합니다.
+3. 이제 그릇에서 종이를 치우고 종이를 재빨리 뒤집을 것이라고 말합니다. 종이 뒷면의 온도를 측정합니다.
+4. *물 그릇 위에 있었던 종이 부분의 온도는 어떻게 될까요?*\
+   A. 온도가 그대로 유지될 것이다.
+   B. 온도가 내려갈 것이다.
+   C. 온도가 올라갈 것이다.
+5. 물의 응결과 증발에 대해 이야기하고, 에너지가 각각 방출되고 필요하다는 점을 다룹니다.
+6. 학생들의 이해도를 확인하기 위한 질문: *수프를 식힐 때 왜 입으로 불어주나요? 빗물이 고인 웅덩이는 밖이 100도씨가 아니더라도 증발합니다. 웅덩이의 온도는 주변 온도와 비교할 때 어떠할까요?*
+8. 종이 위의 물 분자 층수를 계산합니다. [물리 배경](demo63PB) 섹션을 참조하십시오.
 
 (demo63PB)=
-## Physics background
-The rise in temperature of the paper is caused by the condensation of water vapor from the dish underneath the paper. When the water molecules in the vapor condense, they release heat. The heat conducts through the thin paper and causes a temperature rise. The amount of water molecules condensing on the paper is so small that you barely feel moisture when you touch the paper, but it is enough to cause a temperature rise which is detected by the infrared camera.
+## 물리 배경
+종이의 온도 상승은 종이 아래 그릇에서 나온 수증기가 응결되었기 때문입니다. 수증기 상태의 물 분자들이 응결할 때 열을 방출합니다. 이 열은 얇은 종이를 통해 전달되어 온도 상승을 일으킵니다. 종이에 응결된 물 분자의 양은 매우 적어서 종이를 만졌을 때 습기를 거의 느끼지 못할 정도지만, 적외선 카메라로 감지할 수 있는 온도 상승을 일으키기에는 충분합니다.
 
-This heating mechanism can be confirmed by holding the paper above the cup for a minute until it reaches thermal equilibrium with the surroundings and then removing the paper. IR images of the paper show that the temperature of the originally heated circular zone drops immediately after removal to below the ambient temperature. This can be explained by the water molecules that had condensed on the underside of the paper beginning to evaporate, resulting in rapid cooling of the paper.
+이 가열 메커니즘은 종이를 컵 위에 1분 동안 두어 주변과 열평형에 도달하게 한 다음 종이를 치워봄으로써 확인할 수 있습니다. 종이의 적외선 이미지를 보면, 원래 가열되었던 원형 구역의 온도가 제거 직후 주변 온도 아래로 떨어지는 것을 보여줍니다. 이는 종이 뒷면에 응결되었던 물 분자들이 증발하기 시작하여 종이가 급격히 냉각되었기 때문으로 설명할 수 있습니다.
 
-The water molecules condensed on the paper apparently cannot penetrate through the paper, otherwise, you would have observed evaporation cooling on the other side of the paper with the infrared camera.
+종이 뒷면에 응결된 물 분자들은 종이를 통과하지 못하는 것으로 보입니다. 만약 통과했다면 종이 반대편에서도 적외선 카메라로 증발 냉각 현상을 관찰했을 것입니다.
 
-### How thick was the condensed water layer approximately?
-For our experiment with a dish with a diameter of 10.5 cm, we measured and looked up the following:
+### 응결된 물 층의 두께는 대략 얼마일까요?
+지름 10.5cm인 그릇을 사용한 실험에서 우리는 다음과 같은 수치를 측정하고 찾아보았습니다:
 - $ΔΤ ≈ 1.0$ ºC
-- $ρ_{paper} = 80$ g/m²
-- $c_{paper} = 1.4·10^3$ J/kg·K
-- $L_{water} = 2.26·10^3$ J/g
-- $M_{water} = 18 $ g/mol
+- $ρ_{\text{종이}} = 80$ g/m²
+- $c_{\text{종이}} = 1.4\cdot10^3$ J/kg·K
+- $L_{\text{물}} = 2.26\cdot10^3$ J/g
+- $M_{\text{물}} = 18 $ g/mol
 
-The energy released on the paper is:
+종이에 방출된 에너지는 다음과 같습니다:
 
-$$ ΔQ = ρ_{paper} \cdot A_{paper} \cdot c_{paper} \cdot ΔT $$
+$$ ΔQ = ρ_{\text{종이}} \cdot A_{\text{종이}} \cdot c_{\text{종이}} \cdot ΔT $$
 
 $$ ΔQ = 80 \cdot π \cdot 0.0525^2 \cdot 1.4 \cdot 1.0 = 0.97 \; \text{J} $$
 
-The mass of water condensed on the paper:
+종이에 응결된 물의 질량:
 
-$$m = \frac{ΔQ}{L_{water}} = \frac{0.97 \text{J}}{2.26 \cdot 10^3 \text{J/g}} = 4.29 \cdot 10^{-4} \;\text{g} $$
+$$m = \frac{ΔQ}{L_{\text{물}}} = \frac{0.97 \text{J}}{2.26 \cdot 10^3 \text{J/g}} = 4.29 \cdot 10^{-4} \;\text{g} $$
 
-At room temperature, 1 g of water has a volume of 1 cm³. For the circular part of the paper, this means that a water volume of 4.29·10⁻⁴ cm³ is distributed over a cylindrical surface of the paper. The height $h$ of this water cylinder is then:
+실온에서 물 1g의 부피는 1cm³입니다. 종이의 원형 부분에 대해, 이는 4.29·10⁻⁴ cm³의 물 부피가 종이의 원통형 표면에 분포되어 있음을 의미합니다. 이 물 원통의 높이 $h$는 다음과 같습니다:
 
 $$h = \frac{V}{A} = \frac{4.29 \cdot 10^{-4}}{π \cdot 5.25^2} = 4.95 \cdot 10^{-6} \; \text{cm} $$
 
-The water layer on the underside of the paper is thus approximately 50 nm thick.
+따라서 종이 뒷면의 물 층 두께는 약 50nm입니다.
 
-The average volume of a water molecule can be estimated with the molar mass, written as a kind of "molar density" ($M_V = 18$ cm³/mol) and the number of molecules in a mole ($N_A$). With this volume, we calculate the one-dimensional dimension of a water molecule:
+물 분자 하나의 평균 부피는 몰 질량을 일종의 "몰 밀도"($M_V = 18$ cm³/mol)와 1몰당 분자 수($N_A$)로 나누어 추정할 수 있습니다. 이 부피를 사용하여 물 분자의 1차원 크기를 계산합니다:
 
-$$h_{molecule\,water} = \sqrt[3]{\frac{M_V}{N_A}} = \sqrt[3]{\frac{18 \cdot 10^{-6} \text{m³}}{6.02 \cdot 10^{23}}} = 3.1 \cdot 10^{-10} \; \text{m} $$
+$$h_{\text{물 분자}} = \sqrt[3]{\frac{M_V}{N_A}} = \sqrt[3]{\frac{18 \cdot 10^{-6} \text{m³}}{6.02 \cdot 10^{23}}} = 3.1 \cdot 10^{-10} \; \text{m} $$
 
-The number of layers ($n$) of water molecules can then be calculated with:
+그러면 물 분자 층수($n$)는 다음과 같이 계산됩니다:
 
-$$ n = \frac{h_{cylinder}}{h_{water\,molecule}} = \frac{4.95 \cdot 10^{-8} \; \text{m}}{3.1 \cdot 10^{-10} \; \text{m}} = 159 $$
+$$ n = \frac{h_{\text{원통}}}{h_{\text{물 분자}}} = \frac{4.95 \cdot 10^{-8} \; \text{m}}{3.1 \cdot 10^{-10} \; \text{m}} = 159 $$
 
-Considering that not all the heat is released at once, the rate of water vapor deposition is likely a few nanometers per second. So we are studying a nanoscale process.
+모든 열이 한꺼번에 방출되는 것은 아니라는 점을 고려하면, 수증기 침착 속도는 초당 몇 나노미터일 것입니다. 즉, 우리는 나노 규모의 과정을 연구하고 있는 것입니다.
 
 ```{tip}
-- Place the setup visibly on the desk. Project the measurement via the computer onto a screen or digital board. Ensure the temperature is easy to follow by, for example, directing a temperature spot of the camera at the spot to be measured. 
-- A water droplet on the edge of the paper will also be clearly visible with a lower temperature due to evaporation (see {numref}`Figure {number}<demo63_fig2>`). 
-- After a few hours, the setup shows the paper has a lower temperature. Paper is porous, and the water molecules evaporate again at the surface of the paper. 
-- Hold the paper vertically above the dish as well to show condensation vertically. 
+- 설정을 책상 위에 잘 보이게 놓으십시오. 컴퓨터를 통해 측정한 내용을 스크린이나 학교 디지털 보드에 투사합니다. 카메라의 온도 측정 지점을 측정 부위에 맞춰 온도를 쉽게 관찰할 수 있도록 하십시오.
+- 종이 가장자리의 물방울 또한 증발로 인해 온도가 낮은 것이 명확하게 보일 것입니다 ({numref}`그림 {number}<demo63_fig2>` 참조).
+- 몇 시간 후에는 종이 온도가 더 낮아진 것을 볼 수 있습니다. 종이는 다공성 재질이어서 물 분자들이 종이 표면에서 다시 증발하기 때문입니다.
+- 종이를 그릇 위에 수직으로 들어 응결이 수직 방향으로 일어나는 것도 보여주십시오.
 ```
 
-## References
+## 참고 문헌
 ```{bibliography}
 :filter: docname in docnames
 ```

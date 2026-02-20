@@ -5,7 +5,7 @@ format: jb-book
 root: intro.md 
 
 parts:
-  - caption: Introduction
+  - caption: 소개
     numbered: true
     chapters:
     - file: Introduction/About        
@@ -16,7 +16,7 @@ parts:
     - file: Introduction/Python summary
     - file: Introduction/tableOC
   
-  - caption: Pedagogy
+  - caption: 교수법
     numbered: 2
     chapters:  
     - file: Pedagogy/Introduction       
@@ -25,12 +25,12 @@ parts:
     - file: Pedagogy/BackAndForthThinking  
     - file: Pedagogy/PoE
            
-  - caption: Demos on Nature of Science
+  - caption: 과학의 본성에 관한 시연
     numbered: 2
     chapters:
 
     - file: demos/NOSdemos
-      title: Demos on NoS
+      title: 과학의 본성에 관한 시연
       sections:
       - file: demos/demo40/demo40 
       - file: demos/demo01/demo01 
@@ -41,11 +41,11 @@ parts:
       - file: demos/demo91/demo91 
       - file: demos/demo08/demo08 
  
-  - caption: Demos on scientific inquiry
+  - caption: 과학적 탐구에 관한 시연
     numbered: 2
     chapters:
     - file: demos/Inquirydemos
-      title: Demos on scientific inquiry
+      title: 과학적 탐구에 관한 시연
       sections:
       
       - file: demos/demo09/demo09 
@@ -61,10 +61,10 @@ parts:
       - file: demos/demo73/demo73 
       - file: demos/demo92/demo92 
 
-  - caption: Demos for conceptual development
+  - caption: 개념 개발을 위한 시연
     numbered: 2
     chapters:     
-    - file: demos/Conceptdemos1 #Waves, optics, quantum      
+    - file: demos/Conceptdemos1 #파동, 광학, 양자      
       sections:     
       - file: demos/demo03/demo03     
       - file: demos/demo20/demo20 
@@ -85,7 +85,7 @@ parts:
       - file: demos/demo51/demo51 
       - file: demos/demo53/demo53 
 
-    - file: demos/Conceptdemos2 #Electricity, magnetism      
+    - file: demos/Conceptdemos2 #전기, 자기      
       sections:
       - file: demos/demo19/demo19 
       - file: demos/demo31/demo31 
@@ -96,7 +96,7 @@ parts:
       - file: demos/demo86/demo86 
       - file: demos/demo94/demo94 
       
-    - file: demos/Conceptdemos3 #mechanics      
+    - file: demos/Conceptdemos3 #역학      
       sections:
       - file: demos/demo05/demo05 
       - file: demos/demo11/demo11 
@@ -117,7 +117,7 @@ parts:
       - file: demos/demo69/demo69 
       - file: demos/demo58/demo58 
 
-    - file: demos/Conceptdemos4 #thermo
+    - file: demos/Conceptdemos4 #열역학
       sections:
       - file: demos/demo02/demo02 
       - file: demos/demo34/demo34 
@@ -130,7 +130,7 @@ parts:
       - file: demos/demo75/demo75
       - file: demos/demo99/demo99
 
-    - file: demos/Conceptdemos5 #else
+    - file: demos/Conceptdemos5 #기타
       sections:      
       - file: demos/demo29/demo29
       - file: demos/demo30/demo30
@@ -147,11 +147,11 @@ parts:
       - file: demos/demo96/demo96
       - file: demos/demo97/demo97
   
-  - caption: Demos for special occasions
+  - caption: 특별한 경우를 위한 시연
     numbered: 2
     chapters:
     - file: demos/Specialdemos
-      title: Demos for special occasions
+      title: 특별한 경우를 위한 시연
       sections:
       - file: demos/demo06/demo06 
       - file: demos/demo04/demo04 
@@ -165,7 +165,7 @@ parts:
       - file: demos/demo56/demo56 
       - file: demos/demo98/demo98 
 
-  - caption: Pocket demos
+  - caption: 포켓 시연
     numbered: 2
     chapters:
       - file: external/content/demos.md
@@ -181,20 +181,8 @@ parts:
       - file: external/content/Modernphysics.md
 
       - url: https://github.com/Natuurkunde/Broekzakdemos/blob/main/content/demos.md
-        title: Broekzakdemos source
+        title: Broekzakdemos 소스
             
-    # - url: https://github.com/Natuurkunde/Broekzakdemos/blob/main/content/Mechanics.md
-    # - url: https://github.com/Natuurkunde/Broekzakdemos/blob/main/content/Electricity.md
-    # - url: https://github.com/Natuurkunde/Broekzakdemos/blob/main/content/Magnetism.md
-    # - url: https://github.com/Natuurkunde/Broekzakdemos/blob/main/content/Light.md
-    # - url: https://github.com/Natuurkunde/Broekzakdemos/blob/main/content/Oscillations.md
-    # - url: https://github.com/Natuurkunde/Broekzakdemos/blob/main/content/Sound.md
-    # - url: https://github.com/Natuurkunde/Broekzakdemos/blob/main/content/Liquids.md
-    # - url: https://github.com/Natuurkunde/Broekzakdemos/blob/main/content/Heat.md    
-    # - url: https://github.com/Natuurkunde/Broekzakdemos/blob/main/content/Modernphysics.md
-    # - url: https://github.com/Natuurkunde/Broekzakdemos/blob/main/content/Earthscience.md
-
-  - caption: References
+  - caption: 참고 문헌
     chapters:
     - file: references
-  

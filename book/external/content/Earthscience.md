@@ -1,35 +1,35 @@
-# Earth science
-Role-plays work well in simulating the motion of Earth, Moon, Sun, and stars. You can do them as demonstrations with some students performing the play in front of the class and then as a teacher you get this great feeling that everything must be perfectly clear. However, your students will need additional practice by role playing some tasks in small groups. Do you need this in the age of computer simulations? Yes, the back-and-forth thinking between different representations (role play, computer simulation, figures in the textbook) helps concept development and each representation has its strong and weak point and appeals to different students.
+# 지구 과학
+역할극은 지구, 달, 태양, 별의 운동을 시뮬레이션하는 데 효과적입니다. 몇 명의 학생이 학급 앞에서 연극을 하는 시연으로 진행할 수 있으며, 교사로서 모든 것이 완벽하게 명확해졌다는 뿌듯한 기분을 느낄 수 있습니다. 하지만 학생들은 소그룹으로 몇 가지 과제를 역할극으로 수행하며 추가적인 연습을 할 필요가 있습니다. 컴퓨터 시뮬레이션 시대에 이것이 필요할까요? 네, 서로 다른 표현 방식(역할극, 컴퓨터 시뮬레이션, 교과서의 그림) 사이의 상호 피드백 사고는 개념 개발을 돕고, 각 표현 방식은 강점과 약점을 가지고 있으며 서로 다른 학생들에게 호소력이 있습니다.
 
-## Visualizing revolution and rotation of the Earth
-The teacher becomes the Sun; a student is the Earth. The student "revolves" around the lecturer while rotating once per 24 hours. Do not let the student rotate 365 times ....
+## 지구의 공전과 자전 시각화
+교사는 태양이 되고, 학생은 지구가 됩니다. 학생은 24시간당 한 번씩 자전하면서 강사 주위를 "공전"합니다. 학생이 365번 자전하게 하지는 마십시오....
 
-## Visualizing Rotation of the Sun
-While the Earth revolves around the Sun (one revolution per year), the Sun (teacher) is rotating a little also ... 12x per year or so. We know this from the "movement" of Sunspots. As a gas sphere, the Sun's rotation at the equator is slower than near the poles.
+## 태양의 자전 시각화
+지구가 태양 주위를 공전하는 동안(1년에 한 번 공전), 태양(교사)도 조금씩 자전하고 있습니다... 1년에 12번 정도입니다. 우리는 태양 흑점의 "이동"을 통해 이를 알 수 있습니다. 가스 구체로서 태양의 적도 부근 자전 속도는 극지방 근처보다 느립니다.
 
-## Visualizing Movement of Moon
-While one student revolves around the teacher another revolves around the first student (the Earth), about 13 times per Earth revolution.
+## 달의 운동 시각화
+한 학생이 교사 주위를 공전하는 동안 다른 학생은 첫 번째 학생(지구) 주위를 공전하며, 지구 공전 1회당 약 13회 공전합니다.
 
-## Visualizing rotation of the Moon
-The student (Moon) revolving around the Earth makes sure to keep his/her face towards the Earth......so the Moon rotates one time in one revolution and thus always has its same face towards the Earth. Now compare with the sentences in the book about Moon rotation, do we now understand what the book sentences mean?
+## 달의 자전 시각화
+지구 주위를 공전하는 학생(달)은 반드시 얼굴을 지구 쪽으로 향하게 합니다...... 따라서 달은 한 번 공전하는 동안 한 번 자전하며, 결과적으로 항상 같은 면을 지구 쪽으로 향하게 됩니다. 이제 책에 나오는 달의 자전에 관한 문장과 비교해 보십시오. 이제 책의 문장이 무엇을 의미하는지 이해가 되나요?
 
-## Visualizing parallax for distance measurement
-Same arrangement as in revolution of the Earth. Take a student in the front row as (movie) star and another one in the back. Compare the position of the front row star as seen from the Earth in two positions 6 months apart (figure 1). There is quite a difference in direction of this star. Now look at the student star in the back. The difference in direction from the two Earth vantage points is already a lot smaller. What if the student was very far? This makes parallax as distance measurement visible! Use the meter stick and your arm to show the differences in angles/directions. If you have a string or a rope, so much clearer for your students.
+## 거리 측정을 위한 시차(parallax) 시각화
+지구의 공전과 동일하게 배치합니다. 앞줄에 있는 학생을 (영화) 배우 별로 정하고 뒷줄에 다른 학생을 둡니다. 6개월 간격의 두 위치에서 지구에서 본 앞줄 별의 위치를 비교합니다(그림 1). 이 별의 방향에는 상당한 차이가 있습니다. 이제 뒷줄에 있는 학생 별을 보십시오. 두 지구 관측 지점에서의 방향 차이는 이미 훨씬 작아졌습니다. 학생이 아주 멀리 있다면 어떨까요? 이것은 거리 측정으로서의 시차를 눈으로 보여줍니다! 미터 자와 팔을 사용하여 각도/방향의 차이를 보여주십시오. 끈이나 로프가 있다면 학생들에게 훨씬 더 명확하게 전달될 것입니다.
 
-## Apparent movement of the stars throughout the year
-The same arrangement can be used to show the apparent motion of the stars throughout the year. While the Earth revolves, the view of the class (the stars) changes a bit.
+## 연중 별의 겉보기 운동
+동일한 배치를 사용하여 일년 동안의 별의 겉보기 운동을 보여줄 수 있습니다. 지구가 공전하는 동안 학급(별)의 모습이 조금씩 바뀝니다.
 
-## Comet
-The Sun is a lamp on the table or take a student to play the sun. A comet (played by another student) comes from some random direction towards the Sun. What will happen with the velocity and the direction as the comet approaches the Sun? Let the other students give directions to the student who plays the comet about accelerating/decelerating and changing direction. Let them also explain why.
+## 혜성
+태양은 테이블 위의 램프로 하거나 학생 한 명이 태양 역할을 하게 합니다. 혜성(다른 학생이 역할을 맡음)이 임의의 방향에서 태양을 향해 다가옵니다. 혜성이 태양에 접근함에 따라 속도와 방향은 어떻게 될까요? 다른 학생들이 혜성 역할을 하는 학생에게 가속/감속 및 방향 전환에 대해 지시를 내리게 하십시오. 또한 그 이유도 설명하게 하십시오.
 
-## Visualizing plate tectonics, collisions between thin ocean plates
-The plates are thin, one easily gets below the other. Use two thin books and make them collide slowly back-to- back, one easily slips below the other. The friction of real tectonic plates generates heat resulting in a volcanic island arc.
+## 판 구조론 시각화, 얇은 해양판 사이의 충돌
+판이 얇으면 하나가 다른 하나 아래로 쉽게 들어갑니다. 두 권의 얇은 책을 사용하여 등을 맞대고 천천히 충돌시키면 하나가 다른 하나 아래로 쉽게 미끄러져 들어갑니다. 실제 지각판의 마찰은 열을 발생시켜 화산 열도를 형성합니다.
 
-## Visualizing plate tectonics, collision between a thin ocean plate and a thick continental plate
-Take a thin and a thick book and let their backs collide slowly. Ocean plates have a higher density, so imagine the thin book having a higher density. The thin book slips below the thick one. The friction of real plates generate lots of heat. This way we get the volcanism of the Andes in South America and the Cascades in North America and the volcanoes along the spines of Sumatra and Java in Indonesia.
+## 판 구조론 시각화, 얇은 해양판과 두꺼운 대륙판 사이의 충돌
+얇은 책과 두꺼운 책을 들고 등을 천천히 충돌시키십시오. 해양판은 밀도가 더 높으므로 얇은 책의 밀도가 더 높다고 상상해 보십시오. 얇은 책이 두꺼운 책 아래로 미끄러져 들어갑니다. 실제 판의 마찰은 많은 열을 발생시킵니다. 이런 식으로 남아메리카의 안데스 산맥, 북아메리카의 캐스케이드 산맥, 인도네시아의 수마트라와 자바 섬의 척추를 따르는 화산 활동이 일어납니다.
 
-## Visualizing plate tectonics with islands, accretion
-Now take the thin book (ocean plate) with something on top of it (a cube of sugar, whatever), the denser thin book goes below the thicker and less dense book (continental plate), but the cube of sugar (like an island) accretes to the coast of the continental plate. Such accreted former islands and the continent may have very different rock types.
+## 섬이 있는 판 구조론 시각화, 부가(accretion)
+이제 얇은 책(해양판) 위에 무언가(각설탕 등)를 올려놓으십시오. 밀도가 더 높은 얇은 책은 밀도가 더 낮고 두꺼운 책(대륙판) 아래로 들어가지만, 각설탕(섬과 같음)은 대륙판의 해안에 달라붙습니다(부가). 이렇게 부가된 옛 섬들과 대륙은 매우 다른 암석 유형을 가질 수 있습니다.
 
-## Visualizing plate tectonics, collision between two thick continental plates
-Take two thick books, let them press against each other but now take the open sides. The pages will start folding, just like the Alps and the Himalayan Mountain ranges which were both formed by continents pushing each other.
+## 판 구조론 시각화, 두 두꺼운 대륙판 사이의 충돌
+두 권의 두꺼운 책을 들고 서로 압박하게 하되, 이번에는 펼쳐진 쪽을 사용하십시오. 대륙이 서로 밀어붙여 형성된 알프스 산맥과 히말라야 산맥처럼 페이지가 접히기 시작할 것입니다.

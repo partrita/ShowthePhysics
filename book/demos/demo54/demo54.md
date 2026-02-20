@@ -1,21 +1,21 @@
-# Boiling without heating in a vacuum
+# 진공에서 가열 없이 끓이기
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Paul Hupkens and Ed van den Berg</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">저자:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">파울 휘프컨스 & 에드 반 덴 베르크</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">15 minutes</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">시간:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">15분</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Grade 8-12</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">연령 그룹:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">8-12학년</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Air pressure, pressure-volume relationship, air pressure-boiling point relationship</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">개념:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">기압, 압력-부피 관계, 기압-끓는점 관계</td>
     </tr>
 </table>
 
@@ -31,18 +31,18 @@
     </div>
 </div>
 
-## Introduction
-Expanding shaving cream or balloons, boiling water without heat supply, and more possibilities with the vacuum bell jar.
+## 소개
+면도 크림이나 풍선의 팽창, 열 공급 없는 물의 끓음 등 진공 용기(벨 자)를 사용하여 보여줄 수 있는 다양한 현상들을 소개합니다.
 
-## Equipment  
-- Bell jar with vacuum pump
-- Balloon
-- Sponge
-- Shaving cream or marshmallows
-- 100 mL graduated cylinder
-- Beaker with room temperature water
-- Thermometer (non-mercury)
-- Safety goggles
+## 장비  
+- 진공 펌프가 연결된 진공 용기(벨 자)
+- 풍선
+- 스펀지
+- 면도 크림 또는 마시멜로
+- 100mL 메스실린더
+- 실온의 물이 담긴 비커
+- 온도계 (비수은)
+- 보호 안경
 
 ```{figure} demo54_figure3.jpg
 ---
@@ -50,48 +50,48 @@ width: 50%
 align: center
 name: demo54_fig3
 ---
-Inflating a balloon and a sponge under the bell jar.
+진공 용기 아래에서 부풀어 오르는 풍선과 스펀지.
 ```
 
-## Preparation 
-Set up all materials. Pre-inflate the balloon a little and tie it off.
+## 준비 
+모든 재료를 준비합니다. 풍선은 미리 조금만 불어서 묶어 둡니다.
 
-## Procedure
-1. *I have a cylinder here and will put some shaving cream in it. Next, we will start vacuuming out the air. What will happen to the shaving cream? Write down your prediction and explain your reasoning* (predict-explain).
-2. Perform the demonstration: the shaving cream swells up. *Explain why!* (observe-explain). Air is trapped in closed pockets within the shaving cream. As the air pressure outside the cream decreases, these pockets of air expand until the air pressure inside and outside the pockets is equal.
+## 절차
+1. *여기 실린더가 하나 있고 그 안에 면도 크림을 조금 넣을 것입니다. 이제 공기를 뽑아내기 시작할 텐데, 면도 크림에 어떤 일이 일어날까요? 예측을 적고 그 이유를 설명해 보세요* (예측-설명).
+2. 시연 수행: 면도 크림이 부풀어 오릅니다. *그 이유를 설명해 보세요!* (관찰-설명). 면도 크림 안에는 닫힌 공기 주머니들이 갇혀 있습니다. 크림 외부의 기압이 낮아짐에 따라, 이 공기 주머니들은 내부 압력과 외부 압력이 같아질 때까지 팽창합니다.
 ```{figure} demo54_figure1.JPG
 ---
 width: 50%
 align: center
 ---
-Shaving cream.
+면도 크림.
 ```
-3. Next, place a glass of water with a thermometer under the bell jar. *What will we see and why?* (predict-explain). Students may not have any idea. In that case, just proceed with the demonstration.
-4. The water starts to boil (observe) without any added heat. Bubbles form at the bottom of the glass and rise to the top. *How is this possible? What is boiling? What does pressure have to do with it?*
+3. 다음으로, 온도계가 꽂힌 물 컵을 진공 용기 아래에 놓습니다. *무엇을 보게 될까요? 그 이유는 무엇일까요?* (예측-설명). 학생들은 전혀 모를 수도 있습니다. 그럴 때는 그냥 시연을 진행합니다.
+4. 열을 가하지 않았는데도 물이 끓기 시작합니다 (관찰). 컵 바닥에서 기포가 형성되어 위로 올라옵니다. *어떻게 이것이 가능할까요? 끓음이란 무엇일까요? 압력과 어떤 관계가 있나요?*
 
 ```{figure} demo54_figure2.JPG
 ---
 width: 50%
 align: center
 ---
-Boiling water at room temperature under the bell jar
+진공 용기 아래에서 실온의 물이 끓는 모습
 ```
-5. *What happens to the temperature during the 'boiling'? Why do you think that is?* Students can predict here.
-6. The temperature should drop because the phase transition requires energy (the water may actually freeze if only a little bit of water is used!).
-7. Finally, place a slightly inflated balloon and a sponge under the bell jar, see {numref}`Figure {number}<demo54_fig3>`, and ask students to predict what will happen to both. Will the balloon get bigger, smaller, or stay the same? Why? Will the sponge get bigger, smaller, or stay the same? Why? Perhaps place a wager.
-8. Predictions might be well-reasoned, such as the sponge swelling because air pockets inside it expand. This turns out not to happen—the conclusion being that the air within the sponge can freely move out.
+5. *'끓는' 동안 온도는 어떻게 변할까요? 왜 그렇다고 생각하나요?* 학생들에게 예측하게 합니다.
+6. 상전이(액체에서 기체로)에는 에너지가 필요하기 때문에 온도는 떨어져야 합니다 (물이 아주 적다면 실제로 얼 수도 있습니다!).
+7. 마지막으로, 조금 불어둔 풍선과 스펀지를 진공 용기 아래에 놓고 ({numref}`그림 {number}<demo54_fig3>` 참조) 두 물체에 어떤 일이 일어날지 예측하게 합니다. 풍선은 커질까요, 작아질까요, 아니면 그대로일까요? 이유는 무엇일까요? 스펀지는 커질까요, 작아질까요, 아니면 그대로일까요? 이유는 무엇일까요? 가벼운 내기를 걸어보는 것도 좋습니다.
+8. 스펀지 내부의 공기 주머니가 팽창하여 스펀지가 부풀어 오를 것이라는 논리적인 예측이 나올 수 있습니다. 하지만 실제로는 그런 일이 일어나지 않습니다. 결론은 스펀지 내부의 공기가 밖으로 자유롭게 빠져나올 수 있다는 것입니다.
 
-## Physics background  
-With shaving cream, we are dealing with trapped air pockets that expand when the pressure outside the shaving cream decreases. 
+## 물리 배경  
+면도 크림의 경우, 갇힌 공기 주머니들이 외부 압력이 낮아질 때 팽창하는 것입니다.
 
-With water, we revisit what boiling is exactly. Normally, the air pressure in bubbles of evaporated water is equal to the outside air pressure. This happens at 1 atmosphere of external pressure, so at 1 atmosphere, the pressure inside the bubbles is less and they collapse at lower temperatures. However, if the external pressure is much lower, as in the bell jar, bubbles of evaporated water can survive at much lower temperatures, and thus the water boils at a much lower temperature. This can also be shown without a vacuum bell jar, for example, with warm water (starting at around 60 °C) in a wine bottle and a wine pump. It can also be done by heating a flask of water to boiling, stopping the heating, and sealing it with a cork/stopper. Inverting the flask and pouring cold water over the raised bottom of the flask makes the water boil again due to the low pressure created when water vapor condenses ({cite:t}`liem1987invitations` p. 106). Lastly, the sponge neither gets bigger nor smaller. Apparently, there are good connections between the gaps in the sponge, allowing air to easily move in and out.
+물의 경우, '끓음'의 정의를 다시 살펴봅니다. 보통 증발된 수증기 기포 내부의 압력은 외부 기압과 같습니다. 외부 압력이 1기압일 때, 그보다 낮은 온도에서는 기포 내부 압력이 외부보다 작아 기포가 찌부러집니다. 하지만 진공 용기 안처럼 외부 압력이 훨씬 낮아지면, 훨씬 낮은 온도에서도 수증기 기포가 유지될 수 있으며 따라서 물이 낮은 온도에서 끓게 됩니다. 이는 진공 용기 없이도 보여줄 수 있는데, 예를 들어 와인병에 따뜻한 물(약 60°C)을 넣고 와인 펌프를 사용하는 방식입니다. 또한 플라스크의 물을 끓인 뒤 가열을 멈추고 마개로 막은 다음, 거꾸로 뒤집어 바닥에 찬물을 부어 수증기를 응결시켜 내부 압력을 낮춤으로써 다시 끓게 할 수도 있습니다 ({cite:t}`liem1987invitations` p. 106). 마지막으로, 스펀지는 커지지도 작아지지도 않습니다. 분명히 스펀지 내부의 틈새들이 잘 연결되어 있어 공기가 쉽게 드나들 수 있기 때문입니다.
 
 ```{tip}
-- When boiling under the bell jar: once the water boils, turn off the pump to prevent much condensation inside. 
-- Demonstrating boiling at a lower temperature can also be done by boiling water in a flask, immediately turning off the heat, sealing the flask with a rubber stopper and thermometer in the stopper, and then inverting it and pouring cold water over it. The reduced pressure brings the water to a boil again at a temperature below 100 degrees.
+- 진공 용기 안에서 끓일 때: 물이 끓기 시작하면 펌프를 꺼서 내부의 과도한 응결을 방지하십시오.
+- 낮은 온도에서 끓는 것을 보여주는 다른 방법: 플라스크에서 물을 끓인 즉시 불을 끄고, 온도계가 꽂힌 고무 마개로 플라스크를 밀봉한 뒤 거꾸로 뒤집어 찬물을 붓습니다. 낮아진 압력으로 인해 100도 미만의 온도에서도 물이 다시 끓게 됩니다.
 ```
 
-## References
+## 참고 문헌
 ```{bibliography}
 :filter: docname in docnames
 ```

@@ -5,44 +5,42 @@ numbering:
     offset: 0
 ---
 ```{note}
-This page originates from Natuurkunde/Broekzakdemos.git, version: main
+이 페이지는 Natuurkunde/Broekzakdemos.git, 버전: main에서 유래되었습니다.
 ```
 
-# Introduction
+# 서론
 
-Suppose you are suddenly assigned to a bare classroom far from the location of your nice laboratory classroom, or you have to substitute in another class without preparation... Or you are teaching at a school without facilities... *How can you still have a clear and exciting lesson?* 
+멋진 실험실 교실에서 멀리 떨어진 빈 교실에 갑자기 배정되었다고 가정해 보십시오. 혹은 준비 없이 다른 학급의 수업을 대신 들어가야 하거나, 시설이 없는 학교에서 가르쳐야 한다면... *어떻게 하면 여전히 명확하고 흥미진진한 수업을 할 수 있을까요?*
 
-This booklet presents a collection of small and quick demonstrations, which require no equipment beyond what is present in a common classroom (chalk, chairs, students, books, paper, student bags and common contents). The collection can be easily expanded. The nature of the demos is varied, some are to prove something, but most are to illustrate, visualize, or simulate. A few role-plays are included for when students are restless, cold, or sleepy, or for when their instructor needs a kick to get into a better mood after a late night of checking students' papers.
+이 소책자는 일반적인 교실에 있는 것(분필, 의자, 학생, 책, 종이, 학생 가방 및 그 내용물) 외에 별도의 장비가 필요 없는 작고 빠른 시연 모음집을 제시합니다. 이 모음집은 쉽게 확장될 수 있습니다. 시연의 성격은 다양하며, 일부는 무언가를 증명하기 위한 것이지만 대부분은 설명, 시각화 또는 시뮬레이션을 위한 것입니다. 학생들이 안절부절못하거나 춥거나 졸려 할 때, 또는 강사가 밤늦게까지 학생들의 과제를 채점한 후 기분 전환이 필요할 때를 위한 몇 가지 역할극도 포함되어 있습니다.
 
 ```{figure} images/20250513_085023.jpg
 :width: 80%
 :name: fig_table
 
-You only need a handful of materials to conduct a series of proper physics demos
+일련의 적절한 물리 시연을 수행하는 데는 소수의 재료만 있으면 됩니다.
 ```
 
-## Proper demonstrations
-Rules for demonstrations are of course:
+## 적절한 시연
+시연의 규칙은 다음과 같습니다.
 
--   Visibility for all;
--   A clear learning objective, even if the demo is intended for entertainment, there must be something that can be learned;
--   Taking into account typical student conceptions and using these productively in the discussion;
--   Involvement, get students involved in predicting, observing, and explaining. There can be teacher questions or tasks which students answer individually in their notebooks or in pairs or groups in order to really force *minds-on*;
--   Emphasize the main points and leave out unnecessary details or discuss the details after the main points have been made.
+-   모두에게 보일 것
+-   명확한 학습 목표가 있을 것. 시연의 목적이 재미를 위한 것이라도 반드시 배울 수 있는 것이 있어야 합니다.
+-   전형적인 학생들의 개념을 고려하고 이를 토론에서 생산적으로 활용할 것
+-   참여. 학생들이 예측, 관찰 및 설명에 참여하게 하십시오. 학생들이 공책에 개별적으로 답하거나 짝 또는 그룹으로 답하게 하여 진정으로 *머리를 쓰게(minds-on)* 만드는 교사의 질문이나 과제가 있을 수 있습니다.
+-   주요 요점을 강조하고 불필요한 세부 사항은 생략하거나, 주요 요점이 전달된 후에 세부 사항을 토론할 것
 
-This booklet provides mostly just bare ideas for demo's and visualizations. For more extensive instructional tips and good questions to ask I refer to {cite:t}`Liem1987`'s Invitations to Science Inquiry (1987), a pdf can be found quickly with Google.
+이 소책자는 시연과 시각화에 대한 핵심적인 아이디어만을 제공합니다. 더 광범위한 교육적 팁과 좋은 질문들에 대해서는 {cite:t}`Liem1987`의 Invitations to Science Inquiry (1987)를 참조하십시오. 구글에서 PDF를 쉽게 찾을 수 있습니다.
 
-One could wonder whether these demonstrations and visualizations are still needed now that we have YouTube. I think that real demonstrations are still different from watching TV. It is important that students learn to recognize the physics phenomena in their own environment and realize that they themselves could actually perform the experiments.
+유튜브가 있는 지금, 이러한 시연과 시각화가 여전히 필요한지 의문이 생길 수 있습니다. 저는 실제 시연은 TV를 보는 것과는 여전히 다르다고 생각합니다. 학생들이 자신의 주변 환경에서 물리 현상을 인식하는 법을 배우고, 자신들도 실제로 실험을 수행할 수 있다는 것을 깨닫는 것이 중요합니다.
 
-Just to exercise our creativity, let's take a glass of water. We can use that to demonstrate: properties of liquids, that the water level is always horizontal whichever way the glass is turned or tilted, adhesion (water higher on the sides), cohesion (the glass can be filled higher than the rim without overflowing), condensation (breathe on the side of the glass), sinking/floating (put something in the water), buoyancy, refraction (put a pencil in), a lens (put your finger in and it appears thicker), concentric water waves (dip in a pencil), sloshing (shake with resonance frequency), sounds dependent on water level (tick against the glass with a coin). One can easily get over 30 different demo's just with a glass of water {cite:p}`Berg2021`. 
+우리의 창의력을 발휘하기 위해 물 한 컵을 예로 들어봅시다. 이를 통해 다음과 같은 것들을 시연할 수 있습니다: 액체의 성질, 컵을 어느 방향으로 돌리거나 기울여도 수면은 항상 수평이라는 것, 부착력(옆면에서 물이 더 높음), 응집력(넘치지 않고 컵 테두리보다 높게 채울 수 있음), 응결(컵 옆면에 숨을 내뱉음), 가라앉음/뜸(물에 무언가를 넣음), 부력, 굴절(연필을 넣음), 렌즈(손가락을 넣으면 굵게 보임), 동심원 모양의 수면파(연필을 살짝 담금), 출렁임(공명 주파수로 흔듦), 수위에 따른 소리(동전으로 컵을 두드림). 물 한 컵만으로도 30가지 이상의 서로 다른 시연을 쉽게 할 수 있습니다 {cite:p}`Berg2021`.
 
-Take any other object such as a chair or a table and you get many more demonstrations and visualizations. {cite:t}`Ehrlig1994` published 34 experiments with a plastic ruler. So, you yourself can add many experiments to this list. There are some standard objects that should always be in the bag or pocket of a physics teacher: a candle, matches or a lighter, two small stones of different sizes, a balloon that can be blown up, a ruler, some different coins, straws, a rubber band, a slinky, some strings, a scissor, and a laser pointer or flashlight.
+의자나 테이블 같은 다른 물체를 선택하면 더 많은 시연과 시각화가 가능합니다. {cite:t}`Ehrlig1994`는 플라스틱 자를 이용한 34가지 실험을 발표했습니다. 따라서 여러분도 이 목록에 많은 실험을 직접 추가할 수 있습니다. 물리 교사의 가방이나 주머니에 항상 있어야 할 표준 물품들이 있습니다: 양초, 성냥 또는 라이터, 크기가 다른 작은 돌 두 개, 불 수 있는 풍선, 자, 몇 가지 종류의 동전, 빨대, 고무줄, 슬링키, 몇 개의 끈, 가위, 그리고 레이저 포인터나 손전등입니다.
 
 ```{figure} images/sdfcover.jpg
 :width: 60%
 :name: fig_sdf
 
-Looking for more and more advanced physics demonstrations? Take a look at [Show the Physics](https://interactivetextbooks.tudelft.nl/showthephysics), an online open access book with 99 physics demonstrations.
+더 많고 진보된 물리 시연을 찾고 계신가요? 99가지 물리 시연이 담긴 온라인 오픈 액세스 도서인 [Show the Physics](https://interactivetextbooks.tudelft.nl/showthephysics)를 살펴보십시오.
 ```
-
-

@@ -1,16 +1,17 @@
-# Heat and temperature
+# 열과 온도
 
-## Hand as thermometer
-Some classrooms have hot and cold water. If yours does not have, then send a student to quickly to get 3 beakers of water, one hot, one lukewarm, and one cold. Then let some (or all!) students put one finger in hot water and one in cold and then transfer both fingers to lukewarm. What do you feel?
+## 온도계로서의 손
+어떤 교실에는 온수와 냉수가 나옵니다. 만약 그렇지 않다면 학생을 보내서 뜨거운 물, 미지근한 물, 찬물이 담긴 비커 3개를 빨리 가져오게 하십시오. 그런 다음 몇 명(또는 모든!) 학생들에게 한 손가락은 뜨거운 물에, 다른 한 손가락은 찬물에 넣게 한 뒤 두 손가락을 모두 미지근한 물로 옮기게 하십시오. 무엇이 느껴지나요?
 
-## Adding temperatures or not? Intensive versus extensive variables
-I have 5 glasses of water from the faucet, each at a temperature of 20 $^o$C. When I put two glasses together, what will the temperature be? A. 20 $^o$C,  
-B. 40 $^o$C, or  
-C. just a bit less than 40 $^o$C? 
+## 온도를 더할 것인가 말 것인가? 세기 성질(Intensive) 대 크기 성질(Extensive) 변수
+수도꼭지에서 받은 20 $^o$C의 물이 담긴 컵 5개가 있습니다. 두 컵의 물을 합치면 온도는 몇 도가 될까요?
+A. 20 $^o$C,  
+B. 40 $^o$C, 또는  
+C. 40 $^o$C보다 아주 조금 낮음?
 
-Nobody will get that wrong? Well, take a blind vote (students close their eyes and raise their hands with one finger for A, two for B, and 3 for C). You can check by having a student put the finger in a single glass and in the container with the contents of two glasses together.
+아무도 틀리지 않겠죠? 자, 눈을 감고 투표해 봅시다(학생들은 눈을 감고 A는 손가락 하나, B는 둘, C는 셋을 듭니다). 학생에게 한 컵의 물과 두 컵을 합친 용기에 손가락을 넣어보게 함으로써 확인할 수 있습니다.
 
-Now another question. We have a metal bar and cut it into a piece X and Y and the volume of X is twice the volume of Y (figure X). The relationship between the densities $ρ_x$ of $X$ and $ρ_y$ of $Y$ is:
+이제 다른 질문입니다. 금속 막대를 X와 Y 두 조각으로 잘랐는데, X의 부피가 Y의 두 배입니다(그림 X). X의 밀도 $ρ_x$와 Y의 밀도 $ρ_y$ 사이의 관계는 다음과 같습니다.
 
 A.  $ρ_x = 2ρ_y$
 
@@ -18,82 +19,82 @@ B.  $ρ_x = ρ_y$
 
 C.  $ρ_x = ½ ρ_y$
  
-Here quite a few students will go wrong. One could ask similar questions about other materials properties such as specific heat, specific resistance. Which physical properties can one add? Mass, weight, volume. Which cannot be added (temperature, density, material properties)?
+여기서 꽤 많은 학생이 틀릴 것입니다. 비열, 비저항과 같은 다른 재료 특성에 대해서도 비슷한 질문을 할 수 있습니다. 어떤 물리적 특성을 더할 수 있나요? 질량, 무게, 부피입니다. 어떤 것을 더할 수 없나요(온도, 밀도, 재료 특성)?
 
-## Heat and friction
-Rub your hands, what do you feel? Stretch a rubber band several times and hold it on your upper lip to feel the rise in temperature.
+## 열과 마찰
+손을 비벼보세요. 무엇이 느껴지나요? 고무줄을 여러 번 늘렸다가 윗입술에 대어 온도가 올라가는 것을 느껴보십시오.
 
-## Conduction
-Let students feel different materials, for example the metal of chairs, wood, plastics, textiles. How warm does it feel? Is it possible that these materials in the same classroom have a different temperature? If the temperature is really the same, the classroom environmental temperature, how come materials feel differently, metals feel cold, textile materials feel warm? The answer is conduction!
+## 전도
+학생들에게 의자의 금속, 나무, 플라스틱, 직물 등 다양한 재료를 만져보게 하십시오. 얼마나 따뜻하게 느껴지나요? 같은 교실에 있는 이 재료들의 온도가 다를 수 있을까요? 만약 온도가 교실의 환경 온도와 정말로 같다면, 왜 재료마다 느껴지는 것이 다를까요? 금속은 차갑게 느껴지고 직물은 따뜻하게 느껴지는 이유는 무엇일까요? 답은 전도입니다!
 
-## Convection
-What are the hot spots of our body and what are the cold spots, for example when we are outside in winter? How do we explain that? Blood circulation, distance to the main arteries, convection!
+## 대류
+우리 몸에서 뜨거운 부분과 차가운 부분은 어디일까요? 예를 들어 겨울에 밖에 있을 때 말이죠. 그것을 어떻게 설명할까요? 혈액 순환, 주요 동맥과의 거리, 그리고 대류입니다!
 
-## Roleplay: Melting-boiling-condensing-solidifying
-Get a group of 15 students (actors) up front and make 3 rows of 5 facing the audience. First arrange them neatly into a "crystal". Start at the absolute zero, they are moving a little bit (there *is* movement at the absolute zero, remember Heisenberg!). Then crank up the temperature (the teacher uses his/her hand to indicate temperature, the hand moves up then temperature goes up) and the actors start oscillating around their fixed spot more and more wildly. Pass the melting point and actors leave their fixed location but stay in a bunch. Pass the boiling point and the actors fly out all over the room. Call them back before they are too far and start the opposite process of condensation and solidifying into a neat crystal. Throughout the activity ask the audience what the actors should do. Pass the melting point \... what should the actors do? Keep asking questions which force students to think back-and-forth between atoms/molecules and this people model. What is the difference between boiling and evaporation in this model? Evaporation can only happen on the outside, at the surface. So only an actor on the surface can "evaporate". With boiling, gas bubbles can form inside the liquid. The danger of this activity is a reinforcement anthropomorphic thinking: assigning human characteristics to atoms. So conclude with a discussion of differences between atoms/molecules and this people model. And then go to another model, for example, a PhET applet. Can atoms escape from the solid phase? Yes, sublimation. It can be played in the roleplay, but in reality it is only one in zillions of atoms that can escape. Some solids have a smell, that clearly is an indication of sublimation. A toilet refreshener is based on sublimation and there it is so much that in the end most of the solid is evaporated. But take iron, rightly or wrongly I think I can smell it but an iron bar will not evaporate away so it is only one atom in zillions that escapes. Our noses are very sensitive.
+## 역할극: 녹음-끓음-응결-응고
+15명의 학생(배우)을 앞으로 불러 청중을 향해 5명씩 3줄로 세웁니다. 먼저 그들을 "결정(crystal)" 구조로 깔끔하게 배치하십시오. 절대 영도에서 시작합니다. 그들은 아주 조금씩 움직이고 있습니다(절대 영도에서도 움직임이 *있다는* 것을 기억하세요. 하이젠베르크!). 그런 다음 온도를 높입니다(교사는 손을 사용하여 온도를 나타내며, 손이 올라가면 온도가 올라갑니다). 그러면 배우들은 자신의 고정된 자리 주변에서 점점 더 격렬하게 진동하기 시작합니다. 녹는점을 지나면 배우들은 고정된 위치를 떠나지만 무리를 지어 머뭅니다. 끓는점을 지나면 배우들은 방 안 곳곳으로 날아갑니다. 너무 멀리 가기 전에 그들을 다시 불러 응결과 깔끔한 결정으로 응고되는 반대 과정을 시작하십시오. 활동 내내 청중에게 배우들이 무엇을 해야 하는지 물어보십시오. 녹는점을 지날 때... 배우들은 무엇을 해야 할까요? 학생들이 원자/분자와 이 사람 모델 사이를 상호 피드백하며 생각하도록 강제하는 질문을 계속 던지십시오. 이 모델에서 끓음(boiling)과 증발(evaporation)의 차이점은 무엇입니까? 증발은 표면에서만 일어날 수 있습니다. 따라서 표면에 있는 배우만 "증발"할 수 있습니다. 끓을 때는 액체 내부에서 기체 방울이 형성될 수 있습니다. 이 활동의 위험 요소는 인격화된 사고(원자에 인간의 특성을 부여하는 것)를 강화할 수 있다는 점입니다. 따라서 원자/분자와 이 사람 모델 사이의 차이점에 대한 토론으로 마무리하십시오. 그러고 나서 PhET 앱과 같은 다른 모델로 넘어가십시오. 고체 상태에서 원자가 탈출할 수 있을까요? 네, 승화(sublimation)입니다. 역할극으로 연기할 수 있지만, 실제로는 수조 개의 원자 중 하나만이 탈출할 수 있습니다. 어떤 고체는 냄새가 나는데, 그것은 승화의 분명한 징후입니다. 화장실 방향제는 승화를 기반으로 하며, 결국 고체의 대부분이 증발할 정도로 많이 일어납니다. 하지만 철을 예로 들면, 맞든 틀리든 저는 냄새를 맡을 수 있다고 생각하지만 철 막대는 증발해서 사라지지 않으므로 수조 개의 원자 중 하나만 탈출하는 것입니다. 우리 코는 매우 민감합니다.
 
-## Melting and plate tectonics
-*Anybody's got some chocolate in his bag? Take the wrapper off and hold it in your hand while all of you work on this little assignment* (give them a task). After a few minutes: *show your hand to the class, what happened? Yes, the chocolate melted. This is what melting looks like. What do you think the approximate melting temperature of chocolate is?* Chocolate happens to melt somewhere between 33 and 37$^o$C, just a bit below body temperature. So do not put chocolate in your pockets. The gradual process of melting chocolate is nice to observe. Think of the asthenosphere, the earth's 3000 km thick layer of hot semi-fluid rock under the tectonic plates of rock. I always think of it like butter or partly molten chocolate. So it can flow and take the tectonic plates along with it, several cm per year.
+## 녹음과 판 구조론
+*가방에 초콜릿 가진 사람 있나요? 포장지를 벗기고 이 짧은 과제를 수행하는 동안 손에 쥐고 계세요*(학생들에게 과제를 줍니다). 몇 분 후: *학급에 손을 보여주세요. 무슨 일이 일어났나요? 네, 초콜릿이 녹았습니다. 이것이 녹는 모습입니다. 초콜릿의 대략적인 녹는점은 몇 도라고 생각하나요?* 초콜릿은 체온보다 약간 낮은 33도에서 37도 사이에서 녹습니다. 그러니 초콜릿을 주머니에 넣지 마세요. 초콜릿이 서서히 녹는 과정은 관찰하기 좋습니다. 암석 판 아래에 있는 지구의 3000km 두께의 뜨거운 반유체 암석층인 연약권(asthenosphere)을 생각해 보십시오. 나는 항상 그것을 버터나 부분적으로 녹은 초콜릿처럼 생각합니다. 그래서 그것은 흐를 수 있고 지각판을 1년에 몇 cm씩 이동시킬 수 있습니다.
 
-## Cooling effect of narrow nozzles 
-Exhaling with mouth wide open (warm), exhaling through small opening in lips (cold {cite:p}`Hewitt2015`). Let your students do and feel this themselves . Expanding air cools. Compressed air heats up (feel the bottom of your bicycle pump). Or would evaporation also play a role in cooling here? Several simple follow-up experiments are possible to further investigate this.
+## 좁은 노즐의 냉각 효과 
+입을 크게 벌리고 숨을 내뱉기(따뜻함), 입술을 좁게 벌리고 숨을 내뱉기(차갑음 {cite:p}`Hewitt2015`). 학생들이 직접 해보고 느껴보게 하십시오. 팽창하는 공기는 차가워집니다. 압축된 공기는 뜨거워집니다(자전거 펌프의 바닥을 만져보세요). 아니면 여기서 증발도 냉각에 역할을 할까요? 이를 더 조사하기 위해 몇 가지 간단한 후속 실험이 가능합니다.
 
-## Evaporation and cooling
-Let a little bottle of alcohol or acetone go around with an eye dropper. Students put a drop on the back of their hand and experience the cooling effect. Sorry, this experiment requires something to be taken in from outside the lecture room, but there is a good chance one of the girls can produce some nail polish remover. If so, borrow it, and pay something for replacement.
+## 증발과 냉각
+알코올이나 아세톤이 든 작은 병과 스포이트를 돌리십시오. 학생들은 손등에 한 방울 떨어뜨리고 냉각 효과를 경험합니다. 죄송합니다만, 이 실험은 강의실 밖에서 무언가를 가져와야 합니다. 하지만 여학생 중 한 명이 매니큐어 리무버를 가지고 있을 가능성이 큽니다. 그렇다면 그것을 빌리고 나중에 보충해 주십시오.
 
-## Evaporation/condensation
-In winter in cold countries look at the windows, why is there water on the inside of the window? The increasingly common double glass has decreased the effect. Better yet, do take a glass with cold water or a can of cold drink to class! If you forgot, take a glass of water from the faucet and breathe on it. It will get foggy on the outside as long as the water temperature of the glass is lower than your breath which should be near 37 $^o$C when exhaling with the mouth wide open.
+## 증발/응결
+겨울철 추운 나라에서는 창문을 보세요. 왜 창문 안쪽에 물이 맺힐까요? 점점 보편화되는 이중창은 이 효과를 감소시켰습니다. 더 좋게는, 찬물이 든 컵이나 찬 음료 캔을 수업에 가져가십시오! 잊었다면 수도꼭지에서 물 한 컵을 받아 그 위에 숨을 내쉬십시오. 컵의 물 온도가 입을 크게 벌리고 내쉬는 숨(약 37도)보다 낮다면 컵 겉면에 김이 서릴 것입니다.
 
-## Evaporation and diffusion
-There must be a student with a bottle of perfume in her bag. Open it, and after a while we can smell it from a distance. Or promise the girl a new bottle and put a drop on the hand of a few students and let them go around and let all students smell.
+## 증발과 확산
+가방에 향수병이 있는 학생이 있을 것입니다. 그것을 열면 잠시 후 멀리서도 냄새를 맡을 수 있습니다. 또는 그 학생에게 새 병을 약속하고 몇 명의 학생 손에 한 방울씩 떨어뜨린 뒤 돌아다니며 모든 학생이 냄새를 맡게 하십시오.
 
-## Sublimation
-The above experiment will also work with a piece of solid soap, there should be a piece in the school somewhere. If not, see whether students have any solids in their bags that smells (food?). Sublimation! Or is it a solid material that contains some gas that we smell and is it not sublimation?
+## 승화
+위의 실험은 고체 비누 조각으로도 가능합니다. 학교 어딘가에 비누 조각이 있을 것입니다. 없다면 학생들의 가방에 냄새가 나는 고체(음식?)가 있는지 확인해 보십시오. 승화입니다! 아니면 우리가 냄새를 맡는 가스를 포함하고 있는 고체 물질일 뿐이고 승화는 아닐까요?
 
-## Energy transport: conduction, convection, evaporation, radiation
-Remember that "heat transport" can take place through conduction, convection, radiation, and evaporation (which is a special form of convection). Actually, heat transport is a wrong term as heat is defined as energy moving between systems, thus energy in transport. A better term might be transport of thermal energy. Anyway, a trivial experiment, bring your hot cup of coffee from the teachers' room to class. How does the coffee cool? *What is conduction? How can I feel that?* Touch the sides of the cup. *What is convection? How can I feel that?* Hold your hand above the cup. *What about evaporation?* *How can I show that?* Put a cold object (like a saucer) right above the cup, drops will form under it from evaporated coffee which condenses on the colder object. *What is radiation? How can I feel that?* Put your hand a bit away from the cup, but perhaps better, borrow a water cooker from the teacher room.
+## 에너지 전달: 전도, 대류, 증발, 복사
+"열 전달"은 전도, 대류, 복사 및 증발(대류의 특수한 형태)을 통해 일어날 수 있음을 기억하십시오. 사실 열은 계 사이를 이동하는 에너지, 즉 이동 중인 에너지로 정의되므로 열 전달은 잘못된 용어입니다. 열 에너지의 전달이 더 나은 용어일 수 있습니다. 어쨌든 사소한 실험으로, 교무실에서 뜨거운 커피 한 잔을 가져오십시오. 커피는 어떻게 식을까요? *전도란 무엇일까요? 어떻게 느낄 수 있나요?* 컵의 옆면을 만져보세요. *대류란 무엇일까요? 어떻게 느낄 수 있나요?* 컵 위에 손을 대보세요. *증발은 어떤가요?* *어떻게 보여줄 수 있나요?* 컵 바로 위에 차가운 물체(받침 접시 등)를 놓으면 증발한 커피가 차가운 물체에서 응결되어 그 아래에 물방울이 맺힐 것입니다. *복사란 무엇일까요? 어떻게 느낄 수 있나요?* 컵에서 조금 떨어진 곳에 손을 대보세요. 하지만 더 좋게는 교무실에서 전기 포트를 빌려오십시오.
 
-## Keeping water warm
-Take two beakers of hot water, or better, take a full thermos and two beakers and some additional material such as saucers, a towel, old newspaper. *I am going to fill the two beakers with hot water. How can I keep it warm longer? How do I prevent conduction, how convection and evaporation, how radiation?* Take student suggestions, then insulate one beaker and use the other as control. Having two thermometers would be a great help, otherwise use the finger of one of the students. While waiting for the cooling, give students some questions or problem solving to chew on. I used to do this as a lab activity for all students but then with thermometers. In a first round they would just measure cooling of two open glasses to practice taking temperature-time measurements. In a 2$^{\text{nd}}$ round they would insulate one glass in whichever way and compare with the uninsulated glass. In a third round they learned first about heat transfer through conduction, convection, and radiation and then redesigned the insulation. That third round resulted then in quite good Joule meters, good enough to do specific heat measurements {cite:p}`Berg1997`.
+## 물을 따뜻하게 유지하기
+뜨거운 물이 든 비커 두 개를 준비하거나, 더 좋게는 가득 찬 보온병과 비커 두 개, 그리고 받침 접시, 수건, 헌 신문 같은 추가 재료를 준비하십시오. *두 비커에 뜨거운 물을 채울 것입니다. 어떻게 하면 더 오랫동안 따뜻하게 유지할 수 있을까요? 전도, 대류 및 증발, 복사를 어떻게 막을 수 있을까요?* 학생들의 제안을 받아 한 비커는 단열하고 다른 비커는 대조군으로 사용하십시오. 온도계 두 개가 있다면 큰 도움이 되겠지만, 없다면 학생 중 한 명의 손가락을 사용하십시오. 식기를 기다리는 동안 학생들에게 생각할 만한 질문이나 문제 풀이를 주십시오. 나는 예전에 이것을 모든 학생을 위한 실험 활동으로 온도계를 사용하여 수행하곤 했습니다. 첫 번째 단계에서는 온도-시간 측정을 연습하기 위해 두 개의 열린 컵의 냉각을 측정합니다. 두 번째 단계에서는 한 컵을 어떤 방식으로든 단열하고 단열하지 않은 컵과 비교합니다. 세 번째 단계에서는 먼저 전도, 대류 및 복사를 통한 열 전달에 대해 배우고 단열을 다시 설계했습니다. 그 세 번째 단계의 결과로 비열 측정을 수행할 수 있을 만큼 충분히 좋은 줄 미터(Joule meter)를 만들 수 있었습니다 {cite:p}`Berg1997`.
 
-## Cooling water quickly
-One could also do the opposite. Bring a hot coffee from the teachers' room. *It is still too hot to drink, what can I do to cool it fast?* Stirring? Blowing across the top of the cup or beaker? How does this relate to conduction, convection and evaporation? (Stirring stimulates cooling at the surface through convection/evaporation. Blowing across keeps removing the evaporated and saturated coffee/water vapor thus accelerates cooling through evaporation).
+## 물을 빨리 식히기
+반대로 할 수도 있습니다. 교무실에서 뜨거운 커피를 가져오십시오. *마시기엔 너무 뜨거운데, 빨리 식히려면 어떻게 해야 할까요?* 젓기? 컵이나 비커 위를 불기? 이것이 전도, 대류 및 증발과 어떤 관련이 있을까요? (저으면 대류/증발을 통해 표면에서의 냉각이 자극됩니다. 위를 불면 증발된 포화 커피/수증기를 계속 제거하여 증발을 통한 냉각을 가속화합니다).
 
-## Conduction, convection, radiation with a match or lighter 
-Now these may not be common objects in a bare classroom anymore but should be standard in the pocket of a science teacher. With the matches one can demonstrate conduction (hold a metal object in the flame), convection (hand above the flame, but not too close), and radiation (hand to the side at some distance).
+## 성냥이나 라이터를 이용한 전도, 대류, 복사 
+이제 빈 교실에서 흔히 볼 수 있는 물건은 아닐 수 있지만, 과학 교사의 주머니에는 표준적으로 들어있어야 합니다. 성냥으로 전도(화염에 금속 물체를 대기), 대류(화염 위에 손 대기, 너무 가깝지 않게), 복사(일정 거리 떨어진 옆면에 손 대기)를 시연할 수 있습니다.
 
-The following candle experiments can be done by the teacher (with a big candle in a darkened room and preferably with a webcam), or synchronous by teacher and students on their desks, or as student lab. Obviously when students have candles on their desks, more candles and matches are needed and it is no longer a "pocket" demo.
+다음의 양초 실험은 교사가 수행하거나(어두운 방에서 큰 양초와 가급적 웹캠을 사용하여), 교사와 학생이 책상 위에서 동시에 수행하거나, 학생 실험으로 수행할 수 있습니다. 분명히 학생들이 책상 위에 양초를 두게 되면 더 많은 양초와 성냥이 필요하며 더 이상 "주머니(pocket)" 시연이 아닙니다.
 
-## Describing candles and flames and formulating questions
-A candle should be a standard object in the bag of a physics teacher, just like a balloon, a ruler, and matches. Let students describe what they see: 
-a. unlighted candle, 
-b. lighted candle, 
-c. just extinguished candle. 
-Let them then think of explanations and follow-up experiments to test their explanations. For example, the unlighted candle consists of wax and a wick. Can the wax itself be made to burn with a match? (No) What is the function of the wick? Can liquid wax be ignited by a match? (No) Draw a flame, put in the colors. There seem to be three regions: blue, grayish-yellow, and bright yellow. What questions can be asked? See Faraday's 1860 beautiful and very readable description of candle experiments in {cite:p}`Hammack2016`.
+## 양초와 화염 설명 및 질문 공식화
+풍선, 자, 성냥과 마찬가지로 양초는 과학 교사의 가방에 들어있어야 할 표준 물품입니다. 학생들에게 보이는 것을 설명하게 하십시오.
+a. 불이 붙지 않은 양초, 
+b. 불이 붙은 양초, 
+c. 막 꺼진 양초. 
+그런 다음 설명을 생각하고 그 설명을 테스트하기 위한 후속 실험을 생각하게 하십시오. 예를 들어, 불이 붙지 않은 양초는 왁스와 심지로 구성됩니다. 왁스 자체를 성냥으로 태울 수 있나요? (아니요) 심지의 기능은 무엇인가요? 액체 왁스에 성냥으로 불을 붙일 수 있나요? (아니요) 화염을 그리고 색깔을 칠해 보세요. 파란색, 회색빛이 도는 노란색, 밝은 노란색의 세 영역이 있는 것 같습니다. 어떤 질문을 할 수 있을까요? {cite:p}`Hammack2016`에서 1860년 패러데이(Faraday)가 쓴 아름답고 매우 읽기 쉬운 양초 실험 설명을 확인해 보십시오.
 
-## Candle, what is it that burns?
-Try lighting the solid wax, it does not burn. Look at the molten wax, as if it does not burn. Turn the candle upside down, the flame gets extinguished. The liquid wax kills the flame! What is it then that burns? Light the candle, then extinguish it, and then quickly hold a lighted match at some 5 - 10 cm from the candle in the resulting whitish smoke. Wow, a flame again. It was the wax *vapor* that can easily be ignited. When the wick is lighted, it burns, it melts the wax, it heats the wax until vapor creeps up the wick through *capillarity* and the vapor is what burns. There is a small distance between liquid wax and the bottom of the flame. So the vapor burns at a few millimeters above the liquid wax. {cite:t}`Hammack2016`.
+## 양초, 타는 것은 무엇인가?
+고체 왁스에 불을 붙여보세요. 타지 않습니다. 녹은 왁스를 보세요. 타지 않는 것 같습니다. 양초를 거꾸로 뒤집으면 화염이 꺼집니다. 액체 왁스가 화염을 죽입니다! 그렇다면 타는 것은 무엇일까요? 양초에 불을 붙였다가 끈 다음, 발생하는 하얀 연기 속에 5-10cm 정도 떨어진 곳에 불이 붙은 성냥을 빨리 가져다 대십시오. 와우, 다시 불이 붙습니다. 쉽게 발화될 수 있는 것은 왁스 *증기*였습니다. 심지에 불이 붙으면 심지가 타면서 왁스를 녹이고, 왁스를 가열하여 *모세관 현상*을 통해 증기가 심지를 타고 올라가게 하며, 타는 것은 바로 그 증기입니다. 액체 왁스와 화염의 바닥 사이에는 약간의 거리가 있습니다. 즉, 증기는 액체 왁스에서 몇 밀리미터 위에서 탑니다 {cite:t}`Hammack2016`.
 
-## Exploring the temperature pattern of the flame 1
-The tips of unlighted matches can be used as temperature sensors. When approaching the flame slowly, at a certain distance it will ignite, that is where the temperature equals the ignition temperature of the material at the tip of the match. Now try this around the flame and that will produce an "isotherm" of the ignition temperature around the flame. Near the bottom of the flame one can come quite close with the match. Above the flame the match ignites at much greater distance from the flame. Explain! {cite:p}`Liem1987` (p205).
+## 화염의 온도 패턴 탐구 1
+불이 붙지 않은 성냥의 팁을 온도 센서로 사용할 수 있습니다. 화염에 천천히 접근할 때 특정 거리에서 불이 붙는데, 그곳이 온도가 성냥 팁 재료의 발화점과 같아지는 곳입니다. 이제 화염 주위에서 이를 시도해 보면 화염 주위에 발화 온도의 "등온선"이 만들어집니다. 화염의 바닥 근처에서는 성냥을 상당히 가까이 가져갈 수 있습니다. 화염 위쪽에서는 화염에서 훨씬 더 먼 거리에서 성냥에 불이 붙습니다. 설명해 보세요! {cite:p}`Liem1987` (p205).
 
-## Exploring the temperature pattern of the flame 2
-Exploration can also be done with a piece of paper by the teacher only. Hold a piece of paper horizontally above the flame and look at scorching pattern. Obviously strips of paper can also be used instead of the matches of the previous demo. The typical ignition temperature of paper is usually somewhere between 200 and 300 $^o$C.
+## 화염의 온도 패턴 탐구 2
+교사만이 종이 한 장으로 탐구를 수행할 수도 있습니다. 종이 한 장을 화염 위에 수평으로 들고 그을리는 패턴을 관찰하십시오. 분명히 이전 시연의 성냥 대신 종이 띠를 사용할 수도 있습니다. 종이의 전형적인 발화 온도는 대개 200도에서 300도 사이입니다.
 
-## Products of candle flames
-What are the products of candle flames and how can you see them? Burning hydrocarbons should produce water and CO$_2$. Water vapor can be easily verified. Use a metal or glass object, wipe it dry, and hold it near or above the flame. Drops of water should form. See: https://engineerguy.com/faraday/pdf/faraday-chemical-history-complete.pdf See https://www.candles.org/candle-science for interesting candle science.
+## 양초 화염의 생성물
+양초 화염의 생성물은 무엇이며 어떻게 확인할 수 있을까요? 탄화수소를 태우면 물과 CO$_2$가 생성되어야 합니다. 수증기는 쉽게 확인할 수 있습니다. 금속이나 유리 물체를 사용하여 물기를 닦아 말린 뒤 화염 근처나 위에 대보십시오. 물방울이 맺힐 것입니다. https://engineerguy.com/faraday/pdf/faraday-chemical-history-complete.pdf 를 참조하십시오. 흥미로운 양초 과학에 대해서는 https://www.candles.org/candle-science 를 참조하십시오.
 
-## Preventing oxygen to reach the candle flame
-Light the candle, put a big glass upside down over the flame. What will happen? The flame goes out, no more oxygen. If available, use 3 identical candles with three glasses of different size. Which flame will go out first? So there is something in the air which is needed by the flame. More air, then also more of that stuff (oxygen).
+## 양초 화염에 산소가 도달하는 것을 막기
+양초에 불을 붙이고 큰 유리잔을 화염 위에 거꾸로 덮으십시오. 무슨 일이 일어날까요? 화염이 꺼집니다. 더 이상 산소가 없기 때문입니다. 가능하다면 세 개의 동일한 양초와 크기가 다른 세 개의 유리잔을 사용하십시오. 어떤 화염이 가장 먼저 꺼질까요? 즉, 공기 중에 화염에 필요한 무언가가 있다는 것입니다. 공기가 많을수록 그 물질(산소)도 많아집니다.
 
-## Rising water
-Let the candle float on water in a bowl, light the flame and invert a glass over it. See the set-up in figure X. When the flame extinguishes, the water rises into the glass. There are two major reasons for the rising water. One is the oxygen that is used up but partly replaced by CO$_2$. The other is the expansion of air while the flame is on, some air even escapes from under the glass. When the flame stops, the air contracts and water vapor produced by the flame condenses. Result low pressure under the glass so the air pressure outside the glass pushes the water inside.
+## 솟아오르는 물
+그릇의 물 위에 양초를 띄우고 불을 붙인 뒤 유리잔을 거꾸로 씌우십시오. 그림 X의 설정을 확인하십시오. 화염이 꺼지면 물이 유리잔 안으로 솟아오릅니다. 물이 솟아오르는 데는 두 가지 주요 이유가 있습니다. 하나는 산소가 소모되었지만 부분적으로 CO$_2$로 대체되었기 때문입니다. 다른 하나는 화염이 켜져 있는 동안 공기가 팽창하여 일부 공기가 유리잔 아래로 빠져나가기 때문입니다. 화염이 멈추면 공기가 수축하고 화염에 의해 생성된 수증기가 응결됩니다. 결과적으로 유리잔 아래의 압력이 낮아져 유리잔 밖의 공기 압력이 물을 안쪽으로 밀어 넣습니다.
 
-## Convection around candle flames
-What does a flame need? Oxygen and fuel. Now what would happen to a flame when there would be no convection around the flame? The flame would go out. How can we make the flow of air visible to our students? One could say the flame is its own windvane, just look at the shape of the flame. Another indicator is the movement of the smoke when the flame is extinguished. The smoke goes up. One could also try to obstruct the flow outside the flame in different ways and see how it affects the flame.
+## 양초 화염 주변의 대류
+화염에는 무엇이 필요한가요? 산소와 연료입니다. 이제 화염 주변에 대류가 없다면 화염에 어떤 일이 일어날까요? 화염은 꺼질 것입니다. 어떻게 학생들에게 공기의 흐름을 보여줄 수 있을까요? 화염 자체가 풍향계라고 할 수 있습니다. 화염의 모양을 보세요. 또 다른 지표는 화염이 꺼졌을 때 연기의 움직임입니다. 연기는 위로 올라갑니다. 화염 밖의 흐름을 다양한 방식으로 방해해 보고 그것이 화염에 어떤 영향을 미치는지 볼 수도 있습니다.
 
-## Convection: Tea bag rocket
-Take a tea bag from the teacher room, open it on two sides, take the tea out, and make the teabag into a cylinder and set it upright. Make sure there is nothing flammable nearby and then light the cylinder from the top. Hot air will start moving upward (convection). At a certain point the yet unburned part of the tea bag will be light enough to move upward with the moving air. For good questions and explanations see {cite:p}`Liem1987`(p208). There are many [video clips](https://www.youtube.com/shorts/z8evo1jr5Nk).
+## 대류: 티백 로켓
+교무실에서 티백을 가져와 양쪽을 열고 차를 꺼낸 뒤 티백을 원통형으로 만들어 똑바로 세우십시오. 주변에 인화성 물질이 없는지 확인한 다음 원통의 윗부분에 불을 붙이십시오. 뜨거운 공기가 위로 움직이기 시작할 것입니다(대류). 어느 지점에서 아직 타지 않은 티백 부분이 움직이는 공기와 함께 위로 올라갈 정도로 가벼워집니다. 좋은 질문과 설명은 {cite:p}`Liem1987`(p208)을 참조하십시오. 많은 [동영상](https://www.youtube.com/shorts/z8evo1jr5Nk)이 있습니다.
 
-## Money surviving the flames
-Post-pandemic more people have small bottles of alcohol in their bags. I saw this especially in the Philippines, even in special small bottles which dangle from women's bags. That makes the famous money burning experiment possible in a bare classroom. Take a glass or cup, add a little water (before students enter the room), add a similar amount of alcohol (in the presence of students). Mix the two. A little bit of salt would be nice to color the flame. *Who has a dollar or Peso bill or whatever currency?* (Or use your own). Soak the dollar bill into the mixture. Use a big tweezers, a laundry clip, or an improvised tweezer (two pencils with the paper money in between) to hold the bill and then ignite it with a match. In spite of the flame, the money does not burn. It is the alcohol that burns while the water keeps the temperature of the paper below 100 $^o$ C until all the water has evaporated. The 100 $^o$C is way below the ignition temperature of paper which is typically above 200 $^o$C. In a 50-50 mixture of alcohol and water, the ignition temperature will not be reached. Theatrics can greatly increase the suspense, borrowing money from a student can make it more fun. Just a bit of salt turns the alcohol blue flame into bright orange through the presence of sodium.
+## 화염에서 살아남는 돈
+팬데믹 이후 많은 사람이 가방에 작은 알코올 병을 가지고 다닙니다. 나는 특히 필리핀에서 여성들의 가방에 매달린 특별한 작은 병들을 보았습니다. 그것은 빈 교실에서도 유명한 돈 태우기 실험을 가능하게 합니다. 유리잔이나 컵을 가져와 (학생들이 들어오기 전에) 물을 조금 넣고, (학생들이 있는 곳에서) 비슷한 양의 알코올을 넣으십시오. 둘을 섞으십시오. 화염에 색을 입히기 위해 소금을 조금 넣으면 좋습니다. *누가 달러나 페소 지폐, 혹은 어떤 화폐든 가지고 있나요?* (또는 본인의 것을 사용하십시오). 지폐를 혼합물에 담그십시오. 큰 핀셋, 빨래집게 또는 임시 핀셋(지폐를 사이에 끼운 연필 두 자루)을 사용하여 지폐를 잡고 성냥으로 불을 붙이십시오. 화염에도 불구하고 돈은 타지 않습니다. 타는 것은 알코올이며, 물은 모든 물이 증발할 때까지 종이의 온도를 100도 미만으로 유지합니다. 100도는 대개 200도 이상인 종이의 발화점보다 훨씬 낮습니다. 알코올과 물의 50-50 혼합물에서는 발화점에 도달하지 않습니다. 연출을 통해 긴장감을 크게 높일 수 있으며, 학생에게 돈을 빌리면 더 재미있을 수 있습니다. 소금을 조금 넣으면 나트륨 때문에 알코올의 푸른 불꽃이 밝은 오렌지색으로 변합니다.

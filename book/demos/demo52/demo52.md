@@ -1,77 +1,77 @@
-# A light bulb as hot as the sun?
+# 태양만큼 뜨거운 전구?
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Wim Sonneveld</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">저자:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">빔 손네벨트</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">15-30 minutes</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">시간:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">15-30분</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">From grade 10</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">연령 그룹:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">10학년부터</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Inverse square law, radiation power, solar constant</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">개념:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">역제곱 법칙, 복사 에너지, 태양 상수</td>
     </tr>
 </table>
 
-## Introduction
-The power emitted by the sun can be reasonably well determined using a regular 100 W light bulb and the inverse square law.
+## 소개
+일반적인 100W 전구와 역제곱 법칙을 사용하여 태양에서 방출되는 에너지를 꽤 정확하게 결정할 수 있습니다.
 
 ```{figure} demo52_figure1.JPG
 ---
 width: 70%
 align: center
 ---
-Feel with your hand at what distance the 100W lamp appears as hot as the sun.
+100W 전구가 태양만큼 뜨겁게 느껴지는 거리를 손으로 찾아보세요.
 ```
 
-## Equipment
-- A 100 W light bulb with fitting and plug
-- Measuring tape
-- Blindfold
-- Optional for verifying the inverse square law: light sensor
+## 장비
+- 소켓과 플러그가 달린 100W 전구
+- 줄자
+- 안대
+- 선택 사항 (역제곱 법칙 검증용): 조도 센서
 
 ```{warning}
-Ensure that the blindfolded student is watched so that hands do not burn!
+안대를 쓴 학생이 손을 데지 않도록 주의 깊게 관찰하십시오!
 ```
 
-## Preparation
-Preferably, wait for a bright, sunny day. Connect the light bulb to the power source.
+## 준비
+가급적 맑고 화창한 날을 선택하십시오. 전구를 전원에 연결합니다.
 
-## Procedure
+## 절차
 ```{note}
-Step 2 of the procedure is only carried out if it is summer and sunny; otherwise, students must rely on their memory of the sun's warmth on the beach (step 3). Work with groups of two students who come forward one by one. Student 1 performs the measurement and monitors blindfolded student 2 to ensure they do not burn their hand on the hot lamp. Emphasize this important task!
+절차의 2단계는 여름이고 화창한 날에만 수행하며, 그렇지 않은 경우 학생들은 해변에서 느꼈던 태양의 열기에 대한 기억에 의존해야 합니다 (3단계). 두 명씩 짝을 지어 한 팀씩 앞으로 나옵니다. 학생 1은 측정을 수행하고, 안대를 쓴 학생 2가 뜨거운 전구에 손을 데지 않도록 감시합니다. 이 중요한 임무를 강조하십시오!
 ```
 
-1. Ask students how to easily estimate the power of the sun. Partially answer this by turning on the 100 W lamp, holding your hand near it, and asking how powerful a lamp would need to be at 150 million km to achieve the same warming effect. Then explain the basic measurement method, including the inverse square law. Alternatively, you could let students partially figure out the inverse square law themselves in step 6. The inverse square law can also be verified with a light sensor (see Follow-up).
-2. If it is summer and sunny: Student 2 holds their hand in the sun through an open window and feels how warm the sun is.
-3. A blindfolded student 2 slowly moves their hand towards the 100 W light bulb *until they feel the same warmth as when they held their hand in the sun on a sunny beach day* (step 2). Student 1 ensures the hand does not touch the lamp and measures the distance from the hand to the (center of) the light bulb.
-4. Repeat this for 6-10 pairs of students and determine the average distance. Meanwhile, other students can think about how to use this distance to calculate the sun's power (see step 1).
-5. Students calculate the ratio between the distance to the sun and the average distance to the lamp.
-6. Students use the inverse square law or devise their own method to calculate the sun's power based on the lamp's power.
-7. There is a way to improve the estimate. The hand primarily feels the infrared radiation. For the light bulb, this is 90-95% of the radiation. For the sun, it is 52% of the radiation. What correction must be applied to get a better estimate of the sun's power?
-8. Look up the sun's power. Was our experimental estimate reasonable (within a factor of 10)?
+1. 학생들에게 태양의 에너지를 쉽게 추정하는 방법을 묻습니다. 100W 전구를 켜고 손을 가까이 대어 보인 다음, 1억 5천만 km 떨어진 곳에서 이와 같은 온열 효과를 내려면 전구가 얼마나 강력해야 할지 질문함으로써 답의 일부를 제시합니다. 그런 다음 역제곱 법칙을 포함한 기본 측정 방법을 설명합니다. 또는 6단계에서 학생들이 역제곱 법칙을 직접 유도해 보도록 할 수도 있습니다. 역제곱 법칙은 조도 센서로 검증할 수도 있습니다 (후속 활동 참조).
+2. 여름이고 화창한 날인 경우: 학생 2는 열린 창문을 통해 햇빛에 손을 대고 태양이 얼마나 따뜻한지 느껴봅니다.
+3. 안대를 쓴 학생 2는 *화창한 해변에서 햇빛을 쬘 때 느꼈던 것과 같은 따뜻함이 느껴질 때까지* 100W 전구 쪽으로 손을 천천히 움직입니다 (2단계). 학생 1은 손이 전구에 닿지 않도록 주의하며 손에서 전구(중심)까지의 거리를 측정합니다.
+4. 6~10쌍의 학생들에게 이를 반복하고 평균 거리를 구합니다. 그동안 다른 학생들은 이 거리를 사용하여 태양의 에너지를 어떻게 계산할지 생각합니다 (1단계 참조).
+5. 학생들은 태양까지의 거리와 전구까지의 평균 거리 사이의 비율을 계산합니다.
+6. 학생들은 역제곱 법칙을 사용하거나 자신만의 방법을 고안하여 전구의 에너지를 바탕으로 태양의 에너지를 계산합니다.
+7. 추정치를 개선할 수 있는 방법이 있습니다. 손은 주로 적외선 복사를 느낍니다. 전구의 경우 복사 에너지의 90~95%가 적외선입니다. 태양의 경우 복사 에너지의 52%가 적외선입니다. 더 나은 태양 에너지 추정치를 얻으려면 어떤 보정을 적용해야 할까요?
+8. 태양의 에너지(출력)를 찾아봅니다. 우리의 실험적 추정치가 타당했나요 (오차 범위 10배 이내)?
 
-## Physics background
-The essence of this experiment is that students calculate the sun's emitted power by applying the inverse square law. The lamp emits 100 watts in all directions, with 90-95% in the form of infrared radiation. What falls on your hand is only a part of it. The same situation applies to the sun. We assume that the light bulb radiates its light and heat evenly in all directions, just as the sun radiates its energy in all directions. We also assume that the light bulb's radiation is approximately similar to the sun's radiation. The amount of energy captured by a given surface decreases with distance from the sun. The relationship with distance is that the energy through a surface, as shown in the figure, decreases with the square of the distance. This is known as the inverse square law.
+## 물리 배경
+이 실험의 핵심은 학생들이 역제곱 법칙을 적용하여 태양의 방출 에너지를 계산하는 것입니다. 전구는 모든 방향으로 100와트를 방출하며, 그중 90~95%는 적외선 형태입니다. 손에 닿는 것은 그중 일부일 뿐입니다. 태양의 경우도 마찬가지입니다. 우리는 태양이 에너지를 모든 방향으로 고르게 방출하는 것처럼, 전구도 빛과 열을 모든 방향으로 고르게 방출한다고 가정합니다. 또한 전구의 복사가 태양의 복사와 대략 유사하다고 가정합니다. 특정 표면에 포착되는 에너지의 양은 태양으로부터의 거리에 따라 감소합니다. 거리와의 관계는 그림에 표시된 것처럼 표면을 통과하는 에너지가 거리의 제곱에 반비례하여 감소한다는 것입니다. 이것이 역제곱 법칙(inverse square law)으로 알려져 있습니다.
 
 ```{figure} demo52_figure2.jpg
 ---
 width: 70%
 align: center
 ---
-Inverse Square Law.
+역제곱 법칙.
 ```
 
-## Follow-up
-Before or after determining the sun's emitted power, you can let students derive the inverse square law themselves. This can be done by measuring the light intensity of the light bulb at different distances with a light meter and graphing it as a function of distance on double-logarithmic paper. The inverse square law can then be applied again to calculate the solar constant, which is the solar power that reaches the earth on average per square meter. From this, you can also calculate the total solar power incident on the earth. This calculation shows that it is many times greater than the amount of power we, as earth inhabitants, use on average for transport, industry, lighting, heating, and other purposes! It is expected that total energy consumption in 2030 will be about $700\cdot10^{18}$ J per year (source (Dutch): http://www.deconsult.nl). This observation can be used to motivate students to use and develop sustainable energy. For example, they can calculate how much total surface area of solar panels would be needed to generate that amount of energy as electrical energy (ignoring aspects like day/night, energy needs, transport of electrical energy, etc.).
+## 후속 활동
+태양의 방출 에너지를 결정하기 전이나 후에 학생들이 직접 역제곱 법칙을 유도하게 할 수 있습니다. 조도계를 사용하여 서로 다른 거리에서 전구의 빛의 세기를 측정하고, 이중 로그 종이에 거리의 함수로 그래프를 그려봄으로써 이를 수행할 수 있습니다. 그런 다음 역제곱 법칙을 다시 적용하여 태양 상수(지구에 도달하는 단위 면적당 평균 태양 에너지)를 계산할 수 있습니다. 이로부터 지구 전체에 입사하는 총 태양 에너지를 계산할 수도 있습니다. 이 계산을 통해 그 양이 우리 인류가 수송, 산업, 조명, 난방 등에 사용하는 평균 에너지양보다 수배나 크다는 것을 알 수 있습니다! 2030년 총 에너지 소비량은 연간 약 $700\cdot10^{18}$ J에 달할 것으로 예상됩니다 (출처: http://www.deconsult.nl). 이러한 관찰 결과를 통해 학생들이 지속 가능한 에너지를 사용하고 개발하도록 동기를 부여할 수 있습니다. 예를 들어, 낮과 밤, 에너지 요구량, 수송 등의 측면을 무시하고 그 정도의 에너지를 전기 에너지로 생산하기 위해 필요한 태양광 패널의 총 면적이 얼마일지 계산해 볼 수 있습니다.
 
 
-For calculations, an Excel file is available
-[[PFexcel.xlsx](<B49_Excel_calculation solar power.xlsx>)] Calculation of the sun's power
+계산을 위해 엑셀 파일이 준비되어 있습니다.
+[[PFexcel.xlsx](<B49_Excel_calculation solar power.xlsx>)] 태양 에너지 계산
 

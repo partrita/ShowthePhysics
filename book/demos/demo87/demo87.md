@@ -1,49 +1,49 @@
-# Fluorescent olive oil
+# 형광 올리브유
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Rutger Ockhorst</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">저자:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">뤼트허르 오크호르스트</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">15 minutes</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">시간:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">15분</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">12 - 18</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">연령 그룹:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">12 - 18세</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Quantum, lumoniscence, fluoresces</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">개념:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">양자, 발광, 형광</td>
     </tr>
 </table>
 
-## Introduction
+## 소개
 
-Extra virgin olive oil comes from the first pressing of olives and is more expensive than later pressings. This oil contains chlorophyll that fluoresces, aiding in determining whether olive oil is truly extra virgin. You can describe this phenomenon with a simple energy level diagram and explain the surprising observations.
+엑스트라 버진 올리브유는 올리브를 처음 짰을 때 나오며, 나중에 짠 기름보다 비쌉니다. 이 기름에는 형광을 발하는 엽록소가 들어있어, 올리브유가 정말 엑스트라 버진인지 판단하는 데 도움이 됩니다. 이 현상을 간단한 에너지 준위 도표로 설명하고 놀라운 관찰 결과를 풀이할 수 있습니다.
 
 ```{figure} demo87_figure1.jpg
 ---
 width: 70%
 align: center
 name: demo87_fig1
-alt: three jars, straight laser beam going from green to red to green again.
+alt: 세 개의 유리병, 직선 레이저 빔이 초록색에서 빨간색으로, 다시 초록색으로 변함.
 ---
-The green laser beam appears to turn orange in olive oil. 
+초록색 레이저 빔이 올리브유 속에서 오렌지색으로 변하는 것처럼 보입니다.
 ```
 
-## Equipment
+## 장비
 
-- Bottle of extra virgin olive oil
-- Two bottles of water
-- Red laser pointer
-- Green laser pointer
-- White wall/paper
-- Plant sprayer (water with some ink from a yellow marker pen)
+- 엑스트라 버진 올리브유 한 병
+- 물 두 병
+- 빨간색 레이저 포인터
+- 초록색 레이저 포인터
+- 흰색 벽/종이
+- 분무기 (노란색 마커 펜의 잉크를 조금 섞은 물)
 
 ```{warning}
-Avoid shining laser light into eyes, beware of reflections on the olive oil bottle. Only use Class 2 lasers of less than 1 mW, safe for eye reflex, with known specifications. (Green lasers sometimes also have a much more intense but invisible infrared beam.)
+레이저 빛을 눈에 직접 비추지 마십시오. 올리브유 병에 반사되는 빛을 주의하십시오. 사양이 확인된, 눈의 반사 신경에 안전한 1mW 미만의 클래스 2 레이저만 사용하십시오. (초록색 레이저는 때때로 훨씬 강하지만 보이지 않는 적외선 빔을 포함하기도 합니다.)
 ```
 
 ```{figure} demo87_figure3.jpg
@@ -51,40 +51,40 @@ Avoid shining laser light into eyes, beware of reflections on the olive oil bott
 width: 60%
 align: center
 name: demo87_fig3
-alt: the setup with lights on.
+alt: 조명이 켜진 상태의 설정.
 ---
-The materials used in this demonstration.
+이 시연에 사용된 재료들.
 ```
 
-## Preparation
+## 준비
 
-A darkened room is not required but works better, and a digital camera is also helpful.
+어두운 방이 필수 조건은 아니지만 더 효과적이며, 디지털 카메라도 도움이 됩니다.
 
-## Procedure
+## 절차
 
-Related to the demonstration [Light in darkness](../demo03/demo03.md), you start the demonstration whether you can see light when not directly looking at its source. After an inventory of students' thoughts, you shine the red laser pointer on the wall. You'll only see a spot until you spray water mist into the light beam. What you actually see is the scattering of light on the water droplets. 
+시연 [어둠 속의 빛](../demo03/demo03.md)과 관련하여, 광원을 직접 보지 않고도 빛을 볼 수 있는지에 대한 질문으로 시연을 시작합니다. 학생들의 생각을 확인한 후, 빨간색 레이저 포인터를 벽에 비춥니다. 광선 경로에 물안개를 뿌리기 전까지는 벽 위의 점만 보일 것입니다. 실제로 보이는 것은 물방울에 의한 빛의 산란입니다.
 
 ```{warning}
-Directly shining laser light into your eye is harmful.
+레이저 빛을 눈에 직접 비추는 것은 해롭습니다.
 ```
 
-Build a row of bottles with water, olive oil and water. Shine the red laser pointer through this row as shown in {numref}`Figure {number} <demo87_fig1>`. You'll notice a red beam of light visible in the olive oil and that the laser spot on the wall is now less intense. Scattering of light by the olive oil explains why you see the beam from the side and why there is less light falling on the wall than before. Emphasize: like before, the light reaching the wall is not scattered in the olive oil.
+물, 올리브유, 물이 든 병들을 일렬로 세웁니다. {numref}`그림 {number} <demo87_fig1>`에 표시된 대로 빨간색 레이저 포인터를 이 줄에 비춥니다. 올리브유 속에서 빨간색 광선이 보이고, 벽에 맺힌 레이저 점의 강도가 약해진 것을 알 수 있습니다. 올리브유에 의한 빛의 산란은 왜 광선을 옆에서 볼 수 있는지, 그리고 왜 이전보다 벽에 닿는 빛이 줄어들었는지를 설명해 줍니다. 강조할 점: 이전과 마찬가지로 벽에 도달한 빛은 올리브유에서 산란되지 않은 빛입니다.
 
-Explain to the students that you are going to do the same with a green laser pointer. Let students *predict* what they will see. Have them write down, describe, and compare their observations. Now perform the experiment. They will see an orange beam of light in the bottle of olive oil, however, the spot on the wall is still green. Spray water mist left and right of the row of bottles to show that the laser beam is green before and after the row of bottles.
+학생들에게 초록색 레이저 포인터로 똑같이 할 것이라고 설명합니다. 학생들에게 무엇이 보일지 *예측*하게 하십시오. 관찰 결과를 적고, 설명하고, 비교하게 하십시오. 이제 실험을 수행합니다. 올리브유 병 속에서는 오렌지색 광선이 보이지만, 벽에 맺힌 점은 여전히 초록색입니다. 병 줄의 왼쪽과 오른쪽에 물안개를 뿌려 병 줄을 통과하기 전과 후에 레이저 빔이 초록색임을 보여주십시오.
 
 ```{figure} demo87_figure4.jpg
 ---
 width: 100%
 align: center
 name: demo87_fig4
-alt: the same picture with lights of, showing the changing colors in the various jars.
+alt: 조명을 끈 상태의 같은 사진으로, 각 병에서 변하는 색상을 보여줌.
 ---
-Additionally, you can include a fourth bottle filled with water, placing the bottles in different order. Does that change what you see?
+추가로 물이 든 네 번째 병을 포함시켜 병의 순서를 바꿔볼 수도 있습니다. 그것이 보이는 결과에 영향을 주나요?
 ```
 
-Students may write something like: **"The light is green at first, turns orange in the olive oil, and then turns green again"**. This statement seems correct, but how does the color change of the light work then? How does a green beam of light become orange and then green again? Or does it? In essence the question is: *Why do we see the light from the middle of the olive oil as orange and not turned back to green?*
+학생들은 다음과 같이 적을 수 있습니다: **"빛은 처음에는 초록색이었다가 올리브유 속에서 오렌지색으로 변하고, 다시 초록색으로 변한다."** 이 진술은 옳은 것처럼 보이지만, 빛의 색 변화는 어떻게 일어나는 걸까요? 어떻게 초록색 광선이 오렌지색이 되었다가 다시 초록색이 될까요? 아니면 정말 그런 걸까요? 본질적인 질문은 다음과 같습니다: *왜 우리는 올리브유 중간에서 나오는 빛을 오렌지색으로 보고, 다시 초록색으로 돌아가지 않는 것으로 볼까요?*
 
-Discuss with the (qualitative) energy level diagram of chlorophyll ({numref}`Figure {number} <demo87_fig2>`): a photon with sufficient energy can be absorbed, and then another photon is emitted. This is called fluorescence. The emitted photon can have at most the energy of the absorbed photon. There is no source that can provide extra energy.
+엽록소의 (정성적) 에너지 준위 도표({numref}`그림 {number} <demo87_fig2>`)를 사용하여 토론합니다: 충분한 에너지를 가진 광자가 흡수된 다음, 다른 광자가 방출됩니다. 이를 형광이라고 합니다. 방출된 광자는 흡수된 광자의 에너지보다 클 수 없습니다. 추가 에너지를 제공할 수 있는 소스가 없기 때문입니다.
 
 ```{figure} demo87_figure2.png
 ---
@@ -92,21 +92,21 @@ width: 40%
 align: center
 name: demo87_fig2
 ---
-Energy level diagram for fluorescence in olive oil
+올리브유 형광에 대한 에너지 준위 도표
 ```
 
-Looking up in a reference manual, students can then determine that the red photons cannot be replaced by orange photons in this way, but green photons can. Also, orange photons cannot be replaced by green ones in this manner.
+참고 자료를 찾아보면서 학생들은 빨간색 광자가 이런 방식으로 오렌지색 광자로 바뀔 수 없지만, 초록색 광자는 가능하다는 것을 결정할 수 있습니다. 또한 오렌지색 광자는 이런 방식으로 초록색 광자로 바뀔 수 없습니다.
 
-Help students describe and draw the process themselves as much as possible, where a green beam of light was seen before and after the bottle and a green spot on the wall, but an orange beam of light inside.
+학생들이 과정을 가능한 한 직접 설명하고 그리도록 도와주십시오. 병 전후에는 초록색 광선이 보이고 벽에는 초록색 점이 보이지만, 병 내부에서는 오렌지색 광선이 보이는 과정을 말입니다.
 
-## Physics background
+## 물리 배경
 
-The energy of photons follows from $E_f = hf$. For the frequencies, it holds true: $f_{red} < f_{orange} < f_{green}$. During fluorescence, a (here green) photon is absorbed by the system, and part of the energy is released (how is unimportant) as the system returns to the ground state, see {numref}`Figure {number}<demo87_fig2>`. The emitted photon, in the case of chlorophyll, orange, has at most the energy of the original photon. An orange photon cannot be replaced by a green photon later on, as the additional energy required is lacking. The red beam of light remained red for another reason. Apparently, a red photon has too little energy to be absorbed; it can at most be scattered without a change in energy.
+광자의 에너지는 $E_f = hf$에서 유도됩니다. 주파수의 경우 $f_{빨강} < f_{오렌지} < f_{초록}$이 성립합니다. 형광이 일어나는 동안 (여기서는 초록색) 광자가 시스템에 흡수되고, 시스템이 바닥 상태로 돌아가면서 에너지의 일부가 방출됩니다(어떻게 방출되는지는 중요하지 않음). {numref}`그림 {number}<demo87_fig2>`를 참조하십시오. 엽록소의 경우 방출된 광자(오렌지색)는 원래 광자의 에너지를 넘지 못합니다. 나중에 오렌지색 광자가 초록색 광자로 바뀔 수 없는데, 이는 필요한 추가 에너지가 부족하기 때문입니다. 빨간색 광선이 빨간색으로 유지된 것은 다른 이유 때문입니다. 분명히 빨간색 광자는 흡수되기에는 에너지가 너무 작습니다. 기껏해야 에너지 변화 없이 산란될 뿐입니다.
 
-A question to assess students' understanding: *Some photons were created by scattering, others by fluorescence. What is the most important difference in energy of the photons between these processes?*
+학생들의 이해도를 평가하기 위한 질문: *어떤 광자들은 산란에 의해 만들어졌고, 다른 것들은 형광에 의해 만들어졌습니다. 이 두 과정 사이에서 광자의 에너지에 나타나는 가장 중요한 차이점은 무엇인가요?*
 
-Find out what the term 'fluorescence' has to do with the element fluor.
+'형광(fluorescence)'이라는 용어가 원소 '플루오르(fluor, 불소)'와 어떤 관련이 있는지 찾아보십시오.
 
-## Follow-up
+## 후속 활동
 
-Additionally, you can measure the fluorescence spectrum.
+추가로 형광 스펙트럼을 측정해 볼 수 있습니다.

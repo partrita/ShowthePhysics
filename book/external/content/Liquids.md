@@ -1,91 +1,83 @@
-# Liquids and air
-An article with 30 demonstrations with a glass of water is available from the author and in GIREP proceedings {cite:t}`Berg2021`. These demo's cover mechanics, liquids, optics, waves, and even electricity.
+# 액체와 공기
+물 한 컵을 이용한 30가지 시연에 관한 기사는 저자와 GIREP 의사록{cite:t}`Berg2021`에서 확인할 수 있습니다. 이 시연들은 역학, 액체, 광학, 파동, 심지어 전기까지 다룹니다.
 
-## Liquids: Anybody with nail polish, coca cola, or something else that is liquid? 
-Whatever container or bottle is there, use it to show that the liquid surface is always horizontal; look at the edges of the meniscus: adhesion, cohesion; look at waves on the surface when disturbed with a pencil, study how easily the liquid goes down when the bottle is turned over, or is it slow and sticky?
+## 액체: 매니큐어, 코카콜라 또는 다른 액체를 가진 사람 있나요? 
+어떤 용기나 병이든 사용하여 액체 표면이 항상 수평임을 보여주십시오. 반월판(meniscus)의 가장자리를 관찰하여 부착력과 응집력을 확인하십시오. 연필로 휘저었을 때 표면에 생기는 파동을 관찰하고, 병을 뒤집었을 때 액체가 얼마나 쉽게 내려오는지, 아니면 느리고 끈적거리는지 연구해 보십시오.
 
-## Floating and sinking
-Take all kinds of materials and objects and see whether they float or sink in a glass of water. Students would have lots of objects in their pockets. Some materials like clay or aluminum foil would sink, but if folded might float. From aluminum foil one could fold boats that can carry a load and still float. A Kindergarten class tried to fold pieces of foil of fixed area such that they would hold the maximum number of tiny St. Nicholas presents (tiny blocks or Lego pieces). This could be a teacher led demonstration, but also a brief activity by student pairs.
+## 뜨기와 가라앉음
+다양한 재료와 물체를 가져와 물 컵에서 뜨는지 가라앉는지 확인해 보십시오. 학생들의 주머니에는 많은 물건이 있을 것입니다. 점토나 알루미늄 호일 같은 재료는 가라앉지만, 접으면 뜰 수도 있습니다. 알루미늄 호일로 짐을 싣고도 뜰 수 있는 배를 접을 수 있습니다. 유치원 학급에서 일정한 면적의 호일 조각을 접어 가장 많은 수의 작은 성 니콜라스 선물(작은 블록이나 레고 조각)을 실을 수 있는지 실험한 적이 있습니다. 이것은 교사가 주도하는 시연이 될 수도 있고, 학생 짝끼리 하는 짧은 활동이 될 수도 있습니다.
 
-
-
-## Floating and sinking
-Anybody brought a tangerine? Will it sink or float in water? Why? Try it out. Then peel it and try again (figures 1 and 2). Try other kinds of fruits and explain the results.
+## 뜨기와 가라앉음
+귤을 가져온 사람 있나요? 물에 가라앉을까요, 뜰까요? 왜 그럴까요? 직접 해보세요. 그다음 껍질을 벗기고 다시 시도해 보십시오 (그림 1과 2). 다른 종류의 과일로도 시도해 보고 결과를 설명해 보십시오.
 
 ```{figure} figures/float.*
 :width: 90%
 :name: fig_float
 
-A tangerine floats and sinks...
+귤이 뜨기도 하고 가라앉기도 합니다...
 ```
 
+## 물 컵에서의 부착력
+유리컵의 물 반월판이 벽면을 타고 어떻게 올라가는지 확인해 보십시오. 부착력은 서로 다른 두 물질(이 경우 유리와 물) 사이의 인력입니다.
 
+## 동전 위의 부착력
+페니나 다른 동전을 수돗물에 헹구고 완전히 말린 다음 종이 타월이나 종이 손수건 위에 놓으십시오. 동전 위에 몇 방울의 물이 올라갈 수 있을까요? 칠판에 몇 가지 예측을 기록하십시오. 그런 다음 물이 동전 가장자리로 넘칠 때까지 스포이트로 한 방울씩 떨어뜨리십시오. 스포이트가 더 많다면 학생들은 자리에서 이 활동을 할 수 있습니다 {@Hammack2016}.
 
-## Adhesion in a glass of water
-See how the meniscus of water in a glass stands up to the wall, adhesion, that is attraction between two different substances, in this case glass and water.
+## 부착력과 부스러기
+다른 예로는 접시 위의 과자나 빵 부스러기를 줍는 것이 있습니다. 먼저 손가락을 핥으면 부스러기가 손가락에 달라붙습니다. 이것은 물과 부스러기 사이의 부착력의 예입니다. 교실에서 젖은 손가락과 펀치에서 나온 아주 작은 종이 조각이나 -더 맛있게는- 과자 부스러기를 사용하여 이를 시연하십시오.
 
-## Adhesion on a penny
-Rinse a penny or other coin in tap water and dry completely and put it then on a paper towel or paper handkerchief. How many drops will fit on the penny? Record some predictions on the board. Then add drops one by one with a dropper until any amount of water runs over the edge of the penny. If you have more droppers, students can do this in their seats [@Hammack2016].
+## 모세관 현상 1
+아주 가는 유리관이 있다면 물 컵에 꽂아서 물이 위로 올라가는 것을 확인해 보십시오... 모세관 현상입니다. 그렇지 않다면 종이 한 조각을 가져와 한쪽 끝을 담그면 물이 종이를 타고 위로 올라갈 것입니다. 다양한 종류의 종이로 시도해 보십시오. 붓의 털이나 사람의 머리카락에서도 같은 현상이 발생하는데, "capilla"는 라틴어로 머리카락을 뜻합니다. 모세관 현상은 부착력과 중력 사이의 줄다리기로 볼 수 있습니다 {@rogers2011physics, p95}. 물은 부착력 때문에 유리 벽을 타고 올라가고 중력에 의해 아래로 당겨집니다. 아주 가는 관에서는 벽을 타고 올라가는 물에 작용하는 중력이 넓은 관에서보다 부착력에 비해 작습니다. 부착력은 표면적에 비례하고 중력은 부피에 비례합니다. 모세관은 부피에 비해 표면적이 매우 넓습니다.
 
-## Adhesion and crumbs
-Another example is picking up crumbs of cookies or bread from a plate, we lick our finger first and then the crumbs stick to it. That is an example of adhesion between water and crumbs. In class demonstrate this with a wet finger and very small pieces of paper like those coming from a perforator or -tastier- try cookie crumbs.
+## 모세관 현상 2
+교무실에서 각설탕 한 개와 커피 한 잔을 가져오십시오. 각설탕의 가장자리를 커피에 담그십시오. 커피가 설탕 속으로 빠르게 *기어 올라갈* 것입니다. 모세관 현상입니다!
 
-## Capillarity 1
-If you do have a very thin glass tube, then stick it into a glass of water and see the water move up \... capillarity. Otherwise, take a piece of paper and dip in one end, the water will move upward in the paper. Try different kinds of paper. With the hair of a paintbrush or human hair, the same phenomenon occurs, "capilla" is the Latin word for hair. Capillarity can be seen as a tug-of-war between adhesion and gravity [@rogers2011physics, p95]. Water creeps up the glass wall due to adhesion and is pulled down by gravity. In very thin tubes the gravitational pull on the water creeping up the wall is smaller compared to adhesion than in wider tubes. Adhesion scales with surface area and gravity with volume. Capillary tubes have a large surface area compared to their volume.
+## 응집력
+물 컵에 물을 가득 채우되 수면이 여전히 오목한 상태가 되도록 하십시오. 그런 다음 학생들에게서 동전을 모으십시오. 물이 넘치지 않게 하면서 동전을 몇 개나 더 넣을 수 있을까요? 그런 다음 동전을 조심스럽게 넣으십시오. 많은 양의 동전을 물속에 넣을 수 있습니다. 결국 물은 유리컵 테두리보다 높게 불룩해지겠지만 여전히 유리컵 옆면을 따라 흘러내리지는 않을 것입니다. 응집력입니다!
 
-## Capillarity 2
-Bring a sugar cube and a cup of coffee from the teacher room. Dip the edge of the cube in the coffee. Coffee will quickly *climb* into the cube, capillarity!
+## 부착력과 응집력
+빨대나 다른 수단을 사용하여 테이블 위에 물 한 방울을 만드십시오. 유리, 나무, 금속, 플라스틱, 종이 등 다양한 재질의 표면을 사용해 보십시오. 테이블에 지방이나 왁스를 문질러 보십시오. 물방울의 모양에 차이가 있나요? 물에 비누나 세제를 조금 섞어보십시오. 물방울의 모양에 차이가 있나요? 어떤 종류의 표면에서 응집력이 최대인가요? 어떤 종류의 표면에서 응집력이 최소인가요?
 
-## Cohesion
-Fill a glass all the way to the top with water but such that the surface of the water is still concave. Then collect coins from your students. How many coins can I add without letting the water overflow? Then carefully insert the coins. Lots of them can be inserted in the water. In the end the water will bulge higher than the rim of the glass but it will still not flow down along the sides of the glass: cohesion!
+왜 물 한 방울은 둥글고 호수의 수면은 평평할까요? 이것은 표면력과 중력 사이의 경쟁입니다. 한 변이 $a$인 정육면체를 생각해 봅시다. 표면적은 $6a^2$이고 부피는 $a^3$입니다. $a$가 증가하면 표면적, 즉 표면력은 $a^2$에 비례하여 커집니다. 부피, 즉 무게와 같은 체적력은 $a^3$에 비례하여 커집니다! 물의 양이 많으면 체적력이 지배적이어서 호수의 수면은 평평합니다. 양이 적으면(물방울 이하) 표면장력이나 모세관 현상과 같은 표면력이 지배적입니다. {@rogers2011physics, p92}에서 멋진 설명을 찾을 수 있습니다.
 
-## Adhesion and cohesion
-Use a straw or other means to make a drop of water on the table. Use different materials as surface (glass, wood, metal, plastic, paper). Rub some fat or wax on the table. Does that make a difference in the shape of the drop? Add some soap or detergent to the water. Does it make a difference in the shape of the drop? On which kind of surface is cohesion at a maximum? At what kind of surface is cohesion at a minimum?
-
-Why is a drop of water round and the surface of a lake flat? This is the contest between surface forces and gravity. Think of a cube with side $a$, surface area 6$a^2$, and volume $a^3$. Let $a$ increase, then the surface area thus also surface forces scale as $a^2$. The volume thus also volume forces like weight scale as $a^3$! With large amounts of water the volume forces dominate and so the surface of a lake is flat. With small amounts (a drop and smaller) the surface forces dominate such as with surface tension and capillary phenomena. A beautiful discussion can be found in [@rogers2011physics, p92]. 
-
-## Floating on convex and concave surfaces
-Fill a glass of water until just below the edge (concave surface) and then fill another glass carefully until the water level is over the edge of the glass but the water does not drip down the outside of the glass. Draw the two situations on the blackboard or whiteboard. We are going to put a ping-pong ball (or anything that floats) on top of the water surface. Which way will it position itself, in the center or against the edge of the glass? Let students draw their prediction in their notebooks. Walk around to take a look and ask a few students for a reason. Then drop some floating material on the surface such as a ping-pong ball or pieces of cork or anything that floats. And then let students explain, perhaps first in small groups of two or three. In the end draw some explanations on the board and discuss. The ping-pong balls or other floating objects will go to the highest position and displace water downward. Objects that sink will displace water upward.
-
+## 볼록하고 오목한 표면에서의 뜨기
+유리컵에 물을 테두리 바로 아래까지 채우고(오목한 표면), 다른 유리컵에는 수면이 테두리 위로 올라오되 밖으로 흘러내리지 않을 정도로 조심스럽게 채우십시오. 두 상황을 칠판이나 화이트보드에 그리십시오. 수면 위에 탁구공(또는 뜨는 물체)을 올려놓을 것입니다. 공은 중앙에 위치할까요, 아니면 유리컵 가장자리에 붙을까요? 학생들에게 공책에 예측을 그리게 하십시오. 돌아다니며 확인하고 몇 명의 학생에게 이유를 물어보십시오. 그런 다음 탁구공이나 코르크 조각 등 뜨는 재료를 수면에 띄워 보십시오. 그러고 나서 학생들이, 아마도 처음에는 두세 명씩 소그룹으로 설명하게 하십시오. 마지막으로 칠판에 몇 가지 설명을 그려서 토론하십시오. 탁구공이나 다른 뜨는 물체는 가장 높은 위치로 이동하여 물을 아래로 밀어냅니다. 가라앉는 물체는 물을 위로 밀어낼 것입니다.
 
 ```{figure} images/20250513_105125.*
 :width: 50%
 :name: fig_float1
 
-Meniscus below the rim (concave, hollow).
+테두리 아래의 반월판 (오목, hollow).
 ```
 
 ```{figure} images/20250513_105244.*
 :width: 50%
 :name: fig_float
 
-Meniscus above the rim (convex).
+테두리 위의 반월판 (볼록).
 ```
 
-## Chromatography
-Take a strip of paper, make a big dot with a black marker. Then hang the edge of the paper in water. The water will move up (capillary motion), pass the black dot, and beyond that one will see a separation of colors. The different pigments in black ink move at different speeds in the water. That is how pigments can be separated. The same principle is used with chromatography which can be executed with different liquids and even different gases. Google on chromatography in the classroom and you will see many [experimental possibilities](https://edu.rsc.org/primary-science/kitchen-roll-chromatography/4012057.article).
+## 크로마토그래피
+종이 띠를 준비하고 검은색 마커로 큰 점을 찍으십시오. 그런 다음 종이 끝을 물에 담급니다. 물이 위로 이동하면서(모세관 운동) 검은 점을 지나고, 그 너머로 색이 분리되는 것을 볼 수 있습니다. 검은 잉크 속의 서로 다른 색소들은 물속에서 서로 다른 속도로 이동합니다. 이렇게 해서 색소들을 분리할 수 있습니다. 크로마토그래피에도 같은 원리가 사용되며, 서로 다른 액체나 심지어 서로 다른 기체로도 수행할 수 있습니다. 교실에서의 크로마토그래피를 구글링하면 많은 [실험 가능성](https://edu.rsc.org/primary-science/kitchen-roll-chromatography/4012057.article)을 볼 수 있습니다.
 
-## Air pressure and liquids
-Take a straw and a glass of water or better tea for visibility. Dip the straw in the water, close the top with a wet finger, then lift the straw out of the water while keeping the top closed. Why does water remain in the straw? This is a way to transfer small amounts of water. In a traditional pipette, one can suck up a liquid and measure exact amounts using the markings.
+## 기압과 액체
+빨대와 물 컵, 혹은 더 잘 보이도록 차 한 잔을 준비합니다. 빨대를 물에 담그고 젖은 손가락으로 윗부분을 막은 다음, 윗부분을 막은 채로 빨대를 물 밖으로 들어 올리십시오. 왜 물이 빨대 안에 남아 있을까요? 이것은 적은 양의 물을 옮기는 방법입니다. 전통적인 피펫에서는 액체를 빨아올리고 눈금을 사용하여 정확한 양을 측정할 수 있습니다.
 
 ```{figure} images/20250513_110152.*
 :width: 50%
 :name: fig_float
 
-Water stays in the straw when your finger closes the lid.
+손가락으로 입구를 막으면 물이 빨대 안에 남아 있습니다.
 ```
 
+## 공기 방울
+이제 빨대를 넣기 전에 손가락으로 빨대 윗부분을 막으십시오. 그러면 빨대 안의 수위가 컵 안의 수위보다 낮아질 것입니다. 대야에 물을 담고 유리컵을 거꾸로 눌러 넣으면 이 현상이 더 명확해집니다. 물이 들어오지 못하게 막는 무언가가 있는데, 바로 공기입니다. 유리컵 안의 공기는 압축될 수 있지만 완전히 압축되지는 않습니다. 학생들에게 설거지할 때의 경험을 떠올리게 할 수 있습니다. 대야 안에서 공기 방울을 한 유리컵에서 다른 유리컵으로 옮겨 보십시오. 공기 방울은 이용 가능한 가장 높은 지점으로 이동할 것입니다. 또는 빨대를 바닥까지 꽂고 공기를 불어 넣어 보십시오. 공기 방울은 물속에서 똑바로 위로 올라갈 것입니다.
 
-## Air bubbles
-Now close the top of the straw with your finger before inserting it. Now the water level in the straw will be below the water level in the glass. The latter will be clearer when we have a basin with water and push a glass upside down into it. There is something which prevents the water from coming in, air. The air in the glass can be compressed, but not all the way. Students can be reminded of their experiences when washing dishes. Try to pass air bubbles from one glass to another in the basin. Bubbles will move to the highest point available. Or stick a straw up to the bottom and blow air through it. The bubbles will move straight up in the water.
+## 물속에서 공기 방울 옮기기
+대야의 물속에서 두 개의 유리컵을 준비합니다. 하나는 물로 채워져 있고, 다른 하나는 거꾸로 눌러 넣어서 공기로 채워져 있습니다(이전 시연 참조). 공기를 다른 유리컵으로 옮겨 보십시오. 어떻게 하시겠습니까? 공기 방울을 가지고 조금 놀아보세요. 재미있습니다.
 
-
-
-## Transferring air bubbles under water
-Take two glasses under water in a basin. One is filled with water, the other is pushed upside down into the water thus is filled with air (see previous demo). Try to transfer the air to the other glass. How would you do that? Play around a bit with the air bubbles, it is fun.
-
-## Air occupies space
-Take a basin with water, a glass with a piece of paper handkerchief at the bottom, turn the glass upside down and push it into the basin (figure 7). Does the handkerchief get wet? What prevents it from getting wet?
+## 공기는 공간을 차지합니다
+물이 담긴 대야와 바닥에 종이 손수건 조각이 깔린 유리컵을 준비합니다. 유리컵을 거꾸로 뒤집어 대야 속으로 밀어 넣으십시오 (그림 7). 손수건이 젖나요? 무엇이 손수건이 젖는 것을 막나요?
 
 ```{iframe} https://youtube.com/embed/jJiqY82KmPo
 :width: 70$
@@ -96,40 +88,38 @@ Take a basin with water, a glass with a piece of paper handkerchief at the botto
 .
 ```
 
-## Carbonated drinks
-There always is a student with a carbonated drink in the bag. At the factory the CO$_2$ is mixed with the drink. As CO$_2$ has a lower density than water or whatever drink, it will tend to escape from the liquid and from the bottle. When opened, the pressure releases. When put in a glass we see bubbles rising. Why don't bubbles rise when the bottle is still closed? There seems to be an equilibrium between the CO$_2$ above the liquid and the dissolved CO$_2$. Once opened the pressure in the top of the bottle is reduced and more of the dissolved CO$_2$ rises to the surface.
+## 탄산음료
+가방에 탄산음료를 가진 학생이 항상 있습니다. 공장에서 CO$_2$는 음료와 혼합됩니다. CO$_2$는 물이나 다른 음료보다 밀도가 낮기 때문에 액체와 병에서 빠져나가려는 경향이 있습니다. 병을 열면 압력이 해제됩니다. 유리컵에 따르면 기포가 올라오는 것을 볼 수 있습니다. 병이 닫혀 있을 때는 왜 기포가 올라오지 않을까요? 액체 위의 CO$_2$와 용해된 CO$_2$ 사이에 평형이 존재하는 것 같습니다. 일단 열리면 병 윗부분의 압력이 낮아지고 더 많은 용해된 CO$_2$가 표면으로 올라옵니다.
 
-## Pressure, bubbles, straws
-At the 1998 GIREP meeting Leon Jablko (1998) presented a series of pressure experiments with straws and glasses of water. The series could be teacher demo's, or synchronized teacher and student demo's, or it could be a student lab investigation.
+## 압력, 기포, 빨대
+1998년 GIREP 회의에서 리온 자블코(Leon Jablko, 1998)는 빨대와 물 컵을 이용한 일련의 압력 실험을 발표했습니다. 이 시리즈는 교사 시연이 될 수도 있고, 교사와 학생이 동시에 하는 시연이 될 수도 있으며, 학생 실험실 조사가 될 수도 있습니다.
 
-## Atmospheric and liquid pressure, cohesion and surface tension
-Shouldn't there always be a glass of water in the room? If so, then first have somebody help you to spread your clean handkerchief horizontal and pour water from the glass through the handkerchief to water the plants. Then put the handkerchief over the top of the glass with the remaining water (have a refill up to ¾). Make sure the wet part of the handkerchief covers the open end of the glass. Then turn over (figures 9 and 10). Surprise, a little water comes out, the rest stays. While the glass is upside down, walk around the room to show. Point to the shape of the part of the handkerchief that "supports" the water. Explain by applying Boyle's Law to the trapped air and by the need for the sum of pressures/forces on the handkerchief to be zero. $P_{air outside} = P_{air trapped} + ρgh$ where $ρ$ is the density of water and $h$ is the height of the water column. The cohesion and surface tension of water helps to make the handkerchief impenetrable. I have done it with a strainer also, more spectacular but it requires more preparation as not all strainers work. Of course, if students bring any drinks to class, one could try which liquids work and which do not and the instructor can have a good time. *Anybody with beer?* 
+## 대기압과 액체 압력, 응집력과 표면장력
+교실에 항상 물 한 컵이 있어야 하지 않을까요? 그렇다면 먼저 누군가에게 깨끗한 손수건을 수평으로 펼치게 하고 유리컵의 물을 손수건을 통해 부어 화초에 물을 주십시오. 그런 다음 남은 물(3/4 정도 채워진 상태)이 담긴 유리컵 윗부분에 손수건을 덮으십시오. 손수건의 젖은 부분이 유리컵의 열린 끝부분을 덮도록 하십시오. 그런 다음 뒤집으십시오 (그림 9와 10). 놀랍게도 물이 아주 조금 나오고 나머지는 그대로 있습니다. 유리컵을 거꾸로 든 채로 교실을 돌아다니며 보여주십시오. 물을 "지탱"하는 손수건 부분의 모양을 지적하십시오. 갇힌 공기에 보일의 법칙(Boyle's Law)을 적용하고 손수건에 작용하는 압력/힘의 합이 0이어야 한다는 점을 들어 설명하십시오. $P_{외부 공기} = P_{갇힌 공기} + ρgh$ (여기서 $ρ$는 물의 밀도, $h$는 물기둥의 높이)입니다. 물의 응집력과 표면장력은 손수건을 통과할 수 없게 만드는 데 도움이 됩니다. 저는 체(strainer)를 사용해서도 해보았는데 더 극적이지만 모든 체가 다 되는 것은 아니어서 더 많은 준비가 필요합니다. 물론 학생들이 교실에 음료수를 가져온다면 어떤 액체가 되고 어떤 액체가 안 되는지 시도해 볼 수 있고 강사는 즐거운 시간을 보낼 수 있습니다. *맥주 가진 사람 있나요?*
 
-## Projectile motion with water
-Many students bring plastic water bottles to class. With a pin or your knife make a little hole in the side of the bottle, just above the bottom. Water will come out and make a beautiful parabola.
+## 물을 이용한 포물선 운동
+많은 학생이 플라스틱 물병을 수업에 가져옵니다. 핀이나 칼을 사용하여 병 옆면의 바닥 바로 위에 작은 구멍을 뚫으십시오. 물이 나와서 아름다운 포물선을 그릴 것입니다.
 
-## Liquid pressure
-Same bottle, screw the top tight. Water will still come out of the hole, but for how long? Does it stop? What happened to the pressure inside the bottle while the water was still going out? Consider a drop of water near the hole, draw the forces on the drop.
+## 액체 압력
+같은 병의 뚜껑을 꽉 조이십시오. 물이 여전히 구멍으로 나오겠지만 얼마나 오랫동안 나올까요? 멈추나요? 물이 나가는 동안 병 내부의 압력은 어떻게 되었나요? 구멍 근처의 물 한 방울을 생각하고 그 물방울에 작용하는 힘을 그려보십시오.
 
-## Liquid pressure and free fall
-Bottle without top but with the hole. Water will come out, now drop the bottle. Did water come out while the bottle was falling? Why not? Repeat with the lid on (same result). What will happen in the space station if you turn a bottle upside down with the lid off?
+## 액체 압력과 자유 낙하
+뚜껑은 없지만 구멍이 있는 병입니다. 물이 나올 것입니다. 이제 병을 떨어뜨리십시오. 병이 떨어지는 동안 물이 나왔나요? 왜 안 나왔을까요? 뚜껑을 닫고 반복하십시오(결과는 같습니다). 우주 정거장에서 뚜껑을 열고 병을 거꾸로 뒤집으면 어떤 일이 일어날까요?
 
-## Emptying bottles
-This experiment requires a basin unless you hold the bottle outside an open classroom window. Turn de bottle with water upside down. The water will come out in bursts. It is difficult for air to come in and replace the water. Then swirl it to make the water rotate. Now the water will flow out continuously as air can flow in through the center to replace the water. You can also just tilt the bottle such that air can flow in while water is flowing out. If you have a basin, you can hold a competition between the vertical bottle without swirl, one with swirl, and the tilted bottle. Which one is empty first?
+## 병 비우기
+이 실험은 교실 창밖으로 병을 들고 있지 않는 한 대야가 필요합니다. 물이 든 병을 거꾸로 뒤집으십시오. 물이 꿀렁거리며 나올 것입니다. 공기가 들어와 물을 대체하기가 어렵기 때문입니다. 그런 다음 병을 휘저어 물을 회전시키십시오. 이제 공기가 중앙을 통해 들어와 물을 대체할 수 있으므로 물이 연속적으로 흘러나올 것입니다. 물이 흘러나오는 동안 공기가 들어올 수 있도록 병을 기울일 수도 있습니다. 대야가 있다면 휘젓지 않은 수직 병, 휘저은 병, 기울인 병 사이의 시합을 벌일 수 있습니다. 어느 것이 먼저 비워질까요?
 
-## Emptying beakers/glasses
-Put 2 or 3 pairs of students in front of the class, each with a table with a small bottle of water half full, a straw, and an empty glass. The task is to empty the bottle without lifting it. Some students will cleverly think that the straw could be used as a siphon. By blowing through the top of the bottle (with the straw siphon) one could even reinforce the working of the siphon (by blowing increasing the pressure above the water surface), however, just sucking up the water into the mouth and then spitting it into the glass works faster. Use this opportunity to ask students again to explain the physics of a straw and of a siphon.
+## 비커/유리컵 비우기
+학급 앞에 두세 쌍의 학생을 세우고, 각자 물이 반쯤 담긴 작은 병, 빨대, 그리고 빈 유리컵이 놓인 테이블을 배정합니다. 과제는 병을 들어 올리지 않고 병을 비우는 것입니다. 어떤 학생들은 빨대를 사이펀으로 사용할 수 있다는 영리한 생각을 할 것입니다. 병 윗부분으로 바람을 불어넣으면(빨대 사이펀을 사용하여) 사이펀의 작동을 강화할 수 있지만(불어서 수면 위의 압력을 높임), 그냥 물을 입으로 빨아들였다가 유리컵에 뱉는 것이 더 빠릅니다. 이 기회를 빌려 학생들에게 빨대와 사이펀의 물리학을 다시 설명하게 하십시오.
 
-## Not free fall of stones in water
-In air stones fall with the same acceleration g. But how is that in water? Take stones with a different surface area to mass ratio and drop them in a basin with water. Which one will sink faster?
+## 물속에서의 돌의 자유 낙하가 아닌 경우
+공기 중에서 돌은 같은 가속도 g로 떨어집니다. 하지만 물속에서는 어떨까요? 질량 대비 표면적 비율이 다른 돌들을 준비하여 물이 담긴 대야에 떨어뜨려 보십시오. 어느 것이 더 빨리 가라앉을까요?
 
-## Liquid versus vapor balance, relative humidity, saturation, open versus closed container: 
-Take two containers of water, one with an airtight lid and one without, put them on the windowsill in the sun. Figures 11 and 12 show the differences. In figure X we see condense on the inside of the glass above the water. The air above the water is saturated, 100% humidity, so water that evaporates will condense again. In figure Y we do not see this, any water that evaporates goes into the air, so the air right above the water is unlikely to reach 100% humidity unless the room is extremely humid.
+## 액체 대 증기 평형, 상대 습도, 포화, 열린 용기 대 닫힌 용기
+물 담긴 용기 두 개를 준비하되 하나는 밀폐된 뚜껑이 있고 하나는 없는 상태로 햇빛이 비치는 창가에 두십시오. 그림 11과 12는 그 차이를 보여줍니다. 그림 X에서는 물 위쪽 유리 안쪽에 응결된 것을 볼 수 있습니다. 물 위의 공기는 포화 상태(습도 100%)이므로 증발한 물이 다시 응결됩니다. 그림 Y에서는 이를 볼 수 없습니다. 증발한 물은 공기 중으로 날아가 버리므로 방 안이 매우 습하지 않는 한 물 바로 위의 공기가 습도 100%에 도달할 가능성은 낮습니다.
 
+## 베르누이와 양초 화염
+양초에 불을 붙입니다. 왜 화염은 위를 향할까요? 화염 위의 가열된 공기는 팽창하여 밀도가 낮아집니다. 심지를 따라 타는 가스들은 밀도가 가장 낮은(압력이 가장 낮은) 곳으로 이동합니다. 화염을 끄지 않고 부드럽게 불면 화염은 어느 방향으로 가나요? 바람이 부는 방향입니다. 그렇다면 양초 한쪽에 빨대로 바람을 불면요? 그러면 그쪽이 압력이 가장 낮기 때문에 화염은 그쪽으로 휩니다. 베르누이 효과의 멋진 예입니다. 어린 학생들을 위한 설명: 내가 공기 일부를 불어냈고, 타는 가스가 공기가 가장 적은 곳으로 밀려간다고 하십시오.
 
-## Bernoulli and a candle flame
-Light a candle, why does the flame point upwards? The heated air above the flame expands and becomes less dense. The burning gases along the wick move towards the location with the lowest density (lowest pressure). When I blow softly at the flame without extinguishing it, which way does the flame go? In the direction of the blow. And when I blow through a straw on one side of the candle? Then the flame bends towards that side, as there is the lowest pressure, a nice illustration of the Bernoulli effect. Explanation for a younger audience: I blow some air away, the burning gas is pushed to the place with least air.
-
-
-## Lift water by blowing
-Use two transparent straws or cut and bend a straw as in figure 16. Take a glass of water. Position part of the straw in de glass, bend the rest (with a partial cut) horizontal. Then blow in the direction of a vertically held piece of paper. It gets wet. Use some ink or food coloring to make it more visible. Explanation? Fast moving air has a lower pressure, thus the water is sucked up through the vertical part of the straw and sprayed onto the paper. Practice a little bit before the lesson.
+## 불어서 물 끌어 올리기
+그림 16과 같이 투명한 빨대 두 개를 사용하거나 빨대를 잘라 구부립니다. 물 한 컵을 준비합니다. 빨대의 일부를 컵 속에 넣고 나머지는 (일부만 잘라내어) 수평으로 구부립니다. 그런 다음 수직으로 들고 있는 종이 방향으로 바람을 부십시오. 종이가 젖습니다. 잉크나 식용 색소를 사용하면 더 잘 보입니다. 설명? 빠르게 움직이는 공기는 압력이 낮아서 물이 빨대의 수직 부분을 타고 올라와 종이에 뿌려지는 것입니다. 수업 전에 연습을 조금 해보십시오.

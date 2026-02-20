@@ -1,21 +1,21 @@
-# Rotating balloon
+# 회전하는 풍선
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Karel Langendonck</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">저자:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">카렐 랑겐동크</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">10-20 minutes</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">시간:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">10-20분</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">16 - 18</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">연령 그룹:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">16 - 18세</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Rotation, centrifugal force</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">개념:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">회전, 원심력</td>
     </tr>
 </table>
 
@@ -31,18 +31,18 @@
     </div>
 </div>
 
-## Introduction
-For many students the centripetal force is difficult to grasp. The misconception of a 'centrifugal force' is constantly looming. This experiment challenges students to seek an explanation for the displayed situation. By using the correct scientific terminology, encourage students to move away from the possible misconception of centrifugal force. 
+## 소개
+많은 학생에게 구심력은 파악하기 어려운 개념입니다. '원심력'이라는 오개념이 끊임없이 머릿속을 맴돌기 때문입니다. 이 실험은 학생들에게 제시된 상황에 대한 설명을 찾아보도록 도전 과제를 제시합니다. 올바른 과학적 용어를 사용함으로써, 학생들이 원심력이라는 잠재적 오개념에서 벗어나도록 유도합니다.
 
-## Equipment
-* Balloon
-* Unwound cord
-* Dark-colored liquid
-* Hanging point
-* Optional a drill
+## 장비
+* 풍선
+* 꼬이지 않은 줄
+* 어두운 색의 액체
+* 매달 지점
+* 선택 사항: 드릴
 
-## Preparation
-Fill a balloon with dark-colored liquid. Inflate the balloon partially and tie it closed. Attach a cord to the balloon to hang it up freely. An example of a setup is shown in {numref}`Figure {number} <demo78_fig1>`.
+## 준비
+풍선에 어두운 색의 액체를 채웁니다. 풍선을 적당히 불고 묶습니다. 풍선을 자유롭게 매달 수 있도록 줄을 연결합니다. 설정의 예는 {numref}`그림 {number} <demo78_fig1>`에 나와 있습니다.
 
 ```{figure} demo78_figure1.JPG
 ---
@@ -50,24 +50,24 @@ width: 50%
 align: center
 name: demo78_fig1
 ---
-The setup.
+설정.
 ```
 
-## Procedure
-1. Rotate the balloon several times so that the cord winds around itself.
-2. Release the balloon. The cord will now unwind, and the balloon will start rotating at a considerable angular velocity.
-3. Due to the rotation, the liquid in the balloon will assume a significantly different position inside the balloon. At a considerable angular velocity, a situation can arise where a ring of liquid forms along the wall of the balloon at a certain height.
-4. *What is the explanation for the phenomenon?* The expectation is that many students will come up with an incorrect explanation, but that is not initially a problem. Present the physically correct explanation yourself and have the students compare it with their own (possibly) incorrect or incomplete explanation. If the student accepts that their own explanation is inadequate and accepts the correct explanation, 'conceptual change' can occur.
-5. You can check whether students understood the content by *providing students a schematic diagram or photo of the situation where the balloon is rotating and ask them to determine the rotation speed of the balloon from the photo or diagram.*
+## 절차
+1. 줄이 꼬이도록 풍선을 여러 번 돌립니다.
+2. 풍선을 놓습니다. 줄이 풀리면서 풍선이 상당한 각속도로 회전하기 시작할 것입니다.
+3. 회전으로 인해 풍선 속의 액체는 풍선 내부에서 눈에 띄게 다른 위치를 차지하게 됩니다. 상당한 각속도에서는 특정 높이에서 풍선 벽을 따라 액체 고리가 형성되는 상황이 발생할 수 있습니다.
+4. *이 현상에 대한 설명은 무엇일까요?* 많은 학생이 잘못된 설명을 내놓을 것으로 예상되지만, 초기에는 그것이 문제가 되지 않습니다. 여러분이 직접 물리적으로 올바른 설명을 제시하고 학생들이 자신의 (아마도) 잘못되었거나 불완전한 설명과 비교하게 하십시오. 학생이 자신의 설명이 불충분함을 인정하고 올바른 설명을 받아들인다면 '개념 변화(conceptual change)'가 일어날 수 있습니다.
+5. 학생들에게 풍선이 회전하는 상황의 도식이나 사진을 제공하고, 사진이나 도식을 통해 풍선의 회전 속도를 결정해 보라고 함으로써 내용을 이해했는지 확인할 수 있습니다.
 
-## Physics background
-If the liquid in the balloon is considered as one object, you can state that there is a normal force from the balloon on the liquid. When the balloon rotates, a certain centripetal force is required to also rotate the liquid. Due to the rotation, a greater normal force is required, which is available higher up in the balloon. This results in an optimal relationship between the velocity of the liquid and the radius of the circular path of the liquid.
+## 물리 배경
+풍선 속의 액체를 하나의 물체로 간주하면, 풍선이 액체에 가하는 수직항력이 존재한다고 말할 수 있습니다. 풍선이 회전할 때 액체도 함께 회전시키기 위해 특정 구심력이 필요합니다. 회전으로 인해 더 큰 수직항력이 필요하게 되며, 이는 풍선의 더 높은 곳에서 얻을 수 있습니다. 결과적으로 액체의 속도와 액체의 원운동 반지름 사이에 최적의 관계가 형성됩니다.
 
 ```{tip}
-*	The experiment works well only when the balloon has a high rotation speed. In a wound cord, there is torsion, so you cannot achieve high rotation speeds.
-*	Another way to rotate the balloon is by attaching it to a cord connected to a cordless drill.
-*  It takes some trial and error to get the optimal amount of liquid in the balloon. If the mass of the liquid is too large, the moment of inertia of the balloon is too large, and the effect does not occur or is too small. If the amount of liquid is too small, the phenomenon is not clearly visible. A quantity of about 200 mL works well.
+* 이 실험은 풍선의 회전 속도가 높을 때만 잘 작동합니다. 줄을 꼬아서 사용하는 경우 비틀림이 발생하므로 높은 회전 속도를 얻기 어려울 수 있습니다.
+* 풍선을 회전시키는 다른 방법은 무선 드릴에 연결된 줄에 풍선을 매는 것입니다.
+* 풍선에 넣는 액체의 최적량을 찾으려면 시행착오가 필요합니다. 액체의 질량이 너무 크면 풍선의 관성 모멘트가 너무 커져서 효과가 나타나지 않거나 너무 작게 나타납니다. 액체의 양이 너무 적으면 현상이 명확하게 보이지 않습니다. 약 200mL 정도의 양이 적당합니다.
 ```
 
-## Follow-up
-The variables in this experiment are the size of the balloon, the amount of liquid in the balloon, and the rotation speed. You can vary these parameters extensively, with particular emphasis on varying the rotation speed (by winding the wire more or less), providing many possibilities.
+## 후속 활동
+이 실험의 변수는 풍선의 크기, 풍선 속 액체의 양, 그리고 회전 속도입니다. 이러한 파라미터들을 다양하게 변화시켜 볼 수 있으며, 특히 (줄을 감는 횟수를 조절하여) 회전 속도를 변화시키는 것에 중점을 두면 많은 가능성을 찾을 수 있습니다.

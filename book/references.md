@@ -1,6 +1,6 @@
-# Literature
+# 참고 문헌
 
-Here is the list with references used throughout the book.
+이 책 전반에 걸쳐 사용된 참고 문헌 목록입니다.
 
 ```{bibliography}
 

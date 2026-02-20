@@ -1,22 +1,22 @@
-# Magic, trick or physics? 
-<span style="font-size: 25px; color: gray;">Nature of Science with a siphon</span>
+# 마술인가, 트릭인가, 물리학인가?
+<span style="font-size: 25px; color: gray;">사이펀을 이용한 과학의 본성 탐구</span>
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Peter Dekkers</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">저자:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">피터 데커스</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">30 minutes</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">시간:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">30분</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">14 - 18</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">연령 그룹:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">14 - 18세</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Nature of Science, siphon</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">개념:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">과학의 본성 (Nature of Science), 사이펀</td>
     </tr>
 </table>
 
@@ -33,89 +33,89 @@
 </div>
 
 ``` {note}
-The video is a little different from the performance described below. In the actual demonstration pouring the fluid collected on the right in the funnel on the left should start the water flow. Moreover, the larger the bottle inside, the longer the water keeps coming and the more surprising the phenomenon!
+동영상은 아래에 설명된 방식과는 조금 다릅니다. 실제 시연에서는 오른쪽에서 받은 액체를 왼쪽 깔때기에 부으면 물의 흐름이 시작되어야 합니다. 게다가 내부의 병이 클수록 물이 더 오래 나오고 현상은 더 놀랍습니다!
 ```
 
-## Introduction
-Demonstrate a surprising phenomenon and use it to develop understanding of the Nature of Science. It's about the journey, not the destination. 
+## 소개
+놀라운 현상을 시연하고 이를 통해 과학의 본성(Nature of Science)에 대한 이해를 높입니다. 중요한 것은 결과가 아니라 과정입니다.
 
-This demonstration is an idea from {cite:t}`boujaoude1995demonstrating` and further described in{cite:t}`lederman1998avoiding`.
+이 시연은 {cite:t}`boujaoude1995demonstrating`의 아이디어에서 시작되었으며 {cite:t}`lederman1998avoiding`에 자세히 설명되어 있습니다.
 
 ```{figure} demo71_figure3.jpg
 ---
 width: 50%
 align: center
 ---
-The Magic box.
+마법의 상자.
 ```
 
-## Equipment
--	2 large beakers
--	1 small beaker
--	Food coloring
--	Water
--	Box
--	About 1.5 m of water tubes;
--	2 funnels
--	Double-sided tape or tape
--	Water-resistant caulk or glue
--	Empty bottle
--	Overflow vessel
+## 장비
+-	큰 비커 2개
+-	작은 비커 1개
+-	식용 색소
+-	물
+-	상자
+-	약 1.5m의 수관(튜브)
+-	깔때기 2개
+-	양면테이프 또는 테이프
+-	방수 실리콘 또는 접착제
+-	빈 병
+-	오버플로우 용기
 
-## Preparation
-Place the box on a short side, lid at the back. Drill two holes on top, place the funnels in them. Drill a hole on each side of the box. Attach a tube to the first funnel (on the right), feed it into the overflow vessel, and lead the overflow tube to the outside through a hole on the side. Place the overflow vessel so that the overflow point is above the lowest point of the outflow tube. Place a large beaker underneath.
+## 준비
+상자를 짧은 면이 아래로 가게 세우고, 뚜껑은 뒤쪽으로 오게 합니다. 상단에 구멍을 두 개 뚫고 깔때기를 꽂습니다. 상자 양옆에 구멍을 하나씩 뚫습니다. 첫 번째 깔때기(오른쪽)에 튜브를 연결하여 오버플로우 용기로 보내고, 오버플로우 튜브를 측면 구멍을 통해 밖으로 뺍니다. 오버플로우 지점이 유출 튜브의 가장 낮은 지점보다 높게 오도록 오버플로우 용기를 배치합니다. 그 아래에 큰 비커를 놓습니다.
 
 ```{figure} demo71_figure4.jpg
 ---
 width: 50%
 align: center
 ---
-The Magic box (see {numref}`Figure {number} <demo71_fig2>` for a schematic of the left side).
+마법의 상자 ({numref}`그림 {number} <demo71_fig2>`에서 왼쪽 부분의 도식을 확인할 수 있습니다).
 ```
 
-Do the same for the second funnel, except that now there is a siphon between the inlet and outlet. Make the siphon by removing the bottom from a water bottle. Drill a hole in the cap of the bottle, attach a long piece of tube, glue the tube securely, and put the cap back on the bottle. Now invert the bottle and suspend it inside the box, below the second funnel. The outlet of the second funnel should let the water enter the inverted bottle: make sure there is no leakage. 
+두 번째 깔때기도 똑같이 하되, 이번에는 입구와 출구 사이에 사이펀을 설치합니다. 물병의 바닥을 제거하여 사이펀을 만듭니다. 병뚜껑에 구멍을 뚫고 긴 튜브를 연결한 뒤 접착제로 단단히 고정한 다음 뚜껑을 다시 닫습니다. 이제 병을 거꾸로 뒤집어 두 번째 깔때기 아래 상자 내부에 매답니다. 두 번째 깔때기의 배출구가 거꾸로 된 병 안으로 물이 들어가게 해야 합니다. 물이 새지 않도록 주의하십시오.
 
-Guide the tube coming out of the cap to go up, and let it turn back down just below the top edge of the inverted bottle. Then lead it out of the second hole on the side. The outlet of this tube should be situated lower than the lowest point of the inverted bottle (so that it empties all the way). Place a large beaker also below the second outlet. 
+뚜껑에서 나오는 튜브를 위로 향하게 가이드한 다음, 거꾸로 된 병의 윗부분 바로 아래에서 다시 아래로 꺾이게 합니다. 그런 다음 측면의 두 번째 구멍으로 빼냅니다. 이 튜브의 배출구는 거꾸로 된 병의 가장 낮은 지점보다 낮아야 합니다(그래야 병이 완전히 비워집니다). 두 번째 배출구 아래에도 큰 비커를 놓습니다.
 
-Secure everything well. Make the tubes on the outside of equal length. Ideally, the box looks symmetrical from the outside. Finally prepare a small beaker with some water in it.
+모든 것을 잘 고정합니다. 외부의 튜브 길이를 같게 만듭니다. 이상적으로는 상자가 밖에서 보기에 대칭적이어야 합니다. 마지막으로 물이 담긴 작은 비커를 준비합니다.
 
-Fill the overflow vessel entirely with tap water. 
+오버플로우 용기를 수돗물로 가득 채웁니다.
 
-Fill the siphon with water and some food coloring up to a point just below the point where the tube turns back down. The amount of water in the small beaker must be enough to make the level in the siphon rise and the water to go ‘over the top’ in the tube, and start the siphoning process.
+사이펀(병)에 물과 약간의 식용 색소를 튜브가 아래로 꺾이는 지점 바로 아래까지 채웁니다. 작은 비커의 물의 양은 사이펀의 수위를 높여 물이 튜브의 '정점'을 넘어가게 하고 사이펀 작용을 시작하기에 충분해야 합니다.
  
-## Procedure
-Ask students to pay close attention so they can later describe exactly what they saw. Then pour the water from the small beaker carefully into the first funnel. Collect the outflow in the large beaker and pour it back into the small one. Have students write down their observations.
+## 절차
+나중에 본 것을 정확히 설명할 수 있도록 주의 깊게 보라고 학생들에게 말합니다. 그런 다음 작은 비커의 물을 첫 번째 깔때기에 조심스럽게 붓습니다. 흘러나온 물을 큰 비커에 담아 다시 작은 비커에 붓습니다. 학생들이 관찰한 내용을 적게 합니다.
 
-Expected statements: *you pour water into the funnel on one side and it flows out through the hose on that side.*
+예상되는 답변: *한쪽 깔때기에 물을 부으면 그쪽 호스를 통해 물이 나옵니다.*
 
-Next, pour the contents of the small beaker into the second funnel. If properly tuned, nothing will happen at first, but then liquid will start flowing out of the tube. Soon students will notice that the color is different. Then they’ll see that the outflow goes on for a long time, filling the large beaker almost completely. Does it ever stop? Yes, eventually it does. What’s in the box? Ask the students to come up with an explanation and make a sketch of what they think is in the box so as to explain what they saw. Make sure they also include the initial observations involving the first funnel. Let them discuss with each other: do their sketches explain all the observations?
+다음으로 작은 비커의 내용물을 두 번째 깔때기에 붓습니다. 제대로 설정되었다면 처음에는 아무 일도 일어나지 않다가 잠시 후 튜브에서 액체가 흘러나오기 시작할 것입니다. 곧 학생들은 색깔이 다르다는 것을 알아챌 것입니다. 그러고 나서 유출이 오랫동안 지속되어 큰 비커를 거의 다 채우는 것을 보게 될 것입니다. 이게 멈추긴 할까요? 네, 결국 멈춥니다. 상자 안에 무엇이 들어있을까요? 학생들에게 관찰한 내용을 설명하기 위해 상자 안에 무엇이 들어있을지 생각하고 스케치를 그리게 합니다. 첫 번째 깔때기와 관련된 초기 관찰 내용도 반드시 포함하게 하십시오. 서로 토론하게 하십시오: 그들의 스케치가 모든 관찰 결과를 설명할 수 있나요?
 
 ```{tip}
-To help students make a sketch, you can provide a [sketch of the outside of the box](sketch.pdf).
+학생들이 스케치를 그리는 데 도움을 주기 위해 [상자 외부의 스케치](sketch.pdf)를 제공할 수 있습니다.
 ```
 
-After the sketches have been made and discussed, ask students if they are sure about what they have sketched below the first funnel. They have probably predicted that the water that was poured in is the water that came out, and that ‘nothing happens’. So what if we pour colored water into the first funnel? After students have made their predictions, pour the same amount of water as you started with, but now colored, from the small beaker into the first funnel. The liquid that comes out will be colorless (or much lighter than what you pour in). Ask students if they want to revise their sketch, and if so, allow them to do so.
+스케치를 그리고 토론한 후, 첫 번째 깔때기 아래에 무엇을 그렸는지 확신하는지 학생들에게 묻습니다. 그들은 아마 부은 물이 그대로 나온 것이며 '아무 일도 일어나지 않았다'고 예측했을 것입니다. 그렇다면 첫 번째 깔때기에 유색 물을 부으면 어떻게 될까요? 학생들이 예측한 후, 처음과 같은 양의 유색 물을 작은 비커에서 첫 번째 깔때기로 붓습니다. 흘러나오는 액체는 무색(또는 부은 것보다 훨씬 연한 색)일 것입니다. 학생들에게 스케치를 수정하고 싶은지 묻고, 원한다면 수정하게 합니다.
 
-Select questions for the follow-up discussion:
-1.	You’ve come up with an explanation, but where did it come from? What did you use to find it? (Creativity, imagination, experience, knowledge.) Scientists depend on the same traits.
-2.	If you have figured out an explanation, is it necessary to test if it’s correct? Why, or why not? In what ways could you test your explanation? Do scientists also test their explanations, and if so, how?
-3.	Different explanations have been suggested in class. Which explanations are better?  What makes one explanation better than another?
-4.	Did you change your sketch of what is below the first funnel? If so, why? In science, can explanations also change, if more data become available? But if scientific knowledge can change, is it reliable?
-5.	Are we sure that our best explanation describes what is actually in the box? Can scientists be sure that their best explanations describe the world as it really is? Why do you think so?
+후속 토론을 위한 질문들을 선택하십시오:
+1. 설명을 생각해 냈는데, 그것은 어디에서 왔나요? 그것을 찾기 위해 무엇을 사용했나요? (창의력, 상상력, 경험, 지식.) 과학자들도 똑같은 특성에 의존합니다.
+2. 설명을 찾아냈다면, 그것이 맞는지 테스트하는 것이 필요할까요? 왜 그런가요, 아니면 왜 아닌가요? 어떤 방식으로 설명을 테스트할 수 있을까요? 과학자들도 자신의 설명을 테스트하나요? 그렇다면 어떻게 하나요?
+3. 학급에서 다양한 설명들이 제안되었습니다. 어떤 설명이 더 좋나요? 무엇이 한 설명을 다른 설명보다 더 좋게 만드나요?
+4. 첫 번째 깔때기 아래에 무엇이 있는지에 대한 스케치를 바꿨나요? 그렇다면 왜 그랬나요? 과학에서도 더 많은 데이터가 확보되면 설명이 바뀔 수 있나요? 하지만 과학적 지식이 변할 수 있다면, 그것을 신뢰할 수 있나요?
+5. 우리의 가장 좋은 설명이 상자 안에 실제로 무엇이 있는지를 묘사한다고 확신할 수 있나요? 과학자들은 자신의 가장 좋은 설명이 세계를 실제 그대로 묘사한다고 확신할 수 있을까요? 왜 그렇게 생각하나요?
 
    
-### On the side
-The following aspects of Nature of Science can be clarified based on discussing these questions. See also the [introduction on NoS](../../Pedagogy/Nos.md).
-1.	Curiosity is a key driving force for scientists. If they don’t understand something, they don’t become disappointed but interested and excited.
-2.	If you need to explain something you don’t understand, you start by using knowledge you already have. Scientists do the same. For example, water is a clear liquid whose color and quantity do not change on their own. So you probably did not find the first event surprising. There was nothing to explain, what happened fit in with what you already knew.
-3.	But then the amount and color changed. To explain that, you used your knowledge and experience, but also your creativity and imagination. Scientists also use creativity and imagination when inventing explanations!
-4.	Explanations are not simply accepted by other scientists, they will be thoroughly tested first. There are various ways to do this. For example, a powerful explanation will enable you to make correct predictions of what will happen if you repeat the experiment, or if you change it a little bit.
-5.	Did you correctly predict what happened when pouring colored water into the first funnel? Do you think scientists too can make incorrect predictions if they use scientific knowledge? 
-6.	Scientific theories and models allow scientists to make incredibly many predictions that are enormously precise and accurate. In very many cases their knowledge is trustworthy and useful. But not always, it is in principle always possible that reality turns out to be different. But when that happens that is also an opportunity to improve the theories and models, and learn new things.
+### 덧붙여서
+이 질문들에 대한 토론을 바탕으로 과학의 본성의 다음과 같은 측면들을 명확히 할 수 있습니다. [과학의 본성(NoS) 소개](../../Pedagogy/Nos.md)도 참조하십시오.
+1. 호기심은 과학자들의 핵심적인 원동력입니다. 무언가를 이해하지 못하면 실망하는 것이 아니라 흥미를 느끼고 흥분합니다.
+2. 이해하지 못하는 것을 설명해야 할 때, 이미 가지고 있는 지식을 사용하는 것부터 시작합니다. 과학자들도 똑같이 합니다. 예를 들어, 물은 색깔과 양이 스스로 변하지 않는 투명한 액체입니다. 그래서 첫 번째 사건이 놀랍지 않았을 것입니다. 설명할 것이 없었고, 일어난 일이 이미 알고 있던 것과 일치했기 때문입니다.
+3. 하지만 그 후에 양과 색깔이 변했습니다. 그것을 설명하기 위해 여러분은 지식과 경험뿐만 아니라 창의력과 상상력도 사용했습니다. 과학자들도 설명을 고안할 때 창의력과 상상력을 사용합니다!
+4. 설명은 다른 과학자들에 의해 단순히 받아들여지는 것이 아니라, 먼저 철저히 테스트될 것입니다. 여기에는 다양한 방법이 있습니다. 예를 들어, 강력한 설명은 실험을 반복하거나 조금 바꿨을 때 어떤 일이 일어날지 정확하게 예측할 수 있게 해줍니다.
+5. 첫 번째 깔때기에 유색 물을 부었을 때 어떤 일이 일어날지 정확히 예측했나요? 과학자들도 과학적 지식을 사용하더라도 잘못된 예측을 할 수 있다고 생각하나요? 
+6. 과학적 이론과 모델은 과학자들이 엄청나게 정밀하고 정확한 수많은 예측을 할 수 있게 해줍니다. 아주 많은 경우에 그들의 지식은 신뢰할 수 있고 유용합니다. 하지만 항상 그런 것은 아니며, 원칙적으로 실제가 다를 가능성은 항상 존재합니다. 하지만 그런 일이 일어날 때는 이론과 모델을 개선하고 새로운 것을 배울 기회이기도 합니다.
 
 
-## Physics background
-Looking at {numref}`Figure {number} <demo71_fig2>`, initially, the siphon is almost filled to the top (left). With the little extra liquid from the small beaker, the liquid at A turns the corner. The upward and downward parts of the tube remains completely filled throughout the process. The force that drives the water out of the siphon and into the tube is due to the pressure difference between A (1 bar) and B (liquid pressure at depth AB). This becomes smaller as it empties, but is zero only when the siphon is completely empty (if the set-up accords with the diagram).
+## 물리 배경
+{numref}`그림 {number} <demo71_fig2>`를 보면, 처음에 사이펀은 거의 끝까지 채워져 있습니다(왼쪽). 작은 비커에서 약간의 액체가 추가되면 지점 A의 액체가 고비를 넘깁니다. 튜브의 오르막과 내리막 부분은 과정 내내 완전히 채워진 상태를 유지합니다. 사이펀 밖으로, 그리고 튜브 안으로 물을 몰아내는 힘은 A(1기압)와 B(AB 깊이에서의 액체 압력) 사이의 압력 차이 때문입니다. 이는 비워짐에 따라 작아지지만, 사이펀이 완전히 비워졌을 때만 0이 됩니다 (설정이 도식과 일치하는 경우).
 
 ```{figure} demo71_figure2.png
 ---
@@ -123,14 +123,14 @@ width: 70%
 align: center
 name: demo71_fig2
 ---
-Diagram of the siphon, connected to one of the funnels. At the start, the siphon is almost completely filled with water and some dye.
+깔때기 중 하나에 연결된 사이펀의 도식. 시작 시 사이펀은 물과 약간의 색소로 거의 가득 채워져 있습니다.
 ```
 
 ```{tip}
-Completely emptying a siphon remains peculiar, of course. Feel free to turn the box around, show the inside after the discussion and show how it works. Perhaps searching for good explanations is just as important as having them.
+물론 사이펀을 완전히 비우는 것은 여전히 독특한 현상입니다. 토론 후에 상자를 돌려 내부를 보여주고 어떻게 작동하는지 보여주십시오. 어쩌면 좋은 설명을 갖는 것만큼이나 좋은 설명을 찾는 과정이 중요할지도 모릅니다.
 ```
 
-## References
+## 참고 문헌
 ```{bibliography}
 :filter: docname in docnames
 ```

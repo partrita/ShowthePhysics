@@ -1,54 +1,54 @@
-# Ranking the 'stars'
+# '별'의 순위 매기기
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Wouter Spaan</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">저자:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">바우터르 스판</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">30-40 minutes</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">시간:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">30-40분</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">15 - 18</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">연령 그룹:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">15 - 18세</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Observing, luminosity, stars, measurement</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">개념:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">관찰, 광도, 별, 측정</td>
     </tr>
 </table>
 
-## Introduction
-In this activity, astronomical observations are simulated in the classroom. By observing light bulbs using various methods, the goal is to make students understand how to obtain temperature information from stars. This method can also lead to information about the luminosity of a star and therefore to information about their distance to the observer. Using [thinking-back-and-forth](../../Pedagogy/BackAndForthThinking.md) student can infer such 'conclusions' themselves.
+## 소개
+이 활동에서는 교실에서 천문 관측을 시뮬레이션합니다. 다양한 방법으로 전구를 관찰함으로써 별에서 온도 정보를 얻는 방법을 학생들이 이해하도록 하는 것이 목표입니다. 이 방법은 또한 별의 광도에 대한 정보로 이어질 수 있으며, 따라서 관찰자로부터 별까지의 거리에 대한 정보로 이어질 수 있습니다. [상호 피드백 사고](../../Pedagogy/BackAndForthThinking.md)를 사용하여 학생들은 스스로 이러한 '결론'을 추론할 수 있습니다.
 
 ```{figure} demo80_figure1.jpg
 ---
 width: 90%
 align: center
 ---
-The demonstration investigates 'distance' stars by comparing the brightness of light bulbs through filters.\
-*left:* The two light bulbs photographed through a red filter held in front of the camera. The inset shows the original color image.\
-*right:* The same two light bulbs now photographed through a blue filter held in front of the camera. 
+이 시연은 필터를 통해 전구의 밝기를 비교하여 '멀리 있는' 별을 조사합니다.\
+*왼쪽:* 카메라 앞에 빨간색 필터를 대고 촬영한 두 전구. 삽입된 사진은 원래의 컬러 이미지입니다.\
+*오른쪽:* 카메라 앞에 파란색 필터를 대고 촬영한 같은 두 전구.
 ```
 
-## Equipment
-* Two *identical* light bulbs that you can operate at different voltages, for example, using a dimmer; 
-* a set of simple red filters;
-* a set of blue filters; 
-* smartphones.
+## 장비
+* 서로 다른 전압(예: 조광기 사용)에서 작동할 수 있는 두 개의 *동일한* 전구
+* 간단한 빨간색 필터 세트
+* 파란색 필터 세트
+* 스마트폰
 
-Note: in astronomy, a filter is named after the wavelength it transmits. So, a red filter allows red light to pass through and absorbs other wavelengths. This is different from photography.
+참고: 천문학에서 필터는 통과시키는 파장의 이름을 따서 명명됩니다. 따라서 빨간색 필터는 빨간색 빛을 통과시키고 다른 파장은 흡수합니다. 이것은 사진술과 다릅니다.
 
-## Preparation
-Prepare a number of identical light bulbs in advance which serve as distant 'stars'. Make sure to vary their brightness by operating the bulbs at different voltages. We used (6V,30W) light bulbs, where one bulb is set at 6 V and the other at 4 V. The light bulbs must be identical because the surface area of the filament must be the same. Position the bulbs at different distances from the observer so that they appear equally bright for that observer at the other end of the classroom (or long corridor or hallway). Dimming the lights enhances the atmosphere, but is not crucial for the experiment.
+## 준비
+멀리 있는 '별' 역할을 할 동일한 전구 여러 개를 미리 준비합니다. 전구를 서로 다른 전압으로 작동시켜 밝기를 다양하게 조절하십시오. 우리는 (6V, 30W) 전구를 사용했으며, 하나는 6V, 다른 하나는 4V로 설정했습니다. 필라멘트의 표면적이 같아야 하므로 전구는 동일해야 합니다. 교실의 다른 쪽 끝(또는 긴 복도)에 있는 관찰자에게 전구들이 똑같이 밝게 보이도록 전구들을 서로 다른 거리에 배치하십시오. 조명을 어둡게 하면 분위기가 고조되지만 실험에 필수적인 것은 아닙니다.
 
-## Procedure
-Introduce the bulbs as interesting distant 'stars'. Tell the students that they will take measurements from these and ought to (qualitatively) determine their temperature and distance. You can emphasize that, initially, this seems very easy to do because one can see which is nearer (due to information of the environment, such as chairs and tables) and which is brighter. However, in astronomy this information is not present and yet we know a lot of stars... Therefore, the students will perform the 'measurements' with the information an astronomer has when observing: black and white photos showing only the bulbs; they are not allowed to use any information about the surroundings (tables, walls, etc.) visible in the photographs. What they can use are a set of color filters and their own smartphone camera (set to black and white if possible). The assignment then becomes: *Determine which of these bulbs has the highest temperature and which one is closest using your mobile phone camera and the color filters without using any other information.* There is value in having students first think and discuss what they can do before using the filters.
+## 절차
+전구들을 흥미롭고 멀리 있는 '별'로 소개하십시오. 학생들에게 이 별들로부터 측정값을 얻어 온도와 거리를 (정성적으로) 결정해야 한다고 말하십시오. 처음에는 어느 것이 더 가까운지(의자나 책상과 같은 환경 정보를 통해)와 어느 것이 더 밝은지 볼 수 있기 때문에 매우 쉬워 보인다고 강조할 수 있습니다. 하지만 천문학에서는 이러한 정보가 존재하지 않으며, 그럼에도 불구하고 우리는 많은 별에 대해 알고 있습니다... 따라서 학생들은 천문학자가 관측할 때 갖는 정보, 즉 전구만 보여주는 흑백 사진을 가지고 '측정'을 수행할 것입니다. 사진에 보이는 주변 환경(테이블, 벽 등)에 대한 정보는 사용할 수 없습니다. 학생들이 사용할 수 있는 것은 컬러 필터 세트와 자신의 스마트폰 카메라(가능하면 흑백으로 설정)뿐입니다. 과제는 다음과 같습니다: *다른 정보는 일절 사용하지 않고 휴대전화 카메라와 컬러 필터만을 사용하여 이 전구들 중 어느 것이 온도가 가장 높은지, 그리고 어느 것이 가장 가까운지 결정하십시오.* 필터를 사용하기 전에 학생들이 무엇을 할 수 있을지 먼저 생각하고 토론하게 하는 것이 가치가 있습니다.
 
-Although the solution of which photos to take is simple, providing a coherent and complete reasoning is significantly more difficult. You need to photograph both bulbs once through a red filter and once through a blue filter with exactly the same settings. Next, you have to compare these images in order to answer the questions about temperature and distance. 
+어떤 사진을 찍어야 할지에 대한 해결책은 간단하지만, 일관되고 완전한 추론을 제공하는 것은 상당히 어렵습니다. 정확히 동일한 설정으로 빨간색 필터를 통해 한 번, 파란색 필터를 통해 한 번 두 전구를 모두 촬영해야 합니다. 다음으로 온도와 거리에 대한 질문에 답하기 위해 이 이미지들을 비교해야 합니다.
 
-During the debriefing, you can ask probing questions so that  students have to think back and forth firmly, ensuring they understand how to interpret observations using Wien's Displacement Law and Stefan-Boltzmann Law. To support their reasoning, you can show a diagram of spectra from black bodies, see {numref}`Figure {number} <demo80BBD>`. This helps to extract the temperature from the observations and helps to convey the idea that an object (star) with a higher temperature emits more power in all wavelength ranges.
+사후 보고(debriefing) 중에 질문을 던져 학생들이 관찰 결과를 빈의 변위 법칙(Wien's Displacement Law)과 스테판-볼츠만 법칙(Stefan-Boltzmann Law)을 사용하여 해석하는 방법을 확실히 이해하도록 하십시오. 그들의 추론을 뒷받침하기 위해 흑체 복사 스펙트럼 다이어그램({numref}`그림 {number} <demo80BBD>`)을 보여줄 수 있습니다. 이는 관찰 결과로부터 온도를 추출하는 데 도움이 되며, 온도가 높은 물체(별)가 모든 파장 범위에서 더 많은 에너지를 방출한다는 아이디어를 전달하는 데 도움이 됩니다.
 
 ```{figure} demo80_figure2.png
 ---
@@ -56,21 +56,21 @@ width: 90%
 align: center
 name: demo80BBD
 ---
-Black body spectrum, figure taken from <a href="https://commons.wikimedia.org/wiki/File:BlackbodySpectrum_loglog_en.svg" target="_blank">https://commons.wikimedia.org/wiki/File:BlackbodySpectrum_loglog_en.svg</a> (public domain).
+흑체 복사 스펙트럼, <a href="https://commons.wikimedia.org/wiki/File:BlackbodySpectrum_loglog_en.svg" target="_blank">https://commons.wikimedia.org/wiki/File:BlackbodySpectrum_loglog_en.svg</a>에서 가져온 그림(퍼블릭 도메인).
 ```
 
-## Physics background
-The lamp with the highest temperature will emit shorter wavelengths (Wien's Displacement Law) and therefore will be brightest when using the blue filter (in the images, this is the lamp at the right), while there will be little to no difference when using the red filter. It follows that the relatively bluest lamp has the highest temperature. Because a higher temperature leads to higher emitted power (Stefan-Boltzmann Law) and both lamps appear approximately equally bright, the lamp with the highest temperature is the farthest away. In the images above, the lamp at the left is therefore nearest to the observer. This can only be known if you know that the surface area of the filament is the same, which is a correct assumption for identical light bulbs. However, this comparison is not valid for real stars, so the analogy breaks down, an aspect to emphasize during the central discussion.
+## 물리 배경
+온도가 가장 높은 램프는 더 짧은 파장을 방출하며(빈의 변위 법칙), 따라서 파란색 필터를 사용할 때 가장 밝게 보일 것입니다(이미지에서는 오른쪽 램프). 반면 빨간색 필터를 사용할 때는 차이가 거의 없거나 전혀 없을 것입니다. 따라서 상대적으로 가장 푸른 램프가 온도가 가장 높다는 결론이 나옵니다. 높은 온도는 더 높은 방출 전력으로 이어지며(스테판-볼츠만 법칙), 두 램프가 거의 똑같이 밝게 보이므로 온도가 가장 높은 램프가 가장 멀리 있는 것입니다. 위의 이미지에서 왼쪽 램프가 관찰자에게 가장 가깝습니다. 이것은 필라멘트의 표면적이 같다는 것을 알아야만 알 수 있으며, 이는 동일한 전구에 대해 올바른 가정입니다. 그러나 이 비교는 실제 별에는 유효하지 않으므로 비유가 깨지게 되며, 이 점은 중심 토론 중에 강조해야 할 측면입니다.
 
-This reasoning involves various thinking-back-and-forth steps to connect observations to conclusions. There is a double comparison: in one of the two filters, there should be no (or very little) difference between the stars (in the images above, this is the red filter), and in the other filter, there should be a clear difference visible. Only then can you say something about the color and thus about the temperature. If the same bulb is brighter in both filters, unfortunately, this provides no useful information for answering our questions unless we resort to quantitative measurements (which astronomers can do very well). The inference towards *distance* requires a subtle comparison as well because it is essential here too that both bulbs appear approximately equally bright.
+이 추론에는 관찰 결과와 결론을 연결하기 위한 다양한 상호 피드백 사고 단계가 포함됩니다. 이중 비교가 있습니다: 두 필터 중 하나에서는 별들 사이에 차이가 없거나 매우 적어야 하고(위의 이미지에서는 빨간색 필터), 다른 필터에서는 분명한 차이가 보여야 합니다. 그래야만 색상에 대해, 즉 온도에 대해 무언가를 말할 수 있습니다. 동일한 전구가 두 필터 모두에서 더 밝다면, 불행히도 정량적 측정(천문학자들이 매우 잘하는 것)에 의존하지 않는 한 질문에 답하는 데 유용한 정보를 제공하지 못합니다. *거리*에 대한 추론 역시 미묘한 비교를 필요로 하는데, 두 전구가 거의 똑같이 밝게 보이는 것이 여기서도 필수적이기 때문입니다.
 
-In astronomy, blue and green filters are usually used for color information. However, with the green filters available to the author, the difference appeared to be too small for any of these inferences.
+천문학에서 색상 정보에는 보통 파란색과 초록색 필터가 사용됩니다. 하지만 저자가 사용할 수 있는 초록색 필터로는 이러한 추론을 하기에는 차이가 너무 작아 보였습니다.
 
 ```{tip}
-This activity does not work with every mobile phone. Some cameras seem to adjust too much on their own and do not keep the settings constant. Setting it to fully manual mode, increasing the ISO value, and closing the aperture sometimes appears to provide a solution. 
-Having students work together in groups can reduce the problem.
+이 활동은 모든 휴대전화에서 작동하는 것은 아닙니다. 일부 카메라는 스스로 너무 많이 조절하여 설정을 일정하게 유지하지 않는 것 같습니다. 완전 수동 모드로 설정하고, ISO 값을 높이고, 조리개를 조이는 것이 때때로 해결책이 될 수 있습니다.
+학생들이 그룹으로 함께 작업하게 하면 문제를 줄일 수 있습니다.
 
-You can share students' photos using a project. In any case, make sure to have two usable photos available yourself!
+프로젝트를 사용하여 학생들의 사진을 공유할 수 있습니다. 어떤 경우든, 여러분 자신이 사용할 수 있는 두 장의 사진을 확보해 두십시오!
 
-<a href="https://en.wikipedia.org/wiki/Color_index" target="_blank">Wikipedia</a> provides information about the relationship between color index and temperature. 
+<a href="https://en.wikipedia.org/wiki/Color_index" target="_blank">위키피디아</a>는 색지수(color index)와 온도의 관계에 대한 정보를 제공합니다.
 ```
