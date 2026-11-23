@@ -15,7 +15,7 @@ dependencies = [
     "sphinx-image-inverter>=1.1.11",
     "sphinx-named-colors>=1.0.3",
     "sphinx-thebe",
-    "teachbooks==0.2.1",
+    "teachbooks==0.2.7",
     "teachbooks-sphinx-tippy>=1.1.0",
 ]
 
