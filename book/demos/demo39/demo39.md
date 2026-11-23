@@ -1,21 +1,21 @@
-# Investigating a devastating Flame
+# 파괴적인 불꽃 탐구하기
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">저자:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Wouter Spaan</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">15+ minutes</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">소요 시간:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">15분 이상</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">14 - 18</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">대상 연령:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">14 - 18세</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Combustion, angular momentum, testing explanations, designing experiments, drawing conclusions</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">관련 개념:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">연소, 각운동량, 가설 검증, 실험 설계, 결론 도출</td>
     </tr>
 </table>
 
@@ -23,88 +23,88 @@
 ---
 width: 50%
 align: center
-alt: a fire tornado in a rotating trash can
+alt: 회전하는 휴지통 안에서 형성된 화염 토네이도
 ---
-The fire tornado in a rotating trash can.
+회전하는 휴지통 속의 화염 토네이도.
 ```
 
-## Introduction
-A rare and devastating phenomenon in forest fires in warm, dry areas is a fire tornado: A flame begins to rotate and becomes significantly higher. In miniature, it's a spectacular demonstration, very suitable for qualitative investigation. By inviting suggestions for investigations from your students, you can explore what is important in the formation of a fire tornado. The ultimate explanation is quite complex and goes beyond high school physics. However, understanding the physics that is involved is not really necessary: Investigating the possible influences is interesting enough.
+## 소개
+따뜻하고 건조한 지역의 산불에서 드물게 나타나는 파괴적인 현상 중 하나가 화염 토네이도(불 회오리)입니다. 불꽃이 회전하기 시작하면서 높이가 크게 치솟는 현상입니다. 이를 축소판으로 구현하면 정성적 탐구에 매우 적합한 장관의 시범 실험이 됩니다. 학생들에게 탐구할 내용을 제안해 보도록 이끌면서 화염 토네이도 형성에 무엇이 중요한지 탐색할 수 있습니다. 이에 대한 궁극적인 설명은 상당히 복잡하여 고등학교 물리학 수준을 넘어섭니다. 하지만 관련된 물리학을 완전히 이해하는 것이 꼭 필요하지는 않습니다. 영향을 미칠 수 있는 요인들을 탐구하는 것만으로도 충분히 흥미롭기 때문입니다.
 
-## Equipment
-* Rotating platform (e.g., for a cheese board); 
-* Fireproof container or ashtray; 
-* Perforated trash can (see image) or fine mesh; 
-* Cotton balls soaked in alcohol; 
-* Little kitchen salt; 
-* Lid for covering; 
-* Safety goggles.
-* Various variations on this, for example, a smaller trash can (or other cylinder with holes), household foil to cover holes, small fans, chicken wire with larger holes, and so on.
+## 준비물
+* 회전판(예: 회전식 치즈 보드 등);
+* 내화성 용기 또는 재떨이;
+* 구멍이 뚫린 휴지통(사진 참고) 또는 촘촘한 철망;
+* 알코올에 적신 솜뭉치;
+* 소량의 식용 소금;
+* 덮을 수 있는 뚜껑;
+* 보안경.
+* 이 외에도 다양한 변형 실험을 위한 물품들(예: 더 작은 휴지통 또는 구멍 뚫린 원통, 구멍을 막기 위한 가정용 알루미늄 호일, 소형 선풍기, 구멍이 더 큰 철망 등).
 
 ```{figure} demo39_figure2.jpg
 ---
 width: 70%
 align: center
-alt: various items next to the trash bin
+alt: 휴지통 옆에 놓인 다양한 실험 물품들
 ---
-Some items that can be useful if you want to investigate suggestions from students.
+학생들의 제안을 탐구해 보고 싶을 때 유용하게 쓸 수 있는 물품들.
 ```
 
-## Preparation
-* Assemble the large setup.
-* Soak the cotton balls well with alcohol, to which a little salt may be added to make the flame more visible.
-* Hide the other props from the students.
-* Darken the room for maximum visual effect.
+## 사전 준비
+* 큰 기본 장치를 조립합니다.
+* 솜뭉치를 알코올에 충분히 적십니다. 불꽃이 더 잘 보이도록 소금을 약간 넣어도 좋습니다.
+* 다른 소품들은 학생들에게 보이지 않게 숨겨 둡니다.
+* 시각적 효과를 극대화하기 위해 교실을 어둡게 합니다.
 
 ``` {warning}
-Provide adequate extinguishing agents (fire extinguishers, lid, blanket, etc.), suitable for liquid and solid fires (A and B). Of course, wear safety goggles.
+액체 및 고체 화재(A급 및 B급)에 적합한 충분한 소화 도구(소화기, 뚜껑, 방염 담요 등)를 준비하세요. 물론 보안경을 반드시 착용해야 합니다.
 
-Try out various experiments calmly and resist the temptation to do something in class that you haven't prepared.
+다양한 실험을 차분하게 미리 시험해 보고, 수업 중에 사전에 준비하지 않은 실험을 즉흥적으로 시도하지 마세요.
 ```
 
-## Procedure
-There are many ways to perform this demonstration. In the described execution, the emphasis is on research skills, particularly investigating a phenomenon and testing explanations.
+## 실험 과정
+이 시범 실험을 진행하는 데는 여러 가지 방법이 있습니다. 여기서 설명하는 방식은 탐구 기능, 특히 현상을 조사하고 설명을 검증하는 과정에 중점을 둡니다.
 
-Start with a <a href="https://youtu.be/RGux3OOLhSw?si=7rYlvaSTr_PLRoO1&t=326" target="_blank">video</a> or photo of a real-life fire tornado. Then show the fire tornado in miniature. Invite the students to investigate this phenomenon focusing on the question: *What is needed to create a fire tornado in this experiment?* The {ref}`concept cartoon <demo39_fig3>` can be helpful if the students themselves don't come up with enough suggestions. 
+실제 화염 토네이도의 <a href="https://youtu.be/RGux3OOLhSw?si=7rYlvaSTr_PLRoO1&t=326" target="_blank">영상</a>이나 사진으로 수업을 시작합니다. 그런 다음 축소판 화염 토네이도를 보여 줍니다. 학생들에게 다음 질문에 초점을 맞추어 이 현상을 탐구해 보도록 유도합니다: *이 실험에서 화염 토네이도를 만들기 위해 무엇이 필요할까요?* 학생들 스스로 충분한 의견을 내지 못할 경우 {ref}`개념 만화 <demo39_fig3>`가 도움이 될 수 있습니다.
 
-Explicitly invite them to come up with various suggestions how such a tornado comes to existence. List their suggestions on the board. Some students might suggest an experiment; others will suggest various explanations. For the first group, it's important to ask what exactly the students want to find out. For the second group, ask them to come up with a corresponding experiment. Both routes to an experiment are important in science and can be named as such. Then, together with the class, come up with an experiment to test a possible influence for as many suggestions as possible.
+이러한 토네이도가 어떻게 생기는지에 대해 다양한 의견을 내도록 분명하게 유도하세요. 학생들의 제안을 칠판에 적습니다. 어떤 학생들은 실험 방법을 제안하고, 어떤 학생들은 여러 가지 설명을 제시할 것입니다. 전자에게는 학생들이 정확히 무엇을 알아내고 싶은지 묻는 것이 중요합니다. 후자에게는 그 설명을 확인할 수 있는 실험을 생각해 보라고 요청하세요. 실험으로 이어지는 이 두 가지 경로 모두 과학에서 중요하며, 학생들에게 이를 명시적으로 짚어 줄 수 있습니다. 그런 다음 학급 전체와 함께 가능한 한 많은 제안에 대해 각각의 영향 요인을 검증할 실험을 구상해 봅니다.
 
 ```{figure} demo39_figure3.png
 ---
 width: 50%
 align: center
 name: demo39_fig3
-alt: a concept cartoon with various statements on the explanation of the fire tornado
+alt: 화염 토네이도의 원인에 대한 다양한 의견이 담긴 개념 만화
 ---
-The concept cartoon can help elicit ideas. You can go two ways with the statements shown: *what question is behind a statement* and *what experiment can you come up with for it?* By the way, all these people are somehow right.
+개념 만화는 학생들의 아이디어를 이끌어 내는 데 도움이 됩니다. 제시된 진술을 바탕으로 두 가지 방향으로 접근할 수 있습니다. *진술 이면에 담긴 질문은 무엇인가*와 *이를 위해 어떤 실험을 고안할 수 있는가*입니다. 참고로 만화 속 인물들의 말은 모두 어느 정도 일리가 있습니다.
 ```
 
-With a bit of creativity, it's easy to manipulate this setup, especially if you have a few alternative setups available. Some possibilities include:
+조금만 창의력을 발휘하면 이 장치를 쉽게 변형할 수 있으며, 특히 몇 가지 대체 장치가 있다면 더욱 수월합니다. 가능한 변형 예시는 다음과 같습니다:
 
-* No trash can or mesh
-* Smaller diameter for the trash can or mesh
-* Higher mesh with the same diameter
-* Sealed holes (e.g., with household foil)
-* Sealed holes at different heights
-* Different rotation speed
-* Stationary flame and rotating trash can or mesh
-* Small fans instead of a trash can or mesh, aimed slightly next to the flame.
+* 휴지통이나 철망 없이 진행하기
+* 지름이 더 작은 휴지통이나 철망 사용하기
+* 지름은 같고 높이가 더 높은 철망 사용하기
+* 구멍 막기(예: 가정용 알루미늄 호일 사용)
+* 서로 다른 높이의 구멍 막기
+* 회전 속도 다르게 하기
+* 불꽃은 정지시키고 휴지통이나 철망만 회전시키기
+* 휴지통이나 철망 대신 작은 선풍기를 사용하여 불꽃 바로 옆쪽을 향하게 바람 불어 주기.
 
-You can now conduct some of the suggested experiments and discuss them. What conclusion(s) matches the observations? This often leads to follow-up questions, something to explicitly name as a way science also works. By posing new questions, the empirical circle is almost complete: for a potentially important factor, an experiment is devised, with a clear expectation each time. The experiment is carried out, and a conclusion is drawn from the observations about the influence of the respective factor.
+이제 제안된 실험 중 몇 가지를 실제로 수행하고 함께 토의합니다. 관찰 결과와 부합하는 결론은 무엇일까요? 이러한 과정은 종종 후속 질문으로 이어지며, 이는 과학이 작동하는 또 다른 방식으로서 학생들에게 명시적으로 짚어 줄 만한 점입니다. 새로운 질문을 던짐으로써 경험적 탐구 순환(empirical circle)이 거의 완성됩니다. 즉, 중요할 것으로 생각되는 요인에 대해 매번 명확한 예상을 세워 실험을 고안하고, 실험을 수행한 뒤, 관찰 결과로부터 해당 요인의 영향에 관한 결론을 이끌어 내는 것입니다.
 
-Finally, you can also pay attention to why we do science. In any case, two reasons have come up: curiosity and the importance of understanding the origin of such a fire tornado in relation to the safety of firefighters. Especially if the students have enthusiastically participated in providing suggestions, you can ask whether all (natural) science must be useful.
+마지막으로 우리가 왜 과학을 하는지에 대해서도 다룰 수 있습니다. 여기서는 적어도 두 가지 이유가 드러났습니다. 호기심과, 소방관들의 안전을 위해 이러한 화염 토네이도의 발생 원인을 이해하는 것의 중요성입니다. 특히 학생들이 열정적으로 의견을 제시했다면, 모든 (자연)과학이 반드시 실용적이어야 하는지 질문을 던져 볼 수도 있습니다.
 
 ``` {tip}
-The flame is very sensitive to drafts (for example, due to central extraction), so test the demo where you actually plan to perform it.
+불꽃은 공기의 흐름(예: 중앙 환기 장치 등)에 매우 민감하므로, 실제로 시범을 보일 장소에서 미리 시험해 보세요.
 
-The students quickly become very enthusiastic about this demonstration. Make sure you have prepared as many experiments and variations as possible. Then you get the most out of this experiment.
+학생들은 이 시범 실험에 금세 큰 열의를 보입니다. 가능한 한 많은 실험과 변형 예시를 미리 준비해 두세요. 그러면 이 실험의 교육적 효과를 최대한 끌어낼 수 있습니다.
 ```
 
-## Physics background
-There are two observations we want to explain:
-1. The flame gets higher;
-2. The flame gets a visible vortex, even when the burning cotton balls themselves are stationary.
+## 물리학적 배경
+우리가 설명하고자 하는 관찰 결과는 두 가지입니다:
+1. 불꽃이 더 높아집니다;
+2. 타오르는 솜뭉치 자체는 정지해 있을 때도 불꽃에 뚜렷한 소용돌이가 생깁니다.
 
-The second observation is the easiest to explain. At the location of the trash can, the air is drawn along, giving it a rotating motion relative to the center (the flame). The flame draws in air, causing it to spiral inward. As it moves inward, the angular velocity increases due to the conservation of angular momentum. Convection in and above the flame causes it to stretch into an upward spiral.
+두 번째 관찰 결과는 설명하기가 가장 쉽습니다. 휴지통이 있는 위치에서 공기가 함께 끌려 움직이면서 중심(불꽃)을 기준으로 회전 운동을 하게 됩니다. 불꽃이 주변 공기를 빨아들이면서 공기가 안쪽으로 나선형으로 말려 들어갑니다. 공기가 안쪽으로 이동함에 따라 각운동량 보존으로 인해 각속도가 증가합니다. 불꽃 내부와 위쪽에서 일어나는 대류 현상 때문에 이 흐름이 위쪽으로 길게 뻗어 나가는 상승 나선 형태를 띠게 됩니다.
 
-The increase in flame size is not fully understood yet. The rotation of the air affects the turbulence around the flame and thus the oxygen supply. How exactly this coupling works is partly still unexplained. This fact also offers a good opportunity for discussion.
+불꽃의 크기가 커지는 현상은 아직 완전히 규명되지 않았습니다. 공기의 회전은 불꽃 주변의 난류와 그에 따른 산소 공급에 영향을 미칩니다. 이러한 상호 작용이 정확히 어떻게 일어나는지는 일부가 여전히 미해결 상태로 남아 있습니다. 이 사실 자체도 학생들과 토의하기에 좋은 주제가 됩니다.

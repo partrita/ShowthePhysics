@@ -1,25 +1,55 @@
-name: call-deploy-book
+name: Deploy Book to GitHub Pages
 
 on:
   push:
     branches:
-    - '**'
-    # If your git repository has the Jupyter Book within some-subfolder next to
-    # unrelated files, you can make this run only if a file within that specific
-    # folder (or the workflow file itself) has been modified.
-    #
-    # paths:
-    # - some-subfolder/**
-    # - .github/workflows/call-deploy-book.yml
-    #
+      - main
+    paths:
+      - 'book/**'
+      - 'pyproject.toml'
+      - 'uv.lock'
+      - '.github/workflows/call-deploy-book.yml'
   workflow_dispatch:
 
-jobs: 
-  call-workflow:
-    uses: TeachBooks/deploy-book-workflow/.github/workflows/deploy-book.yml@main
-    secrets: inherit
-    permissions:
-      contents: read
-      pages: write
-      id-token: write
+permissions:
+  contents: read
+  pages: write
+  id-token: write
 
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+
+      - name: Set up Python and install dependencies
+        run: uv sync --locked
+
+      - name: Build TeachBooks
+        run: uv run teachbooks build book
+
+      - name: Upload GitHub Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: book/_build/html
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

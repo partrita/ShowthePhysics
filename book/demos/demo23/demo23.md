@@ -1,21 +1,21 @@
-# LEDs and photons
+# LED와 광자
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">저자:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Leo te Brinke</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">10 minutes</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">소요 시간:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">10분</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">15 - 18</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">대상 연령:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">15 - 18세</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">particle-wave duality of light, quantization, threshold frequency, photons</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">관련 개념:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">빛의 입자-파동 이중성, 양자화, 문턱 진동수, 광자</td>
     </tr>
 </table>
 
@@ -24,24 +24,24 @@
 width: 70%
 align: center
 name: demo23_fig1
-alt: red laser shining on green led, led connected to digital multimeter indicating no voltage
+alt: 초록색 LED에 빨간색 레이저를 비추고 있으며, 디지털 멀티미터에 연결된 LED에는 전압이 나타나지 않는다.
 ---
-Red light shined on a green LED: no voltage.
+초록색 LED에 빨간색 빛을 비춘 모습: 전압이 측정되지 않음.
 ``` 
 
-## Introduction
-It is not generally known that a light emitting diode (LED) can be used in reverse mode, as light sensor instead of light source. A LED can generate a voltage when absorbing light, but only when certain conditions are met... Just like a photocell a LED turns out to have a threshold wave length or frequency which also depends on the type of LED. This can only be explained with quantized light. This demonstration can be used in the first lesson about photons, so before the photocell and the photo-electric effect. 
+## 소개
+발광 다이오드(LED)를 광원이 아닌 빛 센서로서 역방향 모드로 사용할 수 있다는 사실은 잘 알려져 있지 않습니다. LED는 빛을 흡수할 때 전압을 발생시킬 수 있지만, 특정 조건이 충족될 때만 가능합니다... 광전지와 마찬가지로 LED 역시 LED의 종류에 따라 달라지는 문턱 파장 또는 문턱 진동수를 가지고 있는 것으로 나타납니다. 이는 양자화된 빛으로만 설명할 수 있습니다. 이 시범 실험은 광전지와 광전 효과를 배우기 전, 광자에 관한 첫 번째 수업에서 활용할 수 있습니다. 
 
-## Equipment
-* Two LEDs with a clearly different color light but preferably in a colorless holder
-* A variable voltage source, with cables and appropriate resistors
-* A red laser pointer
-* A white light
-* A green laser pointer
-* A voltmeter with a very high internal resistance (10 M$\Omega$ or higher)
+## 준비물
+* 빛의 색깔이 뚜렷하게 다르며 가급적 투명한 홀더에 담긴 두 개의 LED
+* 가변 전압 전원 장치, 연결 도선 및 적절한 저항
+* 빨간색 레이저 포인터
+* 백색광 광원
+* 초록색 레이저 포인터
+* 내부 저항이 매우 높은 전압계(10 M$\Omega$ 이상)
 
 ```{warning}
-Adhere to the regular safety rules when using with lasers!
+레이저를 사용할 때는 일반적인 안전 수칙을 반드시 준수하세요!
 ```
 
 ```{figure} demo23_figure2.jpg
@@ -49,57 +49,56 @@ Adhere to the regular safety rules when using with lasers!
 width: 70%
 align: center
 name: demo23_fig2
-alt: white light shining on green led connected to digital multimeter, output 1.38V
+alt: 디지털 멀티미터에 연결된 초록색 LED에 백색광을 비추자 1.38V가 출력되고 있다.
 ---
-With white light, the DMM measures a voltage.
+백색광을 비추면 디지털 멀티미터(DMM)에서 전압이 측정된다.
 ``` 
 
-## Preparation
-For the first demonstration we make the LEDs shine by connecting each LED in forward direction in series with a resistor and a voltage source. Subsequent demonstrations are done without a voltage source, connecting  the LEDs directly to a Voltmeter and illuminated them with a laser pointer or other source ({numref}`Figures {number} <demo23_fig1>` and {numref}`{number} <demo23_fig2>`). Set the voltmeter to a range of 0 – 2V.
+## 사전 준비
+첫 번째 시범을 위해 각 LED를 저항 및 전원 장치와 직렬로 순방향 연결하여 불이 들어오게 합니다. 이어지는 시범 실험은 전원 장치 없이 진행하며, LED를 전압계에 직접 연결한 뒤 레이저 포인터나 다른 광원으로 비춥니다({numref}`그림 {number} <demo23_fig1>` 및 {numref}`{number} <demo23_fig2>`). 전압계의 측정 범위는 0 – 2V로 설정합니다.
 
-## Procedure
-Here we use a red and a green LED but it could be other colors as long as one has a large wavelength and the other a much shorter wavelength. We connect both LEDs to the power supply and make them light. The LEDs convert electrical energy to light. *Would it be possible to do the opposite, to convert light into electrical energy? How can we investigate that?*
+## 실험 과정
+여기서는 빨간색 LED와 초록색 LED를 사용하지만, 하나는 파장이 길고 다른 하나는 파장이 훨씬 짧다면 다른 색상의 조합도 가능합니다. 두 LED를 전원 장치에 연결하여 빛을 내게 합니다. LED는 전기 에너지를 빛으로 변환합니다. *그렇다면 그 반대로, 빛을 전기 에너지로 변환하는 것도 가능할까요? 이를 어떻게 조사해 볼 수 있을까요?*
 
-We connect the red LED with the voltmeter and illuminate it with a red laser ({numref}`Figures {number} <demo23_fig1>`). *Would other colors of light such as white and green also generate a voltage over the LED?* Verify this with the white and green light sources ({numref}`Figures {number} <demo23_fig2>`).
+빨간색 LED를 전압계에 연결하고 빨간색 레이저로 비춥니다({numref}`그림 {number} <demo23_fig1>`). *백색광이나 초록색과 같은 다른 색의 빛을 비추어도 LED 양단에 전압이 발생할까요?* 백색광원과 초록색 광원으로 이를 확인해 봅니다({numref}`그림 {number} <demo23_fig2>`).
 
-*Would intensity influence the voltage? How can we investigate this?* Vary the distance between LED and laser pointer, or use a filter that reduces the intensity of the laser pointer. So a LED can act like a solar cell. 
+*빛의 세기는 전압에 영향을 미칠까요? 이를 어떻게 조사할 수 있을까요?* LED와 레이저 포인터 사이의 거리를 변화시키거나, 레이저 포인터의 세기를 줄여 주는 필터를 사용해 봅니다. 이처럼 LED는 태양 전지처럼 작동할 수 있습니다. 
 
 ```{note}
-The voltage still depends on some other factors apart from the color such as other properties of the LED and resistance of the Voltmeter (should be large).
+전압은 빛의 색깔 외에도 LED의 다른 특성이나 전압계의 저항(매우 커야 함)과 같은 몇 가지 다른 요인에도 여전히 의존합니다.
 ```
 
-Then, show with the white light source and the green laser pointer that the green LED can also generate a voltage when illuminated with white and green light even at low intensities. However, not when illuminated with red light. 
+다음으로, 백색광원과 초록색 레이저 포인터를 사용하여 초록색 LED 역시 세기가 약한 백색광이나 초록색 빛을 비추었을 때도 전압을 발생시킬 수 있음을 보여줍니다. 하지만 빨간색 빛을 비추었을 때는 전압이 발생하지 않습니다. 
 
 ```{tip}
-As described in [POE](../../Pedagogy/PoE.md), it does not make sense to ask for predictions when this is the first lesson about photons. Students do not have sufficient understanding yet to make meaningful predictions.
+[POE](../../Pedagogy/PoE.md)에서 설명한 바와 같이, 이 수업이 광자에 관한 첫 번째 수업이라면 학생들에게 예측을 요구하는 것은 의미가 없습니다. 학생들은 아직 의미 있는 예측을 할 만큼의 충분한 이해를 갖추지 못했기 때문입니다.
 ```
 
-The question now is why even a modest intensity of white or green light does generate a voltage across the green LED and red light does not. The explanation of physicists is that light energy is “quantized” in packages and that the energy of a package depends on the frequency of the light. Higher frequencies (thus smaller wavelengths) have more energy. So a green package has more energy than a red package. The green LED apparently needs a bigger energy package than a red LED in order to convert light into electrical energy and generate a voltage, and the voltage generated in a green LED is higher than that in a red LED. These energy packages of light are called light quanta or photons (see e.g. [Fluorescent olive oil](../demo87/demo87.md)).
+이제 의문점은 왜 세기가 약한 백색광이나 초록색 빛은 초록색 LED 양단에 전압을 발생시키는데 빨간색 빛은 그렇지 못한가 하는 것입니다. 물리학자들의 설명은 빛 에너지가 꾸러미 단위로 “양자화”되어 있으며, 이 한 꾸러미의 에너지는 빛의 진동수에 따라 달라진다는 것입니다. 진동수가 높을수록(따라서 파장이 짧을수록) 더 많은 에너지를 가집니다. 그러므로 초록색 빛 꾸러미는 빨간색 빛 꾸러미보다 더 큰 에너지를 가집니다. 초록색 LED는 빛을 전기 에너지로 변환하여 전압을 발생시키기 위해 빨간색 LED보다 더 큰 에너지 꾸러미를 필요로 하는 것으로 보이며, 초록색 LED에서 생성되는 전압 또한 빨간색 LED에서보다 더 높습니다. 이러한 빛의 에너지 꾸러미를 광양자 또는 광자라고 부릅니다(예: [형광을 내는 올리브 오일](../demo87/demo87.md) 참고).
 
-To further support this idea we can also look again at the conversion of electrical energy to light. To produce light the green LED needs a higher voltage than the red LED! Then we can get into determining Planck’s constant with LEDs.
+이 아이디어를 더욱 뒷받침하기 위해 전기 에너지를 빛으로 변환하는 과정도 다시 살펴볼 수 있습니다. 빛을 내기 위해 초록색 LED는 빨간색 LED보다 더 높은 전압을 필요로 합니다! 그런 다음 LED를 이용한 플랑크 상수 측정으로 나아갈 수 있습니다.
 
 ```{figure} demo23_figure3.png
 ---
 width: 70%
 align: center
-alt: a concept cartoon with four people stating their ideas of what is happening.
+alt: 무슨 일이 일어나고 있는지에 대해 네 사람이 각자의 생각을 말하고 있는 개념 만화.
 ---
-A concept cartoon can be used to elicit students' ideas.
+학생들의 생각을 이끌어 내기 위해 개념 만화를 활용할 수 있다.
 ``` 
 
-## Physics background
-The main principles have been mentioned above. After this demonstration it will be easier for students to understand the photo cell. It is better to avoid getting into explanations of how LEDs work. The LED in this demonstration is purely a black box whose behavior we cannot explain by light waves as a continuous flow of energy, but only with energy packages or light quanta which we have named photons.
+## 물리학적 배경
+주요 원리는 위에서 이미 언급되었습니다. 이 시범 실험을 거치고 나면 학생들이 광전지를 이해하기가 훨씬 쉬워집니다. LED가 어떻게 작동하는지에 대한 설명으로 들어가는 것은 피하는 편이 좋습니다. 이 시범에서 LED는 순수하게 하나의 블랙박스이며, 그 거동은 빛을 연속적인 에너지의 흐름인 파동으로 보아서는 설명할 수 없고, 우리가 광자라고 이름 붙인 에너지 꾸러미 즉 광양자로만 설명할 수 있습니다.
 
-A practical application of the same phenomenon is the fact that one cannot get a brown skin from visible light (behind a glass window), regardless of the intensity. UV energy packages are needed and they are absorbed by glass. Apparently pigment cells in our skin need energy packages with at least the energy of UV (there is a nice [Dutch exam question on the use of suncream](https://newsroom.nvon.nl/files/default/nav191vb.pdf)). The teacher can also refer to the fact that traditional photo paper is not sensitive for red light .... but who still knows that?
+같은 현상의 실용적인 응용 사례로는, 빛의 세기와 무관하게(유리창 뒤에서) 가시광선만으로는 피부가 그을리지 않는다는 사실을 들 수 있습니다. 자외선 에너지 꾸러미가 필요한데, 자외선은 유리에 흡수되기 때문입니다. 우리 피부의 색소 세포는 적어도 자외선 수준의 에너지를 가진 에너지 꾸러미를 필요로 하는 것으로 보입니다([자외선 차단제 사용에 관한 흥미로운 네덜란드 시험 문제](https://newsroom.nvon.nl/files/default/nav191vb.pdf)가 있습니다). 교사는 또한 전통적인 인화지가 빨간색 빛에 감광하지 않는다는 사실을 언급할 수도 있습니다.... 하지만 요즘 누가 그걸 아직 알까요?
 
 ```{tip}
-* As the internal resistance of the Voltmeter is very high, the LED cannot produce a current and retains a fixed voltage. One needs an internal resistance of at least 10 $\text{M}\Omega$ in order to measure the voltage; with 1 $\text{M}\Omega$ the LED will already discharge.
-* LEDs in a colored holder may not work in this experiment as there could be light absorption of certain colors in the holder. 
-* In our experiments small LEDs reacted better than big ones. It is unclear why.
-* The extra resistance is only needed to limit the current when LEDs are on. The magnitude of the resistance depends on the power source and the maximum power of the LEDs. Most LEDs can stand a current of several tens of mA and this is sufficient for well visible light.
-* It is possible to continue this demonstration with a determination of Planck’s constant with LEDs.
+* 전압계의 내부 저항이 매우 높기 때문에 LED가 전류를 흘려보내지 못하고 일정한 전압을 유지합니다. 전압을 측정하려면 적어도 10 $\text{M}\Omega$ 이상의 내부 저항이 필요하며, 1 $\text{M}\Omega$만 되어도 LED가 이미 방전되어 버립니다.
+* 색깔이 있는 홀더에 담긴 LED는 홀더에서 특정 색의 빛을 흡수할 수 있으므로 이 실험에서 작동하지 않을 수 있습니다. 
+* 필자의 실험에서는 큰 LED보다 작은 LED가 더 잘 반응했습니다. 그 이유는 명확하지 않습니다.
+* 추가 저항은 LED를 켤 때 전류를 제한하기 위해서만 필요합니다. 저항의 크기는 전원 장치와 LED의 최대 허용 전력에 따라 달라집니다. 대부분의 LED는 수십 mA 정도의 전류를 견딜 수 있으며, 이는 육안으로 잘 보이는 빛을 내기에 충분합니다.
+* 이 시범 실험에 이어서 LED를 이용한 플랑크 상수 측정 실험을 계속 진행할 수 있습니다.
 ```
 
-## Follow-up
-One could also make a rough estimate of Planck’s constant. If the red LED generates $1.6$ V and you assume that each electron is excited with one photon, then one could determine the minimum energy of the photons and a minimum value of Planck’s constant. With $1.6$ V and a wavelength of $633$ nm (He-Ne-laser) we obtain $5.4\cdot 10^{-34}$ Js.  ($1.6 \text{eV} = \frac{hc}{\lambda}$).
-
+## 후속 활동
+플랑크 상수를 대략적으로 추정해 볼 수도 있습니다. 만약 빨간색 LED가 $1.6$ V를 발생시키고 각 전자가 하나의 광자에 의해 들뜬다고 가정하면, 광자의 최소 에너지와 플랑크 상수의 최솟값을 구할 수 있습니다. $1.6$ V와 $633$ nm의 파장(He-Ne 레이저)을 사용하면 $5.4\cdot 10^{-34}$ Js를 얻게 됩니다. ($1.6 \text{eV} = \frac{hc}{\lambda}$).

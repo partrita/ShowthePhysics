@@ -1,4 +1,4 @@
-# Electricity, magnetism
+# 전기와 자기
 
 ```{tableofcontents}
 ```

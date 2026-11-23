@@ -1,72 +1,71 @@
-# Hot spots in the microwave
+# 전자레인지 속 핫스팟(가열 지점)
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">저자:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Wouter Spaan</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">5 minutes</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">소요 시간:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">5분</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Grades 10-12</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">대상 연령:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">10~12학년(고1~고3)</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Standing waves, nodes, antinodes, microwaves, electromagnetic radiation</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">관련 개념:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">정상파, 마디, 배, 마이크로파, 전자기파</td>
     </tr>
 </table>
 
-## Introduction
-Why is there a turntable in a microwave? This seemingly simple question hides interesting physics. The dimensions of the microwave are chosen so that standing waves of microwave radiation occur. In the nodes, the food is not heated, and in the antinodes, the heating is maximal. To achieve somewhat even heating, the food must rotate. 
+## 소개
+왜 전자레인지 안에는 회전판이 있을까요? 언뜻 단순해 보이는 이 질문 속에는 흥미로운 물리학이 숨어 있습니다. 전자레인지 내부의 크기는 마이크로파의 정상파가 형성되도록 설계되어 있습니다. 정상파의 마디에서는 음식이 데워지지 않고, 배에서 가열이 최대로 일어납니다. 따라서 음식을 어느 정도 고르게 데우려면 회전시켜야 합니다.
 
 ```{figure} demo49_figure1.jpg
 ---
 width: 50%
 align: center
 ---
-Hotspots shown with Papadums in the microwave. The type plate is enlarged.
+전자레인지 안에서 파파둠(papadum)으로 확인한 핫스팟. 제품 명판이 확대되어 있습니다.
 ```
 
-You can easily make the locations of the antinodes of the standing wave visible. With some microwaves, it is also possible to determine the speed of light. This demonstration shows that standing waves are not limited to sound waves or strings. Electromagnetic waves can also produce standing waves.
+정상파의 배가 생기는 위치를 눈으로 쉽게 확인할 수 있습니다. 어떤 전자레인지에서는 빛의 속력을 구하는 것도 가능합니다. 이 시범 실험은 정상파가 음파나 줄의 진동에만 국한되지 않음을 보여 줍니다. 전자기파 역시 정상파를 만들 수 있습니다.
 
-## Equipment
-- (Old) microwave
-- Unbaked papadums (available at well-stocked supermarkets)
+## 준비물
+- (오래된) 전자레인지
+- 굽지 않은 파파둠(papadum, 규모가 큰 마트 등에서 구입 가능)
 
-## Preparation
-1. Remove the turntable from the microwave.
-2. Make a fitting plate out of cardboard.
-3. Place the unbaked papadums on the cardboard plate.
+## 사전 준비
+1. 전자레인지에서 회전판을 꺼냅니다.
+2. 골판지(두꺼운 종이)로 내부에 맞는 받침판을 만듭니다.
+3. 굽지 않은 파파둠을 골판지 받침판 위에 올려놓습니다.
 
-## Procedure
-Place the plate with papadums in the microwave and turn it on briefly. You will notice that the papadums become warm in certain spots. These spots are clearly visible because they 'bake' there. These are the hotspots of the microwave. In other places, the papadums will remain cold. The places where the papadums become warm are the antinodes of the standing wave in the microwave.
+## 실험 과정
+파파둠을 올린 받침판을 전자레인지에 넣고 잠시 가동합니다. 그러면 파파둠의 특정 부분만 뜨거워지는 것을 볼 수 있습니다. 이 부분들은 열에 의해 '구워지면서' 뚜렷하게 눈에 띕니다. 이곳이 바로 전자레인지의 핫스팟입니다. 나머지 부분은 차가운 상태로 남아 있습니다. 파파둠이 뜨거워진 지점들은 전자레인지 내부에 형성된 정상파의 배에 해당합니다.
 
-In principle, it should be possible to determine the speed of light with this method: the distance between two antinodes is equal to half the wavelength, and the used frequency is listed on the type plate (usually 2450 MHz). In this case we would obtain: 
+원리적으로 이 방법을 이용하면 빛의 속력을 측정할 수 있습니다. 인접한 두 배 사이의 거리는 파장의 절반과 같고, 사용된 마이크로파의 진동수는 제품 명판에 적혀 있기 때문입니다(보통 2450 MHz). 이 실험의 경우 다음과 같은 값을 얻게 됩니다:
 
 $$c = \lambda \cdot f = 2 \cdot 0.1 \cdot 2450*10^6 = 4.9*10^6 \text{m/s}$$
 
-which clearly needs some more work to arrive at an acceptable value...
+이 값은 수용할 만한 수준에 도달하려면 분명 좀 더 보완이 필요한 결과이긴 합니다...
 
 ```{figure} demo49_figure2.jpeg
 ---
 width: 70%
 align: center
 ---
-Top view of the result with a measuring tape as a reference for scale.
+크기 비교를 위해 줄자를 함께 두고 위에서 내려다본 실험 결과.
 ```
 
-## Physics Background
-Standing electromagnetic waves are created in the microwave. In the antinodes of these waves, the food is heated. The distance between two antinodes is $\frac{1}{2} \lambda$. You can measure this distance and combine it with the specified frequency of the microwave radiation to estimate the speed of light.
+## 물리학적 배경
+전자레인지 안에는 전자기파의 정상파가 만들어집니다. 이 파동의 배 위치에서 음식이 가열됩니다. 인접한 두 배 사이의 거리는 $\frac{1}{2} \lambda$입니다. 이 거리를 측정한 뒤 명판에 적힌 마이크로파의 진동수와 결합하면 빛의 속력을 어림잡아 계산할 수 있습니다.
 
 ```{tip}
-There are other ways to determine the hotspots circulating on the internet, for example, with bread dough (which changes color in the hotspots) or chocolate (which melts in the hotspots).
+인터넷에는 핫스팟을 찾는 다른 방법들도 많이 소개되어 있습니다. 예를 들어 식빵 반죽(핫스팟에서 색이 변함)이나 초콜릿(핫스팟에서 녹음)을 이용할 수 있습니다.
 ```
 
-## Follow-up
-Different microwaves have different hotspot patterns. Could there be a correlation between the quality of the microwave and the distribution of the hotspots?
+## 후속 활동
+전자레인지마다 핫스팟의 분포 패턴이 다릅니다. 전자레인지의 품질과 핫스팟의 분포 사이에 상관관계가 있을까요?
 
-Is the rotation of the turntable effective for every hotspot distribution? How does this work, for example, with the pattern in the photo?
-
+회전판의 회전은 모든 핫스팟 분포에 대해 항상 효과적일까요? 예를 들어 사진에 나타난 패턴의 경우에는 회전이 어떻게 작용할까요?

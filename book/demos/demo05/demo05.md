@@ -1,87 +1,87 @@
-# Newton's First Law
-<span style="font-size: 25px; color: gray;">Sustain constant speed with Newton’s first law</span>
+# 뉴턴의 제1법칙
+<span style="font-size: 25px; color: gray;">뉴턴의 제1법칙으로 등속도 유지하기</span>
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">저자:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Peter Dekkers</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">15-45 minutes</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">소요 시간:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">15-45분</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">25 - 16</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">대상 연령:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">25 - 16세</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Force, speed, acceleration, Newton’s first lawS</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">관련 개념:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">힘, 속력, 가속도, 뉴턴의 제1법칙</td>
     </tr>
 </table>
 
-## Introduction
-In their own practical work students may easily overlook the details in the phenomena. This demonstration on Newton’s First Law is meant to direct their thoughts and observations to such details. Invite students to express their expectations and predictions, compare these amongst each other and then test them in observations. This is meant to help you direct how students adjust and shape their concepts and beliefs in the context of Newton's First Law. Differently from most demonstrations of Newton’s First Law, no attempt is made to reduce friction to zero. It is merely made negligible.
+## 소개
+학생들은 직접 수행하는 실험 활동에서 현상의 세부 사항을 쉽게 놓치곤 합니다. 뉴턴의 제1법칙에 관한 이 시범 실험은 학생들의 생각과 관찰이 그러한 세부 사항에 집중하도록 이끌기 위해 고안되었습니다. 학생들이 자신의 예상과 예측을 표현하고, 서로 비교한 뒤, 관찰을 통해 이를 검증해 보도록 유도하세요. 이는 뉴턴의 제1법칙이라는 맥락 속에서 학생들이 자신의 개념과 신념을 어떻게 조정하고 형성해 나가는지 교사가 지도하는 데 도움이 됩니다. 뉴턴의 제1법칙을 다루는 대부분의 시범 실험과 달리, 이 실험에서는 마찰을 0으로 줄이려 하지 않습니다. 다만 마찰이 무시할 수 있을 정도로 작아지게만 만듭니다.
 
 ```{figure} demo05_figure1.png
 ---
 width: 90%
 align: center
 name: demo05_fig1
-alt: setup, left a weight with string attached through wheels connected to spring-balance to cart to spring balance
+alt: 실험 장치. 왼쪽의 추에 연결된 줄이 도르래와 용수철 저울을 거쳐 수레와 또 다른 용수철 저울에 연결되어 있다.
 ---
-A schematic of the experimental setup
+실험 장치 개략도
 ```
 
-## Equipment
-* A smooth, flat table that is as long as possible
-* A retort stand that is as high as possible, with clamps and two pulleys
-* A hanger with slotted masses
-* A thin cord that is twice as long as the table
-* Two spring-balances
-* A cart
-* Power source and electromotor
-* Two more retort stands each with a clamp and a pulley
+## 준비물
+* 가능한 한 긴 매끄럽고 평평한 책상
+* 가능한 한 높은 스탠드 1개(클램프와 도르래 2개 포함)
+* 홈이 있는 추(슬롯 추)와 추 걸이
+* 책상 길이의 2배가 되는 가는 실(줄)
+* 용수철 저울 2개
+* 실험용 수레
+* 전원 장치 및 전동기(모터)
+* 클램프와 도르래가 각각 달린 추가 스탠드 2개
 
-## Preparation
-Build the set-up, see {numref}`Figure {number} <demo05_fig1>`. Pull the cart toward the right by hand. A mass, attached to the cart by a cord running along pulleys, creates an opposing force. The table is as long as possible, the top pulley is positioned as high as possible, so as to create a long runway. An electric motor (not shown) propels the revolving cord. Select slotted masses and matching spring-balance so that friction is negligible up to speeds of about 1 m/s.
+## 사전 준비
+{numref}`그림 {number} <demo05_fig1>`을 참고하여 실험 장치를 설치합니다. 손으로 수레를 오른쪽으로 잡아당깁니다. 도르래를 지나가는 줄로 수레에 연결된 추가 반대 방향의 힘(저항력)을 만들어 줍니다. 긴 주행 구간을 확보하기 위해 책상은 가능한 한 긴 것을 사용하고, 위쪽 도르래는 가능한 한 높게 설치합니다. 전동기(그림에는 표시되지 않음)가 회전하는 줄을 구동합니다. 약 1 m/s의 속력까지 마찰을 무시할 수 있도록 적절한 질량의 슬롯 추와 이에 맞는 용수철 저울을 선택합니다.
 
-## Procedure
-The cord, with a knot in it, is revolving uniformly (at constant speed). If you pull the cart with your hand along with the knot, the cart has the same constant speed as the knot. Note that it takes a moment to attain that speed, but then the spring-balances can be read. The following questions can now be raised and are meant to be answered in the demonstration that follows:
-1. *How does the pulling force compare to the opposing force, during the part of movement where the speed is constant?* 
-2. *What changes if we select a greater constant speed?* 
+## 실험 과정
+매듭이 하나 묶여 있는 줄이 일정한 속력(등속도)으로 회전하고 있습니다. 손으로 그 매듭과 나란히 맞추어 수레를 잡아당기면, 수레는 매듭과 같은 일정한 속력을 갖게 됩니다. 그 속력에 도달하는 데는 잠깐의 시간이 걸리지만, 일단 도달하고 나면 두 용수철 저울의 눈금을 읽을 수 있습니다. 이제 다음 질문들을 제기할 수 있으며, 이어지는 시범 실험을 통해 이에 대한 답을 찾게 됩니다.
+1. *속력이 일정하게 유지되는 운동 구간에서, 잡아당기는 힘과 반대 방향의 힘은 어떻게 비교되나요?*
+2. *더 빠른 등속도를 선택하면 무엇이 달라지나요?*
 
-A [Predict-Observe-Explain](../../Pedagogy/PoE.md) approach is appropriate here. An example is presented in this [worksheet](demo05worksheet.doc). Students do predictions by writing up the answers they think will be found to the two questions above. Then the experiment is carried out. A somewhat larger speed is realized by (slightly) increasing the voltage across the electric motor. A conclusion is formulated on the basis of the observations. The worksheet questions direct students to apply the gained knowledge in similar contexts, with the goal of exploring whether Newton's first law is generally applicable. 
+여기에는 [예상-관찰-설명(Predict-Observe-Explain)](../../Pedagogy/PoE.md) 접근법이 적합합니다. 이 [활동지](demo05worksheet.doc)에 그 예시가 제시되어 있습니다. 학생들은 위의 두 질문에 대해 자신이 생각하기에 실험에서 나타날 답을 적어 보며 예측을 수행합니다. 그런 다음 실험을 진행합니다. 전동기에 걸리는 전압을 (약간) 높여 조금 더 빠른 속력을 구현합니다. 관찰 결과를 바탕으로 결론을 도출합니다. 활동지의 질문들은 학생들이 습득한 지식을 유사한 맥락에 적용하도록 이끌어, 뉴턴의 제1법칙이 일반적으로 적용 가능한지 탐구하는 것을 목표로 합니다.
 
 ```{figure} demo05_figure2.jpg
 ---
 width: 70%
 align: center
-alt: the experimental setup as used in class
+alt: 수업에서 실제로 사용된 실험 장치
 ---
-The actual setup
+실제 실험 장치
 ```
 
-## Physics background
-If an object moves at constant speed, the propelling and counteracting forces are equal, irrespective of the speed of the object. Furthermore, maintaining a larger speed does not require a larger propelling force, if friction is negligible. To maintain the speed, it is enough for propelling force and counteracting force to be equal in size. All of the forces measured in this set-up, if it functions properly, will be of the same value (equal to the weight of the hanging mass), independently of speed and direction. *It is sometimes claimed that Newton’s First Law can be verified only in these idealized, frictionless circumstances. But here we see that also in ordinary situations, the net force is zero if the velocity is constant.* 
+## 물리학적 배경
+물체가 일정한 속력으로 운동할 때, 물체의 속력과 관계없이 앞으로 미는(끄는) 힘과 반대 방향으로 작용하는 힘은 크기가 같습니다. 게다가 마찰을 무시할 수 있다면, 더 빠른 속력을 유지하는 데 더 큰 추진력이 필요하지도 않습니다. 속력을 유지하려면 앞으로 끄는 힘과 반대 방향의 힘의 크기가 같기만 하면 충분합니다. 이 장치가 제대로 작동한다면, 측정되는 모든 힘은 속력이나 방향에 무관하게 같은 값(매달린 추의 무게와 같은 값)을 나타냅니다. *때때로 뉴턴의 제1법칙은 마찰이 전혀 없는 이상적인 조건에서만 검증할 수 있다고 주장되기도 합니다. 하지만 여기서 우리는 일상적인 상황에서도 속도가 일정하면 알짜힘이 0이라는 사실을 확인할 수 있습니다.*
 
 ```{tip}
 :class: dropdown
-Teachers sometimes tend to omit the revolving cord, but then how do you know or verify that the speed is constant?  
+교사들은 때로 회전하는 줄을 생략하려 하곤 하는데, 그렇게 하면 속력이 일정하다는 것을 어떻게 알거나 확인할 수 있을까요?
 
-The electric motor might be attached directly to the cart, to pull it along. However, especially if you involve students in carrying out the measurements, there is added value in students feeling directly that maintaining a higher speed does not require a greater pull. 
+전동기를 수레에 직접 연결하여 수레를 끌어당기게 할 수도 있습니다. 하지만 특히 측정 과정에 학생들을 참여시킨다면, 학생들이 더 빠른 속력을 유지하는 데 더 큰 잡아당기는 힘이 필요하지 않다는 것을 손으로 직접 느껴 보는 데 큰 교육적 가치가 있습니다.
 
-The pulling force and counteracting forces must act at the same height on the cart, or torque may affect and disturb the measurements. If during testing the forward force turns out to be greater than the opposing force, check if the pulling cord did not fall off a pulley. If not, increase the hanging mass. Using about 0.3 kg is normally enough to make friction negligible.  
+잡아당기는 힘과 반대 방향의 힘은 수레의 같은 높이에 작용해야 하며, 그렇지 않으면 돌림힘(토크)이 작용하여 측정을 방해할 수 있습니다. 시험 작동 중에 앞으로 당기는 힘이 반대 방향의 힘보다 크게 나온다면, 당기는 줄이 도르래에서 빠지지 않았는지 확인하세요. 빠지지 않았다면 매달린 추의 질량을 늘리세요. 보통 약 0.3 kg 정도를 사용하면 마찰을 무시할 수 있을 만큼 충분합니다.
 
-It is not so easy to maintain a constant speed, practice a few times before measuring. In a prototype version of the demonstration, studying the at-rest situation was included. This turned out to be (1) distracting, because friction can no longer be neglected, and (2) unnecessary, because students are well aware that the forces should be equal in that case.
+일정한 속력을 유지하는 것은 그리 쉽지 않으므로, 측정 전에 몇 번 연습해 보세요. 이 시범 실험의 초기 시안 버전에서는 정지해 있는 상황도 함께 다루었습니다. 그러나 이는 (1) 정지 상태에서는 마찰을 더 이상 무시할 수 없기 때문에 오히려 혼란을 주었고, (2) 학생들은 정지 상태에서는 힘들이 같아야 한다는 것을 이미 잘 알고 있었기 때문에 불필요하다는 것이 밝혀졌습니다.
 ```
 
-## Follow-up
-Students often start raising objections after a short while: **“Yes but, surely the forces are not equal at the beginning, when the cart starts to move?”** Be alert to note and respond to these remarks, because this is precisely where students’ views **do** accord with Newton’s. From a science educational perspective, our aim is that students come to distinguish conceptually between situations where the cart is accelerating, and those where the speed is constant. Rather than exposing ‘misconceptions’, pay a great deal of attention to this conceptual differentiation, especially when students themselves express it. Encourage the idea that physics does accord with what they already know about motion and its causes. But expresses that knowledge more precisely and accurately. 
+## 후속 활동
+잠시 후 학생들은 종종 다음과 같은 이의를 제기하기 시작합니다. **“네, 그런데 수레가 처음 움직이기 시작할 때는 분명히 두 힘이 같지 않잖아요?”** 이러한 발언을 주의 깊게 포착하고 반응해야 합니다. 바로 이 지점에서 학생들의 생각이 뉴턴의 생각과 **일치하기** 때문입니다. 과학교육적 관점에서 우리의 목표는 학생들이 수레가 가속하는 상황과 속력이 일정한 상황을 개념적으로 구별하게 되는 것입니다. ‘오개념’을 지적하여 드러내는 데 치중하기보다, 특히 학생들이 스스로 이러한 생각을 표현할 때 이러한 개념적 분화(구분)에 큰 주의를 기울이세요. 물리학은 학생들이 운동과 그 원인에 대해 이미 알고 있는 바와 일치하며, 다만 그 지식을 더 정밀하고 정확하게 표현할 뿐이라는 인식을 북돋아 주세요.
 
-Obviously, a single experiment will not cause students to expand and differentiate their understandings of force and motion to become fully Newtonian. Many students will still speak of the ‘force of motion’ when they explain why a skater or cyclist keep on moving beyond the finish line, after they stop propelling themselves. In developing Newtonian descriptions and explanations, students need to know when and why something is called a force in physics, and develop the concept of ‘interaction’ and distinguish force from momentum ({cite:t}`dekkers1998`).
+물론 단 한 번의 실험만으로 학생들이 힘과 운동에 대한 이해를 확장하고 분화하여 완전히 뉴턴 역학적인 사고를 갖추게 되지는 않습니다. 여전히 많은 학생들이 스케이트 선수나 자전거 타는 사람이 추진을 멈춘 뒤에도 결승선을 지나 계속 움직이는 이유를 설명할 때 ‘운동의 힘’이라는 표현을 사용할 것입니다. 뉴턴적인 기술과 설명을 발전시키기 위해 학생들은 물리학에서 언제 그리고 왜 무언가를 힘이라고 부르는지 알고, ‘상호작용’이라는 개념을 발달시키며, 힘과 운동량을 구별할 필요가 있습니다({cite:t}`dekkers1998`).
 
-## References
+## 참고문헌
 ```{bibliography}
 :filter: docname in docnames
 ```

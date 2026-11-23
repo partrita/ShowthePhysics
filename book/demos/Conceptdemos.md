@@ -1,4 +1,4 @@
-# Demos on conceptual development
+# 개념 발달 시범 실험
 
 ```{figure} ../figures/open.png
 ---

@@ -1,57 +1,57 @@
-# Sound
+# 소리
 
-## Natural sounds, frequencies, timbre
-Tap against all kinds of objects to illustrate that each object has its own sound. Compare big and small wooden objects and listen to the difference in pitch (frequency). Get students to predict whether the pitch of the next object will be higher or lower. Does it have anything to do with size? Be gentle with the windows. There is more than just pitch. Sounds from tapping on wood and tapping on glass are clearly distinguishable, even if the pitch is the same. Voices of people (but also of dogs) are clearly distinguishable: timbre.
+## 자연의 소리, 진동수, 음색
+주변의 온갖 물체를 두드려 보며 물체마다 고유한 소리가 난다는 것을 보여 줍니다. 크기가 큰 나무 물체와 작은 나무 물체를 비교하며 음높이(진동수)의 차이를 들어 보세요. 다음 물체의 음높이가 더 높을지 낮을지 학생들에게 예측하게 합니다. 음높이는 크기와 어떤 관련이 있을까요? 유리창을 두드릴 때는 조심하세요. 소리에는 음높이만 있는 것이 아닙니다. 나무를 두드리는 소리와 유리를 두드리는 소리는 음높이가 같더라도 뚜렷이 구별됩니다. 사람의 목소리(심지어 개 짖는 소리도)가 서로 분명히 구별되는 이유도 마찬가지입니다: 바로 음색입니다.
 
-## Pitch and length 1 with a clamped ruler
-Borrow a ruler from a student, clamp it between one hand and the table and have part of it stick out. Now activate the oscillation with the other hand. By making the end that sticks out longer or shorter, you can vary the pitch. You can even make it quantitative by singing do-re-mi and realizing that the frequency of the second "do" is twice the frequency of the first "do". That way you can find the relationship between length of the ruler and frequency. In order to get twice the frequency, would you have to half the length, or take length over?
+## 음높이와 길이 1: 고정된 자
+학생에게 자를 빌려 한 손으로 책상 위에 눌러 고정하고 일부분이 밖으로 튀어나오게 합니다. 이제 다른 손으로 튀어나온 부분을 튕겨 진동시킵니다. 튀어나온 끝부분을 길게 하거나 짧게 하면서 음높이를 바꿀 수 있습니다. 도-레-미를 노래해 보며 두 번째 "도"의 진동수가 첫 번째 "도"의 진동수의 두 배라는 사실을 이용하면 정량적인 탐구로도 발전시킬 수 있습니다. 이를 통해 자의 길이와 진동수 사이의 관계를 찾아낼 수 있습니다. 진동수를 두 배로 만들려면 길이를 절반으로 줄여야 할까요, 아니면 길이를 다른 비율로 나누어야 할까요?
 
-## Pitch and length 2 with a straw
-Take a drinking straw. Flatten the end of the straw and cut out a triangle. Place the end of the straw in your mouth, holding your lips just where the cut ends and blow until an oboe sound is produced, shifting the straw a bit in or out of the mouth might help to get the right sound. Then while blowing, cut of small pieces of the straw {cite:t}`Liem1987`.
+## 음높이와 길이 2: 빨대
+음료수용 빨대를 준비합니다. 빨대 한쪽 끝을 납작하게 누른 뒤 삼각형 모양으로 뾰족하게 자릅니다. 자른 부분이 끝나는 지점에 입술이 닿도록 빨대 끝을 입에 물고 오보에 소리가 날 때까지 붑니다. 빨대를 입 안쪽으로 조금 더 넣거나 빼면서 조절하면 올바른 소리를 내는 데 도움이 됩니다. 그런 다음 불고 있는 상태에서 빨대 끝을 조금씩 잘라 나갑니다 {cite:t}`Liem1987`.
 
-What did we learn? One can take another straw, cut the triangle at the end, and cut hole at 1 -- 1.5 cm distance from each other. While blowing open and close the holes with your fingers. What did we learn? Which musical instruments work like that?
+무엇을 배웠나요? 다른 빨대를 하나 더 가져와 끝을 삼각형으로 자른 뒤, 1 -- 1.5 cm 간격으로 구멍을 여러 개 뚫어 볼 수도 있습니다. 불면서 손가락으로 구멍을 열었다 닫았다 해 보세요. 무엇을 배웠나요? 어떤 악기들이 이런 원리로 작동하나요?
 
 
-## Standing waves in a PVC tube open and closed
-Take two pieces of PVC pipe, for example 10 cm and 20 cm long. Blow across the opening of one pipe. It produces a clear tone. Then close the bottom opening with your hand, and blow again. The tone is now much lower, very noticeable. With both ends open, the pipe fits ½ of a wavelength ($λ=2l$). With one side closed, it fits ¼ of a wavelength ($λ=4l$). It does help to have a microphone and sound box in the room to make the effect better audible for a group. I have done it with a sound system for groups of 150+ students. 
+## 열린 PVC 관과 닫힌 PVC 관에서의 정상파
+예를 들어 길이가 10 cm와 20 cm인 PVC 파이프 두 개를 준비합니다. 한 파이프의 입구 위로 바람을 불면 맑은 소리가 납니다. 이번에는 아래쪽 구멍을 손으로 막고 다시 불어 보세요. 소리가 훨씬 낮아지며 그 차이가 매우 뚜렷합니다. 양쪽 끝이 모두 열려 있을 때는 관의 길이에 파장의 ½이 들어갑니다($λ=2l$). 한쪽 끝이 막혀 있을 때는 파장의 ¼이 들어갑니다($λ=4l$). 교실에 마이크와 스피커가 있으면 여러 학생이 이 효과를 훨씬 잘 들을 수 있습니다. 저는 150명이 넘는 학생들을 대상으로 음향 장비를 사용해 이 시범을 진행한 적이 있습니다.
 
 ```{figure} images/panflute.jpg
 :width: 60%
 :name: fig_panflute
 
-Picture from [ShowthePhysics](https://interactivetextbooks.tudelft.nl/showthephysics/demos/demo79/demo79.html) {cite:p}`pols2024show`
+출처: [ShowthePhysics](https://interactivetextbooks.tudelft.nl/showthephysics/demos/demo79/demo79.html) {cite:p}`pols2024show`
 ```
 
-## PVC pipe length and pitch
-Then take the longer pipe and show again the link between pitch and length. One could make something similar to a pan flute using pieces of PVC pipe. You could assign students the task of figuring out the proper lengths given the desired frequencies.
+## PVC 파이프의 길이와 음높이
+이제 더 긴 파이프를 들어 음높이와 길이 사이의 관계를 다시 보여 줍니다. PVC 파이프 조각들을 이용해 팬플루트와 비슷한 악기를 만들 수도 있습니다. 학생들에게 원하는 진동수(음계)가 주어졌을 때 알맞은 파이프 길이를 계산해 내는 과제를 줄 수 있습니다.
 
-See also [ShowthePhysics](https://interactivetextbooks.tudelft.nl/showthephysics/demos/demo79/demo79.html) for a more extensive version of this demo.
+이 시범의 더 확장된 버전은 [ShowthePhysics](https://interactivetextbooks.tudelft.nl/showthephysics/demos/demo79/demo79.html)에서도 확인할 수 있습니다.
 
-## Measuring pitch with a telephone
-Now if you came to class to teach about sound, you would bring a little toy flute? Can students measure the pitch with their telephones?
+## 휴대폰으로 음높이 측정하기
+소리에 대해 가르치려고 교실에 들어왔는데, 작은 장난감 피리를 하나 가져왔다고 해 봅시다. 학생들이 각자의 휴대폰으로 그 음높이를 측정할 수 있을까요?
 
-## Mobile phone and graphing sound waves
-Use Phyphox or a similar program. Try to produce a near perfect sine wave. Ask a student who sings in a choir to sing an "o". Try a higher pitch, try a lower pitch. Try louder and less loud. Make sure not just to quickly show this on your small telephone, but sketch the graphs on the white or blackboard with clear names. Obviously much more can be done with mobile phones and graphs. For example with Phyphox.
+## 휴대폰과 음파 그래프 그리기
+Phyphox나 이와 비슷한 앱을 사용하세요. 거의 완벽한 사인파(정현파)를 만들어 봅시다. 합창단에서 노래하는 학생에게 "오" 소리를 내 보라고 합니다. 더 높은 음으로도, 더 낮은 음으로도 해 보고, 더 크게, 또 더 작게도 소리 내 보게 합니다. 작은 휴대폰 화면으로 잠깐 보여 주고 끝내지 말고, 칠판이나 화이트보드에 명확한 축 이름과 함께 그래프를 그려 주세요. 물론 휴대폰과 그래프로 할 수 있는 활동은 훨씬 많습니다. 예를 들어 Phyphox를 활용할 수 있습니다.
 
 ```{figure} images/phyphox_sound.*
 :width: 50%
 :name: fig_ph
 
-Sound recorded using the [phyphox app](https://phyphox.org/).
+[phyphox app](https://phyphox.org/)으로 녹음한 소리.
 ```
 
-## Resonance in a bottle 
-Does somebody in class have a bottle? Some water in it yet? Or some soft drink? The instructor will drink a little bit at a time, then blow over the bottleneck to produce a sound and tick against the side of the bottle (hopefully glass). By the time the instructor gets through drinking the soft drink, one pitch has gone down consistently, the other has gone up. Now explain.
+## 병 속의 공명
+교실에 병을 가진 학생이 있나요? 아직 물이나 탄산음료가 조금 남아 있나요? 교사가 음료를 조금씩 마실 때마다 병목 위로 바람을 불어 소리를 내고, 또 병 옆면(유리병이면 좋습니다)을 톡톡 두드려 봅니다. 교사가 음료를 다 마셔 갈 때쯤에는 한쪽 소리의 음높이는 계속 낮아진 반면, 다른 쪽 소리의 음높이는 계속 높아집니다. 이제 그 이유를 설명해 보세요.
 
-## Resonance in a tea or coffee cup with ear
-The teacher entered the classroom with a (ceramic) cup of coffee and a (metal) spoon. Hit the outside of the cup with the spoon at different places. The pitch will be different, for example near the ear of the cup, or 90 or 180 degrees away from it, under and above the level of coffee. Drink some of the coffee and repeat. How do you explain the differences in pitch and type of sound? Different resonance modes are activated as well as different lengths of the liquid column. For more information see Show*de*Fysica 3 p56.
+## 손잡이가 있는 찻잔이나 커피잔에서의 공명
+교사가 (도자기) 커피잔과 (금속) 숟가락을 들고 교실에 들어왔습니다. 숟가락으로 컵의 바깥쪽 여러 곳을 두드려 보세요. 예를 들어 컵의 손잡이(귀) 근처, 손잡이에서 90도 또는 180도 떨어진 곳, 커피 수면 위와 아래 등 위치에 따라 음높이가 달라집니다. 커피를 조금 마신 뒤 다시 반복해 보세요. 음높이와 소리 음색의 차이를 어떻게 설명할 수 있을까요? 서로 다른 공명 모드가 활성화될 뿐만 아니라 액체 기둥의 길이도 달라지기 때문입니다. 더 자세한 내용은 Show*de*Fysica 3권 p56을 참고하세요.
 
 ```{note}
-this works with some cups and not with others
+이 실험은 어떤 컵에서는 잘 되지만 다른 컵에서는 잘 되지 않을 수 있습니다
 ```
 
-## $v_{sound} = f λ$ but velocity is independent of frequency and wave length! 
-Find some objects in the room, which can help you to simultaneously make a high pitch and low pitch sound and try to have students in the back judge for simultaneity of arrival of the sounds. Not so convincing? Imagine a big church or concert hall, how come choir music (try students in class) or any music at all is possible and is enjoyed by people regardless of their distance from the source? So the speed of sound must be the same for all audible frequencies so that luckily we can enjoy music.
+## $v_{sound} = f λ$이지만 속력은 진동수와 파장에 무관합니다!
+교실에서 높은 음과 낮은 음을 동시에 낼 수 있는 물건들을 찾아본 뒤, 뒤쪽에 앉은 학생들에게 두 소리가 동시에 도착하는지 판단해 보게 합니다. 그리 설득력이 없나요? 큰 교회나 콘서트홀을 상상해 보세요. 합창 음악(교실에서 학생들과 시도해 보세요)이나 어떤 음악이든 음원으로부터의 거리와 상관없이 사람들이 온전히 감상할 수 있는 이유가 무엇일까요? 우리가 음악을 즐길 수 있도록 다행히도 들을 수 있는 모든 진동수에 대해 소리의 속력이 같기 때문입니다.
 
-## Doppler simulation with marching students
-Take 5 or 6 students and line them up in a row in front of the class. The students are wave peaks (say compressions). Now let them march as a row towards the instructor at constant speed and students can observe how many pass the instructor in say 10 seconds. Now let them march again at the same speed, but the instructor walks towards them. The instructor will meet the wave peaks in a shorter time than before and will observe a higher pitch. Repeat again but now the instructor is walking (slowly) in the same direction as the faster marching waves. The case of a moving source is more difficult to do this way but from the moving observer simulation, the students will happily accept a Doppler effect for a moving source.
+## 행진하는 학생들로 하는 도플러 효과 시뮬레이션
+학생 5~6명을 교실 앞에 한 줄로 세웁니다. 학생들은 파동의 마루(예: 밀한 부분) 역할을 합니다. 이제 일정한 속도로 줄을 맞춰 교사를 향해 걸어오게 하고, 예를 들어 10초 동안 교사 앞을 몇 명이 지나가는지 세어 보게 합니다. 이제 같은 속도로 다시 걸어오게 하되, 이번에는 교사가 학생들을 향해 걸어갑니다. 교사는 아까보다 더 짧은 시간 간격으로 파동의 마루들을 만나게 되므로 더 높은 진동수(음높이)를 관측하게 됩니다. 다시 한 번 반복하되, 이번에는 빠르게 걸어오는 파동과 같은 방향으로 교사가(천천히) 걸어가 보세요. 움직이는 파원의 경우는 이 방식으로 시연하기가 더 어렵지만, 움직이는 관측자 시뮬레이션을 이해하면 학생들은 움직이는 파원에 대한 도플러 효과도 무리 없이 받아들입니다.

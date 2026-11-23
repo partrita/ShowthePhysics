@@ -1,68 +1,68 @@
-# Trapped candles
+# 갇힌 양초
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">저자:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Norbert van Veen</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">5-10 minutes</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">소요 시간:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">5~10분</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">12-14</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">대상 연령:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">12~14세</td>
     </tr>
 </table>
 
-## Introduction
-Everyone is familiar with the demonstration of a burning candle that goes out when placed under a bell jar. A slightly altered version of that demonstration provides excellent opportunity to highlight some characteristics of how science works. For this demonstration you make use of two burning candles of different lengths, placed under the bell jar. 
+## 소개
+타고 있는 양초를 종모양 유리덮개(벨자) 안에 가두면 불이 꺼진다는 시범 실험은 누구나 잘 알고 있습니다. 이 실험을 조금만 변형하면 과학이 어떻게 작동하는지 보여 주는 몇 가지 특징을 강조할 훌륭한 기회를 얻을 수 있습니다. 이 시범 실험에서는 길이가 서로 다른 두 개의 타는 양초를 유리덮개 안에 함께 넣습니다.
 
 ```{figure} NV14_figuur_1_300dpi.jpg
 ---
 width: 50%
 align: center
 ---
-Two burning candles of different lengths inside a sealed glass jar.
+밀폐된 유리병 안에 들어 있는 길이가 다른 두 개의 타는 양초.
 ```
 
-One option is to explain the setup and let the students predict what will happen, then postpone the demonstration until the next lesson. The students will beg you to do the experiment in the same lesson. (In science, you often have to deal with uncertainties and experiments are frequently postponed.)
+한 가지 방법은 실험 장치를 설명하고 학생들에게 어떤 일이 일어날지 예측하게 한 뒤, 실제 시연은 다음 수업 시간으로 미루는 것입니다. 그러면 학생들은 같은 수업 시간에 당장 실험해 달라고 조르게 될 것입니다. (과학에서는 불확실성을 다루어야 하는 경우가 많으며 실험이 연기되는 일도 흔합니다.)
 
-## Equipment
-- Two candles of different lengths in a stand (+/- 4/5 cm difference in length)
-- Matches or lighter
-- Glass bell jar or glass jar
-- Cloth to remove the condensed water from the bell jar
+## 준비물
+- 받침대에 세운 길이가 다른 두 개의 양초(길이 차이 약 4~5 cm)
+- 성냥 또는 라이터
+- 종모양 유리덮개(벨자) 또는 유리병
+- 유리덮개 안쪽에 응결된 물기를 닦아낼 천
 
-## Preparation
-Set up the candles so they can easily fit under the bell jar and the bell jar can be placed easily.
+## 사전 준비
+두 양초가 유리덮개 안에 무리 없이 들어가고, 유리덮개를 쉽게 덮을 수 있도록 배치합니다.
 
-## Execution
-1. Light one candle first.
-2. What will happen to the candle when I place it under the bell jar?
-3. Place the candle under the bell jar.
-    - *Why does the flame die?*
-4. Explain that oxygen is consumed while the candle is burning, producing carbon dioxide and water vapor.
-    - *Are both effects inside the bell jar visible?* 
-5. Ensure the bell jar has a proper oxygen ratio again (blow into the bell jar or swing it around to get rid of the combustion gasses.).
-6. Tell the students that you will now place two candles of different lengths. Ask them which one will go out first and to explain why they think so.
-7. Perform the experiment.
-    - *What is the explanation?*
-8. What do you expect when we do the experiment again? Do the experiment again.
-9. Did we expect the longer/shorter candle to go out first? What are possible explanations for the outcome? 
-10. For the various explanations, how can we verify whether that explanation might be right? 
-11. What will happen if we have a taller or wider jar? Will the result be the same?
+## 실험 과정
+1. 먼저 양초 하나에만 불을 붙입니다.
+2. 이 양초에 유리덮개를 씌우면 어떻게 될까요?
+3. 양초에 유리덮개를 씌웁니다.
+    - *왜 불꽃이 꺼질까요?*
+4. 양초가 타는 동안 산소가 소모되고, 이산화탄소와 수증기가 생성된다고 설명합니다.
+    - *유리덮개 안에서 두 가지 효과가 모두 눈에 보이나요?*
+5. 유리덮개 안의 산소 비율을 다시 적절하게 맞춥니다(덮개 안으로 바람을 불어넣거나 흔들어서 연소 기체를 빼냅니다).
+6. 학생들에게 이제 길이가 다른 두 개의 양초를 함께 넣겠다고 말합니다. 어느 양초가 먼저 꺼질지, 그리고 왜 그렇게 생각하는지 물어봅니다.
+7. 실험을 수행합니다.
+    - *그 이유는 무엇일까요?*
+8. 실험을 한 번 더 하면 어떤 결과가 나올 것으로 예상하나요? 실험을 다시 수행합니다.
+9. 더 긴 양초와 더 짧은 양초 중 어느 쪽이 먼저 꺼질 것으로 예상했나요? 이 결과에 대해 어떤 설명들이 가능할까요?
+10. 여러 가지 설명 가운데 어떤 설명이 맞을지 어떻게 확인할 수 있을까요?
+11. 더 높거나 더 넓은 유리덮개를 사용하면 어떻게 될까요? 결과가 같을까요?
 
-## Physics Background
-There are two plausible explanations:
-1. **Without convection:** During combustion, warm water vapor and carbon dioxide are produced. The water vapor condenses on the wall of the glass bell jar. The carbon dioxide has a high temperature and therefore a temporarily low density, causing it to rise. It accumulates at the top, forming a layer at the top, so the upper candle goes out first. Oxygen is thus more concentrated in the lower part of the bell jar.
-2. **With convection:** The hot carbon dioxide rises in the bell jar due to its low density, cools down, and sinks after cooling, creating a convection flow. This flow first reaches the lower candle, which consumes oxygen, so the higher candle gets relatively oxygen-poor air. The upper candle will therefore go out earlier.
+## 물리학적 배경
+여기에는 두 가지 그럴듯한 설명이 있습니다:
+1. **대류가 없는 경우:** 연소하는 동안 따뜻한 수증기와 이산화탄소가 생성됩니다. 수증기는 유리덮개 벽면에 응결합니다. 이산화탄소는 온도가 높아서 일시적으로 밀도가 낮아지며, 이 때문에 위로 올라갑니다. 이산화탄소는 위쪽에 모여 층을 이루므로 위쪽(더 긴) 양초가 먼저 꺼집니다. 따라서 유리덮개의 아래쪽 부분에 산소 농도가 더 높게 유지됩니다.
+2. **대류가 있는 경우:** 뜨거운 이산화탄소는 밀도가 낮아 유리덮개 위쪽으로 올라갔다가 식으면서 다시 아래로 가라앉아 대류 흐름을 만듭니다. 이 공기의 흐름이 아래쪽 양초에 먼저 도달하고 아래쪽 양초가 산소를 소모하므로, 더 높은 위치에 있는 양초는 상대적으로 산소가 부족한 공기를 접하게 됩니다. 따라서 위쪽 양초가 더 일찍 꺼집니다.
 
-You can investigate which explanation is more accurate using CO$_2$ sensors and temperature sensors under the bell jar. The height of the candles relative to the top of the bell jar may also affect the process.
+유리덮개 아래에 CO$_2$ 센서와 온도 센서를 설치하면 어느 설명이 더 정확한지 탐구할 수 있습니다. 유리덮개 꼭대기 대비 양초의 높이 또한 이 과정에 영향을 줄 수 있습니다.
 
 ```{tip}
-- For better visibility, place the setup on a raised platform.
-- After burning the first candle, dry the inside of the bell jar to remove condensed water vapor.
-- Students associate the smoke from the candle when it goes out with the production of carbon dioxide. However, this is gaseous candle wax that sublimates. The evaporation of candle wax continues for a while. Only if you look very closely can you see the convection flow in the beginning, when the 'bell jar' is not yet over both candles. You see the flame of the upper candle move. At the top of the bell jar, you don't see condensed water vapor because the temperature of the top of the bell jar is very high.
-- You can also time the demonstrations twice and ask what causes the time difference.
+- 학생들이 잘 볼 수 있도록 실험 장치를 높은 받침대 위에 올려놓으세요.
+- 첫 번째 양초를 태운 뒤에는 유리덮개 안쪽에 응결된 수증기를 닦아 건조시킵니다.
+- 학생들은 양초가 꺼질 때 나오는 연기를 이산화탄소의 생성과 연관 짓곤 합니다. 하지만 이 연기는 승화·기화된 기체 상태의 양초 밀랍입니다. 양초 밀랍의 증발은 불이 꺼진 뒤에도 잠시 동안 계속됩니다. 아직 유리덮개가 두 양초를 완전히 덮지 않았을 때, 아주 주의 깊게 살펴보면 처음에 대류 흐름을 볼 수 있습니다. 위쪽 양초의 불꽃이 흔들리는 것이 보입니다. 유리덮개 맨 위쪽에는 온도가 매우 높기 때문에 응결된 수증기가 보이지 않습니다.
+- 또한 시범 실험을 두 번 반복하면서 걸리는 시간을 측정하고, 시간 차이가 생기는 원인이 무엇인지 질문해 볼 수도 있습니다.
 ```

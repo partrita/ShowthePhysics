@@ -5,44 +5,43 @@ numbering:
     offset: 0
 ---
 ```{note}
-This page originates from Natuurkunde/Broekzakdemos.git, version: main
+이 페이지는 Natuurkunde/Broekzakdemos.git(버전: main)에서 가져왔습니다.
 ```
 
-# Introduction
+# 소개
 
-Suppose you are suddenly assigned to a bare classroom far from the location of your nice laboratory classroom, or you have to substitute in another class without preparation... Or you are teaching at a school without facilities... *How can you still have a clear and exciting lesson?* 
+멋진 실험실 교실과 멀리 떨어진 텅 빈 일반 교실에 갑자기 배정되거나, 준비 없이 다른 반의 대강 수업을 맡게 되었다고 가정해 봅시다... 혹은 실험 시설이 없는 학교에서 가르치고 있을 수도 있습니다... *이런 상황에서도 어떻게 명쾌하고 흥미진진한 수업을 진행할 수 있을까요?* 
 
-This booklet presents a collection of small and quick demonstrations, which require no equipment beyond what is present in a common classroom (chalk, chairs, students, books, paper, student bags and common contents). The collection can be easily expanded. The nature of the demos is varied, some are to prove something, but most are to illustrate, visualize, or simulate. A few role-plays are included for when students are restless, cold, or sleepy, or for when their instructor needs a kick to get into a better mood after a late night of checking students' papers.
+이 소책자는 일반 교실에 흔히 있는 물건들(분필, 의자, 학생, 책, 종이, 학생 가방과 그 안의 소지품) 외에는 별다른 장비가 필요 없는 작고 간단한 시범 실험 모음을 제공합니다. 이 모음은 손쉽게 확장할 수 있습니다. 시범 실험의 성격은 다양하여, 어떤 것은 무언가를 증명하기 위한 것이고, 대부분은 개념을 설명하거나 시각화하거나 모의실험(시뮬레이션)하기 위한 것입니다. 학생들이 산만하거나 추워하거나 졸려 할 때, 혹은 교사가 밤늦게까지 학생들의 과제를 채점한 뒤 기분 전환이 필요할 때를 위해 몇 가지 역할극도 포함되어 있습니다.
 
 ```{figure} images/20250513_085023.jpg
 :width: 80%
 :name: fig_table
 
-You only need a handful of materials to conduct a series of proper physics demos
+적절한 물리 시범 실험을 수행하는 데는 한 줌의 재료만 있으면 충분합니다
 ```
 
-## Proper demonstrations
-Rules for demonstrations are of course:
+## 올바른 시범 실험
+시범 실험을 할 때 지켜야 할 원칙은 물론 다음과 같습니다.
 
--   Visibility for all;
--   A clear learning objective, even if the demo is intended for entertainment, there must be something that can be learned;
--   Taking into account typical student conceptions and using these productively in the discussion;
--   Involvement, get students involved in predicting, observing, and explaining. There can be teacher questions or tasks which students answer individually in their notebooks or in pairs or groups in order to really force *minds-on*;
--   Emphasize the main points and leave out unnecessary details or discuss the details after the main points have been made.
+-   모든 학생이 잘 볼 수 있어야 합니다.
+-   학습 목표가 명확해야 합니다. 재미를 위한 시범 실험이더라도 배울 수 있는 내용이 반드시 있어야 합니다.
+-   학생들이 흔히 가지는 선개념을 고려하고, 이를 토의 과정에서 생산적으로 활용합니다.
+-   학생 참여를 유도하여 예측하고 관찰하며 설명하는 과정에 직접 참여하게 합니다. 교사의 질문이나 과제를 제시하여 학생들이 공책에 개별적으로 적거나 짝 또는 모둠별로 답하게 함으로써 진정한 *사고 중심(minds-on)* 활동이 이루어지도록 할 수 있습니다.
+-   핵심 요점을 강조하고 불필요한 세부 사항은 생략하거나, 핵심 요점을 다룬 뒤에 세부 사항을 논의합니다.
 
-This booklet provides mostly just bare ideas for demo's and visualizations. For more extensive instructional tips and good questions to ask I refer to {cite:t}`Liem1987`'s Invitations to Science Inquiry (1987), a pdf can be found quickly with Google.
+이 소책자는 주로 시범 실험과 시각화를 위한 기본적인 아이디어만을 제공합니다. 더 풍부한 교수법 팁과 좋은 발문에 대해서는 {cite:t}`Liem1987`의 *Invitations to Science Inquiry* (1987)를 참고하시기 바라며, 구글에서 검색하면 PDF 파일을 쉽게 찾을 수 있습니다.
 
-One could wonder whether these demonstrations and visualizations are still needed now that we have YouTube. I think that real demonstrations are still different from watching TV. It is important that students learn to recognize the physics phenomena in their own environment and realize that they themselves could actually perform the experiments.
+유튜브가 있는 요즘에도 이러한 시범 실험과 시각화가 여전히 필요한지 의문을 가질 수도 있습니다. 하지만 실제 시범 실험은 여전히 TV를 보는 것과는 다릅니다. 학생들이 자신의 주변 환경에서 물리 현상을 인식하는 법을 배우고, 스스로도 실제로 그 실험을 해볼 수 있다는 점을 깨닫는 것이 중요합니다.
 
-Just to exercise our creativity, let's take a glass of water. We can use that to demonstrate: properties of liquids, that the water level is always horizontal whichever way the glass is turned or tilted, adhesion (water higher on the sides), cohesion (the glass can be filled higher than the rim without overflowing), condensation (breathe on the side of the glass), sinking/floating (put something in the water), buoyancy, refraction (put a pencil in), a lens (put your finger in and it appears thicker), concentric water waves (dip in a pencil), sloshing (shake with resonance frequency), sounds dependent on water level (tick against the glass with a coin). One can easily get over 30 different demo's just with a glass of water {cite:p}`Berg2021`. 
+창의력을 발휘하는 연습 삼아 물 한 잔을 예로 들어 봅시다. 물 한 잔만으로도 액체의 성질, 컵을 어느 방향으로 돌리거나 기울여도 수면은 항상 수평을 유지한다는 사실, 부착력(가장자리 물이 더 높이 올라감), 응집력(물이 넘치지 않고 컵 테두리보다 높게 채울 수 있음), 응결(컵 옆면에 입김 불기), 가라앉기와 뜨기(물에 물체 넣기), 부력, 굴절(연필 넣기), 렌즈 효과(손가락을 넣으면 더 두꺼워 보임), 동심원 물결파(연필 담그기), 출렁임(공명 진동수로 흔들기), 수위에 따라 달라지는 소리(동전으로 컵 두드리기) 등을 시연할 수 있습니다. 물 한 잔만으로도 30가지가 넘는 다양한 시범 실험을 손쉽게 만들어 낼 수 있습니다 {cite:p}`Berg2021`. 
 
-Take any other object such as a chair or a table and you get many more demonstrations and visualizations. {cite:t}`Ehrlig1994` published 34 experiments with a plastic ruler. So, you yourself can add many experiments to this list. There are some standard objects that should always be in the bag or pocket of a physics teacher: a candle, matches or a lighter, two small stones of different sizes, a balloon that can be blown up, a ruler, some different coins, straws, a rubber band, a slinky, some strings, a scissor, and a laser pointer or flashlight.
+의자나 책상 같은 다른 물건을 활용하면 훨씬 더 많은 시범 실험과 시각화를 얻게 됩니다. {cite:t}`Ehrlig1994`는 플라스틱 자 하나를 이용한 34가지 실험을 발표한 바 있습니다. 따라서 여러분도 이 목록에 많은 실험을 직접 추가할 수 있습니다. 물리 교사의 가방이나 주머니에 항상 들어 있어야 할 기본 물품들이 몇 가지 있습니다. 양초, 성냥이나 라이터, 크기가 다른 작은 돌 두 개, 불 수 있는 풍선, 자, 여러 종류의 동전, 빨대, 고무줄, 슬링키, 끈 몇 개, 가위, 그리고 레이저 포인터나 손전등입니다.
 
 ```{figure} images/sdfcover.jpg
 :width: 60%
 :name: fig_sdf
 
-Looking for more and more advanced physics demonstrations? Take a look at [Show the Physics](https://interactivetextbooks.tudelft.nl/showthephysics), an online open access book with 99 physics demonstrations.
+더 많고 심화된 물리 시범 실험을 찾고 계신가요? 99개의 물리 시범 실험이 담긴 온라인 오픈 액세스 도서 [물리를 보여주다(Show the Physics)](https://interactivetextbooks.tudelft.nl/showthephysics)를 살펴보세요.
 ```
-
 

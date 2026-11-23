@@ -1,21 +1,21 @@
-# Rotational inertia
+# 회전 관성
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">저자:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Ed van den Berg</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">10 minutes</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">소요 시간:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">10분</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">15 and up in physics lessons but also at 'open house' or other 'events' for all ages</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">대상 연령:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">15세 이상 물리 수업뿐만 아니라 모든 연령층을 대상으로 한 '오픈 하우스'나 기타 행사에도 적합</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Acceleration, mass, inertia, rotational acceleration, rotational inertia (= moment of inertia), center of gravity, mass distribution</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">관련 개념:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">가속도, 질량, 관성, 각가속도, 회전 관성(= 관성 모멘트), 무게중심, 질량 분포</td>
     </tr>
 </table>
 
@@ -24,45 +24,45 @@
 width: 70%
 align: center
 name: demo12_fig1
-alt: a glass of water on top of a paper
+alt: 종이 위에 올려진 물이 담긴 유리컵
 ---
-Linear inertia: pull a glass of water at a constant speed towards the edge, then suddenly accelerate when the glass is close to the edge.
+병진 관성: 물이 담긴 유리컵을 가장자리 쪽으로 일정한 속력으로 당기다가, 컵이 가장자리에 가까워졌을 때 갑자기 가속한다.
 ```
 
-## Introduction
-What does the $m$ mean in $\Sigma F=ma$? **Inertia**, or **'resistance to acceleration'**, this is the essence of the mass concept which usually receives little attention. Rotational inertia - "resistance against rotational acceleration" - is usually not included in secondary curricula, but it is very simple and can be spectacularly demonstrated with everyday objects. Little time available? Ten minutes of inspiration always pay off!
+## 소개
+$\Sigma F=ma$에서 $m$은 무엇을 의미할까요? **관성**, 즉 **'가속에 대한 저항'**은 보통 소홀히 다루어지지만 질량 개념의 본질입니다. '회전 가속(각가속)에 대한 저항'인 회전 관성은 일반적으로 중등 교육과정에 포함되지 않지만, 매우 간단하며 일상적인 물건들로 극적인 시연을 할 수 있습니다. 시간이 부족하신가요? 10분의 영감은 언제나 충분한 가치가 있습니다!
 
-## Equipment
-* A glass of water on a dry sheet of A4 paper
-* A ballpoint or pencil
-* A slightly longer stick or rod
-* A hammer
-* A meter stick or a rod
-* A broom
-* A broomstick or PVC pipe
-* Other items of your choice
-* A full roll of toilet paper and one that is almost finished
+## 준비물
+* 마른 A4 용지 위에 올린 물이 담긴 유리컵
+* 볼펜 또는 연필
+* 조금 더 긴 막대 또는 봉
+* 망치
+* 1m 자 또는 막대
+* 빗자루
+* 빗자루 막대 또는 PVC 파이프
+* 그 외 원하는 다양한 물체
+* 새 두루마리 휴지 한 개와 거의 다 쓴 두루마리 휴지 한 개
 
 ```{warning}
-No safety problems, but do not let the broom hit someone's head when balancing.
+안전상의 큰 문제는 없지만, 균형을 잡을 때 빗자루가 누군가의 머리에 부딪히지 않도록 주의하세요.
 ```
 
-## Preparation
-Prepare the objects needed. A few powerpoint slides might help. Make sure the bottom of the glass of water is dry and so it does not stick to the A4 sheet as a glass of tap water collects condense easily.
+## 사전 준비
+필요한 물건들을 미리 준비합니다. 간단한 파워포인트 슬라이드를 곁들이면 도움이 될 수 있습니다. 수돗물이 담긴 유리컵에는 결로가 쉽게 생기므로, 컵 바닥이 A4 용지에 달라붙지 않도록 물기를 닦아 건조한 상태로 준비하세요.
 
-## Procedure
-1. Linear inertia, elicit prerequisite knowledge: Put a glass of water on a dry sheet of A4, see {numref}`Figure {number}<demo12_fig1>`. Pull the paper with the glass of water slowly at a constant speed to the edge of the table, the glass just goes along. Then give a sudden jerk to the paper. The paper is off the table, the glass stays behind on the table. 
+## 실험 과정
+1. 병진 관성 및 선수 지식 확인: 마른 A4 용지 위에 물이 담긴 유리컵을 올려놓습니다({numref}`그림 {number}<demo12_fig1>` 참조). 물컵이 놓인 종이를 테이블 가장자리까지 일정한 속력으로 천천히 당기면 컵은 그대로 따라옵니다. 그런 다음 종이를 갑자기 홱 잡아당깁니다. 종이는 테이블에서 빠져나오지만 유리컵은 테이블 위에 그대로 남아 있습니다. 
 
-```{admonition} Explanation
-At a constant speed the glass goes along nicely. When accelerated the glass (mass) resists acceleration, it stays behind, we call that inertia. The glass of water resists linear acceleration. In formula language we know $\Sigma F=ma$; in it $m$ the mass of glass plus water, is the inertia. With a given constant force, heavier objects experience a smaller acceleration than lighter ones. Heavier objects have more “resistance” against acceleration.
+```{admonition} 설명
+일정한 속력에서는 유리컵이 종이를 잘 따라옵니다. 가속할 때는 유리컵(질량)이 가속에 저항하여 제자리에 남으려 하는데, 이를 관성이라고 합니다. 물이 담긴 유리컵이 직선 가속에 저항하는 것입니다. 수식으로 우리는 $\Sigma F=ma$를 알고 있으며, 여기서 컵과 물의 질량 $m$이 바로 관성입니다. 일정한 힘이 주어졌을 때 무거운 물체는 가벼운 물체보다 더 작은 가속도를 겪습니다. 무거운 물체일수록 가속에 대한 '저항'이 더 큽니다.
 ```
-2. Now take a ballpoint pen or pencil, put it upright on your hand and try to balance it on your hand (upright), see {numref}`Figure {number}<demo12_fig2>`. 
-    * Let pupils participate with their pencil or pen. It does not work, the pen immediately falls and we are not fast enough to correct the rotational movement. 
-    * Take a ruler or meter stick, that is much easier. When it starts to fall, we can always correct in time before the stick really falls over. 
-    * Take a longer stick or broomstick and the balancing becomes even easier. You can easily keep balancing a broomstick for an hour or more! You could almost keep a book in the other hand and read while balancing. 
+2. 이제 볼펜이나 연필을 가져와 손 위에 세우고 손 위에서 수직으로 균형을 잡아 봅니다({numref}`그림 {number}<demo12_fig2>` 참조). 
+    * 학생들이 각자 연필이나 볼펜으로 참여해 보도록 합니다. 잘 되지 않고 펜이 즉시 쓰러지며, 우리가 회전 운동을 바로잡을 만큼 충분히 빠르게 반응할 수 없습니다. 
+    * 자나 1m 자를 사용하면 훨씬 쉽습니다. 막대가 쓰러지기 시작할 때 완전히 넘어지기 전에 항상 제때 균형을 바로잡을 수 있습니다. 
+    * 더 긴 막대나 빗자루 막대를 사용하면 균형 잡기가 훨씬 더 쉬워집니다. 빗자루 막대는 한 시간 이상도 거뜬히 균형을 잡을 수 있습니다! 심지어 다른 손에 책을 들고 읽으면서 균형을 잡을 수도 있을 정도입니다. 
 
-```{admonition} Explanation    
-Analog to the translation movement, there is resistance to rotational acceleration. The longer the stick, the slower the stick begins its rotation. We call this resistance to an angular acceleration: rotational inertia. The demonstration shows that longer sticks have a greater rotation inertia.
+```{admonition} 설명    
+병진 운동과 마찬가지로 회전 가속(각가속)에도 저항이 존재합니다. 막대가 길수록 회전이 시작되는 속도가 더 느립니다. 이러한 각가속도에 대한 저항을 회전 관성이라고 합니다. 이 시연은 긴 막대일수록 회전 관성이 더 크다는 것을 보여줍니다.
 ```
 
 ```{figure} demo12_figure2.jpg
@@ -70,42 +70,42 @@ Analog to the translation movement, there is resistance to rotational accelerati
 width: 50%
 align: center
 name: demo12_fig2
-alt: a vertical stick balance on the finger of the experimenter
+alt: 실험자의 손가락 위에서 수직으로 균형을 잡고 있는 막대
 ---
-Balancing a stick.
+막대 균형 잡기.
 ```
 
-3. Now take a hammer or a stick with a weight on top. Put the handle on the finger and the iron on top and balance. That is relatively easy. Turn the hammer over and try to balance it with the iron on the finger. That turns out to be a lot more difficult. Again, the longer the stick or handle, the easier it is to balance. And the farther the weight is from the pivot point (from the finger), the slower rotation sets in. The rotational inertia increases with the mass of the object and the distance from the center of gravity to the supporting pivot point.
-4. Story and test: *In the circus they do this kind of experiment with a long stick and a girl on top. Suppose we have a stick with the girl, and another, equally long stick with the mother of the girl* (see {numref}`Figure {number}<demo12_fig3>`)*, for whom is rotation easier to prevent, for the girl or the mother? Why?*
+3. 이제 망치나 위쪽에 추가 달린 막대를 가져옵니다. 손잡이 끝을 손가락에 대고 철제 망치 머리가 위로 가도록 하여 균형을 잡아 봅니다. 비교적 쉽습니다. 이제 망치를 거꾸로 뒤집어 철제 머리를 손가락에 대고 균형을 잡아 봅니다. 훨씬 더 어렵다는 것을 알 수 있습니다. 역시 막대나 손잡이가 길수록 균형 잡기가 더 쉽습니다. 또한 무게가 받침 회전축(손가락)에서 멀리 떨어져 있을수록 회전이 더 느리게 시작됩니다. 회전 관성은 물체의 질량과 받침 회전축에서 무게중심까지의 거리가 클수록 증가합니다.
+4. 이야기와 질문: *서커스에서는 긴 막대 꼭대기에 소녀를 올려놓고 이런 실험을 하곤 합니다. 소녀가 올라간 막대와, 길이는 같지만 소녀의 어머니가 올라간 또 다른 막대가 있다고 가정해 봅시다*({numref}`그림 {number}<demo12_fig3>` 참조). *어느 쪽이 회전을 막기 더 쉬울까요? 소녀일까요, 어머니일까요? 그 이유는 무엇일까요?*
 
 ```{figure} demo12_figure3.jpg
 ---
 width: 50%
 align: center
 name: demo12_fig3
-alt: drawing with small and a heavy person on top of a rod. Question is who is more stable.
+alt: 막대 위에 작은 사람과 무거운 사람이 각각 올라가 있는 그림. 누가 더 안정적인지가 질문이다.
 ---
-Which stick is easier to balance?
+어느 막대가 균형 잡기 더 쉬울까요?
 ```
 
-5.	Application in daily life: in the toilet you can easily tear off a piece of toilet paper from a new roll with one hand with a jerk. With a roll that is almost finished, everything will come off if you try. Put both rolls on a stick and demonstrate!
+5.	일상생활에서의 응용: 화장실에서 새 두루마리 휴지는 한 손으로 홱 잡아당겨 휴지 한 칸을 쉽게 뜯을 수 있습니다. 하지만 거의 다 쓴 두루마리 휴지로 그렇게 시도하면 남은 휴지가 통째로 풀려 나옵니다. 두 휴지를 모두 막대에 끼워 직접 시연해 보세요!
 
 ```{tip}
-Increase attention and entertainment: 
-* By pulling the glass close to the edge before the paper is pulled away. 
-* When balancing a long stick: *see how long I can keep this up, who knows you're still here at 6 pm*.
+주목도와 재미를 높이는 방법: 
+* 종이를 잡아당기기 전에 유리컵을 테이블 가장자리 가까이까지 끌어당겨 긴장감을 높입니다. 
+* 긴 막대로 균형을 잡을 때: *제가 이걸 얼마나 오래 버틸 수 있는지 보세요. 어쩌면 오후 6시까지 여기 계셔야 할지도 모릅니다.*
 ```
 
-## Physics background
-The parallel between linear movements and rotations is interesting. The linear inertia is the mass $m$. The rotational inertia is called the moment of inertia in physics and is indicated by the letter $I$. For an object with a mass $m$ that turns around a fixed point at distance $r$ we have: $I=mr^2$
+## 물리학적 배경
+직선 운동과 회전 운동 사이의 대응 관계는 매우 흥미롭습니다. 직선 운동에서의 관성은 질량 $m$입니다. 회전 관성은 물리학에서 관성 모멘트라고 부르며 기호 $I$로 나타냅니다. 고정된 점으로부터 거리 $r$만큼 떨어져 회전하는 질량 $m$인 물체의 관성 모멘트는 다음과 같습니다: $I=mr^2$
 
-Now compare the following situations:
-* *Linear movement*: $\Sigma F = ma \quad$ **(1)**\
-The sum of all forces on an object ($\Sigma F$) is equal to the product: mass ($m$) $\cdot$ acceleration ($a$).
-* *Rotational movement*:  $\Sigma \tau = I\alpha = mr^2\alpha \quad$ **(2)**\
-The sum of all torques ($\Sigma \tau$) that cause an angular acceleration ($\alpha$) is equal to the product of rotational inertia ($I$) $\cdot$ angular acceleration ($\alpha$).
+이제 다음 두 상황을 비교해 봅시다:
+* *직선 운동*: $\Sigma F = ma \quad$ **(1)**\
+물체에 작용하는 모든 힘의 합($\Sigma F$)은 질량($m$) $\cdot$ 가속도($a$)의 곱과 같습니다.
+* *회전 운동*:  $\Sigma \tau = I\alpha = mr^2\alpha \quad$ **(2)**\
+각가속도($\alpha$)를 일으키는 모든 토크의 합($\Sigma \tau$)은 회전 관성($I$) $\cdot$ 각가속도($\alpha$)의 곱과 같습니다.
 
-See a university level mechanics text for the restrictions to equations **(1)** and **(2)**.
+식 **(1)**과 **(2)**의 적용 제한 조건에 대해서는 대학 수준의 역학 교재를 참고하시기 바랍니다.
 
-## Follow-up
-Our demonstration [On a roll](../demo92/demo92.md) provides an excellent follow-up. Put the table higher on one end and then let different objects roll off the slanting surface. For example, cola cans shaken or not, empty tin, tin filled with sand, and so on. Which comes first, which last? Relating to rotation support. More mass at the edge; than greater moment of inertia, so slower. With liquids a can can rotate without the liquid rotating, but with first shaking and therefore turbulence in the can that process is disturbed.
+## 후속 활동
+시연 실험 [굴러가는 물체](../demo92/demo92.md)는 훌륭한 후속 활동이 될 수 있습니다. 테이블 한쪽 끝을 높여 경사면을 만든 다음, 여러 가지 물체를 굴려 내려보내 보세요. 예를 들어 흔든 콜라 캔과 흔들지 않은 콜라 캔, 빈 깡통, 모래를 채운 깡통 등을 비교할 수 있습니다. 어떤 것이 가장 먼저 도착하고, 어떤 것이 가장 늦게 도착할까요? 회전 관성과 관련지어 설명해 봅시다. 질량이 바깥쪽 가장자리에 많이 분포할수록 관성 모멘트가 커지므로 더 느리게 굴러갑니다. 액체가 든 캔은 내부 액체가 회전하지 않은 채 캔 껍질만 회전할 수 있지만, 먼저 흔들어서 내부에 난류가 생기면 그 과정이 방해를 받게 됩니다.

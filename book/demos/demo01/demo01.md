@@ -1,125 +1,125 @@
-# Introducing a particle model to explain the coloring of eggs 
+# 달걀 염색 현상을 설명하기 위한 입자 모형 도입하기
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">저자:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Peter Dekkers</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">30 + 30 + 30 min</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">소요 시간:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">30 + 30 + 30분</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">12-14</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">대상 연령:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">12-14세</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Particle model, membranes</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">관련 개념:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">입자 모형, 막</td>
     </tr>
 </table>
 
-## Introduction
-In this activity the shell of a raw egg is removed without boiling it. Next, students observe that some substances do penetrate the remaining membrane (without damaging it) while others do not. Students are challenged to explain these observations giving rise to the introduction of a simple particle model as a potentially viable explanation. The demonstration presents an example of how models in science arise, and of their function, value and status. One difficulty with particle models is: the particles explain the properties of materials (such as temperature, shape, pressure, color), while these are properties that the particles themselves do not possess. The particles themselves (are imagined to) consist of, for example, bouncing pointlike objects that have mass and velocity, whose average kinetic energy ‘explains’ the temperature of the gas. The demonstration attempts to show that the power of a model is that it helps us to describe, explain and predict (a part of) the real world better than we could otherwise.
+## 소개
+이 활동에서는 날달걀을 삶지 않고 껍데기만 제거합니다. 그다음 학생들은 어떤 물질은 (달걀을 손상시키지 않고) 남아 있는 막을 통과하는 반면, 다른 물질은 통과하지 못한다는 사실을 관찰합니다. 학생들은 이러한 관찰 결과를 설명하도록 도전을 받으며, 이를 통해 타당한 설명의 하나로 간단한 입자 모형을 도입하게 됩니다. 이 시범 실험은 과학에서 모형이 어떻게 생겨나는지, 그리고 모형의 기능과 가치 및 위상이 어떠한지를 보여 주는 사례를 제시합니다. 입자 모형에서 어려운 점 중 하나는, 입자들이 물질의 성질(예: 온도, 모양, 압력, 색)을 설명하지만 정작 입자 자체는 그러한 성질을 가지고 있지 않다는 것입니다. 예를 들어 입자 자체는 질량과 속도를 가지고 튕겨 다니는 점 모양의 물체로 (상상되며), 이들의 평균 운동 에너지가 기체의 온도를 ‘설명’합니다. 이 시범 실험은 모형의 힘이 실제 세계(의 일부)를 그렇지 않았을 때보다 더 잘 기술하고, 설명하며, 예측할 수 있도록 도와주는 데 있다는 것을 보여 주고자 합니다.
 
-## Equipment
-* 10 eggs or more
-* 10 jam jars (or beakers)
-* 2 litres of organic vinegar (not cleaning vinegar)
-* A heating plate
-* A sharp (kitchen) knife
-* Syringe without needle 
-* Salt
-* Various food colorings (try an Asian food shop)
-* A choice of other ‘test substances’ from the kitchen: 
-    * Tea
-    * Milk
-    * Salad oil
-    * Instant coffee
-    * Coloured soft drinks 
+## 준비물
+* 달걀 10개 이상
+* 유리병(또는 비커) 10개
+* 식용 양조식초 2리터(청소용 식초는 사용하지 마세요)
+* 가열판(핫플레이트)
+* 날카로운 (주방용) 칼
+* 바늘 없는 주사기
+* 소금
+* 다양한 식용 색소(아시아 식료품점 등에서 구할 수 있습니다)
+* 주방에서 구할 수 있는 기타 ‘시험 물질’ 선택:
+    * 차(홍차·녹차 등)
+    * 우유
+    * 식용유(샐러드유)
+    * 인스턴트 커피
+    * 색소가 들어간 탄산음료
 
 ```{warning} 
-Use only safe, harmless substances. Boil the shell-less eggs in a fuming cupboard, if possible.
+안전하고 인체에 무해한 물질만 사용하세요. 가능하다면 껍데기를 벗긴 달걀은 흄 후드(배기 후드) 안에서 삶으세요.
 ```
 
-## Preparation
-Photograph the 10 eggs. Preserve one egg with its shell, place the rest in organic vinegar for about 3-4 days, to remove the shells. Replace the vinegar halfway if no more bubbles are formed, in case some of the shell of the eggs remain attached. Wash off the last bits of shell under the tap (carefully!). Place each shell-less egg in its own jar.
+## 사전 준비
+달걀 10개의 사진을 찍어 둡니다. 달걀 1개는 껍데기를 그대로 둔 채 보관하고, 나머지 9개는 껍데기를 제거하기 위해 약 3~4일 동안 식용 식초에 담가 둡니다. 달걀 껍데기의 일부가 아직 붙어 있는 상태에서 거품이 더 이상 생기지 않으면, 중간에 식초를 한 번 갈아 줍니다. 마지막으로 남은 껍데기 조각은 수돗물로 (조심스럽게!) 씻어 냅니다. 껍데기를 벗긴 달걀은 각각 개별 유리병에 담아 둡니다.
 
-## Procedure
-### 1. Orientation (30 min)
-This first step takes about 15 min.
+## 실험 과정
+### 1. 도입 (30분)
+이 첫 번째 단계는 약 15분 정도 걸립니다.
 
-Place the egg that still has its shell in a jam jar and submerge it in vinegar. Let the students observe and describe what is happening. If you like, present the students with the reaction equation. Then show the remaining 9 eggs. 
+껍데기가 아직 남아 있는 달걀을 유리병에 넣고 식초에 잠기게 합니다. 학생들에게 무슨 일이 일어나는지 관찰하고 설명하게 합니다. 원한다면 학생들에게 화학 반응식을 제시해 줄 수 있습니다. 그런 다음 나머지 9개의 달걀을 보여 줍니다.
 
-Notably, the eggs have lost their shells leaving them almost transparent. Furthermore, the egg has become larger when its shell was removed. (Compare the egg that has just been placed in vinegar with the rest, and show the photo of the original 10 eggs.) How is that possible?
+주목할 점은, 달걀의 껍데기가 사라져 거의 투명해졌다는 것입니다. 게다가 껍데기가 제거되면서 달걀이 더 커졌습니다. (방금 식초에 넣은 달걀을 나머지 달걀들과 비교해 보고, 처음 찍어 둔 달걀 10개의 사진도 보여 줍니다.) 어떻게 이런 일이 가능할까요?
 
-Students often come up with the following ideas.
+학생들은 종종 다음과 같은 생각을 떠올립니다.
 
-***Explanation 1. The egg shell kept the egg together, it has ‘sagged’ while losing its shell.***
+***설명 1. 달걀 껍데기가 달걀을 꽉 붙잡고 있었는데, 껍데기가 없어지면서 달걀이 ‘축 늘어져 퍼졌다’.***
 
-*Test:* if this is correct, it should be possible to compress the material in the egg. Is that the case?
-Cut one of the eggs in a bowl, fill the syringe with its contents, remove the air, close the syringe and try to compress it. Conclusion?
+*검증:* 이 설명이 맞다면 달걀 안의 물질을 압축할 수 있어야 합니다. 정말 그럴까요?
+달걀 하나를 그릇에 넣고 칼로 가른 뒤, 주사기에 내용물을 채우고 공기를 뺀 다음 주사기 입구를 막고 눌러 봅니다. 결론은 무엇인가요?
 
 ```{figure} demo01_figure1.JPG
 ---
 width: 50%
 align: center
-alt: an unboiled egg in shell in jar with vinegar
+alt: 식초가 담긴 유리병 속 껍데기가 있는 날달걀
 ---
-An unboiled egg in vinegar.
+식초 속에 넣은 날달걀.
 ```
 
-***Explanation 2. ‘Water’ has entered the egg.***
+***설명 2. ‘물’이 달걀 안으로 들어갔다.***
 
-*Test:* place one of the eggs in a pan of water, boil it slowly until it is reasonably firm (about 15 min should do). Open the egg and taste the contents (so use organic vinegar, NOT cleaning vinegar). Does this observation support the explanation?
+*검증:* 달걀 하나를 물이 담긴 냄비에 넣고, 속이 적당히 단단해질 때까지 천천히 삶습니다(약 15분이면 충분합니다). 달걀을 열어서 내용물의 맛을 봅니다(이 때문에 청소용 식초가 아니라 식용 식초를 사용해야 합니다). 이 관찰 결과는 위 설명을 뒷받침하나요?
 
-*Conclusion:* vinegar enters the egg through its outer ‘skin’ or membrane, but egg white does not emerge. How do other substances behave, can they move trough the 'skin' of an egg?
+*결론:* 식초는 달걀의 바깥쪽 ‘껍질(막)’을 통해 안으로 들어가지만, 달걀 흰자는 밖으로 나오지 않습니다. 다른 물질들은 어떻게 될까요? 다른 물질들도 달걀의 ‘막’을 통과할 수 있을까요?
 
-***Research plan***
+***탐구 계획***
 
-Together, decide which other substances you want to test (include some food coloring liquids) and how you will do that. One way that works is: place a raw egg without shell in (a solution of) the test substance overnight, the next day boil the water slowly (to avoid breakage) and cook the egg (it may take a long time to solidify), then open it and investigate the contents.
+함께 논의하여 어떤 다른 물질들을 시험해 볼지(몇 가지 액체 식용 색소 포함)와 어떤 방법으로 실험할지 정합니다. 잘 작동하는 방법 중 하나는 다음과 같습니다. 껍데기가 없는 날달걀을 시험 물질(또는 그 용액)에 하룻밤 동안 담가 둔 뒤, 다음 날 물에 넣고 (깨지지 않도록) 천천히 삶아 익힙니다(굳는 데 시간이 꽤 오래 걸릴 수 있습니다). 그런 다음 달걀을 열어 내용물을 조사합니다.
 
 ```{figure} demo01_figure2.JPG
 ---
 width: 50%
 align: center
-alt: unboiled egg without its shell in hands of experimenter
+alt: 실험자의 손 위에 놓인 껍데기 없는 날달걀
 ---
-Unboiled egg without its shell.
+껍데기를 제거한 날달걀.
 ```
 
-### 2. Collecting and presenting observations (30 min)
-The second session continues after the plan has been carried out, and the eggs with test substances have been boiled. The observations of the contents by watching and tasting should lead to the following conclusions, among others:
-- the egg contains a second membrane that surrounds the yolk;
-- egg white and yolk do not penetrate the membrane that surround them;
-- salt and vinegar penetrate both membranes;
-- food coloring liquids penetrate the outer, but not the inner membrane.
+### 2. 관찰 결과 수집 및 정리 (30분)
+두 번째 차시는 탐구 계획을 실행하고 시험 물질에 담갔던 달걀들을 삶은 뒤에 이어집니다. 내용물을 눈으로 보고 맛을 보며 관찰하면, 무엇보다도 다음과 같은 결론을 이끌어 낼 수 있습니다.
+- 달걀 안에는 노른자를 둘러싼 두 번째 막이 있다;
+- 달걀 흰자와 노른자는 각각을 둘러싸고 있는 막을 통과하지 못한다;
+- 소금과 식초는 두 막을 모두 통과한다;
+- 액체 식용 색소는 바깥쪽 막은 통과하지만, 안쪽 막은 통과하지 못한다.
 
-Produce a systematic overview of the observations, for example in an observations table like Table 1. The research question has been modified into: ***Which substances can penetrate the outer membrane, and which of these can also pass through the inner membrane?***
+예를 들어 표 1과 같은 관찰 결과표 형태로 관찰 내용을 체계적으로 정리합니다. 이제 탐구 질문은 다음과 같이 구체화됩니다. ***어떤 물질이 바깥쪽 막을 통과할 수 있으며, 그중 어떤 물질이 안쪽 막까지 통과할 수 있는가?***
 
-|     Name of substance:      |     Passes through outer membrane (yes/no)    |     Passes through inner membrane (yes/no)    |     Column 4    |
+|     물질 이름               |     바깥쪽 막 통과 여부 (예/아니오)           |     안쪽 막 통과 여부 (예/아니오)             |     4열         |
 |-----------------------------|-----------------------------------------------|-----------------------------------------------|-----------------|
-|     Egg white               |     No                                        |     No                                        |                 |
-|     Yolk                    |     ?                                         |     No                                        |                 |
-|     Salt                    |     Yes                                       |     Yes                                       |                 |
-|     Vinegar                 |     Yes                                       |     Yes                                       |                 |
-|     Green food coloring    |     Yes                                       |     No                                        |                 |
-|     Red food coloring      |     Yes                                       |     No                                        |                 |
+|     달걀 흰자               |     아니오                                    |     아니오                                    |                 |
+|     노른자                  |     ?                                         |     아니오                                    |                 |
+|     소금                    |     예                                        |     예                                        |                 |
+|     식초                    |     예                                        |     예                                        |                 |
+|     초록색 식용 색소        |     예                                        |     아니오                                    |                 |
+|     빨간색 식용 색소        |     예                                        |     아니오                                    |                 |
 
 
-### 3. Interpretations and conclusions, answering the research question (30 min)
-What causes some substances to pass through both membranes, others to pass through the outer one only, and yet others to pass through neither? Challenge the students to answer this question. Acknowledge and appreciate all of the ideas the students offer, but critically assess with the whole class whether each of the explanations is indeed able to explain all of the observations.
+### 3. 해석 및 결론, 탐구 질문에 답하기 (30분)
+어떤 물질은 두 막을 모두 통과하고, 다른 물질은 바깥쪽 막만 통과하며, 또 어떤 물질은 어느 쪽도 통과하지 못하는 원인은 무엇일까요? 학생들에게 이 질문에 답해 보도록 도전 과제를 줍니다. 학생들이 제시하는 모든 아이디어를 인정하고 존중하되, 각각의 설명이 과연 모든 관찰 결과를 설명할 수 있는지 학급 전체와 함께 비판적으로 검토합니다.
 
 ```{figure} demo01_figure3.JPG
 ---
 width: 50%
 align: center
-alt: open egg, egg white is colored, inner part is still yellow.
+alt: 반으로 자른 달걀. 흰자는 색이 들었지만 안쪽 노른자는 여전히 노란색이다.
 ---
-Food coloring penetrates the outer but not the inner membrane.
+식용 색소는 바깥쪽 막은 통과하지만 안쪽 막은 통과하지 못한다.
 ```
 
-Subsequently suggest, (if the suggestion has not been made yet): imagine that a certain substance consists of very tiny particles that are all of the exact same size. Particles of other substances may be of a different size. Some substances consist of larger particles, others have smaller ones. Also, imagine that the 'skin' or membrane is not entirely closed but has tiny holes, similar to the pores in your own skin. Finally, imagine that in liquids like yolk the particles are all continuously moving in a zigzag motion: think of the balls in a ball pit and imagine that they are all swarming in the pit. In solids, on the other hand, the particles are thought to stay roughly in place, like the seeds in a muesli bar, but shaking about on their spots. It is impossible, however, to see the swarming (in liquids) or shaking (in membranes) of the particles. They are much too small for that, but there are <a href="https://phet.colorado.edu/en/simulations/membrane-channels" target="_blank">nice simulations to visualize the particles' behavior</a> (embedded below).
+이어서 다음과 같이 제안해 봅니다(아직 그런 제안이 나오지 않았다면). 어떤 물질이 모두 정확히 같은 크기의 매우 작은 입자들로 이루어져 있다고 상상해 봅시다. 다른 물질의 입자들은 크기가 다를 수 있습니다. 어떤 물질은 더 큰 입자로 이루어져 있고, 어떤 물질은 더 작은 입자로 이루어져 있습니다. 또한 ‘껍질’이나 막이 완전히 닫혀 있는 것이 아니라, 우리 피부의 모공처럼 아주 작은 구멍들이 뚫려 있다고 상상해 봅시다. 마지막으로, 노른자 같은 액체 속에서는 입자들이 모두 끊임없이 지그재그 운동을 하며 움직이고 있다고 상상해 봅시다. 볼풀장에 가득 찬 공들이 풀장 안에서 이리저리 뒤섞여 움직이는 모습을 떠올려 보세요. 반면 고체에서는 입자들이 뮤즐리 바 속 씨앗들처럼 대체로 제자리에 머물러 있으면서 제자리에서 진동한다고 생각합니다. 하지만 액체 속 입자의 뒤섞임이나 막 속 입자의 진동을 직접 눈으로 보는 것은 불가능합니다. 입자들은 그러기에는 너무나 작기 때문입니다. 대신 <a href="https://phet.colorado.edu/en/simulations/membrane-channels" target="_blank">입자들의 행동을 시각적으로 보여 주는 훌륭한 시뮬레이션</a>이 있습니다(아래에 삽입되어 있습니다).
 
 <iframe src="https://phet.colorado.edu/sims/cheerpj/membrane-channels/latest/membrane-channels.html?simulation=membrane-channels"
         width="800px"
@@ -127,36 +127,36 @@ Subsequently suggest, (if the suggestion has not been made yet): imagine that a 
         allowfullscreen>
 </iframe>
 
-*Questions for discussion (to be used for example in a think-pair-share activity)*
+*토의 질문 (예: 생각-짝-나누기(Think-Pair-Share) 활동으로 활용)*
 
-Answer the questions below by trying to use the ideas about particles presented above.
-* Which membrane then has bigger holes, the outer or the inner one?
-* Can you show in column 4 of the observations table which substances have large particles, which have medium size, and which have small particles?
-* Can you explain the observations with these ideas? 
+위에서 제시한 입자에 대한 아이디어를 활용하여 아래 질문에 답해 봅시다.
+* 바깥쪽 막과 안쪽 막 중 어느 쪽 막의 구멍이 더 클까요?
+* 관찰 결과표의 4열에 어떤 물질이 큰 입자를 가지고, 어떤 물질이 중간 크기 입자를 가지며, 어떤 물질이 작은 입자를 가지는지 표시할 수 있나요?
+* 이러한 아이디어로 관찰 결과를 설명할 수 있나요?
 
-### Modelling in science
-By further discussion of the questions below, the teacher may clarify, e.g., what the nature is of scientific models, how they are used, and that there are always limits to their validity.
+### 과학에서의 모형화
+아래 질문들을 추가로 토의함으로써 교사는 과학적 모형의 본성이 무엇인지, 모형이 어떻게 사용되는지, 그리고 모형의 타당성에는 언제나 한계가 있다는 점 등을 명확히 짚어 줄 수 있습니다.
 
-We have carried out a kind of investigation into the properties of substances and eggs.
+우리는 물질과 달걀의 성질에 대해 일종의 탐구를 수행했습니다.
 
-> * What did we do that a scientist would definitely do as well?
-> * What did we do that a scientist would never do? 
-> * What did we not do, that a scientist would definitely do?
-> * Can we call what we did a scientific investigation?
+> * 우리가 한 활동 중 과학자들도 분명히 똑같이 할 만한 것은 무엇인가요?
+> * 우리가 한 활동 중 과학자라면 결코 하지 않을 것은 무엇인가요?
+> * 우리가 하지 않았지만 과학자라면 반드시 할 일은 무엇인가요?
+> * 우리가 한 활동을 과학적 탐구라고 부를 수 있을까요?
 
-> * Can we now be certain that substances consist of particles, and that egg membranes have holes?
-> * Can you come up with a different explanation for the observations? 
-> * Did you see particles or holes in the membranes? In that case can you be sure they exist?
-> * Do you think scientists can see the particles? Can they be sure that they really exist? 
+> * 이제 우리는 물질이 입자로 이루어져 있고, 달걀 막에 구멍이 있다는 것을 확신할 수 있나요?
+> * 관찰 결과에 대해 다른 설명을 떠올릴 수 있나요?
+> * 막에서 입자나 구멍을 직접 보았나요? 그렇다면 그것들이 존재한다고 확신할 수 있나요?
+> * 과학자들은 입자를 볼 수 있을까요? 과학자들은 입자가 실제로 존재한다고 확신할 수 있을까요?
 
-We used a model to explain the observations. The model consists of ideas about the composition of substances and materials. We do not know for certain whether our model is entirely correct, but it does help us to figure out what is happening. People often use a model to make it easier to do or understand something. Examples: Google Maps, temperature graphs in the weather forecast, map of the school, X-ray photo at the dentist, sheet music, etc.
+우리는 관찰 결과를 설명하기 위해 하나의 모형을 사용했습니다. 이 모형은 물질과 재료의 구성에 관한 아이디어들로 이루어져 있습니다. 우리는 이 모형이 완전히 옳은지 확실히 알지는 못하지만, 무슨 일이 일어나고 있는지 파악하는 데에는 분명히 도움이 됩니다. 사람들은 무언가를 더 쉽게 하거나 이해하기 위해 종종 모형을 사용합니다. 예를 들면 구글 지도, 일기예보의 기온 그래프, 학교 안내도, 치과의 X선 사진, 악보 등이 있습니다.
 
-## Physics background
-The shell of an egg is removed by placing it in vinegar for a few days. Bubbles (of carbon dioxide) and water start forming immediately, as calcium ions go into solution, because the calciumcarbonate of the shells slowly disintegrates due to the acid (CaCO$_3$ + 2H$^+$ &rarr; Ca$_2^+$(aq) + CO$_2$ (gas) + H$_2$O).
+## 물리학적 배경
+달걀을 며칠 동안 식초에 담가 두면 껍데기가 제거됩니다. 껍데기의 탄산칼슘이 산에 의해 서서히 분해되면서 칼슘 이온이 용액으로 녹아 나오고, 즉시 (이산화탄소) 기포와 물이 생성되기 시작합니다(CaCO$_3$ + 2H$^+$ &rarr; Ca$_2^+$(aq) + CO$_2$ (기체) + H$_2$O).
 
-Ernst Mach (1838-1916) aspired to found all scientific theory in concrete observations, and to allow only concepts in scientific theory that can be linked or reduced to empirical observations. These, he thought, would provide a secure and solid base for science, and in fact nothing else could. As a consequence he rejected, amongst others, both the concept of force (because mass and acceleration suffice) and particle theories (since the particles are not directly observable). His approach made Mach one of the founders of a philosophy called ‘logical positivism’, adhered to by many scientists even today, although they do accept the existence of particles. Albert Einstein (1879-1955) had great admiration for Mach, regarding some of his ideas as the starting point for Einstein’s general theory of relativity. But when the young Einstein demonstrated how Brownian motion can be understood on the basis of statistical properties of randomly moving, invisible tiny particles, this was a serious attack on Mach’s approach. Mach rejected Einstein's theories, but Mach’s approach did not survive. The famous physics teacher and Nobel Prize winner Richard Feynman (1918-1988) considered the idea that matter is made up of particles as perhaps the most important idea that scientists have ever come up with {cite:p}`feynman1963feynman`.
+에른스트 마흐(Ernst Mach, 1838–1916)는 모든 과학 이론을 구체적인 관찰에 기초하여 세우고자 했으며, 경험적 관찰과 연결되거나 그로 환원될 수 있는 개념만을 과학 이론에 허용하려 했습니다. 그는 이러한 관찰만이 과학에 안전하고 견고한 토대를 제공할 수 있으며, 사실상 그 밖의 어떤 것도 그 역할을 할 수 없다고 생각했습니다. 그 결과 그는 무엇보다도 힘의 개념(질량과 가속도만으로 충분하다고 보았기 때문)과 입자 이론(입자는 직접 관찰할 수 없기 때문)을 모두 거부했습니다. 이러한 접근법으로 인해 마흐는 ‘논리 실증주의’라는 철학 사조의 창시자 중 한 사람이 되었는데, 오늘날에도 많은 과학자들이 비록 입자의 존재는 받아들이지만 여전히 이 철학의 입장을 따르고 있습니다. 알베르트 아인슈타인(Albert Einstein, 1879–1955)은 마흐를 깊이 존경하여, 자신의 일반 상대성 이론의 출발점으로 마흐의 아이디어 중 일부를 삼기도 했습니다. 그러나 젊은 아인슈타인이 눈에 보이지 않는 작고 무작위로 움직이는 입자들의 통계적 성질을 바탕으로 브라운 운동을 이해할 수 있음을 증명하자, 이는 마흐의 접근법에 대한 심각한 타격이 되었습니다. 마흐는 아인슈타인의 이론을 거부했지만, 결국 마흐의 접근법은 살아남지 못했습니다. 저명한 물리학 교사이자 노벨상 수상자인 리처드 파인만(Richard Feynman, 1918–1988)은 물질이 입자로 이루어져 있다는 아이디어를 과학자들이 지금까지 떠올린 가장 중요한 아이디어로 꼽았습니다 {cite:p}`feynman1963feynman`.
 
-## References
+## 참고문헌
 ```{bibliography}
 :filter: docname in docnames
 ```

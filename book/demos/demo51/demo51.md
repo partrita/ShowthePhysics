@@ -1,52 +1,52 @@
-# Cold radiation
+# 차가운 복사
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">저자:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Leo te Brinke</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">15-30 minutes</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">소요 시간:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">15~30분</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">10+</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">대상 연령:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">10세 이상</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Thermal radiation, reflection and absorption, parabolic mirror, focal point</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">관련 개념:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">열복사, 반사와 흡수, 포물면 거울, 초점</td>
     </tr>
 </table>
 
-## Introduction
-Heat is – in popular terms – a form of energy. Its counterpart is ‘cold’. You can get rid of cold by adding heat. You can't get rid of heat by adding cold, although it might seem that way when you open a window in winter. In fact, heat escapes. Heat is 'something', cold is 'nothing'. 
+## 소개
+열은 일상적인 표현으로 에너지의 한 형태입니다. 그 반대 개념은 '차가움(냉기)'입니다. 열을 더하면 차가움을 없앨 수 있습니다. 반대로 차가움을 더해서 열을 없앨 수는 없습니다. 겨울에 창문을 열면 마치 차가움이 들어와 열을 몰아내는 것처럼 느껴지기는 하지만, 실제로는 열이 빠져나가는 것입니다. 열은 '있는 것'이고, 차가움은 '없는 것'입니다.
 
-Confusing? Think of it like this: cold is like a hole in a piece of paper; you can't remove it by cutting it out, only by filling it with paper. 
+헷갈리시나요? 이렇게 생각해 보세요. 차가움은 종이에 뚫린 구멍과 같습니다. 구멍을 잘라내서 없앨 수는 없고, 종이로 메워야만 없앨 수 있습니다.
 
-A similar story applies to light and darkness: Gyro Gearloose, famous inventor from the Donald Duck comics, once invented a 'darkness projector' to blind the Beagle Boys. But this unfortunately did not work...
+빛과 어둠에도 비슷한 이야기가 적용됩니다. 도널드 덕 만화에 나오는 유명한 발명가 자이로 기어루스(Gyro Gearloose)는 비글 보이즈의 눈을 멀게 하려고 '어둠 영사기'를 발명한 적이 있습니다. 하지만 안타깝게도 작동하지 않았지요...
 
-How does this apply to other forms of radiation? Thermal radiation is also called heat radiation: the 'warmer' an object, the more thermal radiation it emits. And cold radiation doesn’t exist. Right?
-After seeing this experiment, once demonstrated by David Jones on the German TV show *Kopf um Kopf*, you might start to doubt.
+그렇다면 다른 형태의 복사는 어떨까요? 열복사는 온열 복사라고도 하는데, 물체가 '따뜻할수록' 더 많은 열복사를 방출합니다. 그리고 차가운 복사라는 것은 존재하지 않습니다. 맞지요?
+독일 TV 프로그램 *Kopf um Kopf*에서 데이비드 존스(David Jones)가 한 번 선보였던 이 실험을 보고 나면, 어쩌면 의심이 들기 시작할지도 모릅니다.
 
-## Equipment
-* Two parabolic mirrors
-* A sensitive temperature sensor with a display
-* Something very cold (dry ice or liquid nitrogen in a test tube)
-* A ruler or measuring tape; stands and clamps
-* A bright light for determining the focal points
-* *Optionally*, an infrared camera.
+## 준비물
+* 포물면 거울 2개
+* 디스플레이가 달린 민감한 온도 센서
+* 매우 차가운 물질(시험관에 담은 드라이아이스 또는 액체 질소)
+* 자 또는 줄자, 스탠드와 클램프
+* 초점을 찾기 위한 밝은 전구
+* *(선택 사항)* 적외선 카메라
 
-## Preparation
-1. Secure the two mirrors with their principal axes horizontally aligned at the same height.
-2. Place them facing each other and, if necessary, use a bright light and a piece of paper to locate the focal points; mark these in some way, for example with skewers.
-3. Place the sensor in a stand at the same height as the focal points.
-4. Prepare another stand so that the test tube with dry ice or liquid nitrogen can be quickly positioned, with the cold substance at the same height as the focal point.
-5. Ensure dry ice or liquid nitrogen is ready.
+## 사전 준비
+1. 두 거울의 주축이 수평이 되고 같은 높이에 놓이도록 고정합니다.
+2. 두 거울이 서로 마주 보게 배치하고, 필요하다면 밝은 전구와 종이를 이용해 초점을 찾습니다. 예를 들어 꼬치(나무 막대) 등을 이용해 초점의 위치를 표시해 둡니다.
+3. 스탠드에 온도 센서를 설치하여 초점과 같은 높이에 오도록 합니다.
+4. 드라이아이스나 액체 질소가 담긴 시험관을 초점 높이에 맞추어 빠르게 배치할 수 있도록 다른 스탠드를 미리 준비해 둡니다.
+5. 드라이아이스나 액체 질소를 준비합니다.
 
 ```{tip}
-* The temperature sensor should have the smallest possible thermal capacity; a standard thermometer might not register a measurable temperature drop.
-* The experiment can be made even more convincing by placing a second temperature sensor at another location equally distant from A, if possible.
+* 온도 센서는 열용량이 가능한 한 작아야 합니다. 일반 온도계로는 측정 가능한 온도 하강이 나타나지 않을 수 있습니다.
+* 가능하다면 A로부터 같은 거리에 있는 다른 위치에 두 번째 온도 센서를 설치하면 실험을 훨씬 더 설득력 있게 만들 수 있습니다.
 ```
 
 ```{figure} B44_LtB03_foto1.jpg
@@ -55,7 +55,7 @@ width: 50%
 align: center
 name: demo51_fig1
 ---
-The setup.
+실험 장치의 전체 모습.
 ```
 
 ```{figure} B44_LtB03_foto2_and_3_site.jpg
@@ -64,18 +64,18 @@ width: 50%
 align: center
 name: demo51_fig2
 ---
-Left: The skewer marks the focal point; place the test tube with dry ice here. Right: The temperature sensor.
+왼쪽: 꼬치가 초점을 표시하고 있으며, 이곳에 드라이아이스가 담긴 시험관을 둡니다. 오른쪽: 온도 센서.
 ```
-## Procedure
+## 실험 과정
 
-If necessary, demonstrate that the two mirrors focus the light from a lamp placed at one focal point into the other focal point (you can also demonstrate how to find the focal points for the audience).
+필요하다면 한쪽 초점에 둔 전구의 빛을 두 거울이 반대쪽 초점으로 모으는 모습을 먼저 보여 줍니다(청중 앞에서 초점을 찾는 방법을 직접 시연할 수도 있습니다).
 
-Place the temperature sensor at one focal point and wait until the temperature stabilizes. Now place the dry ice or liquid nitrogen at the other focal point. The temperature will begin to drop. After a few minutes, remove the 'cold source': the temperature will rise again. The only explanation here is that 'cold radiation' is converging on the temperature sensor through the two mirrors.
+한쪽 초점에 온도 센서를 두고 온도가 안정될 때까지 기다립니다. 이제 다른 쪽 초점에 드라이아이스나 액체 질소를 놓습니다. 그러면 온도가 떨어지기 시작합니다. 몇 분 뒤에 '차가운 원천'을 치우면 온도가 다시 올라갑니다. 여기서 겉보기에 드는 유일한 설명은 두 거울을 통해 '차가운 복사'가 온도 센서로 모인다는 것입니다.
 
-And then, of course, discuss...
+그리고 물론, 이에 대해 토의합니다...
 
 ```{tip}
-After or to support the discussion, if possible, use an infrared camera.
+가능하다면 토의를 뒷받침하거나 토의 후에 적외선 카메라를 활용해 보세요.
 ```
 
 ```{figure} B44_LtB03_foto4a.jpg
@@ -84,13 +84,13 @@ width: 50%
 align: center
 name: demo51_fig3
 ---
-A measurement with dry ice: at t = 0, the test tube is placed; it is removed at 80 seconds and put back at 180 seconds; after about 300 seconds, the dry ice had evaporated. The cooling and warming curves appear neatly exponential to the eye.
+드라이아이스를 이용한 측정 결과: t = 0초에 시험관을 놓았고, 80초에 치웠다가 180초에 다시 놓았습니다. 약 300초 뒤에는 드라이아이스가 모두 승화했습니다. 냉각 곡선과 가열 곡선이 눈으로 보기에 깔끔한 지수 함수 형태를 띱니다.
 ```
 
-## Physics background
-Even in an environment where heat conduction and convection are impossible, two objects at different temperatures will eventually reach the same temperature through radiation exchange. The warmer object emits more radiation than the cooler one; the latter thus receives more net radiation than it emits.
-Something similar happens here, via two mirrors with focal points A and B.
-The main axes of the mirrors align. The air insulates well and doesn’t move: heat transfer between points in space occurs solely through radiation.  
+## 물리학적 배경
+열전도와 대류가 불가능한 환경에서도, 온도가 다른 두 물체는 복사 에너지 교환을 통해 결국 같은 온도에 도달하게 됩니다. 더 따뜻한 물체는 더 차가운 물체보다 더 많은 복사를 방출하므로, 차가운 물체는 자신이 방출하는 것보다 더 많은 순 복사를 흡수하게 됩니다.
+초점 A와 B를 가진 두 거울을 통한 이 실험에서도 비슷한 일이 일어납니다.
+두 거울의 주축은 일직선상에 놓여 있습니다. 공기는 단열 효과가 좋고 움직이지 않으므로, 공간 내 지점들 사이의 열 전달은 오직 복사를 통해서만 일어납니다.
 
 ```{figure} B43_LtB03_fig1.jpg
 ---
@@ -98,20 +98,20 @@ width: 50%
 align: center
 name: demo51_fig4
 ---
-The setup schematically.
+실험 장치의 모식도.
 ```
 
-First, consider the situation without mirrors. We focus on what happens at B, where B can be any point in space. Initially, thermal equilibrium exists throughout the space: the total power radiated by B equals the total power B absorbs from the whole space. Now, something very cold is placed at A. Over time, this affects the entire space, which in turn will influence B. But we focus on the immediate effects on B following the change at A. 
+먼저 거울이 없는 상황을 생각해 봅시다. 공간 내 임의의 한 지점이 될 수 있는 B에서 일어나는 현상에 초점을 맞춥니다. 처음에는 공간 전체에 열평형이 이루어져 있습니다. 즉, B가 방출하는 총 복사 일률은 B가 전체 공간으로부터 흡수하는 총 복사 일률과 같습니다. 이제 A 지점에 매우 차가운 물체를 놓습니다. 시간이 지나면 이것이 전체 공간에 영향을 미치고, 그 결과 B에도 영향을 주게 됩니다. 하지만 우리는 A에서의 변화 직후 B에 나타나는 즉각적인 효과에 집중해 봅시다.
 
-Think of A and B connected by a cylinder $\pi$ (gray in {numref}`Figure {number} <demo51_fig4>`). Every point in space cools down because the radiative power that A sends through $\pi$ to B is now less than before, when it was equal to the radiative power B sends through $\pi$ to A. Consequently B experiences a net negative electromagnetic flux from the cylinder, causing B’s temperature to decrease. Without the mirrors, this would apply to every point in the space, and the 'cold source' would warm up while the entire rest of the space cooled. Since the emitted power is proportional to the fourth power of the temperature (in Kelvin), this change is quite a strong effect.
-But with the mirrors placed as shown in the figure, with point B in one focal point and A in the other, B is different from the rest of the space. It is no longer only the gray tube but all of the radiation that A emits within the solid angle $\Omega$’ that is received by B from an equally large solid angle $\Omega$. So the radiative power reaching B via $\Omega$ also decreases, while B initially emits the same amount into $\Omega$. This makes B’s temperature drop faster than that of all other points in space, in the area around B. For B, it’s as if A *and* the entire left mirror are ice-cold.
+A와 B가 원기둥 $\pi$로 연결되어 있다고 생각해 보세요({numref}`그림 {number} <demo51_fig4>`의 회색 부분). A가 원기둥 $\pi$를 통해 B로 보내는 복사 일률이 이전보다 줄어들었기 때문에 공간의 모든 지점이 냉각됩니다. 이전에는 이 일률이 B가 $\pi$를 통해 A로 보내는 복사 일률과 같았습니다. 결과적으로 B는 이 원기둥으로부터 순 음(-)의 전자기 선속(에너지 흐름)을 받게 되어 B의 온도가 내려갑니다. 거울이 없다면 이 현상은 공간의 모든 지점에 동일하게 적용되어, '차가운 원천'은 따뜻해지고 나머지 공간 전체는 조금씩 식을 것입니다. 방출되는 복사 일률은 절대온도(캘빈)의 네제곱에 비례하므로 이 변화는 꽤 큰 효과를 냅니다.
+하지만 그림과 같이 거울을 배치하고 한쪽 초점에 B를, 다른 쪽 초점에 A를 두면, B는 공간의 다른 지점들과 달라집니다. 이제 회색 관뿐만 아니라 A가 입체각 $\Omega$’ 안으로 방출하는 모든 복사가 거울을 거쳐 똑같이 큰 입체각 $\Omega$ 방향에서 B로 들어오게 됩니다. 따라서 $\Omega$를 통해 B에 도달하는 복사 일률도 함께 감소하는 반면, B는 처음에 여전히 같은 양의 복사를 $\Omega$ 방향으로 방출합니다. 이로 인해 B의 온도는 B 주변의 다른 모든 지점보다 훨씬 빠르게 떨어집니다. B의 입장에서는 마치 A *뿐만 아니라* 왼쪽 거울 전체가 얼음처럼 차가운 것과 마찬가지입니다.
 
 ```{tip}
-As seen in {numref}`Figure {number} <demo51_fig1>` and {numref}`Figure {number} <demo51_fig2>`, we performed the experiment with two aluminum reflectors from old sun lamps, whose shape is far from parabolic. These also lack a clear focal point. We expect a more significant temperature drop with actual parabolic mirrors.
+{numref}`그림 {number} <demo51_fig1>`과 {numref}`그림 {number} <demo51_fig2>`에서 볼 수 있듯이, 우리는 오래된 선램프에서 떼어 낸 알루미늄 반사판 두 개로 실험을 진행했는데, 그 모양이 이상적인 포물면과는 거리가 멀고 뚜렷한 초점도 없습니다. 실제 포물면 거울을 사용하면 훨씬 더 큰 온도 하강을 얻을 수 있을 것으로 기대됩니다.
 ```
 
-## Follow-up
-If an infrared camera is available, the entire demonstration can also be 'photographed' thermally. The following photos support the above explanation, but they can also be used to argue for the existence of cold radiation. After all, the photos show that cold radiation converges at the focal point...
+## 후속 활동
+적외선 카메라가 있다면 시범 실험 전체를 열화상으로 '촬영'해 볼 수도 있습니다. 다음 사진들은 위에서 설명한 원리를 뒷받침하지만, 반대로 차가운 복사가 존재한다는 주장의 근거로 쓰일 수도 있습니다. 어쨌든 사진상으로는 마치 차가운 복사가 초점에 모이는 것처럼 보이기 때문입니다...
 
 ```{figure} B44_LtB03_foto5.jpg
 ---
@@ -119,7 +119,7 @@ width: 50%
 align: center
 name: demo51_fig5
 ---
-The 'radiation source' in the focal point of the emitting mirror; it was 35°C at that moment, hence the 'overheated' mirror.
+방출 쪽 거울의 초점에 놓인 '복사원'. 당시 온도는 35°C였기 때문에 거울이 '과열된' 것처럼 보입니다.
 ```
 
 ```{figure} B44_LtB03_foto6.jpg
@@ -128,7 +128,7 @@ width: 50%
 align: center
 name: demo51_fig6
 ---
-The camera sees a cold spot in the focal point of the receiving mirror.
+카메라가 수신 쪽 거울의 초점에서 차가운 지점을 포착한 모습.
 ```
 
 ```{figure} B44_LtB03_foto7.jpg
@@ -137,11 +137,11 @@ width: 50%
 align: center
 name: demo51_fig7
 ---
-From the right angle, the mirror appears clearly colder than its surroundings, but not from other angles.
+특정 각도에서 바라보면 거울이 주변보다 확연히 차갑게 보이지만, 다른 각도에서는 그렇지 않습니다.
 ```
 
-Determining the focal points can also be part of the demonstration.
-In a classic experiment to illustrate the focal point phenomenon, you use the same two mirrors. A very bright lamp (or heating element) is placed at one focal point, and three matches are placed in front of the other mirror: one with its head precisely at the focal point, and the others a few centimeters in front or behind it. When the lamp is turned on, only the middle match ignites.
+초점을 찾는 과정 자체도 시범 실험의 일부로 포함할 수 있습니다.
+초점 현상을 보여 주는 고전적인 실험에서도 똑같은 두 거울을 사용합니다. 한쪽 초점에 매우 밝은 전구(또는 발열체)를 두고, 다른 쪽 거울 앞에는 성냥 세 개비를 놓습니다. 하나는 머리 부분이 정확히 초점에 오도록 두고, 나머지 두 개는 초점보다 몇 센티미터 앞과 뒤에 둡니다. 전구를 켜면 가운데에 있는 성냥만 불이 붙습니다.
 
 ```{figure} B43_LtB03_conceptcartoon.jpg
 ---
@@ -149,8 +149,7 @@ width: 100%
 align: center
 name: demo51_fig8
 ---
-An illustration to show the students, to let them think about the demonstration. 
+학생들에게 보여 주어 시범 실험에 대해 생각해 보게 하는 삽화.
 ```
 
-For those without parabolic mirrors (or something similar), you could try bending shiny metal strips into parabolas. Such a mirror doesn’t have a focal point but a 'focal line', but it might still work. We haven’t tried it.
-
+포물면 거울(또는 이와 유사한 거울)이 없다면, 광택이 있는 금속 띠를 포물선 모양으로 구부려 시도해 볼 수도 있습니다. 이러한 거울은 초점이 아니라 '초선(focal line)'을 가지지만, 그래도 작동할 가능성이 있습니다. 다만 저희가 직접 시도해 보지는 않았습니다.

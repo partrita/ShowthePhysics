@@ -1,20 +1,20 @@
-# Oscillations and waves
+# 진동과 파동
 
-## Pendulum, period, natural frequencies
-Always take a slinky to class, but if you did not, then you could do one of the following: A pendulum could be made of anything. For example, collect some student bags and show how each of them has its own oscillation period. Show different modes of oscillation of the bags: as a simple pendulum (two perpendicular directions of swing), as a torsion pendulum, etc.
+## 진자, 주기, 고유 진동수
+수업에는 항상 슬링키를 가져가는 것이 좋지만, 깜빡했다면 다음과 같은 활동을 해 볼 수 있습니다. 진자는 무엇으로든 만들 수 있습니다. 예를 들어 학생들의 가방 몇 개를 모아 각 가방마다 고유한 진동 주기가 있음을 보여 주세요. 가방의 여러 진동 모드를 보여 줄 수 있습니다: 단진자(서로 수직인 두 방향의 흔들림), 비틀림 진자 등.
 
-## What affects periods
-By comparing the different bags as pendulums, and by taking things out or putting them inside (torsion pendulum), or changing lengths of straps, demonstrate factors which affect the period of the pendulums. This could also be a short class activity: finding out what affects the period of the "bag" pendulums. Make a list of what influences the period of a simple pendulum and/or what influences the period of a torsion pendulum.
+## 주기에 영향을 미치는 요인
+서로 다른 가방을 진자로 비교하고, 가방에서 물건을 꺼내거나 안에 더 넣거나(비틀림 진자), 끈의 길이를 바꾸어 보면서 진자의 주기에 영향을 미치는 요인을 시연해 보세요. 이는 짧은 학급 활동으로도 활용할 수 있습니다: "가방" 진자의 주기에 무엇이 영향을 미치는지 알아보는 활동입니다. 단진자의 주기에 영향을 미치는 요인과 비틀림 진자의 주기에 영향을 미치는 요인의 목록을 만들어 보세요.
 
-## Rulers and periods
-Take a ruler, make it stick out a bit {numref}`fig_ruler` from the table, let it vibrate and listen, change how much it sticks out, the pitch of the sound produced will change. Students can do this in their seats using their own rulers. Take two equal rulers but now attach some coins to the end of one of them. See what happens to the pitch of the sound and the frequency of the oscillation.
+## 자와 주기
+자를 준비해 {numref}`fig_ruler`처럼 책상 밖으로 조금 튀어나오게 놓은 뒤, 진동시켜 소리를 들어 봅니다. 튀어나온 길이를 바꾸면 나는 소리의 음높이가 달라집니다. 학생들은 자리에 앉아 자기 자를 이용해 직접 해 볼 수 있습니다. 똑같은 자 두 개를 준비해 한쪽 끝에만 동전을 몇 개 붙여 보세요. 소리의 음높이와 진동수에 어떤 변화가 생기는지 확인해 봅니다.
 
 
 ```{figure} images/20250513_115534.*
 :width: 60%
 :name: fig_ruler
 
-Change the mass at the end of the ruler and listen
+자 끝에 붙인 질량을 바꾸고 소리를 들어 보세요
 ```
 
 ```{iframe} https://www.youtube.com/embed/i__wDdiyqwo?si=oRDfJKD38Jj77kDS
@@ -23,23 +23,23 @@ Change the mass at the end of the ruler and listen
 :aspectratio: auto 16 / 9
 :align: center
 
-In slow-motion the difference in frequency can clearly be seen.
+슬로 모션으로 보면 진동수의 차이를 분명히 볼 수 있습니다.
 ```
 
-## Tension and pitch 
-Take a rubber band, stretch it a little, make it vibrate and walk around the classroom to let students hear. Now if I stretch the rubber further, will the pitch increase, decrease, or stay the same? Stretching will increase the tension resulting in a higher pitch, but increasing length will lower the pitch. Decreasing the density per length will also lower the pitch. So the pitch will not change much and be a bit unpredictable (source and photo Wouter Spaan).
+## 장력과 음높이
+고무줄을 조금 당긴 뒤 튕겨 진동시키고, 교실을 돌아다니며 학생들이 소리를 듣게 합니다. 이제 고무줄을 더 세게 당기면 음높이는 높아질까요, 낮아질까요, 아니면 그대로일까요? 고무줄을 당기면 장력이 커져 음높이가 높아지는 효과가 있지만, 길이가 길어지면 음높이가 낮아집니다. 또한 단위 길이당 질량(선밀도)이 감소하면 음높이가 낮아지기도(혹은 변하기도) 합니다. 따라서 음높이는 크게 변하지 않으며 다소 예측하기 어렵습니다(출처 및 사진: Wouter Spaan).
 
-## Resonance 1 with a pendulum
-Make a pendulum of any string and an object as bob. You could even take a computer mouse suspended from its electric wire. Let it swing. Give it a little push every time it reaches one of its two maxima. Resonance between push and pendulum! Or provide the little push after every two swings, or three swings, also that will be resonance which results in increasing the amplitude. Of course, a father or mother can do the same thing with a child on a swing.
+## 공명 1: 진자
+아무 실과 물체 하나로 진자를 만듭니다. 심지어 컴퓨터 마우스를 전선에 매달아 쓸 수도 있습니다. 진자를 흔들리게 한 뒤, 진자가 양쪽 최대 진폭 지점 중 한 곳에 도달할 때마다 살짝 밀어 줍니다. 미는 힘과 진자 사이의 공명입니다! 또는 두 번 흔들릴 때마다, 혹은 세 번 흔들릴 때마다 살짝 밀어 주어도 역시 공명이 일어나 진폭이 커집니다. 물론 부모님이 놀이터에서 그네를 타는 아이를 밀어 줄 때도 똑같은 원리가 적용됩니다.
 
-## Resonance 2 blowing a swinging book to maximum heights
-@Liem1987[p300] demonstrates the principle of resonance with a pocketbook suspended from two strings like a swing (let a student hold the strings). The teacher then holds out the book at 45$^{\circ}$ with the question: "Would I be able to blow against the book until it is this far out 90$^{\circ}$?" The anticipated answer is "NO". Then hang the book vertically and blow with huffs *in phase* with the swings of the book. Of course, this is just like a swing on a playground.
+## 공명 2: 매달린 책을 입으로 불어 최대 높이까지 흔들기
+@Liem1987[p300]는 두 줄에 그네처럼 매단 문고판 책으로 공명의 원리를 시연합니다(학생에게 줄을 잡게 하세요). 그런 다음 교사가 책을 45$^{\circ}$ 각도까지 들어 올린 채 질문합니다. "내가 이 책을 입으로 불어서 이렇게 90$^{\circ}$까지(수평 가까이) 밀어 올릴 수 있을까요?" 예상되는 답은 "아니요"입니다. 이제 책을 수직으로 늘어뜨린 뒤, 책이 흔들리는 주기와 *위상을 맞추어* 훅훅 입김을 불어 줍니다. 물론 이 역시 놀이터 그네와 똑같습니다.
 
-## In phase and out of phase
-Consider the previous pendulum, one can push in phase and there is resonance and the amplitude will increase. One could also push out of phase and the pendulum motion will be disturbed and could even be stopped.
+## 동위상과 역위상
+앞선 진자를 생각해 봅시다. 진동과 같은 위상(동위상)으로 밀면 공명이 일어나 진폭이 커집니다. 반대로 반대 위상(역위상)으로 밀면 진자 운동이 방해를 받아 심지어 멈출 수도 있습니다.
 
-## Collisions of coins
-Have two coins *A* and *B* touching and a third *C* lengthwise at a few cm distance (figure 3). Then shoot *C* towards *B* while pressing *B* down with your finger. If *A* and *B* touch, then the momentum transfers very well to coin *A* even though *B* is not able to move. The transmission mechanism inside coin B must be a wave. *A* can also be put such that it is not quite in line with *CB* but still touching *B*. Also then momentum transfer takes place and A is launched under an angle.
+## 동전의 충돌
+두 동전 *A*와 *B*를 서로 맞닿게 놓고, 세 번째 동전 *C*를 일직선상에서 몇 cm 거리에 둡니다(그림 3). 이제 손가락으로 *B*를 위에서 꾹 누른 채 *C*를 *B* 쪽으로 튕겨 보냅니다. *A*와 *B*가 맞닿아 있다면 *B*가 움직일 수 없는데도 운동량이 동전 *A*로 매우 잘 전달됩니다. 동전 *B* 내부에서 운동량을 전달하는 메커니즘은 파동임에 틀림없습니다. *A*를 *CB*와 완전히 일직선이 되지 않도록, 하지만 여전히 *B*에는 닿도록 비스듬히 놓을 수도 있습니다. 이 경우에도 운동량 전달이 일어나 *A*가 비스듬한 각도로 튕겨 나갑니다.
 
 ```{iframe} https://www.youtube.com/embed/8VUG2Z-j_NQ?si=hR_JjaREoq77-gWs
 :width: 60%
@@ -47,16 +47,15 @@ Have two coins *A* and *B* touching and a third *C* lengthwise at a few cm dista
 :aspectratio: auto 16 / 9
 :align: center
 
-Collision of coins with a small angle
+작은 각도로 놓인 동전의 충돌
 ```
 
 
-## Visualizing a wave with students
-Get 10 students up front each at arm's length from each other. Demonstrate a longitudinal wave by having one student at one end take a step towards his/her neighbor and back, then the next one, etc. A compression propagates accompanied by a rarefaction. Similarly for a rarefaction. Unfortunately, this sometimes takes a little practice. So it could take 5 minutes rather than the 2 for most demo's in this booklet. The slinky might be better, but if you forgot to bring it or if the heating of the room is insufficient and your students are a bit cold, or if the heating is too much and they are sleepy\.... Of course, this way one could also simulate a transverse wave by having students in the line-up step forward or backward out of line. If all of them hold hands, they would even feel the force driving them back to equilibrium.
+## 학생들과 함께 파동 시각화하기
+학생 10명을 앞으로 불러 팔 길이만큼 간격을 두고 한 줄로 세웁니다. 한쪽 끝의 학생이 옆 사람 쪽으로 한 걸음 다가갔다가 돌아오면 그다음 학생이 따라 하는 방식으로 종파를 시연합니다. 밀한 부분이 소한 부분과 함께 전파됩니다. 소한 부분만 먼저 만들어 보낼 수도 있습니다. 아쉽게도 이 시범은 약간의 연습이 필요합니다. 그래서 이 책자의 대부분 시범이 2분 정도 걸리는 것과 달리 5분쯤 걸릴 수 있습니다. 슬링키를 쓰는 편이 더 나을 수 있지만, 슬링키를 깜빡하고 안 가져왔거나, 교실 난방이 부족해 학생들이 추워하거나, 혹은 난방이 너무 과해 졸려 할 때 좋습니다\.... 물론 같은 방식으로 줄 선 학생들이 줄 밖으로 앞뒤로 한 걸음씩 움직이게 하면 횡파도 흉내 낼 수 있습니다. 학생들이 모두 손을 잡고 있다면, 평형 위치로 되돌리려는 복원력까지 직접 느낄 수 있습니다.
 
-## Other
-If there happens to be an OHP in the room and a glass of water or Petri dish, then many demo's on waves are possible: circular waves, reflections, or even interference by using two fingers or pencils as sources. And if there is a beamer, there are many nice video's and simulations of wave phenomena.
+## 기타
+교실에 마침 OHP(오버헤드 프로젝터)와 물이 담긴 유리컵이나 페트리 접시가 있다면 파동에 관한 여러 시범이 가능합니다: 원형파, 반사, 또는 손가락 두 개나 연필 두 자루를 파원으로 이용한 간섭까지 보여 줄 수 있습니다. 그리고 빔프로젝터가 있다면 파동 현상을 보여 주는 훌륭한 영상과 시뮬레이션이 많이 있습니다.
 
-## Beats, Moiré patterns
-These happen when two waves or patterns interfere. For example, two combs on top of each other which have slightly different spacing between the teeth. There are spots where the spaces in between coincide (constructive interference) and spots where the tooth of one comb coincides with the space of the other (destructive interference). When you put two combs at an angle with each other (figures 4 and 5), you get nice patterns. Just borrow combs from the students. The same with lace or transparent curtains and other textiles. This also reminds us of beats for sound waves in which sounds are sometimes in phase and sometimes in opposite phase and this gives variations in the sound intensity.
-
+## 맥놀이, 무아레(Moiré) 무늬
+이는 두 파동이나 무늬가 간섭할 때 나타납니다. 예를 들어 빗살 간격이 약간 다른 빗 두 개를 겹쳐 놓아 보세요. 빗살 사이의 빈틈이 서로 일치하는 곳(보강 간섭)도 있고, 한쪽 빗의 살이 다른 쪽 빗의 빈틈과 겹치는 곳(상쇄 간섭)도 생깁니다. 두 빗을 서로 비스듬한 각도로 겹치면(그림 4와 5) 멋진 무늬가 나타납니다. 학생들에게 빗을 빌려서 해 보세요. 레이스나 반투명 커튼, 그 밖의 직물로도 똑같이 할 수 있습니다. 이는 또한 음파에서 두 소리가 때로는 같은 위상으로, 때로는 반대 위상으로 만나 소리의 세기가 주기적으로 변하는 맥놀이 현상을 떠올리게 합니다.

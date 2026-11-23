@@ -1,24 +1,24 @@
-# Nature of Science 
+# 과학의 본성
 
-As a physics teacher, you are responsible for imparting knowledge to your students, but also for conveying an idea of what natural sciences are and what scientists are trying to accomplish. In an era when (social) media sometimes spread nonsense about science, it is important that as a teacher you counterbalance that. Indeed, wrong ideas about science carry risks, as we saw during the recent corona crisis in which science was sometimes dismissed as "just another opinion" and scientists were even threatened. A good understanding of Ohm's law is important for passing a test, but a correct understanding of the meaning and purpose of science are just as important.
+물리 교사로서 여러분은 학생들에게 지식을 전달할 책임뿐만 아니라, 자연과학이 무엇인지, 그리고 과학자들이 무엇을 성취하고자 하는지에 대한 올바른 관점을 심어 줄 책임도 지니고 있습니다. (소셜) 미디어를 통해 과학에 관한 터무니없는 이야기가 종종 퍼지는 시대에, 교사가 이에 대해 균형을 잡아 주는 일은 매우 중요합니다. 실제로 과학에 대한 잘못된 인식은 큰 위험을 초래할 수 있습니다. 최근 코로나 위기 당시 과학이 "그저 수많은 의견 중 하나"로 치부되거나 심지어 과학자들이 위협을 받았던 사례에서 우리는 이를 똑똑히 보았습니다. 시험을 통과하기 위해 옴의 법칙을 잘 이해하는 것도 중요하지만, 과학의 의미와 목적을 올바르게 이해하는 것 역시 그에 못지않게 중요합니다.
 
-But what image of the natural sciences should you convey as a physics teacher? What characterizes science? How is science different from art or religion, for example? And how do you handle that in your physics lesson? Such questions are discussed in the professional literature under the label "*Nature of Science*" (NoS).
+그렇다면 물리 교사로서 자연과학에 대해 어떤 이미지를 전달해야 할까요? 과학의 특징은 무엇일까요? 예를 들어 과학은 예술이나 종교와 어떻게 다를까요? 그리고 물리 수업에서 이를 어떻게 다루어야 할까요? 이러한 질문들은 전문 문헌에서 "*과학의 본성*(Nature of Science, NoS)"이라는 이름으로 논의되고 있습니다.
 
 ```{figure} Figures/nos.PNG
 ---
 width: 70%
-alt: an AI generated picture with students standing around a black box in a physics classroom.
+alt: 물리 교실에서 블랙박스 주위에 둘러서 있는 학생들을 그린 AI 생성 이미지.
 ---
-Nature of Science activities often include decontextualised Black Box experiments {cite:p}`stadermann2021don`. 'What is inside?' is then the central question, addressing learning goals like 'our knowledge is limited and we cannot always be certain about everything' {cite:p}`pols2021s`.
-Figure created with AI.
+과학의 본성(NoS) 활동에는 종종 탈맥락화된 블랙박스 실험이 포함됩니다 {cite:p}`stadermann2021don`. '안에 무엇이 들어 있을까?'라는 핵심 질문을 통해 '우리의 지식에는 한계가 있으며 모든 것에 대해 항상 확신할 수는 없다'와 같은 학습 목표를 다룹니다 {cite:p}`pols2021s`.
+AI로 생성한 그림.
 ```
 
-## Why focus on NoS in physics class?
-The question of what natural science is -philosophically speaking- can perhaps never be answered satisfactorily for everyone. But for school purposes there is no need for that kind of answer. It is sufficient to teach students important features of natural science on which there is general agreement. When you do so successfully, your students understand what natural science is, what to expect from it and what should not be expected. This should enable students to participate as empowered citizens in societal discussions about issues with a scientific background and to make decisions in their personal lives, for example about vaccinations or environmental issues.
+## 왜 물리 수업에서 과학의 본성(NoS)에 주목해야 하는가?
+자연과학이란 무엇인가라는 질문에 철학적으로 모든 사람이 만족할 만한 답을 내리는 것은 어쩌면 불가능할지 모릅니다. 하지만 학교 교육의 목적에서는 그런 수준의 답이 필요하지 않습니다. 널리 합의된 자연과학의 중요한 특징들을 학생들에게 가르치는 것만으로도 충분합니다. 이를 성공적으로 수행하면, 학생들은 자연과학이 무엇인지, 과학에서 무엇을 기대할 수 있고 무엇을 기대해서는 안 되는지를 이해하게 됩니다. 이는 학생들이 과학적 배경을 가진 사회 문제에 대한 공적 논의에 주체적인 시민으로 참여하고, 예컨대 백신 접종이나 환경 문제와 같은 개인적인 삶의 영역에서도 합리적인 결정을 내릴 수 있도록 해 줄 것입니다.
 
-For the vast majority of students, this "*scientific literacy*" is more important for their future lives than substantive physics knowledge is. In addition, paying attention to NoS can make education more interesting, engaging and motivating for many students. Teaching NoS is worthwhile for that reason alone.
+대다수의 학생들에게 이러한 "*과학적 소양*(scientific literacy)"은 앞으로의 삶에서 단편적인 물리 지식보다 훨씬 더 중요합니다. 게다가 과학의 본성에 관심을 기울이면 많은 학생들에게 수업이 더 흥미롭고, 참여적이며, 동기 부여가 되는 경험이 될 수 있습니다. 그 이유만으로도 과학의 본성을 가르칠 가치는 충분합니다.
 
-Teaching with attention for NoS may be easier than you think. It often merely requires that you avoid doing things you are used to doing. For example, one thing to put off for as long as possible is to give the "right answer". At school ‘knowing the right answer’ often seems to be what is most important, and "wrong answers" are quickly dismissed. In science, however, scientists are constantly searching for possible explanations and seek to convince others of the correctness of their methods and answers. *'Having'* correct answers when doing science is less important than being able to search for answers and to defend the ones you find. To clarify this to students it is better to delay giving the "right answer" at first and focus instead on the process of searching for the most acceptable or best defensible answer. 
+과학의 본성에 주의를 기울여 가르치는 일은 생각보다 쉬울 수 있습니다. 많은 경우 그저 우리가 평소에 하던 습관을 피하는 것만으로도 충분합니다. 예를 들어, 가능한 한 오랫동안 미루어야 할 일 중 하나는 바로 "정답"을 알려 주는 것입니다. 학교에서는 흔히 '정답을 아는 것'이 가장 중요해 보이고 "틀린 답"은 금세 배제되곤 합니다. 하지만 과학에서 과학자들은 끊임없이 가능한 설명을 탐색하며 자신의 방법과 답이 타당함을 다른 사람들에게 설득하고자 합니다. 과학을 수행할 때 정답을 *'갖고 있는 것'*은 답을 찾아내고 자신이 찾은 답을 논리적으로 방어할 수 있는 능력보다 덜 중요합니다. 학생들에게 이 점을 분명히 보여 주려면 처음부터 "정답"을 바로 제시하기를 미루고, 대신 가장 수용 가능하거나 가장 설득력 있게 방어할 수 있는 답을 찾아가는 과정에 초점을 맞추는 것이 좋습니다.
 
 <div style="display: flex; justify-content: center;">
     <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
@@ -32,105 +32,103 @@ Teaching with attention for NoS may be easier than you think. It often merely re
     </div>
 </div>
 <div style="text-align: center;">
-  <i>One of the 'black box' experiments from this book.</i>
+  <i>이 책에 수록된 '블랙박스' 실험 중 하나.</i>
 </div>
 
-## Thoughts and insights
-Customary education often produces conceptions of science that are unrealistic or even detrimental for how students view and value science {cite:p}`mccomas2020principal`. Including NoS in education is meant to address this problem. {numref}`Table {number} <tab:undesirable_conclusions>` provides some examples of messages that customary education may convey and the undesirable conceptions of science that may ensue.
+## 생각과 통찰
+전통적인 교육은 종종 학생들이 과학을 바라보고 평가하는 방식에 있어 비현실적이거나 심지어 해로운 과학관을 심어 줍니다 {cite:p}`mccomas2020principal`. 교육에 과학의 본성을 포함하는 것은 바로 이 문제를 해결하기 위함입니다. {numref}`표 {number} <tab:undesirable_conclusions>`은 기존의 수업이 의도치 않게 전달할 수 있는 메시지와 그로 인해 학생들이 도출할 수 있는 바람직하지 않은 과학관의 몇 가지 예시를 보여 줍니다.
 
-```{list-table} Common undesirable conclusions and beliefs about natural sciences.
+```{list-table} 자연과학에 대해 흔히 나타나는 바람직하지 않은 결론과 통념.
 :header-rows: 1
 :name: tab:undesirable_conclusions
 
-* - Messages that physics classes can unintentionally convey 
-  - Unwanted conclusions students may draw from it
-* - Scientists are not creative: they just follow set rules and methods.
-  - Physics and other natural sciences are boring.
-* - Carefully collected evidence leads to unambiguous and certain knowledge
-  - Scientists cannot interpret data in various ways.
-* - Scientific models represent reality in the best possible way.
-  - If several models exist, only one can be the right one.
-* - Science is universal and scientists are absolutely objective. Therefore, good scientists always agree with each other.
-  - If scientists disagree, we cannot trust them.
+* - 물리 수업이 의도치 않게 전달할 수 있는 메시지
+  - 학생들이 이로부터 이끌어 낼 수 있는 바람직하지 않은 결론
+* - 과학자들은 창의적이지 않으며, 그저 정해진 규칙과 방법을 따를 뿐이다.
+  - 물리학과 여타 자연과학은 지루하다.
+* - 주의 깊게 수집한 증거는 모호함 없는 확실한 지식으로 이어진다.
+  - 과학자들은 데이터를 다양한 방식으로 해석할 수 없다.
+* - 과학 모형은 실재를 가능한 한 가장 완벽한 방식으로 재현한다.
+  - 여러 모형이 존재한다면, 그중 단 하나만이 옳은 모형일 수 있다.
+* - 과학은 보편적이며 과학자들은 절대적으로 객관적이다. 따라서 훌륭한 과학자들은 항상 서로 의견이 일치한다.
+  - 과학자들끼리 의견이 다르다면, 우리는 그들을 신뢰할 수 없다.
 ```
 
-While the above views of science are clearly not desirable, it is not easy to find a suitable alternative in your lesson. It is important, of course, to show that scientists work in a systematic and structured way and that this has enormous advantages. Students also need to know that there are reliable models for carefully describing, explaining and predicting processes and events. There is no need to hide scientists' commitment to consensus and objectivity. But it is truly a shame if we do not also show students that science is, in principle, always open to criticism and improvement. This is not a weakness, but a strength! It is precisely this that makes the growth and development of scientific knowledge possible, and distinguishes the natural sciences from dogmatic and rigid explanatory models.
+위와 같은 과학관이 분명 바람직하지 않기는 하지만, 수업에서 적절한 대안을 찾기란 쉽지 않습니다. 물론 과학자들이 체계적이고 구조화된 방식으로 연구하며 이것이 막대한 이점을 지닌다는 점을 보여 주는 것은 중요합니다. 또한 학생들은 과정과 사건을 면밀히 기술하고 설명하며 예측할 수 있는 신뢰할 만한 모형이 존재한다는 점도 알아야 합니다. 과학자들이 합의와 객관성을 추구한다는 사실을 숨길 필요는 없습니다. 그러나 과학이 원칙적으로 언제나 비판과 개선에 열려 있다는 점을 학생들에게 보여 주지 않는다면 참으로 안타까운 일입니다. 이는 약점이 아니라 강점입니다! 바로 이 점 덕분에 과학적 지식의 성장과 발전이 가능해지며, 자연과학은 교조적이고 경직된 설명 체계와 구별됩니다.
 
-{numref}`Table {number} <tab:char_of_nos>` shows examples of some of the characteristics of NoS about which much has been written in the science educational literature. It includes examples of desired and undesired views for each characteristic. The desirable views reflect the current state of the scientific literature on NoS. The table is not exhaustive, nor is it intended to be given to students, but it is very suitable for reflecting on your own view of NoS.
+{numref}`표 {number} <tab:char_of_nos>`는 과학교육 문헌에서 많이 다루어져 온 과학의 본성(NoS)의 몇 가지 특성 예시를 보여 줍니다. 여기에는 각 특성에 대한 바람직하지 않은 관점과 바람직한 관점의 예시가 포함되어 있습니다. 바람직한 관점은 과학의 본성에 관한 현재 학계의 논의를 반영한 것입니다. 이 표는 모든 내용을 망라한 것이 아니며 학생들에게 그대로 나누어 주기 위한 것도 아니지만, 교사 스스로 과학의 본성에 대한 자신의 관점을 성찰해 보는 데에는 매우 유용합니다.
 
-```{list-table} Characteristics of NoS and undesirable and desirable attitudes.
+```{list-table} 과학의 본성(NoS)의 특성과 바람직하지 않은 태도 및 바람직한 태도.
 :header-rows: 1
 :name: tab:char_of_nos
 
-* - Nature of Science aspect
-  - Example of common view
-  - Example of desired view
-* - The role of observations, experiments and consistency with scientific theories
-  - The only way to gain knowledge is to do experiments. Observations and experiments can prove scientific theories.
-  - Scientists use various methods (including experiments) and mutual exchange to develop scientific knowledge. Observations can support or refute scientific theories, but not prove them.
-* - Scientific theory
-  - Theories are vague conjectures. (In colloquial language the term is often used in this way).
-  - A scientific theory - for example, the theory of relativity - is a coherent structure of validated and generalized accepted explanations of phenomena. (Make students aware of the difference between everyday language and professional language.)
-* - The role of scientific models
-  - Scientific models are faithful copies of reality.
-  - Models are representations designed to explain or predict certain aspects of phenomena. Therefore, different scientific models relating to the same phenomenon exist.
-* - Provisionality of scientific knowledge
-  - Scientific knowledge is certain and immutable.
-  - Scientific knowledge is enduring and reliable but is fundamentally always open to development, change and improvement.
-* - Creativity in science
-  - There is only one step-by-step way for doing scientific inquiry (the scientific method).
-  - There is no such thing as "the scientific method". On the contrary, scientists try to increase scientific knowledge in different ways. This often requires creativity.
-* - Subjectivity in science
-  - Scientists are objective and therefore only one correct interpretation of observations is possible.
-  - Although scientific research strives for independent knowledge, it remains a human product. This means that science is influenced by historical, cultural, social and economic conditions and by personal preferences of researchers. There is a difference between observation and interpretation.
-* - Controversies in science
-  - Fellow researchers immediately recognize and
-accept new scientific knowledge.
-  - Discussions and disagreements about scientific ideas are essential to scientific development. Different interpretations can coexist.
-* - Scientists
-  - Only in Western culture does one practice
-physics. It is only for boys.
-  - People (women and men) from all cultures contribute to science. (Two reasons why we know mostly white men as scientists: Other groups of people were denied access to education, and textbooks usually say little about the influence of scientists from other cultures.)
+* - 과학의 본성 측면
+  - 흔한 관점의 예
+  - 바람직한 관점의 예
+* - 관찰, 실험의 역할 및 과학 이론과의 정합성
+  - 지식을 얻는 유일한 방법은 실험을 하는 것이다. 관찰과 실험은 과학 이론을 증명할 수 있다.
+  - 과학자들은 (실험을 포함한) 다양한 방법과 상호 교류를 통해 과학적 지식을 발전시킨다. 관찰은 과학 이론을 뒷받침하거나 반증할 수는 있지만, 완전히 증명할 수는 없다.
+* - 과학 이론
+  - 이론은 막연한 추측이다. (일상 언어에서는 이 용어가 흔히 이런 의미로 쓰인다.)
+  - 예를 들어 상대성 이론과 같은 과학 이론은 현상에 대해 타당화되고 일반화되어 수용된 설명들이 일관되게 조직된 체계이다. (학생들에게 일상 언어와 전문 용어의 차이를 인식시켜야 한다.)
+* - 과학 모형의 역할
+  - 과학 모형은 실재를 충실하게 복사한 것이다.
+  - 모형은 현상의 특정 측면을 설명하거나 예측하기 위해 고안된 표상이다. 따라서 동일한 현상과 관련해서도 서로 다른 과학 모형이 존재할 수 있다.
+* - 과학 지식의 잠정성
+  - 과학 지식은 확실하고 불변한다.
+  - 과학 지식은 지속적이고 신뢰할 만하지만, 근본적으로 언제나 발전, 변화, 개선에 열려 있다.
+* - 과학에서의 창의성
+  - 과학적 탐구를 수행하는 단계별 방법은 단 하나뿐이다(이른바 '과학적 방법').
+  - 유일한 "과학적 방법"이라는 것은 존재하지 않는다. 오히려 과학자들은 다양한 방식으로 과학 지식을 확장하려 노력한다. 이 과정에는 종종 창의성이 요구된다.
+* - 과학에서의 주관성
+  - 과학자들은 객관적이므로 관찰에 대한 올바른 해석은 단 하나만 가능하다.
+  - 과학 연구는 독립적이고 객관적인 지식을 추구하지만, 여전히 인간의 산물이다. 이는 과학이 역사적, 문화적, 사회적, 경제적 조건과 연구자의 개인적 선호에 영향을 받는다는 뜻이다. 관찰과 해석 사이에는 차이가 있다.
+* - 과학에서의 논쟁
+  - 동료 연구자들은 새로운 과학 지식을 즉각적으로 인정하고 수용한다.
+  - 과학적 아이디어에 대한 토론과 이견은 과학 발전에 필수적이다. 서로 다른 해석이 공존할 수 있다.
+* - 과학자
+  - 서구 문화권에서만 물리학을 연구한다. 물리학은 남학생만을 위한 것이다.
+  - 모든 문화권의 사람들(여성과 남성 모두)이 과학에 기여한다. (우리가 과학자로 주로 백인 남성을 기억하는 데에는 두 가지 이유가 있다. 다른 집단의 사람들은 교육에 대한 접근이 차단되었고, 교과서는 보통 다른 문화권 과학자들의 영향에 대해 거의 다루지 않기 때문이다.)
 ```
 
-## How can you pay attention to NoS in your teaching?
-An excellent start are *Black-Box* activities, especially if they evoke immediate surprise and confusion. In these, you perform some small experiments with a certain object (the *Black- box*). The result is some kind of *output* produced by the *Black-Box*. But the mechanism that produces that output remains hidden. Students should feel that they ought to understand "how it works" and immediately feel the urge to investigate. In a demonstration, you then have excellent opportunities to direct their inquiry and explore together. See for example the NoS activities ['Cylinder puzzle'](../demos/demo70/demo70.md) and [Magic, trick or physics?](../demos/demo71/demo71.md) in this book (both adapted from {cite:t}`lederman1998avoiding`), or check out this English-language website of the <a href="https://edu.rsc.org/resources/black-box/1275.article" target="_blank">Royal Society of Chemistry</a>.
+## 수업에서 과학의 본성(NoS)을 어떻게 다룰 수 있을까?
+훌륭한 출발점은 *블랙박스(Black-Box)* 활동이며, 특히 즉각적인 놀라움과 혼란을 불러일으키는 활동이 좋습니다. 이 활동에서는 특정 물체(*블랙박스*)를 가지고 몇 가지 간단한 실험을 수행합니다. 그 결과 *블랙박스*가 어떤 종류의 *출력*을 만들어 냅니다. 하지만 그 출력을 만들어 내는 내부 메커니즘은 숨겨져 있습니다. 학생들은 "이게 어떻게 작동하는지" 이해하고 싶다는 느낌을 받아야 하며, 즉시 탐구하고 싶은 충동을 느껴야 합니다. 그런 다음 시범 실험을 통해 교사는 학생들의 탐구를 이끌고 함께 탐색할 수 있는 훌륭한 기회를 얻게 됩니다. 예를 들어 이 책에 수록된 과학의 본성 활동인 ['원통 퍼즐'](../demos/demo70/demo70.md)과 [마술, 속임수, 아니면 물리?](../demos/demo71/demo71.md)를 참고하거나(두 활동 모두 {cite:t}`lederman1998avoiding`을 각색한 것입니다), <a href="https://edu.rsc.org/resources/black-box/1275.article" target="_blank">영국 왕립화학회(Royal Society of Chemistry)</a>의 영문 웹사이트를 확인해 보세요.
 
 ```{figure} Figures/cylinder_puzzle.jpg
 ---
 width: 40%
 name: fig:cylinder_puzzle
 align: center
-alt: a yellow cilinder with four knots sticking out
+alt: 매듭 네 개가 삐져나온 노란색 원통
 ---
-Cylinder puzzle as an example of a model of the universe.
+우주의 모형에 비유한 원통 퍼즐 예시.
 ```
 
-Students get a feel for “doing science” when conducting their own inquiry, but tend not to learn NoS  directly from their experience; messages about ‘what science (or scientific knowledge) is’ need to be made explicit. The same is true of student practicals, and even when students participate in real research projects - for example, during internships - they do not automatically and spontaneously develop understanding of the nature of the natural sciences. That development requires that you help students reflect on what they were thinking and doing during the investigation, and to compare that with how scientists think and work. For example, discuss with students why one particular explanation is inferior to or better than another. Discuss, in retrospect, how they made decisions during their investigations. So reflect with students on what they themselves experienced and draw explicit conclusions from that about what science is and how scientists work. Students' own experiences from research then help them give content and meaning to NoS. If you teach NoS as "dry" text to memorize it is soon forgotten.
+학생들은 스스로 탐구를 수행할 때 "과학 하기"에 대한 감각을 얻기는 하지만, 그 경험만으로는 과학의 본성(NoS)을 직접적으로 배우지 못하는 경향이 있습니다. 즉, '과학(또는 과학적 지식)이란 무엇인가'에 대한 메시지는 명시적으로 다루어져야 합니다. 이는 학생 실험 실습에서도 마찬가지이며, 심지어 학생들이 인턴십 등을 통해 실제 연구 프로젝트에 참여하더라도 자연과학의 본성에 대한 이해가 저절로 자발적으로 발달하지는 않습니다. 그러한 이해가 발달하려면, 교사가 학생들로 하여금 탐구 중에 자신이 무엇을 생각하고 행동했는지 되돌아보고 이를 과학자들이 사고하고 연구하는 방식과 비교하도록 도와야 합니다. 예를 들어, 왜 특정 설명이 다른 설명보다 부족하거나 더 나은지 학생들과 토론해 보세요. 탐구 과정에서 어떻게 결정을 내렸는지 돌이켜보며 이야기해 보세요. 이처럼 학생들이 스스로 경험한 바를 함께 성찰하고, 그로부터 과학이 무엇이며 과학자가 어떻게 일하는지에 대한 명시적인 결론을 이끌어 내야 합니다. 그러면 학생들 자신의 연구 경험이 과학의 본성에 내용과 의미를 부여하는 데 도움이 됩니다. 만약 과학의 본성을 외워야 할 "메마른" 텍스트로만 가르친다면 금세 잊히고 말 것입니다.
 
-## Demonstrations as a NoS activity
-Any demonstration and experiment can in principle be made into a NoS activity. There are stable elements that fit into almost all demonstrations. For example, you can ask the following questions about their statements:
-1. *Did you actually see it and really observe it, or infer it from what you saw?* \
-Especially young students tend not to distinguish between observation and interpretation: what you see, what you think it is and what it actually is are not differentiated. In the demonstration called “Magic”, you pour a transparent liquid into a funnel and then collect about the same amount of transparent liquid in a beaker. Is that the same liquid? Is it water? The rest of the demonstration shows that you can’t just assume that it is. What you see may not be what you get.
+## 과학의 본성(NoS) 활동으로서의 시범 실험
+원칙적으로 모든 시범 실험과 탐구 실험은 과학의 본성(NoS) 활동으로 만들 수 있습니다. 거의 모든 시범 실험에 적용할 수 있는 공통된 요소들이 존재합니다. 예를 들어, 학생들의 진술에 대해 다음과 같은 질문을 던질 수 있습니다:
+1. *그것을 정말로 직접 보고 관찰한 것인가요, 아니면 본 것으로부터 추론한 것인가요?* \
+특히 어린 학생들은 관찰과 해석을 구분하지 못하는 경향이 있습니다. 즉, 눈에 보이는 것, 그것이 무엇이라고 생각하는 것, 그리고 실제로 그것이 무엇인지를 구별하지 못합니다. "마술"이라는 시범 실험에서는 깔때기에 투명한 액체를 부은 뒤 비커에 거의 같은 양의 투명한 액체를 받습니다. 그것은 같은 액체일까요? 물일까요? 시범 실험의 나머지 부분은 그저 그렇다고 단정 지을 수 없음을 보여 줍니다. 눈에 보이는 것이 실제와 다를 수 있습니다.
 
-2. *What did you observe? Did others notice that too? Was there anything else you noticed?* \
-Perception is not automatic. It is influenced by your knowledge and expectations. When you know what to look for you see more, and that is true also in science. Fleming's discovery of the effect of penicillin based on some forgotten bacterial cultures is certainly no exception. If you don't tell students what you want them to see but leave that up to them, the variety of observations turns out to be enormous. This is not always desirable, but can help if you want to demonstrate the importance of focused observation in research.
+2. *무엇을 관찰했나요? 다른 사람들도 그것을 보았나요? 그 밖에 알아챈 점이 있나요?* \
+지각은 자동적으로 이루어지지 않습니다. 지각은 우리의 지식과 기대에 영향을 받습니다. 무엇을 찾아야 하는지 알 때 더 많은 것이 보이며, 이는 과학에서도 마찬가지입니다. 잊혀진 세균 배양 접시로부터 페니실린의 효과를 발견한 플레밍의 사례도 결코 예외가 아닙니다. 학생들에게 무엇을 보아야 할지 알려 주지 않고 스스로 보게 두면, 관찰 내용의 다양성은 엄청나게 커집니다. 이것이 언제나 바람직한 것은 아니지만, 연구에서 초점을 맞춘 관찰이 얼마나 중요한지 보여 주고 싶을 때는 도움이 될 수 있습니다.
 
-3. *How did that come about? Can you explain how that happened? Are there any other possible explanations?* \
-In the "Cylinder Puzzle," use students' own descriptions and explanations to discuss NoS. It is important to use a demonstration that is simple enough to allow for students to compare the quality of their explanations.
+3. *어떻게 그런 일이 일어났을까요? 왜 그렇게 되었는지 설명할 수 있나요? 다른 가능한 설명은 없을까요?* \
+"원통 퍼즐"에서는 과학의 본성을 논의하기 위해 학생들 자신의 묘사와 설명을 활용하세요. 학생들이 각자의 설명의 질을 서로 비교할 수 있을 만큼 충분히 단순한 시범 실험을 사용하는 것이 중요합니다.
 
-4. *What can we do to see if your explanation could be correct? How can we test your hypothesis?* \
-An explanation has no value unless it fits the observations. It is stronger if it fits better and excludes more alternatives. Coming up with your own tests for explanations is important and instructive. This is another reason for not forwarding the "right answer” too soon.
+4. *여러분의 설명이 맞을 수 있는지 확인하려면 무엇을 할 수 있을까요? 가설을 어떻게 검증할 수 있을까요?* \
+관찰 결과와 부합하지 않는 설명은 가치가 없습니다. 설명은 관찰과 더 잘 들어맞고 더 많은 대안을 배제할수록 더 강력해집니다. 설명을 검증할 방법을 스스로 고안해 보는 일은 중요하고 교훈적입니다. 이것 역시 "정답"을 너무 일찍 알려 주지 말아야 하는 또 하나의 이유입니다.
 
-5. *Have we now proved with this research that our conclusion is true? (For example, have we proved Hooke's law?)* \
-The concept of scientific proof is tricky. You cannot prove Hooke's law in the same way as the Pythagorean theorem: the latter requires no observations. Moreover, from a finite number of observations you can never logically draw an inference about all the observations yet to come: this is called the 'problem of induction'. Nevertheless, the validity and reliability of the observations in a study contribute to the quality of the conclusion.
+5. *이 연구로 우리의 결론이 참임이 이제 증명되었나요? (예를 들어, 우리가 훅의 법칙을 증명한 것인가요?)* \
+과학적 증명이라는 개념은 까다롭습니다. 훅의 법칙은 피타고라스 정리와 같은 방식으로 증명할 수 없습니다. 피타고라스 정리는 관찰을 필요로 하지 않기 때문입니다. 게다가 유한한 횟수의 관찰로부터 앞으로 일어날 모든 관찰에 대한 추론을 논리적으로 이끌어 낼 수는 결코 없습니다. 이를 '귀납의 문제'라고 부릅니다. 그럼에도 불구하고, 연구에서 이루어진 관찰의 타당도와 신뢰도는 결론의 질에 기여합니다.
 
-As a teacher, the art is in properly assessing when and with which students you can go deeper into a particular feature of NoS. If you are open to it, very useful conversations can arise. For example, discuss that an "experiment" is by definition an investigation in which variables are controlled (i.e., held constant). Such experiments are crucial in physics and chemistry, but in astronomy or paleontology there are other methods of investigation as well. Students may think that scientific knowledge can only be gained from experimental research, but there are all kinds of acceptable scientific research, experiments are only one form. 
-Especially for those who command Dutch: For more engaging and often philosophical questions about NoS that you can use directly in the classroom, check out the Flemish website <a href="http://www.wetenschapsreflex.be/" target="_blank">http://www.wetenschapsreflex.be</a>.
+교사로서의 요령은 어떤 학생들과 어느 시점에 과학의 본성의 특정 측면을 더 깊이 파고들 수 있을지 적절히 가늠하는 데 있습니다. 교사가 열린 자세를 가지면 매우 유익한 대화가 오갈 수 있습니다. 예를 들어, "실험"이란 정의상 변인을 통제(즉, 일정하게 유지)하는 탐구라는 점을 논의해 보세요. 이러한 실험은 물리학과 화학에서는 핵심적이지만, 천문학이나 고생물학에는 또 다른 탐구 방법들이 있습니다. 학생들은 과학적 지식이 오직 실험 연구를 통해서만 얻어진다고 생각할 수 있지만, 타당하게 인정되는 과학 연구에는 여러 종류가 있으며 실험은 그중 한 형태일 뿐입니다.
+네덜란드어를 구사할 수 있는 독자라면, 수업에서 바로 활용할 수 있는 과학의 본성에 관한 흥미롭고 철학적인 질문들을 플랑드르 웹사이트 <a href="http://www.wetenschapsreflex.be/" target="_blank">http://www.wetenschapsreflex.be</a>에서 더 찾아볼 수 있습니다.
 
-And if you want to talk to your students about stereotypes (Why do so many people think science is mainly for white men?), <a href="https://www.nieuwezijds.nl/boek/ongekend/auteur/" target="_blank">Margriet van der Heijden's book "Ongekend"</a> gives fascinating insights into how women were often systematically opposed and how their important contributions to science were forgotten.
+그리고 학생들과 고정관념(왜 그토록 많은 사람들이 과학이 주로 백인 남성의 영역이라고 생각할까?)에 대해 이야기하고 싶다면, <a href="https://www.nieuwezijds.nl/boek/ongekend/auteur/" target="_blank">마르흐릿 판 데르 헤이던(Margriet van der Heijden)의 저서 "Ongekend"</a>가 여성들이 어떻게 체계적으로 배제되었고 과학에 기여한 그들의 중요한 업적이 어떻게 잊혔는지에 대한 매혹적인 통찰을 제공합니다.
 
-## References
+## 참고문헌
 ```{bibliography}
 :filter: docname in docnames
 ```

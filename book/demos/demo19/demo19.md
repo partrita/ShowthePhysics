@@ -1,23 +1,23 @@
-# Merry-go-around of floating candles 
-<span style="font-size: 25px; color: gray;">Lorentz force in liquids</span>
+# 물 위에 뜬 양초 회전목마
+<span style="font-size: 25px; color: gray;">액체 속의 로런츠 힘</span>
 
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Onne Slooten and Ed van den Berg</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">저자:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Onne Slooten, Ed van den Berg</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">10 minutes</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">소요 시간:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">10분</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">15 - 18</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">대상 연령:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">15 - 18세</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">electromagnetism, Lorentz force, ions, current, magnetic field</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">관련 개념:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">전자기학, 로런츠 힘, 이온, 전류, 자기장</td>
     </tr>
 </table>
 
@@ -33,69 +33,69 @@
     </div>
 </div>
 
-Original idea by {cite:t}`Biezeveld`.
+원래 아이디어 출처: {cite:t}`Biezeveld`.
 
-## Introduction
-What is more romantic than a darkened physics classroom with all students lined up around the demonstration table with candles which move like boats in the water, powered by an invisible force? 
+## 소개
+어두운 물리 교실에서 학생들이 시범 실험대 주위에 둘러서서, 보이지 않는 힘에 의해 물 위를 배처럼 움직이는 양초들을 바라보는 것보다 더 낭만적인 장면이 있을까요? 
 
 ```{figure} demo19_figure2.jpg
 ---
 width: 90%
 align: center
 name: demo19_fig2
-alt: left a copper ring in water, two candles floating on it. At right the picture taken from the side only showing the copper ring.
+alt: 왼쪽은 물속의 구리 고리와 그 위에 떠 있는 두 개의 양초. 오른쪽은 옆에서 찍은 사진으로 구리 고리만 보임.
 ---
-The setup with the magnets beneath the bath, the copper ring in the water, the copper button in the middle and two connection wires.
+수조 아래의 자석, 물속의 구리 고리, 중앙의 구리 단추, 그리고 두 개의 연결 도선으로 이루어진 실험 장치.
 ```
 
-## Equipment
-* A transparent container or basin;
-* A flat copper ring of about 1 cm wide and a diameter of about 15 cm;
-* A little block of copper for the center of the container which can be connected to a wire (see preparation);
-* A power source which can supply a current of about 1.0 Ampere;
-* A very strong flat magnet (see preparation);
-* Small partially burned candles which have been shaped such that they will float neatly with the flames upright;
-* Matches or a lighter;
-* A bit of salt to dissolve in the water and make the water conductive.
+## 준비물
+* 투명한 용기 또는 수조
+* 폭 약 1 cm, 지름 약 15 cm의 평평한 구리 고리
+* 용기 중앙에 놓을 도선 연결용 작은 구리 블록(사전 준비 참고)
+* 약 1.0 A의 전류를 공급할 수 있는 전원 장치
+* 매우 강한 평면 자석(사전 준비 참고)
+* 똑바로 서서 잘 뜨도록 모양을 다듬은, 조금 태운 작은 양초들
+* 성냥 또는 라이터
+* 물에 녹여 전도성을 띠게 할 약간의 소금
 
-## Preparation
-1. Make a hole in the middle of the block of copper which would make a tight fit with a standard electric cable. The ring and the block constitute the electrodes in the water. One is connected with the + and the other with the - of the power source.
-2. Use a strong magnet with a large flat surface ({numref}`Figure {number} <demo19_fig2>`) which generates a vertical magnetic field in the container or basin which is put on top of the magnet. The surface area of the magnet should be at least as big as the area of the ring. Strong and reasonably priced magnets are available from [www.supermagnete.com](http://www.supermagnete.com) One could also combine several smaller flat magnets and place them on an iron base.
-3. Prepare the set-up right before conducting the demonstration and try out whether the candles float properly.
-4. Make a diagram of the set-up on the board.
+## 사전 준비
+1. 구리 블록의 중앙에 표준 전선이 꽉 맞게 들어갈 수 있는 구멍을 뚫습니다. 구리 고리와 구리 블록은 물속에서 전극 역할을 합니다. 하나는 전원 장치의 (+)극에, 다른 하나는 (-)극에 연결합니다.
+2. 용기나 수조를 그 위에 올려놓았을 때 수직 방향의 자기장을 만들어 주는 넓고 평평한 표면을 가진 강한 자석({numref}`그림 {number} <demo19_fig2>`)을 사용합니다. 자석의 표면적은 적어도 구리 고리의 면적만큼 넓어야 합니다. 강하고 가격도 합리적인 자석은 [www.supermagnete.com](http://www.supermagnete.com)에서 구할 수 있습니다. 여러 개의 작은 평면 자석을 철판 위에 조합하여 사용할 수도 있습니다.
+3. 시범 실험을 진행하기 직전에 장치를 준비하고 양초가 제대로 뜨는지 시험해 봅니다.
+4. 칠판에 실험 장치의 개략도를 그립니다.
 
 ```{figure} demo19_figure3.png
 ---
 width: 50%
 align: center
-alt: a schematic showing the current, the magnetic field and the resulting Lorentz force.
+alt: 전류, 자기장, 그리고 그 결과로 작용하는 로런츠 힘을 보여주는 개략도.
 ---
-Schematic of the setup with copper ring attached to the +, the copper button in the center connected to the ground, and a 'homogenous' magnetic field. Hence, the candles will move clockwise.
+구리 고리를 (+)극에 연결하고 중앙의 구리 단추를 접지에 연결한 상태에서 '균일한' 자기장이 작용할 때의 실험 장치 개략도. 이에 따라 양초는 시계 방향으로 움직입니다.
 ```
 
-## Procedure
-1.  Invite the students to line up around the demonstration table. Point out the different components of the set-up without telling them what they are going to see. Then light the candles, ask a student to switch off the lights, power the set-up and see .....!
-2.  Now explain the set-up using the diagram on the board.
-3.  Then students return to their seats and answer the following questions on a worksheet:
+## 실험 과정
+1. 학생들을 시범 실험대 주위로 불러 세웁니다. 무엇을 보게 될지는 말하지 않은 채 장치의 각 구성 요소만 짚어 줍니다. 그런 다음 양초에 불을 붙이고, 학생 한 명에게 교실 불을 꺼 달라고 한 뒤 전원을 켜고 관찰합니다...!
+2. 이제 칠판에 그린 개략도를 이용해 실험 장치를 설명합니다.
+3. 그다음 학생들을 자리로 돌아가게 하여 활동지의 다음 질문들에 답하게 합니다:
 ```{exercise}
-1. At three different points in the drawing indicate with arrows the direction of current, magnetic field, and Lorentz force.
-2. Using the vectors drawn, explain the movement of the liquid.
-3. Predict what we will observe when:
-    1. only the direction of the current is reversed,
-    2. only the direction of the magnetic field is reversed,
-    3. both are reversed.
-4. Where would the candles experience the greatest force, near the center or near the edge of the circle? Why? How could you investigate this experimentally?
-5. Does the Lorentz force have the same direction on moving Na$^+$ and Cl$^-$ ions? Explain.
+1. 그림의 서로 다른 세 지점에 전류, 자기장, 로런츠 힘의 방향을 화살표로 표시하시오.
+2. 그린 벡터들을 이용하여 액체의 움직임을 설명하시오.
+3. 다음의 경우 무엇이 관찰될지 예측하시오:
+    1. 전류의 방향만 반대로 바꿀 때,
+    2. 자기장의 방향만 반대로 바꿀 때,
+    3. 둘 다 반대로 바꿀 때.
+4. 양초가 가장 큰 힘을 받는 곳은 원의 중심 근처일까요, 가장자리 근처일까요? 그 이유는 무엇인가요? 이를 실험적으로 어떻게 조사할 수 있을까요?
+5. 이동하는 Na$^+$ 이온과 Cl$^-$ 이온에 작용하는 로런츠 힘의 방향은 같을까요? 설명하시오.
 ```
-4.  Repeat the demonstration to check the answers to questions **C** and **D**.
+4. 질문 **3**과 **4**에 대한 답을 확인하기 위해 시범 실험을 반복합니다.
 
-## Physics background
-As soon as the circuit is powered there will be a current of positive sodium ions from anode to cathode and negative chloride ions from cathode to anode. The Lorentz force acts on both in the same direction perpendicular to the radius of the ring. The water starts rotating and takes along the burning candles. The current density is greatest near the center, hence the water will move faster there.
+## 물리학적 배경
+회로에 전원이 공급되자마자 양이온인 나트륨 이온은 양극에서 음극으로, 음이온인 염화 이온은 음극에서 양극으로 이동하는 전류가 흐릅니다. 로런츠 힘은 두 이온 모두에 대해 고리의 반지름에 수직한 같은 방향으로 작용합니다. 물이 회전하기 시작하면서 타오르는 양초들을 함께 끌고 갑니다. 전류 밀도는 중심 근처에서 가장 크므로, 그곳에서 물이 더 빠르게 움직입니다.
 
-## Follow-up
-The demonstration can be followed by other classical demonstrations of electro-magnetism such as those in {cite:p}`Biezeveld` or by discussion of conceptual questions on electromagnetism like in *Conceptual Physics* {cite:p}`Hewitt`.
+## 후속 활동
+이 시범 실험에 이어서 {cite:p}`Biezeveld`에 소개된 다른 고전적인 전자기학 시범 실험을 진행하거나, *Conceptual Physics* {cite:p}`Hewitt`에 나오는 전자기학 개념 문항들을 토의할 수 있습니다.
 
-## References
+## 참고문헌
 ```{bibliography}
 :filter: docname in docnames
 ```

@@ -1,21 +1,21 @@
-# Writing with a laser using phosphorescence
+# 레이저와 인광을 이용한 글씨 쓰기
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">저자:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Norbert van Veen</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">10 minutes</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">소요 시간:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">10분</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">14 - 18</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">대상 연령:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">14 - 18세</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Phosphorescence, laser, photon energy, excitation, emission</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">관련 개념:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">인광, 레이저, 광자 에너지, 들뜸, 방출</td>
     </tr>
 </table>
 
@@ -23,78 +23,78 @@
 ---
 width: 70%
 align: center
-alt: The letters NVON written using a laser and a phosphorescent surface
+alt: 레이저와 인광 표면을 이용해 쓴 NVON 글자
 ---
-The phosphorescent surface after illumination with a laser (405 nm). 
+레이저(405 nm)를 비춘 후의 인광 표면.
 ``` 
 
-## Introduction
-Phosphorescence (luminescence) is a familiar phenomenon for many students. They recognize this from various "Glow in the Dark" stickers and objects. What they do not know is that a threshold energy is needed to make phosphorescence possible. We do this experiment using several lasers, each with different wavelengths. The intensity (or output power) of the laser makes no difference whether or not the surface will illuminate. We show this by using a He-Ne laser and by spreading the beam using a concave lens.
+## 소개
+인광(발광)은 많은 학생들에게 친숙한 현상입니다. 학생들은 다양한 "야광(Glow in the Dark)" 스티커나 물건에서 이를 본 적이 있습니다. 하지만 학생들이 모르는 사실은 인광이 일어나려면 일정한 문턱 에너지(threshold energy)가 필요하다는 점입니다. 이 실험에서는 서로 다른 파장을 가진 여러 레이저를 사용합니다. 레이저의 세기(또는 출력)는 표면이 빛나는지 여부에 아무런 영향을 미치지 않습니다. 이는 헬륨-네온(He-Ne) 레이저를 사용하거나 오목 렌즈로 빛을 퍼지게 하여 확인할 수 있습니다.
 
-## Equipment
-* ‘Glow in the Dark’ surface (see preparation)
-* 3 laser pointers with different wavelength (red, green and violet)
-* He-Ne Laser
-* A darkened classroom.
+## 준비물
+* '야광(Glow in the Dark)' 표면 (사전 준비 참고)
+* 서로 다른 파장의 레이저 포인터 3개 (빨간색, 초록색, 보라색)
+* 헬륨-네온(He-Ne) 레이저
+* 어두운 교실
 
 ```{warning}
-Adhere to the regular safety rules when using with lasers!
+레이저를 사용할 때는 일반적인 안전 수칙을 반드시 준수하세요!
 ```
 
-## Preparation
-Paint a wooden board (any size) a few times with "glow in the dark" paint. Make sure to keep the board in a dark bag until the room has been darkened. Place the board in front of the classroom and make sure you start with the red, then green and finally the violet laser.
+## 사전 준비
+나무판(크기 무관)에 "야광(glow in the dark)" 페인트를 여러 번 칠합니다. 교실을 어둡게 하기 전까지는 판을 어두운 가방 안에 넣어 보관하세요. 교실 앞에 판을 두고 반드시 빨간색, 초록색, 마지막으로 보라색 레이저 순서대로 실험을 진행하세요.
 
 ```{tip}
-* Provide for a darkened room so that the effect is stronger.
-* There are many webshops which sell “glow-in-the-dark” paint.
+* 효과가 더 잘 보이도록 교실을 어둡게 하세요.
+* “야광(glow-in-the-dark)” 페인트는 여러 온라인 쇼핑몰에서 구입할 수 있습니다.
 ```
 
 ```{figure} demo24_figure1.JPG
 ---
 width: 70%
 align: center
-alt: a white phosphorescent surface
+alt: 들뜨지 않은 상태의 흰색 인광 표면
 ---
-The phosphorescent surface without excitation.
+들뜨기 전의 인광 표면.
 ``` 
 
-## Procedure
-1.	*Today we will try a new kind of pen and school board.* With the violet laser draw some lines on the white wall. As soon as the laser is off, nothing visible remains. *Apparently, our pen does not work well on the wall.*
-2.	*Now write with a laser on the upper left-hand corner of the special board.* Just choose a word that is interesting for the class. Now the letters still light after the laser is off. *That is interesting, writing with a laser!*
-3.	*I have also a green and a red laser and a Helium-Neon laser with high intensity red light. Can we also write with those on this board? Why or why not?* Class discussion, or let students predict individually and discuss predictions and explanations in pairs.
-4.	*Let’s try.* Write on the board with the green and then with red laser. No letters visible after the lasers are turned off.
-5.	*And if we use a much higher intensity?*
-6.	Summarize the results in a table on the board.
-7.	*How can we explain these results?* The expected answer is that “something” is excited by the laser light that then decays while emitting light. That “something” could be atoms of a special paint.
-8.	Presents the four energy schemes of {numref}`Figure {number} <demo24_fig3>` one-by-one and ask: *could this be the proper energy diagram? Why (not?) Which property fits and which one does not?* The alternative is that students in duo’s or trio’s discuss diagrams **A**, **B**, **C**, and **D** and consider to what extent these diagrams can or cannot explain the phenomena.
+## 실험 과정
+1.	*오늘은 새로운 종류의 펜과 칠판을 사용해 보겠습니다.* 보라색 레이저로 흰 벽에 몇 줄을 그어 봅니다. 레이저를 끄자마자 아무것도 보이지 않습니다. *이 펜은 벽에는 잘 써지지 않는 것 같네요.*
+2.	*이제 이 특별한 판의 왼쪽 위 모서리에 레이저로 글씨를 써 봅시다.* 학급에서 흥미로워할 만한 단어를 고르세요. 이제 레이저를 끈 후에도 글자가 계속 빛납니다. *신기하네요, 레이저로 글씨를 쓸 수 있다니!*
+3.	*여기 초록색 레이저와 빨간색 레이저, 그리고 세기가 매우 강한 빨간빛을 내는 헬륨-네온(He-Ne) 레이저도 있습니다. 이 레이저들로도 이 판에 글씨를 쓸 수 있을까요? 그렇게 생각한(또는 그렇지 않다고 생각한) 이유는 무엇인가요?* 학급 전체 토론을 진행하거나, 학생들이 개별적으로 예측한 뒤 짝과 함께 예측과 설명을 논의하게 합니다.
+4.	*직접 해 봅시다.* 판에 초록색 레이저로 먼저 써 보고, 그다음 빨간색 레이저로 써 봅니다. 레이저를 끈 후에는 글자가 보이지 않습니다.
+5.	*그렇다면 훨씬 더 강한 세기의 레이저를 사용하면 어떨까요?*
+6.	결과를 칠판의 표에 정리합니다.
+7.	*이 결과를 어떻게 설명할 수 있을까요?* 기대되는 답변은 레이저 빛에 의해 "무언가"가 들뜬 상태가 되었다가 빛을 방출하며 바닥 상태로 떨어졌다는 것입니다. 그 "무언가"는 특수 페인트의 원자일 수 있습니다.
+8.	{numref}`그림 {number} <demo24_fig3>`의 네 가지 에너지 준위 도표를 하나씩 제시하며 질문합니다: *이것이 올바른 에너지 준위 도표일까요? 왜 그렇거나 그렇지 않을까요? 어떤 성질이 실험 결과와 일치하고, 어떤 성질이 일치하지 않나요?* 또는 학생들이 두세 명씩 짝을 이루어 도표 **A**, **B**, **C**, **D**를 토론하며 이 도표들이 현상을 어느 정도까지 설명할 수 있고 무엇을 설명할 수 없는지 생각해 보게 합니다.
 
 ```{figure} demo24_figure3.jpg
 ---
 width: 70%
 align: center
 name: demo24_fig3
-alt: three different energy schemes showing a photon may fall back to ground state.
+alt: 광자가 바닥 상태로 떨어지는 방식을 보여주는 서로 다른 에너지 준위 도표
 ---
-Different energy schemes to explain the experiment, only one is correct.
+실험을 설명하기 위한 서로 다른 에너지 준위 도표들. 이 중 하나만 옳다.
 ``` 
 
-9. After this exercise with energy levels, students will not have a complete, coherent explanation. There is thus a need for new knowledge. You can now tell that usually emission occurs within 10$^{-8}$ seconds so there should not be any “after glow”. One can see that by shining the violet laser on various objects in the classroom. However, there are 'special' materials such as “glow-in-the-dark” paint which exhibit “after glow”. In these materials there are energy levels which can exist much longer because the transition to a lower level or the ground state (for example level 2 to 1 in example **D** of {numref}`Figure {number} <demo24_fig3>`) is forbidden by certain selection rules. Such levels cannot be reached by direct excitation (from 1 to 2) but only via a higher level (3). Then decay (from 2 to 1) will be very slow and so we will see “after glow”. This phenomenon is called phosphorescence. 
+9. 에너지 준위에 대한 이 활동 이후에도 학생들은 아직 완전하고 일관된 설명을 내놓지 못합니다. 따라서 새로운 지식의 도입이 필요합니다. 보통 빛의 방출은 10$^{-8}$초 이내에 일어나므로 "잔광(afterglow)"이 남지 않아야 한다고 설명해 줍니다. 이는 교실의 여러 물체에 보라색 레이저를 비춰 봄으로써 확인할 수 있습니다. 그러나 "야광(glow-in-the-dark)" 페인트와 같은 '특수한' 물질에는 잔광을 보이는 성질이 있습니다. 이러한 물질에는 낮은 준위나 바닥 상태로의 전이(예: {numref}`그림 {number} <demo24_fig3>`의 예시 **D**에서 준위 2에서 1로의 전이)가 특정 선택 규칙(selection rules)에 의해 금지되어 훨씬 오랫동안 유지될 수 있는 에너지 준위가 존재합니다. 이러한 준위는 직접 들뜸(1에서 2로)으로는 도달할 수 없고, 더 높은 준위(3)를 거쳐서만 도달할 수 있습니다. 그 후(2에서 1로의) 붕괴는 매우 느리게 일어나므로 우리는 "잔광"을 보게 됩니다. 이 현상을 인광(phosphorescence)이라고 합니다.
 
-## Physics background
-Phosphorescence happens when a substance (in our case ZnS doped with Cu) is excited by a light source emitting photons with the right minimum energy, The substance then emits light, which slowly fades out. In the case of the ‘glow in the dark’ paint, the copper ensures that extra metastable energy states exist. These provide an energy difference in order of green light (+/- 500 nm) and for the gradual emission of this light. The afterglow can last for some time.
+## 물리학적 배경
+인광은 어떤 물질(여기서는 구리가 도핑된 황화아연, ZnS:Cu)이 적절한 최소 에너지를 가진 광자를 방출하는 광원에 의해 들뜰 때 일어납니다. 그러면 이 물질은 서서히 어두워지는 빛을 방출합니다. '야광' 페인트의 경우, 구리가 추가적인 준안정(metastable) 에너지 상태를 형성하게 합니다. 이 상태들은 초록색 빛(약 500 nm)에 해당하는 에너지 차이를 만들어 내며, 이 빛이 점진적으로 방출되도록 합니다. 잔광은 상당 시간 동안 지속될 수 있습니다.
 
-```{admonition} Possible explanations of emission with the energy schemes
-In energy scheme **A**, emission should have the same color as the laser light because the distance between energy levels is the same for excitation and emission (levels 1 and 3). 
+```{admonition} 에너지 준위 도표를 이용한 방출 설명
+에너지 준위 도표 **A**에서는 들뜸과 방출의 에너지 준위 간격(준위 1과 3)이 같으므로 방출되는 빛이 레이저 빛과 같은 색이어야 합니다.
 
-In energy scheme **B**, the emission energy is indeed lower (from 3 to 2, green and not blue) but one would also expect emission of violet (directly from 3 to 1). Also, one might expect to cause also excitation with a green laser (directly from 2 to 3) which does not seem to happen.
+에너지 준위 도표 **B**에서는 방출 에너지가 실제로 더 낮지만(파란색이 아니라 초록색에 해당하는 3에서 2로의 전이), 보라색 빛(3에서 1로의 직접 전이)도 함께 방출될 것으로 예상됩니다. 또한 초록색 레이저로도(2에서 3으로 직접) 들뜸을 일으킬 수 있을 것 같지만 실제로는 그렇지 않습니다.
 
-Option **C** seems more likely (level 2 closer to level 3) but also here one would expect emission of both violet (from 3 to 1) and green light (from 2 to 1), and why is there no excitation from 1 to 2 directly with a green laser?
+선택지 **C**는 더 그럴듯해 보이지만(준위 2가 준위 3에 더 가까움), 여기에서도 보라색 빛(3에서 1로)과 초록색 빛(2에서 1로)이 모두 방출될 것으로 예상되며, 왜 초록색 레이저로 1에서 2로 직접 들뜨게 할 수 없는지 설명되지 않습니다.
 ```
 
-## Follow-up
-The emission of the greenish light is temperature dependent {cite:p}`randall1945phosphorescence`, so increasing the temperature will shorten the afterglow. The surface can be cooled or heated to examine this effect.
+## 후속 활동
+초록빛의 방출은 온도에 의존하므로 {cite:p}`randall1945phosphorescence`, 온도를 높이면 잔광 지속 시간이 짧아집니다. 표면을 차갑게 식히거나 가열하여 이 효과를 살펴볼 수 있습니다.
 
-## References
+## 참고문헌
 ```{bibliography}
 :filter: docname in docnames
 ```

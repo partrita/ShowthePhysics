@@ -1,62 +1,61 @@
-# Shadow of a flame 2
-<span style="font-size: 25px; color: gray;">Visualization of heat flow</span>
+# 불꽃의 그림자 2
+<span style="font-size: 25px; color: gray;">열 흐름의 시각화</span>
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">저자:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Freek Pols</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">5 minutes</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">소요 시간:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">5분</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">13-15y</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">대상 연령:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">13~15세</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Density, heat, convection</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">관련 개념:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">밀도, 열, 대류</td>
     </tr>
 </table>
 
-## Introduction
-This is a demonstration that must be seen by everyone because it showcases such beautiful, quickly overlooked physics. Depending on the purpose you choose you can emphasize different aspects.
+## 소개
+이 시범 실험은 우리가 무심코 지나치기 쉽지만 매우 아름다운 물리 현상을 보여주므로 누구나 꼭 보아야 하는 실험이다. 수업 목적에 따라 서로 다른 측면을 강조할 수 있다.
 
 ```{figure} demo74_fig1.jpg
 ---
 width: 70%
 align: center
 ---
-The density current is visible
+밀도류가 눈에 보인다
 ```
 
-## Equipment
-* Tea lights
-* Dark room
-* Strong light source (e.g. phone flashlight)
-* Ice cream
+## 준비물
+* 티라이트(작은 양초)
+* 어두운 방
+* 강한 광원(예: 스마트폰 손전등)
+* 아이스크림
 
-## Preparation
-None
+## 사전 준비
+없음
 
-## Procedure
-Start this demo with the rotating spiral (<a href="https://www.nvon.nl/leswerk/proevenboek-51a-de-draaiende-spiraal" target="_blank">https://www.nvon.nl/leswerk/proevenboek-51a-de-draaiende-spiraal</a>) and let the students explain what is happening. You can also feel the heat flow yourself. Just keep your hand at various places, always the same distance from the flame. You will naturally notice where you feel the heat the most. Then, make the flow visible by darkening the room and holding a bright lamp close to the flame, projecting the flow onto the wall.
+## 실험 과정
+이 시범 실험은 회전하는 나선(<a href="https://www.nvon.nl/leswerk/proevenboek-51a-de-draaiende-spiraal" target="_blank">https://www.nvon.nl/leswerk/proevenboek-51a-de-draaiende-spiraal</a>)으로 시작하여 학생들에게 어떤 일이 일어나고 있는지 설명해 보게 한다. 열의 흐름을 직접 손으로 느껴 볼 수도 있다. 불꽃으로부터 항상 같은 거리를 유지하면서 손을 여러 위치에 대어 보자. 어느 위치에서 열기가 가장 많이 느껴지는지 자연스럽게 알게 될 것이다. 그런 다음 방을 어둡게 하고 불꽃 가까이에 밝은 조명을 비추어 벽에 그림자를 투영함으로써 흐름을 눈으로 볼 수 있게 만든다.
 
-***Provide an explanation for why the flow is visible.***
+***흐름이 눈에 보이는 이유를 설명해 보자.***
 
-It's nice to attach an ice cream to a stand. It also creates an airflow that you can feel by holding your hand close
+아이스크림을 스탠드에 고정해 두는 것도 좋다. 아이스크림 역시 손을 가까이 대면 느낄 수 있는 공기 흐름을 만들어 낸다.
 
-***What direction does the flow have?***
+***이 흐름은 어느 방향을 향하는가?***
 
 ```{figure} demo74_fig2.jpg
 ---
 width: 60%
 align: center
 ---
-The shadow of a flame
+불꽃의 그림자
 ```
 
-## Physics background
-The flame heats the air. The density of the warm air is now lower than that of the surrounding, causing it to rise. Due to the density difference in the air, light passes through different media and undergoes refraction. This can be seen as 'the shadow of the flame'. The density differences and fluctuations in the flow are made visible here. Initially, there is laminar flow, but it becomes turbulent at a certain point. Gently wave your hand and you'll see the laminar flow immediately become turbulent.
-
+## 물리학적 배경
+불꽃은 주변 공기를 가열한다. 따뜻해진 공기는 주변 공기보다 밀도가 낮아져 위로 상승한다. 공기의 밀도 차이로 인해 빛이 서로 다른 매질을 통과하면서 굴절을 겪게 된다. 이것이 바로 '불꽃의 그림자'로 보이는 현상이다. 여기서는 흐름 속의 밀도 차이와 요동이 시각화된다. 처음에는 층류가 나타나지만, 어느 지점에 이르면 난류로 변한다. 손을 부드럽게 흔들어 보면 층류가 즉시 난류로 바뀌는 모습을 볼 수 있다.

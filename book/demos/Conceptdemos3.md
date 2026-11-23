@@ -1,4 +1,4 @@
-# Mechanics
+# 역학
 
 
 ```{tableofcontents}

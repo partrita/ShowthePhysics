@@ -1,4 +1,4 @@
-# Else
+# 기타
 
 ```{tableofcontents}
 ```

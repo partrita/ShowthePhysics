@@ -3,9 +3,15 @@ __pycache__/
 *.py[cod]
 *$py.class
 docs/data/
-!./_build/html/CNAME
-_build/html/
+!./_build/
+book/_git/
+book/_toc_with_local_paths.ymlhtml/CNAME
 _build/
+book/_git/
+book/_toc_with_local_paths.ymlhtml/
+_build/
+book/_git/
+book/_toc_with_local_paths.yml
 .vscode/
 private/
 .ipynb_checkpoints/
@@ -75,6 +81,8 @@ instance/
 
 # Sphinx documentation
 docs/_build/
+book/_git/
+book/_toc_with_local_paths.yml
 
 # PyBuilder
 target/
@@ -116,6 +124,8 @@ ENV/
 .vscode/
 
 _build/
+book/_git/
+book/_toc_with_local_paths.yml
 _additionalinfo/
 ShowthePhysics plagiarism scan.pdf
 

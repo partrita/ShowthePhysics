@@ -1,14 +1,14 @@
-# Preface from the editor
+# 편집자 서문
 
-Demonstrations never got the attention they deserve in my physics classroom. That was until I started working on the Show*de*Fysica books. There were just so many lovely, inspiring and educational demonstrations - made by my fellow authors - that I could use in my own lessons, I got hooked. It is for good reason that the three volumes of Show*de*Fysica are treasured in the Netherlands.
+제가 Show*de*Fysica 시리즈 작업에 참여하기 전까지, 제 물리 수업에서 시범 실험은 마땅히 받아야 할 만큼의 주목을 받지 못했습니다. 동료 저자들이 만든 정말 멋지고 영감을 주며 교육적인 시범 실험들을 접하면서, 저는 제 수업에 바로 활용할 수 있는 이 실험들에 완전히 매료되었습니다. 네덜란드에서 Show*de*Fysica 3부작이 그토록 소중히 여겨지는 데에는 다 이유가 있습니다.
 
-As team of authors, we always believed that these demonstrations well suited a wider audience than the physics teachers from the Netherlands and Vlaanderen. With the completion of the translation of a selection of about 1/3 of the original demonstrations, we finally reach this goal. It has been a tremendous job to translate these demos and make these fit the online book format. That is, we had to redo several demos, video recording these so small clips could be include and include online (for instance) Python simulations as done in this [demo about radioactive decay](../demos/demo97/demo97.ipynb). Moreover, we did our best to even lower barriers to do a full data-analysis using Python, for instance in this [demo about determining $g$](../demos/demo73/demo73.ipynb). 
+저자 팀은 이 시범 실험들이 네덜란드와 플란데런(Vlaanderen)의 물리 교사들뿐만 아니라 더 넓은 독자층에게도 충분히 적합하다고 늘 믿어 왔습니다. 원작 시범 실험 중 약 3분의 1을 선별해 번역을 마침으로써, 우리는 마침내 그 목표에 도달했습니다. 이 시범 실험들을 번역하고 온라인 도서 형식에 맞게 다듬는 일은 실로 엄청난 작업이었습니다. 여러 시범 실험을 다시 수행하여 짧은 영상 클립으로 담을 수 있도록 녹화해야 했고, 예를 들어 이 [방사성 붕괴 시범 실험](../demos/demo97/demo97.ipynb)에서 볼 수 있듯이 온라인 Python 시뮬레이션도 포함해야 했습니다. 또한 이 [$g$ 측정 시범 실험](../demos/demo73/demo73.ipynb)에서처럼 Python을 활용한 본격적인 데이터 분석의 진입 장벽을 한층 더 낮추기 위해 최선을 다했습니다.
 
-We hope that this book may serve as a source of inspiration and captivates you just as it has each member of the author team.
+이 책이 저자 팀 구성원 한 사람 한 사람의 마음을 사로잡았던 것처럼, 여러분에게도 영감의 원천이 되기를 바랍니다.
 
 <div align="right">
 
-Freek Pols *(editor)*\
+Freek Pols *(편집자)*\
 2024 - 07 - 15
 
 </div>
@@ -16,7 +16,7 @@ Freek Pols *(editor)*\
 ```{figure} Figures/FP.JPG
 ---
 width: 70%
-alt: two of the authors doing a physics demonstration at a workshop. Freek is standing on the table.
+alt: 워크숍에서 두 저자가 물리 시범 실험을 진행하고 있다. Freek가 탁자 위에 서 있다.
 ---
-Norbert (left) and Freek (on table) at a workshop on physics demonstrations.
+물리 시범 실험 워크숍에서의 Norbert(왼쪽)와 Freek(탁자 위).
 ```

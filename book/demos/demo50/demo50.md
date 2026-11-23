@@ -1,53 +1,53 @@
-# Strange shadows
+# 기묘한 그림자
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">저자:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Freek Pols & Maarten van Woerkom</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">30 minutes</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">소요 시간:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">30분</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Grade 8</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">대상 연령:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">중학교 2학년 (8학년)</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">straight-line propagation, shadow, similar triangles, light, additive mixing of light, primary color, complementary color</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">관련 개념:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">빛의 직진, 그림자, 닮은 삼각형, 빛, 빛의 가산 혼합, 원색, 보색</td>
     </tr>
 </table>
 
-## Introduction
-When introducing students to the concepts of light, you can conduct increasingly challenging and interesting light demonstrations with simple tools. Here, we first introduce students to the idea of shadow and half-shadow. Then they are introduced to the ideas of mixing colors which can be done in two different ways: subtractive and additive. When you illuminate an object with colored lights, it is called additive mixing.
+## 소개
+학생들에게 빛의 개념을 처음 도입할 때, 간단한 도구를 사용하여 점점 더 도전적이고 흥미로운 빛 시범 실험을 진행할 수 있습니다. 여기서는 먼저 학생들에게 본그림자(shadow)와 반그림자(half-shadow)의 개념을 소개합니다. 그런 다음 색 혼합의 두 가지 방식인 감산 혼합과 가산 혼합의 개념을 다룹니다. 물체에 색깔 있는 빛을 비추어 색을 섞는 것을 가산 혼합(빛의 합성)이라고 합니다.
 
-## Equipment
-* A piece of cardboard the size of an A4 sheet with a hole in it
-* Three lamps on a board.
-* A panel with three lamps, blue, green, and red (these can be bright LEDs or incandescent bulbs with filters). 
-* In front of the panel is a transparent plexiglass plate with a black cardboard mask that has a square cutout. 
-* Various opaque objects are placed in this cutout during the demonstration. The light from the lamps can thus shine through part of the mask. 
-* The light that passes through the mask hits a screen. The screen is covered with tracing paper, which is translucent white paper.
+## 준비물
+* 구멍이 뚫린 A4 크기 판지 한 장
+* 판 위에 고정된 전구 3개
+* 파랑, 초록, 빨강 전구 3개가 달린 패널(밝은 LED나 필터를 씌운 백열전구를 사용할 수 있음)
+* 패널 앞에는 사각형 구멍이 뚫린 검은색 판지 마스크가 붙은 투명 플렉시글라스(아크릴) 판이 설치됨
+* 시범 실험 중에 이 사각형 구멍 안에 다양한 불투명 물체를 놓습니다. 그러면 전구의 빛이 마스크의 일부만 통과하게 됩니다.
+* 마스크를 통과한 빛은 스크린에 닿습니다. 스크린은 반투명한 흰색 종이인 트레이싱지로 덮여 있습니다.
 
 
-## Part 1
+## 1부
 
-## Preparation
-Connect three lamps in parallel. For convenience, you can use a switch to turn each lamp on/off individually. Ensure there is a 5 to 10 cm space between the lamps.
+## 사전 준비
+세 개의 전구를 병렬로 연결합니다. 편리하게 사용하려면 각 전구를 개별적으로 켜고 끌 수 있도록 스위치를 연결하세요. 전구 사이의 간격은 5~10 cm로 유지합니다.
 
 ```{figure} demo50_figure5.png
 ---
 align: center
 name: demo50_fig5
 ---
-A schematic of the setup clearly showing the similar triangle.
+닮은 삼각형을 명확하게 보여 주는 실험 장치 모식도.
 ```
 
-## Procedure
-You start by showing shadows. Hold a piece of cardboard with a (square) hole above a lamp. On the ceiling, you will see a bright area and a dark area. Shadow is there where light rays can not reach.
+## 실험 과정
+먼저 그림자를 보여 주며 시작합니다. 켜진 전구 위에서 (사각형) 구멍이 뚫린 판지를 듭니다. 천장에는 밝은 영역과 어두운 영역이 나타납니다. 그림자는 광선이 도달할 수 없는 곳에 생깁니다.
 
-Then, ask what determines the size of the illuminated rectangle. The students will quickly suggest that the distance from the cardboard to the lamp is important. With a bit of reasoning, they can also figure out that the distance between the lamp and the ceiling is significant. From there, it is a small step to the formula for the magnification factor ($N=\frac{L_B}{L_V} = \frac{b}{v} $).
+그런 다음 빛이 비춰진 사각형의 크기를 결정하는 요소가 무엇인지 질문합니다. 학생들은 금세 판지와 전구 사이의 거리가 중요하다는 점을 떠올릴 것입니다. 조금만 추론을 유도하면 전구와 천장 사이의 거리도 중요하다는 것을 알아낼 수 있습니다. 여기에서 배율 공식($N=\frac{L_B}{L_V} = \frac{b}{v} $)을 이끌어 내는 것은 어렵지 않습니다.
 
 ```{figure} demo50_figure1.jpg
 ---
@@ -55,12 +55,12 @@ width: 70%
 align: center
 name: demo50_fig1
 ---
-Core and penumbra of three lamps. Made visible by three lamps, one cardboard with a rectangular hole, and displayed at the classroom's ceiling.
+전구 세 개에 의한 본그림자와 반그림자. 전구 세 개와 직사각형 구멍이 뚫린 판지 하나를 이용해 교실 천장에 투영한 모습.
 ```
 
-Then turn on a second lamp, creating multiple areas on the ceiling, each with a different shade of gray (penumbra). Let students explain how these different areas form. You can link the phenomenon to a stadium where a single person can have multiple shadows at the same time. Let the students predict what will happen if you turn on a third lamp, as shown in {numref}`Figure {number} <demo50_fig1>`. Now, turn on the third lamp. There will be areas that are completely dark and an area that is very bright. But there will also be intermediate areas that seem gray. These are the penumbra regions.
+이제 두 번째 전구를 켜서 천장에 명암이 서로 다른 여러 회색 영역(반그림자)을 만듭니다. 학생들에게 이 서로 다른 영역들이 어떻게 생기는지 설명해 보게 하세요. 이 현상을 한 사람에게 여러 개의 그림자가 동시에 생기는 경기장 조명과 연결 지어 설명할 수 있습니다. {numref}`그림 {number} <demo50_fig1>`에 나온 것처럼 세 번째 전구를 켜면 어떤 일이 일어날지 학생들에게 예측해 보게 한 뒤, 세 번째 전구를 켭니다. 그러면 완전히 어두운 영역과 매우 밝은 영역이 생깁니다. 또한 그 중간 단계의 회색으로 보이는 영역들도 생기는데, 이 영역들이 바로 반그림자입니다.
 
-## Part 2
+## 2부
 
 ```{figure} demo50_figure2.jpg
 ---
@@ -68,15 +68,15 @@ width: 50%
 align: center
 name: demo50_fig2
 ---
-A schematic of the setup. 
+실험 장치 모식도.
 ```
 
-## Preparation
-The demonstration should be conducted in a well-darkened room. The better the room is darkened, the more vivid the colors will be. The distance between the panel and the holder, as well as the distance between the holder and the screen, should be determined experimentally. Here are some guidelines:
+## 사전 준비
+이 시범 실험은 어둡게 암막 처리가 잘 된 방에서 진행해야 합니다. 방이 어두울수록 색이 더욱 선명하게 보입니다. 패널과 거치대 사이의 거리, 그리고 거치대와 스크린 사이의 거리는 실험을 통해 적절히 조정해야 합니다. 대략적인 기준은 다음과 같습니다.
 
-* The distance between the lamps (or LEDs) on the panel is about 10 cm.
-* The distance between the panel and the holder with the mask is about 20 cm.
-* The distance between the holder and the screen varies between 0 cm and 50 cm.
+* 패널 위 전구(또는 LED) 사이의 거리: 약 10 cm
+* 패널과 마스크가 있는 거치대 사이의 거리: 약 20 cm
+* 거치대와 스크린 사이의 거리: 0 cm~50 cm 사이에서 조절
 
 ```{figure} demo50_figure3.jpg
 ---
@@ -84,16 +84,16 @@ width: 70%
 align: center
 name: demo50_fig3
 ---
-The setup.
+실험 장치의 실제 모습.
 ```
 
-## Procedure
-This setup can reveal a large number of surprising effects from color mixing. When you place an opaque figure in the mask, it will cause a shadow. 
+## 실험 과정
+이 장치를 사용하면 빛의 합성이 만들어 내는 놀라운 효과들을 아주 많이 보여 줄 수 있습니다. 마스크 안에 불투명한 물체를 놓으면 그림자가 생깁니다.
 
-As an example, in {numref}`Figure {number}<demo50_fig4>`, a small black triangle is placed between the lamps and the screen. Almost the entire screen is illuminated by the three lamps. The combined light from the three lamps is white. However, the black triangle blocks the light from the red lamp higher on the screen. Only blue and green light can reach that area, creating cyan. 
+예를 들어 {numref}`그림 {number}<demo50_fig4>`에서는 전구와 스크린 사이에 작은 검은색 삼각형을 놓았습니다. 스크린의 거의 전체 영역은 세 개의 전구에 의해 비춰집니다. 세 전구의 빛이 합쳐지면 흰색이 됩니다. 하지만 검은색 삼각형이 스크린 위쪽으로 가는 빨간색 전구의 빛을 가립니다. 그 영역에는 파란색과 초록색 빛만 도달할 수 있으므로 청록색(시안)이 만들어집니다.
 
-In the lower left of the screen, green is blocked, allowing only blue and red to reach that spot; together, they form purple.
-In the lower right, blue is blocked, allowing only green and red to reach that spot; together, they form yellow.
+스크린의 왼쪽 아래에서는 초록색 빛이 가려져 파란색과 빨간색 빛만 그 지점에 도달하므로, 두 빛이 합쳐져 보라색(자홍색)이 됩니다.
+오른쪽 아래에서는 파란색 빛이 가려져 초록색과 빨간색 빛만 도달하므로, 두 빛이 합쳐져 노란색이 됩니다.
 
 
 ```{figure} demo50_figure4.jpg
@@ -101,51 +101,51 @@ In the lower right, blue is blocked, allowing only green and red to reach that s
 align: center
 name: demo50_fig4
 ---
-An example to make students think about the additive qualities of light. 
+학생들이 빛의 가산 혼합 특성을 생각해 보도록 돕는 예시.
 ```
 
-## Physics background
-### Part 1
-Calculating magnification or the size of a shadow with a point light source is difficult for students. In this demonstration, you develop the formula:
+## 물리학적 배경
+### 1부
+점광원으로 배율이나 그림자의 크기를 계산하는 것은 학생들에게 어렵게 느껴질 수 있습니다. 이 시범 실험에서는 다음 공식을 도출합니다.
 
 $$N=\frac{L_B}{L_V} = \frac{b}{v} $$
 
-You make it clear that the mentioned variables play a role. You show that the magnification depends on these variables. The formula is also covered in math in the second class, but this often does not coincide with the time it is discussed in physics. Coordination is therefore advisable!
+언급된 변수들이 어떤 역할을 하는지 분명히 보여 주고, 배율이 이 변수들에 따라 달라진다는 것을 확인시킵니다. 이 공식은 중학교 2학년(또는 해당 학년) 수학 시간에도 다루어지지만, 물리 시간에 다루는 시기와 일치하지 않는 경우가 많습니다. 따라서 수학 수업과의 진도 조율을 권장합니다!
 
-### Part 2
-The primary colors in additive mixing are Red, Blue, and Green.
-These three names are written with a capital letter each.
-Their complementary colors are Cyan, Yellow, and Magenta. Each of these is made up of two primary colors, which is why they are written with two capital letters.
-The combination of all three primary colors results in WHIte. Written with three capital letters!
-In Table 1, you can see the primary colors and their corresponding complementary colors.
+### 2부
+빛의 가산 혼합에서 삼원색은 빨강(Red), 파랑(Blue), 초록(Green)입니다.
+이 세 색의 영문 표기에는 각각 대문자 하나씩을 사용합니다.
+이들의 보색은 청록(Cyan), 노랑(Yellow), 자홍(Magenta)입니다. 각 보색은 두 가지 원색으로 이루어져 있으므로, 두 글자를 대문자로 표기합니다.
+세 원색을 모두 합치면 흰색(WHIte)이 되며, 세 글자를 대문자로 적습니다!
+표 1에서 원색과 그에 해당하는 보색을 확인할 수 있습니다.
 
-**Table 1**
+**표 1**
 
-| Primary color  | Complementary color | Together |
-|----------------|---------------------|----------|
-| Red            | Cyan                | White    |
-| Blue           | Yellow              | White    |
-| Green          | Magenta             | White    |
-
-
-Table 2 shows the results of combining different light sources.
-
- **Table 2** 
-|                    |           |
-|--------------------|-----------|
-| Blue + Green       | Cyan      |
-| Red + Green        | Yellow    |
-| Red + Blue         | Magenta   |
-| Red + Blue + Green | White     |
-| Red + Cyan         | White     |
-| Blue + Yellow      | White     |
-| Green + Magenta    | White     |
+| 원색 | 보색 | 합쳤을 때 |
+|------|------|-----------|
+| 빨강 | 청록 | 흰색      |
+| 파랑 | 노랑 | 흰색      |
+| 초록 | 자홍 | 흰색      |
 
 
-Various masks are shown in {numref}`Figure {number}<demo50_fig6>`, with their image on the screen for a nearby screen and a far away screen.
+표 2는 서로 다른 광원을 조합했을 때의 결과를 보여 줍니다.
+
+ **표 2** 
+|                    |        |
+|--------------------|--------|
+| 파랑 + 초록        | 청록   |
+| 빨강 + 초록        | 노랑   |
+| 빨강 + 파랑        | 자홍   |
+| 빨강 + 파랑 + 초록 | 흰색   |
+| 빨강 + 청록        | 흰색   |
+| 파랑 + 노랑        | 흰색   |
+| 초록 + 자홍        | 흰색   |
+
+
+{numref}`그림 {number}<demo50_fig6>`에는 다양한 마스크와, 스크린이 가까울 때 및 멀 때 스크린에 맺히는 상이 제시되어 있습니다.
 
 ```{tip}
-There are lovely simulations availble on mixing with light, for instance this <a href="https://phet.colorado.edu/en/simulations/color-vision/about" target="_blank">one from PHET</a>.
+빛의 합성에 관한 훌륭한 시뮬레이션도 있습니다. 예를 들어 <a href="https://phet.colorado.edu/en/simulations/color-vision/about" target="_blank">PhET에서 제공하는 시뮬레이션</a>을 활용할 수 있습니다.
 
 <iframe src="https://phet.colorado.edu/sims/html/color-vision/latest/color-vision_en.html"
         width="800"
@@ -154,27 +154,26 @@ There are lovely simulations availble on mixing with light, for instance this <a
 </iframe>
 ```
 
-In {numref}`Figure {number} 1a <demo50_fig6>`, the upper half of the cutout is blocked with a piece of black cardboard. The light from the three lamps can only pass through the lower half of the mask, so the lower half of the screen is illuminated by the three lamps, making it white, while the upper half is black. However, because the red lamp is positioned lower, there is an area on the screen where only red light reaches, creating a red strip on the screen.
+{numref}`그림 {number} 1a <demo50_fig6>`에서는 구멍의 위쪽 절반이 검은색 판지로 가려져 있습니다. 세 전구의 빛은 마스크의 아래쪽 절반만 통과할 수 있으므로, 스크린의 아래쪽 절반은 세 전구의 빛을 받아 흰색이 되고 위쪽 절반은 검은색이 됩니다. 하지만 빨간색 전구가 아래쪽에 위치해 있기 때문에, 스크린에는 빨간색 빛만 도달하는 영역이 생겨 붉은 띠가 나타납니다.
 
-In {numref}`Figure {number} 2a <demo50_fig6>`, the lower half of the cutout is blocked. The light from the three lamps can now only pass through the upper half of the mask, illuminating the upper part of the screen white, while the lower part remains black. Since the green and blue lamps are positioned higher, there is an area on the screen where no red light reaches, but green and blue do, creating cyan.
+{numref}`그림 {number} 2a <demo50_fig6>`에서는 구멍의 아래쪽 절반이 가려져 있습니다. 이제 세 전구의 빛은 마스크의 위쪽 절반만 통과할 수 있으므로, 스크린의 위쪽 부분은 흰색으로 비춰지고 아래쪽 부분은 검은색으로 남습니다. 초록색과 파란색 전구가 위쪽에 위치해 있으므로, 스크린에는 빨간색 빛은 도달하지 못하고 초록색과 파란색 빛만 도달하는 영역이 생겨 청록색이 만들어집니다.
 
-The masks in {numref}`Figures {number} 1a and 2a<demo50_fig6>` are complementary. If you combine the transparent parts of both, the entire screen becomes white. Similarly, figures 1b and 2b are also complementary. If you combine their illumination, you get a fully white screen. (Since Red and Cyan are complementary.)
+{numref}`그림 {number} 1a와 2a<demo50_fig6>`의 마스크는 서로 보완 관계에 있습니다. 두 마스크의 투명한 부분을 합치면 스크린 전체가 흰색이 됩니다. 마찬가지로 그림 1b와 2b도 서로 보완 관계입니다. 두 빛의 조명을 합치면 완전히 흰색인 스크린을 얻게 됩니다(빨강과 청록이 보색 관계이기 때문입니다).
 
-In the same way, figures 3a and 4a are complementary, as are figures 3b and 4b.
-And also figures 5a and 6a, and their corresponding figures 5b and 6b.
-Increasing the distance between the mask and the screen makes the colored strip wider. This is illustrated in figures 1c through 6c.
+같은 방식으로 그림 3a와 4a가 서로 보완 관계이며, 그림 3b와 4b도 마찬가지입니다.
+그림 5a와 6a, 그리고 이에 대응하는 그림 5b와 6b도 역시 서로 보완 관계입니다.
+마스크와 스크린 사이의 거리를 늘리면 색깔 띠의 폭이 더 넓어집니다. 이 모습은 그림 1c부터 6c까지에 나타나 있습니다.
 
-The mask in figure 7a is a combination of figures 2a, 4a, and 6a. This can be seen from the colors that appear along the black edges in figure 7b. As the distance between the mask and the screen increases, you get figures like 7c to 7e.
-The mask in figure 8a is the complement of figure 7a. Hence, its color effects are also complementary.
+그림 7a의 마스크는 그림 2a, 4a, 6a를 결합한 것입니다. 이는 그림 7b의 검은색 가장자리를 따라 나타나는 색들을 통해 확인할 수 있습니다. 마스크와 스크린 사이의 거리가 멀어질수록 그림 7c에서 7e와 같은 모습을 얻게 됩니다.
+그림 8a의 마스크는 그림 7a의 보완 형태(여집합 형태)입니다. 따라서 색 효과 역시 서로 보색 관계를 이룹니다.
 
 ```{figure} demo50_figure6.jpg
 ---
 width: 100%
 name: demo50_fig6
 ---
-In this series of figures, various masks are shown.
+이 일련의 그림들에는 다양한 마스크와 그에 따른 상이 나타나 있습니다.
 ```
 
-## Follow-up
-The demo [Optics with LEDs](../demo89/demo89.md) provides plenty of follow ups.
-
+## 후속 활동
+시범 실험 [LED를 이용한 광학](../demo89/demo89.md)에서 다양한 후속 활동을 찾아볼 수 있습니다.

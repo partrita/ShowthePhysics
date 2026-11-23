@@ -1,21 +1,21 @@
-# High voltage
+# 고전압
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">저자:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Leo te Brinke</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">30-50 minutes</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">소요 시간:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">30~50분</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Grade 10 and up</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">대상 연령:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">10학년(고등학교 1학년) 이상</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Transformer, electrical power, voltage division, replacement resistance</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">관련 개념:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">변압기, 전력, 전압 분배, 합성 저항</td>
     </tr>
 </table>
 
@@ -23,140 +23,141 @@
 ---
 width: 80%
 align: center
-alt: the setup with a voltage source. Light bulb is off.
+alt: 전원 장치만 연결된 실험 장치 사진. 전구가 꺼져 있다.
 ---
-No light without transformer
+변압기가 없으면 불이 켜지지 않는다
 ```
 
-## Introduction
-A complicated but thorough demonstration showing that electrical energy transport is more efficient at high voltage. Besides the transformer, almost all basic concepts of electricity are discussed.
+## 소개
+다소 복잡하지만, 높은 전압으로 전력을 수송하는 것이 왜 더 효율적인지 철저하게 보여 주는 시범 실험입니다. 변압기뿐만 아니라 전기 단원의 거의 모든 기본 개념을 함께 다루게 됩니다.
 
 ```{warning}
-In simple form, this experiment can also be used in junior school, without too much theory, to show that transforming can be useful. This demonstration cannot be carried out as a student practical because the 'high-voltage line' can carry more than 40 V AC voltage, which can be dangerous.
+이 실험을 단순화하면 중학교 저학년에서도 이론을 많이 다루지 않고 변압이 왜 유용한지 보여 주는 데 활용할 수 있습니다. 다만 '고압 송전선'에 40 V 이상의 교류 전압이 걸려 위험할 수 있으므로 학생이 직접 수행하는 실험으로는 적합하지 않습니다.
 
-Know that this demonstration is carried out in the Netherlands (230V, DC)!
+이 시범 실험은 네덜란드(원문 기준 230V, DC 표기) 환경에서 수행되었다는 점을 유의하세요!
 ```
 
-## Equipment
-* Two demonstration transformers with, if possible, the same transformation ratio (e.g. 50 : 600), or two (preferably equal) mains adapters or bell transformers
-* AC power supply (0-30 V)
-* AC current meter(s) (range at least 0.5 A)
-* AC voltage meter(s), preferably digital with not too small digits (range depends on the transformers, maybe 500 V)
-* Bulb (e.g. 6 V;0.5 A) in socket
-* Long thin wires with a resistance preferably a bit larger than that of the burning bulb (constantan wire 0.20 mm will do)
-* Plug pins and switching or tripod material to build the 'high-voltage line'
-* Various cords, including some very long ones
+## 준비물
+* 가능하면 권선비(변압비)가 같은 시범용 변압기 2대(예: 50 : 600), 또는 (가급적 사양이 같은) 전원 어댑터나 초인종용 변압기 2대
+* 교류 전원 장치 (0~30 V)
+* 교류 전류계 (측정 범위 최소 0.5 A 이상)
+* 교류 전압계 (가급적 숫자가 작지 않은 디지털 방식, 측정 범위는 변압기에 따라 다르며 최대 약 500 V 수준)
+* 소켓에 끼운 전구 (예: 6 V, 0.5 A)
+* 불이 켜진 전구의 저항보다 약간 더 큰 저항값을 갖는 가늘고 긴 전선 (직경 0.20 mm 콘스탄탄선 등)
+* '고압 송전선'을 구성하기 위한 플러그 핀과 스위치 또는 스탠드 부품
+* 매우 긴 전선을 포함한 다양한 연결선
 
-## Preparation
-1.	Build a 'high voltage line' from the two thin wires, 1.5-2 m long (if the demonstration table allows).
-2.	Connect the power supply at one end (AC voltage!) and the light bulb at the other.
-3.	Connect a voltage meter to the source.
-4.	If necessary, prepare a second voltage meter with long cords (must be able to span the length of the high-voltage line).
-5.	Get the two transformers ready in such a way that they can be incorporated into the circuit in no time.
-6.	Prepare two cords as long as the transmission line.
-7.	Have the current meter readily available as well.
+## 사전 준비
+1. 두 가닥의 가는 전선으로 길이 1.5~2 m 정도의 '고압 송전선'을 만듭니다(실험대 크기가 허용하는 범위 내에서).
+2. 한쪽 끝에는 교류 전원 장치를(반드시 교류 전압!), 다른 쪽 끝에는 전구를 연결합니다.
+3. 전원 장치에 전압계를 연결합니다.
+4. 필요하다면 긴 리드선이 달린 두 번째 전압계를 준비합니다(고압 송전선의 전체 길이에 닿을 수 있어야 함).
+5. 두 대의 변압기를 회로에 즉시 끼워 넣을 수 있도록 미리 준비해 둡니다.
+6. 송전선 길이만큼 긴 연결선 두 가닥을 준비합니다.
+7. 전류계도 바로 사용할 수 있도록 가까이 둡니다.
 
 ```{figure} demo94_figure2.jpg
 ---
 width: 70%
 align: center
-alt: same setup but with transformer, light bulb is on.
+alt: 같은 장치에 변압기를 연결한 모습. 전구에 불이 들어와 있다.
 ---
-There is light with transformer
+변압기를 연결하면 불이 켜진다
 ```
 
 ```{figure} demo94_figure3.JPG
 ---
 width: 70%
 align: center
-alt: the same setup but with power lines
+alt: 송전선 모형으로 구성한 동일한 실험 장치 사진
 ---
-Possible in this way as well
+이와 같은 방식으로도 구성할 수 있다
 ```
 
-## Procedure
-Turn this demonstration into a story (a detailed example below); .
+## 실험 과정
+이 시범 실험을 하나의 이야기로 풀어내 보세요(아래에 자세한 예시가 있습니다).
 
-**Energy transport without transformers**
-* *On the left is the power station, on the right is a village or town, in between is the transmission line.* (You can put a piece of paper on the wires in case students in the back don't see them). *The customer should have 6 volts* (depends on the bulb used).
-* Set the power supply to 6 volts (use the voltage meter), and note that the light is not, or just barely, lit. Measure the voltage at the customer's premises: far too low!
-* You can measure the current, calculate the power the customer is getting and the loss rate.
-* Increase the voltage of the power station until the customer does get 6 V; then the power station delivers ... V (measure). The relative loss remains the same.
+**변압기 없이 에너지 수송하기**
+* *왼쪽에는 발전소, 오른쪽에는 마을이나 도시가 있고, 그 사이에는 송전선이 있습니다.* (뒤쪽에 앉은 학생들에게 전선이 잘 보이지 않는다면 전선 위에 종이 조각을 걸쳐 둘 수 있습니다.) *소비자는 6 V의 전압을 받아야 합니다*(사용한 전구에 따라 다름).
+* 전원 장치를 6 V로 설정하고(전압계로 확인) 전구가 전혀 켜지지 않거나 아주 희미하게만 켜지는 것을 확인합니다. 소비자 쪽의 전압을 측정해 보면 턱없이 낮습니다!
+* 전류를 측정하여 소비자가 실제로 공급받는 전력과 손실 비율을 계산해 볼 수도 있습니다.
+* 소비자에게 6 V가 걸릴 때까지 발전소의 전압을 높여 봅니다. 이때 발전소가 공급하는 전압을 측정합니다(... V). 상대적인 손실 비율은 변하지 않습니다.
 
-**Problem analysis**
-* The consumer 'is' in series with the transmission lines; so the voltage distributes across lines and customer load. 
-* Turn down the source to 6 V. Measure the voltage across both lines and the consumer and find that the total is 6 V.
-* So the lines have a too much resistance relative to the consumer. The consumer inevitably has a very small resistance because it is a parallel circuit of countless devices and lamps: that gives a very small replacement resistance.
+**문제 분석**
+* 소비자는 송전선과 직렬로 연결되어 있으므로, 전체 전압이 송전선과 소비자 부하에 나뉘어 걸립니다.
+* 전원 장치의 전압을 다시 6 V로 낮춥니다. 두 송전선과 소비자에 각각 걸리는 전압을 측정하고, 그 합이 6 V가 됨을 확인합니다.
+* 즉, 송전선의 저항이 소비자의 저항에 비해 너무 큽니다. 소비자는 수많은 가전제품과 전등이 병렬로 연결된 회로이므로 필연적으로 합성 저항이 매우 작습니다.
 
-**First solution:**
-* Make the resistance of the line smaller. Replace the thin wires with 'normal' cords (just connect them in parallel), then the problem is solved. On this scale, it can be done, but in reality it is prohibitively expensive....
+**첫 번째 해결책:**
+* 송전선의 저항을 줄입니다. 가는 전선 대신 '일반' 전선으로 교체하면(그냥 병렬로 연결해도 됨) 문제가 해결됩니다. 이 실험실 규모에서는 가능하지만, 실제 규모에서는 비용이 감당할 수 없을 만큼 많이 듭니다...
 
-**Problem analysis**
-* Another way of looking at the problem: If the resistance of the line cannot be easily reduced, then less current must pass through it: The energy loss is $P_{loss}=I^2R$. However, the transmitted power must remain the same. This is possible if we increase the voltage: The power transported is $P=UI$.
+**문제 분석**
+* 문제를 다른 시각에서 바라봅시다. 송전선의 저항을 쉽게 줄일 수 없다면, 송전선을 흐르는 전류를 줄여야 합니다. 에너지 손실(전력 손실)은 $P_{loss}=I^2R$이기 때문입니다. 하지만 수송하는 전력은 그대로 유지되어야 합니다. 이는 수송 전력 $P=UI$에서 전압을 높임으로써 가능해집니다.
 
-**Second solution**
-* Include the two transformers. The first transforms up and the second transforms down. Set the 'power plant' to 6 V again and see that the light does burn properly now. 
-* Measure the voltage at the consumer's side.
-* Measure the voltage at the transmission line and see if that matches (approximately) the transformation ratio.
-* Measure the current through the line (carefully!) and find that it is much smaller than without the transformers, i.e. $I^2R$ is much smaller.
-* Measure the voltage 'across the line' and find that it is also much smaller.  So the voltage drop has become much smaller while the voltage is much larger. (discuss if the voltage is not across the line, where has it gone?) Relatively, that chops double...
+**두 번째 해결책**
+* 두 대의 변압기를 회로에 연결합니다. 첫 번째 변압기는 전압을 높이고(승압), 두 번째 변압기는 전압을 낮춥니다(강압). 다시 '발전소'를 6 V로 맞추고 이제 전구가 제대로 환하게 켜지는 것을 확인합니다.
+* 소비자 측의 전압을 측정합니다.
+* 송전선에 걸리는 전압을 측정하여 변압비와 (대략) 일치하는지 확인합니다.
+* 송전선에 흐르는 전류를 (주의해서!) 측정하고, 변압기가 없을 때보다 훨씬 작아졌음을 확인합니다. 즉, $I^2R$ 손실이 훨씬 작아집니다.
+* '송전선 양단'의 전압 강하를 측정하고 역시 훨씬 작아졌음을 확인합니다. 즉, 송전선 사이의 전압은 훨씬 커진 반면 송전선 자체의 전압 강하는 훨씬 작아진 것입니다(송전선에 전압이 다 걸리지 않았다면 그 전압은 어디로 갔는지 토의해 봅니다). 상대적인 손실로 따지면 이중으로 줄어든 셈입니다...
 
 ```{figure} demo94_figure4ab.jpg
 ---
 width: 100%
 align: center
 ---
-Schematics of both circuits. Top: without the transformers. Bottom: with the transformers.
+두 회로의 회로도. 위: 변압기가 없는 경우. 아래: 변압기가 있는 경우.
 ```
 
-Using the scheme above, one can reason that: 
+위의 회로도를 이용하면 다음과 같이 추론할 수 있습니다:
 
 $$U_2>>U_1 \text{ and } I'<<I; \text{ so } U'_a<<U_a \text{ and } U'_b<<U_b$$
 
-and hence the loss of power (heat) is much less when using a transformer.
+따라서 변압기를 사용하면 열로 손실되는 전력이 훨씬 줄어듭니다.
 
-Finally, discuss the whole circuit again: there are three separate circuits, each with a source and a consumer. If the transformers are ideal, there is only loss in the transmission line.
+마지막으로 전체 회로를 다시 정리해 봅니다. 전체는 각각 전원과 소비자를 포함하는 세 개의 분리된 회로로 이루어져 있습니다. 변압기가 이상적이라면 에너지 손실은 오직 송전선에서만 발생합니다.
 
-If required, everything can then be measured and the whole circuit calculated. For this, the best strategy is to draw the whole circuit, put in all the data and then see where to start calculating.
+필요하다면 회로의 모든 값을 측정하여 전체 회로를 계산해 볼 수도 있습니다. 이때 가장 좋은 전략은 전체 회로도를 그린 뒤 알고 있는 모든 데이터를 기입하고 어디서부터 계산을 시작할지 찾는 것입니다.
 
-```{admonition} Enhancing your story
-To enhance your story you can emphasize that the voltage supply compares to the nearest powerplant, the light at the other side is the school. In some countries (as in the Netherlands), the power lines can be clearly seen, {numref}`Figure {number} <demo94_fig5>`*left*. Smaller transformers are often visible in the streets {numref}`Figure {number} <demo94_fig5>`*right*, one can refer to these.
+```{admonition} 이야기 풍성하게 만들기
+이야기를 더욱 생생하게 만들려면 전원 장치를 가장 가까운 발전소에, 반대쪽 전구를 학교에 비유해 강조할 수 있습니다. 네덜란드와 같은 일부 국가에서는 송전탑과 송전선을 쉽게 볼 수 있으며({numref}`그림 {number} <demo94_fig5>`의 *왼쪽*), 거리 곳곳에서 더 작은 변압기들도 자주 볼 수 있으므로({numref}`그림 {number} <demo94_fig5>`의 *오른쪽*) 이를 언급할 수 있습니다.
 ```
 
 ```{figure} demo94_figure5.jpg
 ---
 width: 90%
 name: demo94_fig5
-alt: powerlines and transformer house as seen near cities.
+alt: 도시 근처에서 볼 수 있는 송전선과 변전소 사진.
 ---
-In the Netherlands you often can see the power lines and the transformers near a city (left). There are smaller transformers in each district (right).
+네덜란드에서는 도시 근처에서 송전선과 변압기(변전 설비)를 흔히 볼 수 있습니다(왼쪽). 각 주거 지역에는 더 작은 변압기들이 설치되어 있습니다(오른쪽).
 ```
 
-## Physics background
-Obviously, the operation of the transformer must be known here, but almost all the basic concepts of electricity automatically come into play. These of course need to be known; the 'new' thing about this experiment is mainly the application. As such, the experiment can be a good repetition and integration exercise, especially if it is also calculated through, or if a good calculation example follows. 
+## 물리학적 배경
+이 실험에서는 당연히 변압기의 작동 원리를 알고 있어야 하지만, 전기 단원의 거의 모든 기본 개념이 자연스럽게 함께 등장합니다. 물론 이러한 기본 개념들은 미리 배운 상태여야 하며, 이 실험에서 '새로운' 점은 주로 그 응용에 있습니다. 따라서 이 실험은 훌륭한 복습 및 통합 학습 활동이 될 수 있으며, 특히 전체를 계산으로 풀어 보거나 좋은 계산 예제를 뒤이어 다룰 때 효과가 큽니다.
 
 ```{tip}
-- If no suitable lamps can be found with the transformers used, a suitable (power) resistor can be used as a load, with a small lamp parallel to it 'for the eye'.
-- Some colleagues have a 'model high voltage' for this demonstration; see photo 3. 
-- If you only want to do the test qualitatively, for example in an undergraduate classroom, you can start by connecting the light directly to the power station and setting it so that the light burns properly. Then the transmission line in between and then the transformers.
-Then you don't have to measure anything at all to still show the principle.
+- 사용 중인 변압기에 알맞은 전구를 찾기 어렵다면, 적절한(고전력) 저항을 부하로 사용하고 '눈으로 확인할 수 있도록' 작은 전구를 그와 병렬로 연결할 수 있습니다.
+- 일부 교사들은 이 시범 실험을 위해 '고전압 송전 모형'을 갖추고 있기도 합니다(사진 3 참고).
+- 예를 들어 중학교 저학년 수업처럼 정성적으로만 실험을 진행하고 싶다면, 먼저 전구를 전원 장치에 직접 연결해 전구가 제대로 켜지도록 전압을 맞춘 뒤, 그사이에 송전선을 넣고, 마지막으로 변압기를 추가하는 순서로 진행할 수 있습니다.
+그러면 수치를 전혀 측정하지 않고도 원리를 충분히 보여 줄 수 있습니다.
 
 ```
-## Follow-up
-There can be plenty of further experimentation, e.g. with different loads, different transformation ratios, different lines. Test this prior to the demonstration.
 
-Several educational additions to the described test are possible:
-- The voltage on the line is dangerously high. Why can you still hold it? But what should you definitely not do? And if you were to ground one point? *A treatise on 'floating' circuits and isolation transformers:* I always have an imaginary 1000 V battery at hand, which I dare to grab on one side...
-- To make it extra clear that the voltage is quite high, you can connect a 230V/60W lamp; it will then glow weakly. Also note that the lamp at the end of the line will then burn more dimly...
-- Introduce the following paradox: \
-*According to the formula $P=I^2R$, the loss decreases because the current decreases when the voltage is transformed upwards. But according to the formula $P=U^2/R$, the power actually increases. What is happening there?* You want to arrive at the following: the voltage 'on the line' is the voltage between the two wires, so the 'high voltage'. The voltage 'across the line' is the difference between the beginning and the end of the line, i.e. the voltage loss. Because there is 'tension across the line', the tension 'on the line' at the end is slightly less than at the beginning.
-- Because it is a series circuit - also with the transformers - the loss percentage can be easily determined by dividing the voltage 'across the line' by the voltage 'on the line'.
-- It can also be discussed that in practice there is only one line: the 'return line' is the earth, whose resistance is negligible. Anyone who still doesn't think it's enough, can explain that thanks to the three phases, in practice there is hardly any return current.
+## 후속 활동
+다양한 부하, 다양한 변압비, 다양한 송전선 등을 활용해 얼마든지 추가 실험을 진행할 수 있습니다. 시범 전에 미리 시험해 보세요.
 
-Below are the results of measurements of the setup shown in the photos in the book. The high-voltage lines consist of two constant wires (0.20 mm diameter) of 1.2 m in length, each with a resistance of 20 Ω. The powers in different places are indicated in red. In the circuit without transformers the efficiency is 7.7%. With transformers the efficiency is 29%, but this is mainly due to the primitive transformers that have an efficiency of approximately 55%; the loss in the line is minimal.
-'Real' transformers have an efficiency of around 80%; toroidal transformers up to 90%.
-Then you have to load them to the maximum, so choose the lamp or load resistor appropriately. But in fact the efficiency of the transformers is not important in this test. As can be seen above, the conclusion remains that the loss in the line is a lot is smaller when using 'high voltage', even with the most primitive transformers upright.
+앞서 설명한 실험에 다음과 같은 교육적 내용을 덧붙일 수도 있습니다:
+- 송전선의 전압은 위험할 정도로 높습니다. 그런데도 왜 한쪽 선을 만질 수 있을까요? 반대로 절대 해서는 안 되는 행동은 무엇일까요? 한 지점을 접지한다면 어떻게 될까요? *'부유(floating) 회로'와 절연 변압기에 관한 심화 내용:* 저는 항상 가상의 1000 V 배터리를 예로 들며 한쪽 극을 만져 보겠느냐고 묻곤 합니다...
+- 전압이 상당히 높다는 것을 더욱 분명히 보여 주려면 230 V / 60 W 전구를 연결해 볼 수 있습니다. 그러면 전구가 희미하게 빛납니다. 또한 송전선 끝에 있는 전구의 불빛이 더 어두워지는 것도 관찰할 수 있습니다...
+- 다음과 같은 역설을 제시해 보세요: \
+*공식 $P=I^2R$에 따르면 전압을 높여 전류가 줄어들면 손실도 줄어듭니다. 그런데 공식 $P=U^2/R$에 따르면 전력(손실)이 오히려 커지는 것처럼 보입니다. 대체 무슨 일이 일어나고 있는 걸까요?* 학생들과 함께 다음 결론에 도달하도록 이끕니다. '송전선에 걸린 전압'은 두 전선 사이의 전압, 즉 '고전압'을 뜻합니다. 반면 '송전선 양단의 전압'은 송전선의 시작점과 끝점 사이의 전위차, 즉 전압 손실(전압 강하)을 의미합니다. '송전선 양단의 전압 강하'가 존재하기 때문에, 끝부분에서 '두 전선 사이의 전압'은 시작 부분보다 약간 더 작아집니다.
+- 변압기가 있는 경우에도 본질적으로는 직렬 회로이므로, '송전선 양단의 전압 강하'를 '송전선 사이의 전압'으로 나누면 손실 비율을 쉽게 구할 수 있습니다.
+- 실제 송전에서는 선이 하나만 있는 경우, '귀환선(return line)' 역할을 하는 것이 대지(earth)이며 대지의 저항은 무시할 수 있다는 점도 논의할 수 있습니다. 이것만으로도 부족하다고 느끼는 학생에게는 3상 교류 덕분에 실제로는 귀환 전류가 거의 흐르지 않는다는 점을 설명해 줄 수 있습니다.
+
+아래는 책의 사진에 나온 실험 장치를 측정한 결과입니다. 고압 송전선은 길이 1.2 m, 직경 0.20 mm의 콘스탄탄선 두 가닥으로 이루어져 있으며 각 가닥의 저항은 20 Ω입니다. 각 지점의 전력은 빨간색으로 표시되어 있습니다. 변압기가 없는 회로의 효율은 7.7%입니다. 변압기를 사용하면 효율이 29%로 높아지는데, 이는 주로 효율이 약 55%에 불과한 초보적인 변압기 때문이며 송전선에서의 손실 자체는 매우 작습니다.
+'실제' 변압기의 효율은 약 80%이며, 토로이달(toroidal) 변압기는 최대 90%에 이릅니다.
+그러려면 변압기에 최대 부하가 걸리도록 전구나 부하 저항을 적절히 선택해야 합니다. 하지만 사실 이 실험에서 변압기의 효율 자체는 중요하지 않습니다. 위에서 볼 수 있듯이, 가장 단순한 변압기를 사용하더라도 '고전압'을 사용하면 송전선에서의 전력 손실이 훨씬 작아진다는 결론은 변함없이 성립합니다.
 
 ```{warning}
-Depending on the power supply and transformers used, voltages of more than 40 V can be put on the line, even hundreds of volts when using mains adapters or bell transformers. So no students near the setup and no more than one hand on the high voltage....
+사용하는 전원 장치와 변압기에 따라 송전선에 40 V 이상의 전압이 걸릴 수 있으며, 전원 어댑터나 초인종용 변압기를 사용할 경우 수백 볼트까지 올라갈 수도 있습니다. 따라서 실험 장치 근처에 학생들이 접근하지 않도록 하고, 고전압 부분을 만질 때는 절대 한 손만 사용하세요(양손으로 만지지 마세요)...
 ```

@@ -1,21 +1,21 @@
-# The returning can
+# 되돌아오는 깡통
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">저자:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Peter Dekkers</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">5-15 minutes</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">소요 시간:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">5-15분</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">14 - 18</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">대상 연령:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">14 - 18세</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Torque, spring energy, kinetic energy, equilibrium</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">관련 개념:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">돌림힘(토크), 탄성 에너지, 운동 에너지, 평형</td>
     </tr>
 </table>
 
@@ -31,79 +31,79 @@
     </div>
 </div>
 
-## Introduction
-This demonstration is meant to evoke fascination and amazement while simultaneously illustrating aspects of [nature of science](../../Pedagogy/Nos.md). Physics in school may seem like a subject where all the answers are already known, and where imagination or creativity have little relevance. But in this 'black box' demonstration, it's about the suggestions, ideas, and solutions that the students come up with. The correct answer is less important.
+## 소개
+이 시범 실험은 경이로움과 호기심을 불러일으키는 동시에 [과학의 본성](../../Pedagogy/Nos.md)의 여러 측면을 보여 주기 위해 고안되었습니다. 학교에서 배우는 물리학은 모든 답이 이미 정해져 있고 상상력이나 창의력이 별 의미가 없는 과목처럼 보일 수 있습니다. 하지만 이 '블랙박스' 시범 실험에서 중요한 것은 학생들이 떠올리는 제안과 아이디어, 그리고 해결책입니다. 정답을 맞히는 것 자체는 덜 중요합니다.
 
-## Equipment
-* Empty can with opaque lid; 
-* Some rubber bands; 
-* A heavy, small object; 
-* Awl or sharp screwdriver.
+## 준비물
+* 불투명한 뚜껑이 있는 빈 깡통;
+* 고무줄 몇 개;
+* 작고 무거운 물체(추);
+* 송곳 또는 뾰족한 드라이버.
 
 ```{figure} demo40_figure1.JPG
 ---
 width: 50%
 align: center
 name: demo40_fig1
-alt: a large can, an elastic band at the side can be seen
+alt: 옆면에 고무줄이 보이는 큰 깡통
 ---
-This can comes back when rolled away.
+이 깡통은 굴려 보내면 다시 되돌아옵니다.
 ```
 
-## Preparation
-* Punch two holes about ½ cm apart in the center of the lid and also in the center of the bottom of the can.
-* Cut one or two rubber bands, thread them through the holes, and tie them tightly to create a taut elastic ring: see {numref}`Figure {number} <demo40_fig2>`.
+## 사전 준비
+* 깡통의 뚜껑 한가운데와 바닥 한가운데에 각각 약 ½ cm 간격으로 구멍을 두 개씩 뚫습니다.
+* 고무줄 한두 개를 잘라 구멍에 끼운 뒤, 팽팽한 고무 고리가 만들어지도록 단단히 묶습니다({numref}`그림 {number} <demo40_fig2>` 참고).
 
 ```{figure} demo40_figure2.jpg
 ---
 width: 50%
 align: center
 name: demo40_fig2
-alt: schematic of inside of the can
+alt: 깡통 내부 구조를 나타낸 모식도
 ---
-Inside of the can: schematic.
+깡통 내부의 모식도.
 ```
 
-* Attach the weight or stone to one side of the ring.
-* Close the lid.
-* Test your setup by carefully but firmly rolling the can away. It should roll a few meters, then stop and return.
-* If needed, try it with a smaller or larger weight and a tighter or looser elastic band until you get the optimal effect. Make sure the weight is hanging in the middle of the can. In the shown example {numref}`Figure {number} <demo40_fig1>`, the weight is the heaviest cap from my socket wrench set.
+* 고무 고리의 한쪽 면에 추나 돌을 매답니다.
+* 뚜껑을 닫습니다.
+* 깡통을 조심스럽지만 힘차게 굴려 보내 장치를 시험해 봅니다. 깡통이 몇 미터쯤 굴러가다가 멈춘 뒤 되돌아와야 합니다.
+* 필요하다면 최적의 효과가 나올 때까지 더 작거나 큰 추를 사용해 보고, 고무줄도 더 팽팽하거나 느슨하게 조절해 보세요. 추는 반드시 깡통의 한가운데에 매달려 있어야 합니다. {numref}`그림 {number} <demo40_fig1>`에 나온 예시에서는 소켓 렌치 세트에서 가장 무거운 소켓을 추로 사용했습니다.
 
-## Procedure
-Roll the can forward on a horizontal, smooth surface. Catch it upon return. Repeat this a few times. Also, start from the other end to show that there is no slope to cause the rolling back. Or use a spirit level to show the floor is level if your students are as critical as those of tester Karin Zeeuwen: standing at the other end doesn't prove anything "because then you also turn the can around."
+## 실험 과정
+평평하고 매끄러운 바닥에서 깡통을 앞으로 굴립니다. 깡통이 되돌아오면 손으로 잡습니다. 이 과정을 몇 번 반복합니다. 또한 바닥이 기울어져서 굴러 돌아오는 것이 아님을 보여 주기 위해 반대쪽 끝에서도 굴려 봅니다. 만약 여러분의 학생들이 실험 검토자 카린 제우언(Karin Zeeuwen)의 학생들처럼 비판적이어서 반대쪽에서 굴리는 것은 "어차피 깡통의 방향도 같이 돌리기 때문에" 아무것도 증명하지 못한다고 말한다면, 수평계를 사용해 바닥이 수평임을 직접 보여 주세요.
 
-Also let it roll without catching it: if configured well the can will roll back and forth several times before stopping. If you roll it away too hard, you usually hear a few bangs inside the can, and it doesn't come back.
+깡통을 잡지 않고 그대로 굴러가게도 해 보세요. 장치가 잘 조정되어 있다면 깡통이 멈추기 전까지 앞뒤로 여러 번 왕복하며 구릅니다. 너무 세게 굴려 보내면 보통 깡통 안에서 쿵쿵거리는 소리가 몇 번 들리고 다시 돌아오지 않습니다.
 
-The next step is about student thinking - do not yet open the can but ask:
-* What do you think is inside this can? Make a drawing of its insides.
-* Explain (to each other) how you think it works, or what makes the can come back.
+다음 단계는 학생들의 사고를 이끌어 내는 과정입니다. 아직 깡통을 열지 말고 다음과 같이 질문하세요:
+* 이 깡통 안에 무엇이 들어 있다고 생각하나요? 내부 모습을 그림으로 그려 보세요.
+* 이것이 어떻게 작동한다고 생각하는지, 즉 무엇 때문에 깡통이 되돌아오는지 (서로에게) 설명해 보세요.
 
-Next discuss the solutions students came up with. Some solutions will be creative, some simpler, others more technical. Which solution is the best from a  scientific point of view? It's likely that each student thinks his or her own solution is the best. But what makes it better, objectively? Which arguments count? Students are often much better at judging the quality of someone else's solution than at judging their own - but in the end it's the arguments that count.
+다음으로 학생들이 생각해 낸 해결책들을 함께 논의합니다. 어떤 해결책은 창의적이고, 어떤 것은 단순하며, 또 어떤 것은 더 공학적일 것입니다. 과학적 관점에서 볼 때 어떤 해결책이 가장 좋을까요? 학생들은 각자 자신의 해결책이 최고라고 생각하기 쉽습니다. 그렇다면 객관적으로 무엇이 그 해결책을 더 낫게 만들까요? 어떤 근거가 타당할까요? 학생들은 대개 자신의 해결책보다 다른 사람의 해결책의 타당성을 판단하는 데 훨씬 능숙하지만, 결국 중요한 것은 합리적인 근거입니다.
 
-Next, you may want to address the role of amazement, imagination, and creativity in science. It's quite strange that the can comes back. Scientists get excited when something odd happens because that means they don't understand it, so there's something to be learned! That's why research is done, which starts with coming up with all sorts of solutions and ideas about how things might work. Scientists usually think their own solutions are the best ones too, and they evaluate each others' work to find the best solutions. Often, they conduct new research as a result of that as well.
+이어서 과학에서 경이로움, 상상력, 창의성이 하는 역할을 다룰 수 있습니다. 깡통이 되돌아오는 것은 꽤 이상한 일입니다. 과학자들은 이상한 현상이 일어나면 흥분을 느낍니다. 아직 이해하지 못했다는 뜻이며, 곧 배울 거리가 있다는 의미이기 때문입니다! 바로 그 때문에 연구가 이루어지며, 연구는 사물이 어떻게 작동하는지에 대한 온갖 해결책과 아이디어를 떠올리는 데서 시작됩니다. 과학자들도 보통 자신의 해결책이 최고라고 생각하며, 가장 나은 해답을 찾기 위해 서로의 연구를 평가합니다. 그리고 그 결과로 새로운 연구를 수행하는 경우도 많습니다.
 
-The best solutions fit what is observable and measurable. For example, it would be odd if the explanation involved an electric motor since the can has no on/off switch or plug. It also helps if the solution is familiar somehow. Are there situations similar to this one, and does the solution resemble what happens there? For example, there might be something like a spring in the can that gets wound up and then unwinds. An explanation that makes use of an elf living in the can is unlikely to be taken serious - most of us have never seen one. The solution can also be built as a model to see if it works. Scientists use these and other methods to find the best solutions.
+가장 좋은 해결책은 관찰 가능하고 측정 가능한 사실과 부합합니다. 예를 들어 깡통에 전원 스위치나 플러그가 없으므로 전동기를 이용한 설명은 어색할 것입니다. 또한 해결책이 어떤 면에서 익숙한 원리와 연결되어 있다면 도움이 됩니다. 이와 비슷한 상황이 있는지, 그리고 제안된 해결책이 그 상황에서 일어나는 일과 유사한지 생각해 볼 수 있습니다. 예를 들어 깡통 안에 태엽 같은 것이 있어서 감겼다가 다시 풀린다고 생각할 수 있습니다. 반면 깡통 속에 요정이 살고 있다는 식의 설명은 진지하게 받아들여지기 어렵습니다. 우리 대부분은 요정을 본 적이 없기 때문입니다. 또한 해결책을 모형으로 직접 만들어 실제로 작동하는지 확인해 볼 수도 있습니다. 과학자들은 이러한 방법들을 비롯해 여러 수단을 동원해 최선의 해답을 찾습니다.
 
-Scientists are never entirely sure of their solutions. Your class can be sure of the correct solution when you open the can and see the mechanism that is behind it. But, for example, you can't open up the Earth to see how gravity works or an electron to see what electricity really is. In general, the world is often like a returning can that can never be opened. Therefore physics knowledge is never absolutely true and certain; in principle, someone can always come up with a better solution to replace the old one. For example, because it describes observations of gravitational or electric phenomena more precisely.
+과학자들은 자신의 해결책을 결코 100% 확신할 수 없습니다. 수업에서는 깡통을 열어 그 뒤에 숨은 장치를 직접 보면 정확한 해답을 확신할 수 있습니다. 하지만 예를 들어 중력이 어떻게 작동하는지 보기 위해 지구를 열어 볼 수는 없고, 전기가 실제로 무엇인지 보기 위해 전자를 열어 볼 수도 없습니다. 대체로 세상은 결코 열어 볼 수 없는 '되돌아오는 깡통'과 같습니다. 따라서 물리학 지식은 절대적으로 참이거나 완전히 확정적인 것이 아니며, 원칙적으로 누군가가 기존의 설명을 대체할 더 나은 해답을 언제든 제시할 수 있습니다. 예를 들어 중력이나 전기 현상에 대한 관찰 결과를 더 정밀하게 기술하는 설명이 나올 수 있기 때문입니다.
 
 ```{figure} demo40_figure3.jpg
 ---
 width: 50%
 align: center
 name: demo40_fig3
-alt: the schematic illustrating how torque provides the explanation of the can rolling back
+alt: 돌림힘(토크)을 통해 깡통이 되돌아오는 원리를 설명하는 모식도
 ---
-Explanation - torque explains the return.
+원리 설명 - 돌림힘(토크)이 되돌아오는 현상을 설명합니다.
 ```
 
-## Physics background
-Inside the can an elastic band is suspended with a weight attached to one side (on the left in {numref}`Figure {number} <demo40_fig3>`). When rolling the can forward, the two sides of the elastic band wind up around each other because the weight doesn't rotate along but remains hanging in the middle. The elastic band tightens, causing the weight to be pulled upward and backward. When the can reaches the farthest point, the elastic band is wound up, and the weight hangs behind the point where the can touches the ground (on the right in {numref}`Figure {number} <demo40_fig3>`). This creates a backward torque relative to that pivot point. Thus, the can begins to roll back.
+## 물리학적 배경
+깡통 내부에는 한쪽에 추가 매달린 고무줄이 걸려 있습니다({numref}`그림 {number} <demo40_fig3>`의 왼쪽). 깡통을 앞으로 굴리면 추는 함께 회전하지 않고 가운데에 매달린 채 유지되므로 고무줄의 양쪽 가닥이 서로 꼬여 감깁니다. 고무줄이 팽팽해지면서 추가 위쪽 뒤편으로 당겨집니다. 깡통이 가장 먼 지점에 도달했을 때 고무줄은 감겨 있고, 추는 깡통이 바닥에 닿는 지점보다 뒤쪽에 매달리게 됩니다({numref}`그림 {number} <demo40_fig3>`의 오른쪽). 이로 인해 그 접촉점(회전축)에 대해 뒤쪽 방향의 돌림힘(토크)이 발생합니다. 따라서 깡통이 다시 굴러 돌아오기 시작합니다.
 
-If you don't catch the can, this process repeats in the opposite direction. If you roll it away too hard, the weight will be pulled over the elastic band a couple of times (banging against the can's sides), the elastic band unwinds partially, and the can won't roll back (completely).
+깡통을 잡지 않으면 이 과정이 반대 방향으로도 반복됩니다. 만약 깡통을 너무 세게 굴려 보내면 추가 고무줄을 넘어 몇 바퀴 돌아버리면서(깡통 안쪽 벽에 부딪히는 소리가 남) 고무줄이 부분적으로 풀려 깡통이 (완전히) 되돌아오지 않게 됩니다.
 
 ```{tip}
-Store the can for reuse. Releasing the tension from the elastic band slows its deterioration.
+재사용할 수 있도록 깡통을 보관해 두세요. 고무줄의 장력을 풀어 두면 탄성이 약해지는 속도를 늦출 수 있습니다.
 ```
 
-## Follow-up
-Possible homework assignment before discussing the actual solution: try by yourself or as a group to make a can that rolls back on its own. It's advisable to provide cans with holes for that.
+## 후속 활동
+실제 원리를 논의하기 전에 내줄 수 있는 과제 예시: 혼자서 또는 모둠별로 스스로 굴러 돌아오는 깡통을 직접 만들어 보세요. 이를 위해 미리 구멍을 뚫은 깡통을 제공해 주는 것이 좋습니다.

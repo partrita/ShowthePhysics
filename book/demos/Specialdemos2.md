@@ -1,4 +1,4 @@
-# to be discarded
+# 삭제 예정
 
 ```{tableofcontents}
 ```

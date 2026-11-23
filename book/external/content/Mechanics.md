@@ -1,7 +1,7 @@
-# Mechanics
+# 역학
 
-## Free fall and independence of mass 
-Break a piece of chalk into a small and a big piece and keep them between thumb and index finger such that the lowest ends are at the same level. Ask students to predict which one will hit the floor first if released simultaneously. Discuss predictions and reasons. Then let go, repeat until all observers agree. Explain. Alternatively use big and small coins or stones on your hand and pull your hand away from under the stones.
+## 자유 낙하와 질량 독립성
+분필 한 개를 작은 조각과 큰 조각으로 부러뜨린 뒤, 두 조각의 아래쪽 끝이 같은 높이에 오도록 엄지와 검지 사이에 잡습니다. 동시에 놓으면 어느 쪽이 바닥에 먼저 닿을지 학생들에게 예측해 보라고 합니다. 예측과 그 이유를 토의합니다. 그런 다음 손을 놓고, 관찰자 모두가 동의할 때까지 반복한 뒤 설명합니다. 또는 크기가 다른 동전이나 돌을 손바닥 위에 올려놓고 손바닥을 돌 아래에서 빠르게 빼내어 보여 줄 수도 있습니다.
 
 ```{iframe} https://youtube.com/embed/NjCsFRE8HA0
 :width: 60%
@@ -9,37 +9,37 @@ Break a piece of chalk into a small and a big piece and keep them between thumb 
 :aspectratio: auto 16 / 9
 :align: center
 
-Can we accelerate our hands more than g?
+우리 손을 g보다 크게 가속할 수 있을까요?
 ```
 
-## Can we accelerate our hands more than g? Proof it!
-Ask the question, let students answer, good chance they come up with a matching experiment. Easy actually, hold your hand flat with a stone or anything on it, then move the hand quickly down. The stone or other objects will be slower, there will be space between the objects and your hand. Students can do this in their seats. Make sure the hands are only accelerated down and not first up.
+## 손을 g보다 크게 가속할 수 있을까요? 증명해 봅시다!
+질문을 던지고 학생들이 답하게 하면, 이에 알맞은 실험을 떠올릴 가능성이 큽니다. 실제로 매우 간단합니다. 손바닥을 편 채 돌이나 아무 물체나 올려놓고 손을 아래로 빠르게 내리세요. 돌이나 다른 물체는 손보다 느리게 떨어지므로, 물체와 손 사이에 틈이 생깁니다. 학생들은 자리에 앉은 채로도 해 볼 수 있습니다. 이때 손을 위로 먼저 올리지 말고 오직 아래로만 가속하도록 주의하세요.
 
-## Fall and Air Drag 
-Now let a sheet of paper drop. It swirls and drops slowly. Then crumple it, it drops almost as fast as a coin. Then take ½ A4 and put it on top of a book and drop the book. Paper and book will reach the floor at the same time! This happens even if you fold the paper in a tent shape so there is some air between the middle of the paper and the book. No need for the awkward vacuum tube to show that feather and lead ball fall equally fast.
+## 낙하와 공기 저항
+이제 A4 용지 한 장을 떨어뜨려 보세요. 종이는 팔랑거리며 천천히 떨어집니다. 다음에는 종이를 구겨서 떨어뜨리면 동전만큼이나 빠르게 떨어집니다. 이번에는 A4 용지 반 장을 책 위에 올려놓고 책을 떨어뜨려 보세요. 종이와 책이 바닥에 동시에 닿습니다! 종이를 텐트 모양으로 접어 종이 가운데와 책 사이에 공기가 조금 들어가게 해도 마찬가지입니다. 깃털과 납구슬이 똑같이 빠르게 떨어진다는 것을 보여 주기 위해 번거로운 진공관을 사용할 필요가 없습니다.
 
 ```{figure} images/20250513_090908.jpg
 :width: 60%
 :name: fig_908
 
-What will happen if you drop a paper on top of a book?
+책 위에 종이를 올려놓고 떨어뜨리면 어떻게 될까요?
 ```
 
-## Paper baskets 
-From one half A4, it is easy to fold a rectangular basket and staple it and add unused parts of the half A4 into the basket. A sheet of paper swirls down. However, the basket falls with an almost constant velocity. It is possible to convert this demonstration into a laboratory investigation in which students could investigate the influence of area and mass of the paper basket on the time it needs to fall from a certain height. A first approximation could be the formula $t = \frac{h\cdot A}{m}$, so one would predict that doubling height $h$ or doubling area $A$ would result in doubling the fall time $t$. These predictions can be checked by holding an area $2A$ basket at half the height of the area $A$ basket, release them and they should reach the floor at about the same time if the model is correct. For area it appears to fit, or would the air friction scale with $v^2$ rather than $v$? However, for mass $t$ scales with $m^{-½}$ No stopwatch needed. An early version of this experiment can be found in @rogers2011physics [pg.167] famous book *Physics for the Inquiring Mind*.
+## 종이 바구니
+A4 용지 반 장으로 직사각형 바구니를 쉽게 접어 스테이플러로 고정하고, 남은 종이 조각은 바구니 안에 넣을 수 있습니다. 그냥 종이 한 장은 팔랑거리며 떨어지지만, 종이 바구니는 거의 일정한 속력으로 떨어집니다. 이 시범 실험을 학생들이 특정 높이에서 떨어질 때 바구니의 넓이와 질량이 낙하 시간에 미치는 영향을 탐구하는 실험실 탐구 활동으로 전환할 수도 있습니다. 1차 근사식으로 $t = \frac{h\cdot A}{m}$를 생각해 볼 수 있으며, 이에 따르면 높이 $h$를 두 배로 하거나 넓이 $A$를 두 배로 하면 낙하 시간 $t$도 두 배가 될 것이라고 예측할 수 있습니다. 이 예측은 넓이 $2A$인 바구니를 넓이 $A$인 바구니의 절반 높이에 들고 동시에 놓아, 모형이 맞다면 두 바구니가 거의 동시에 바닥에 닿는지 확인함으로써 검증할 수 있습니다. 넓이에 대해서는 식이 잘 맞는 것처럼 보이지만, 공기 마찰이 $v$가 아니라 $v^2$에 비례할 수도 있지 않을까요? 실제로 질량에 대해서는 $t$가 $m^{-½}$에 비례합니다. 초시계는 필요하지 않습니다. 이 실험의 초기 형태는 @rogers2011physics [pg.167]의 유명한 저서 *Physics for the Inquiring Mind*에서 찾아볼 수 있습니다.
 
 ```{figure} images/20250513_091205.jpg
 :width: 60%
 :name: fig_205
 
-Which basket is faster?
+어느 바구니가 더 빠를까요?
 ```
 
 ```{figure} images/20250513_091700.jpg
 :width: 60%
 :name: fig_700
 
-Would the air friction scale with $v^2$ rather than $v$?
+공기 마찰은 $v$가 아니라 $v^2$에 비례할까요?
 ```
 
 ```{iframe} https://youtube.com/embed/ELDJPqVrRZQ
@@ -48,46 +48,46 @@ Would the air friction scale with $v^2$ rather than $v$?
 :aspectratio: auto 16 / 9
 :align: center
 
-Would the air friction scale with $v^2$ rather than $v$?
+공기 마찰은 $v$가 아니라 $v^2$에 비례할까요?
 ```
 
-## Flying is playing with air resistance 
-There is always paper in the room or in the notebooks of students. Fold various shapes and drop them. Fold paper airplanes, there are many suggestions for paper airplane activities on internet. Including a vertical tail piece sticking out above the wings can greatly improve the range when thrown.
+## 비행은 공기 저항을 이용한 놀이입니다
+교실이나 학생들의 공책에는 항상 종이가 있습니다. 여러 가지 모양으로 접어 떨어뜨려 보세요. 종이비행기를 접어 볼 수도 있는데, 인터넷에는 다양한 종이비행기 활동 아이디어가 있습니다. 날개 위로 수직 꼬리날개를 세워 주면 던졌을 때 비행 거리가 크게 늘어납니다.
 
 ```{figure} images/20250513_092443.jpg
 :width: 60%
 :name: fig_443
 
-Flying is playing with air resistance 
+비행은 공기 저항을 이용한 놀이입니다
 ```
 
 
-## Kinematics 
-Walk across the front of the room 
-- at constant speed, 
-- at a higher speed, 
-- accelerated and decelerated, 
-- stopping and going.  
+## 운동학
+교실 앞을 다음과 같이 걸어 보세요.
+- 일정한 속력으로,
+- 더 빠른 속력으로,
+- 가속했다가 감속하면서,
+- 멈췄다가 다시 걸어가면서.
 
-Let students draw distance vs. time and velocity vs. time graphs for each motion. Of course, you should have brought a motion sensor, but you were late or found the equipment room closed. The walking will do just as well or even better. Make sure to look at the resulting student graphs, discover conceptual errors, and react, typical student mistakes are well known and useful to confront {cite:p}`Berg2000a`.
+학생들에게 각 운동에 대한 거리-시간 그래프와 속력-시간 그래프를 그려 보게 하세요. 물론 운동 센서를 가져왔어야 했지만 늦었거나 실험실 문이 잠겨 있을 수도 있습니다. 직접 걸어 보이는 것만으로도 충분히, 혹은 오히려 더 잘 설명할 수 있습니다. 학생들이 그린 그래프를 살펴보며 개념적 오류를 발견하고 피드백을 주세요. 대표적인 학생 오개념들은 잘 알려져 있으며, 이를 직면하게 하는 것이 매우 유익합니다 {cite:p}`Berg2000a`.
 
-## Relative motion
-Student **A** walks with a low constant velocity in front of the class from left to right. student **B** starts later, walks faster and overtakes student **A**. *At the moment that **B** is next to **A**, are the velocities the same or different?* 
+## 상대 운동
+학생 **A**가 교실 앞에서 왼쪽에서 오른쪽으로 느린 등속도로 걷습니다. 학생 **B**는 늦게 출발하여 더 빠르게 걸어 학생 **A**를 추월합니다. ***B**가 **A** 바로 옆에 나란히 있는 순간, 두 학생의 속도는 같을까요, 다를까요?*
 
-Strange question you will think, but some people will answer equal (misconception). In a traffic court case in the USA this opinion was even espoused by a judge. If none of your students go wrong here, then never do this demo again. Have your students draw position time diagrams for A and B in the same graph (see the previous demo).
+이상한 질문처럼 들릴 수 있지만, 어떤 사람들은 같다고 답합니다(오개념). 미국의 한 교통 재판에서는 판사마저 이런 견해를 밝힌 적이 있습니다. 만약 학생 중 아무도 틀리지 않는다면 이 시범은 다시 할 필요가 없습니다. 학생들에게 같은 그래프 위에 A와 B의 위치-시간 그래프를 그려 보게 하세요(이전 시범 참고).
 
-## Action versus reaction visualization exercise
-To point out the relevant forces and show what is meant by action = - reaction, not to proof it: a rubber band or piece of elastic band can always be found even in a bare classroom. A student may have a rubber band around a lunch box. Stretch it with your finger. The force of the finger on the elastic band equals the force of the elastic band on the finger. Point out that action and reaction always work on different objects. That's why we want students to properly name forces as $F_{finger on elastic band}$ and $F_{elastic band on finger}$. The teacher can also put two students in front of the class, each with one hand pushing the hand of the other student but not moving. Then one student will push so hard that the other has to move back. Is now still $action = - reaction$ or $F _{student_A on student_B} = -F_{student_B on student_A}$? Yes it is, but to understand why student **B** is moving backwards, one has to add the forces **on student B only**: > $F_{student_A on student_B} + F_{friction floor on student_B}$
+## 작용과 반작용 시각화 연습
+작용 = - 반작용을 증명하기 위해서가 아니라, 관련된 힘들을 짚어 보고 그 의미를 보여 주기 위한 활동입니다. 아무것도 없는 교실에서도 고무줄이나 고무 밴드 조각은 언제든 찾을 수 있습니다. 학생 중 누군가 도시락 통에 고무줄을 묶어 왔을 수도 있습니다. 손가락으로 고무줄을 당겨 보세요. 손가락이 고무줄에 작용하는 힘은 고무줄이 손가락에 작용하는 힘과 크기가 같습니다. 작용과 반작용은 항상 서로 다른 물체에 작용한다는 점을 강조하세요. 그렇기 때문에 학생들이 힘을 $F_{finger on elastic band}$와 $F_{elastic band on finger}$처럼 정확히 구분해 이름 붙이도록 해야 합니다. 교사는 또 두 학생을 교실 앞에 세워 각자 한 손으로 상대방의 손을 밀지만 움직이지 않게 할 수도 있습니다. 그런 다음 한 학생이 아주 세게 밀어 다른 학생이 뒤로 밀려나게 합니다. 이때에도 여전히 $action = - reaction$, 즉 $F _{student_A on student_B} = -F_{student_B on student_A}$가 성립할까요? 그렇습니다. 하지만 학생 **B**가 왜 뒤로 움직이는지 이해하려면 **학생 B에게만 작용하는 힘**들을 합해야 합니다: > $F_{student_A on student_B} + F_{friction floor on student_B}$
 
 
-## Linear inertia 1, Newton's First Law with a glass of water
-Take a glass of water (or a coin, or another object, breakable objects are preferred) and put it on top of a dry A4 sheet of paper. Pull the paper slowly with a constant velocity to the edge of the table. Then suddenly jerk the paper. The glass stops. What students feared, does not happen, unless the teacher is clumsy or the bottom of the glass was wet. The glass of water resists the sudden acceleration .... inertia!
+## 직선 관성 1: 물이 담긴 유리컵으로 보는 뉴턴 제1법칙
+물이 담긴 유리컵(또는 동전이나 다른 물체, 깨지기 쉬운 물체일수록 좋습니다)을 마른 A4 용지 위에 올려놓습니다. 종이를 테이블 가장자리까지 일정한 속도로 천천히 당깁니다. 그런 다음 갑자기 종이를 홱 잡아당깁니다. 유리컵은 그 자리에 멈춰 있습니다. 교사가 서툴거나 유리컵 바닥이 젖어 있지 않은 한, 학생들이 걱정하던 일은 일어나지 않습니다. 물이 담긴 유리컵이 급격한 가속에 저항한 것입니다 .... 바로 관성입니다!
 
 ```{figure} images/20250513_092927.jpg
 :width: 60%
 :name: fig_927
 
-A piece of paper and a coffee mug, is always at hand 
+종이 한 장과 커피 머그잔은 언제든 손닿는 곳에 있습니다
 ```
 
 ```{iframe} https://youtube.com/embed/fjGiXL4z-MY
@@ -96,18 +96,18 @@ A piece of paper and a coffee mug, is always at hand
 :aspectratio: auto 16 / 9
 :align: center
 
-Make the demo spectacular by pulling hard only when the cup is near the end of the table.
+컵이 테이블 끝부분에 가까워졌을 때 세게 당기면 시범이 더욱 극적으로 보입니다.
 ```
 
 
-## Linear inertia 2 with clothes pegs
-Tear a piece of paper as in {numref}`fig_tearpiece`. Can I tear both sides of the middle part in one jerk? No, does not work. What should I change in order to be able to tear the two sides off in one jerk? It turns out that if you make the middle part just a bit heavier by putting on a few paper clips, it will work (source: my former student Ruud Brouwer).
+## 직선 관성 2: 빨래집게를 이용한 실험
+{numref}`fig_tearpiece`와 같이 종이를 찢어 놓습니다. 한 번에 홱 잡아당겨 가운데 부분의 양쪽을 동시에 찢어낼 수 있을까요? 아니요, 되지 않습니다. 한 번에 양쪽을 모두 찢어내려면 무엇을 바꾸어야 할까요? 클립 몇 개를 끼워 가운데 부분을 조금만 더 무겁게 만들면 된다는 것을 알 수 있습니다(출처: 제 옛 제자 Ruud Brouwer).
 
 ```{figure} images/20250513_093759.jpg
 :width: 60%
 :name: fig_tearpiece
 
-Some additional mass in the middle makes sure the paper rips at both ends.
+가운데에 질량을 조금 더하면 종이가 양쪽 끝에서 모두 찢어집니다.
 ```
 
 ```{iframe} https://youtube.com/embed/enduuPXLM9g
@@ -116,12 +116,12 @@ Some additional mass in the middle makes sure the paper rips at both ends.
 :aspectratio: auto 16 / 9
 :align: center
 
-Some additional mass in the middle makes sure the paper rips at both ends.
+가운데에 질량을 조금 더하면 종이가 양쪽 끝에서 모두 찢어집니다.
 ```
 
 
-## Linear inertia 3 knife and apple
-Stick a knife in an apple, hold it up so the apple is suspended from the knife. Then start hammering. The apple resists acceleration and the knife goes farther and farther into the apple. If you use a big bread knife, it will come out at the other end. To make it more spectacular, use a bigger knife and use a melon or other big fruit, any relatively heavy fruit will do.
+## 직선 관성 3: 칼과 사과
+사과에 칼을 꽂아 사과가 칼에 매달리도록 들어 올립니다. 그런 다음 칼자루 끝을 망치질하듯 내리칩니다. 사과는 가속에 저항하고, 칼날은 사과 속으로 점점 더 깊숙이 들어갑니다. 큰 빵칼을 사용하면 반대쪽 끝으로 빠져나옵니다. 더 극적으로 보여 주려면 더 큰 칼과 멜론이나 다른 큰 과일을 사용하세요. 비교적 무거운 과일이면 무엇이든 좋습니다.
 
 ```{iframe} https://youtube.com/embed/OGiPpFA3JIw
 :width: 60%
@@ -129,11 +129,11 @@ Stick a knife in an apple, hold it up so the apple is suspended from the knife. 
 :aspectratio: auto 16 / 9
 :align: center
 
-A well known demo
+잘 알려진 시범 실험
 ```
 
-## Rotational inertia with sticks, brooms, or a hammer
-Put a ballpoint straight up on your hand and try to balance it. You may invite the audience to do the same. It is impossible, it will tip over immediately. Now find somewhere in the classroom a meter stick, or a broom, or any stick longer than the ballpoint. Put it straight up on the hand and try to balance it. That works quite well. The object resists rotational acceleration ..... rotational inertia! The longer the object, the greater the rotational inertia, the easier it is to balance it. If then on top of the object there is an extra weight, like with a broom upside down, then it becomes easier yet. If you can find a hammer, you can show that it is easy to balance if the weight is up and difficult if the weight is down (metal top part on your finger). The taller the object and the farther the center of mass is from the pivot point on the hand, the greater the rotational inertia. Rotational inertia is often not included in high school physics, but that is no reason not to demonstrate it! Source: my former student Alfredo Guirit, from Tagbilaran, Bohol, Philippines.
+## 회전 관성: 막대, 빗자루 또는 망치
+볼펜을 손바닥 위에 똑바로 세워 균형을 잡아 보세요. 학생들에게도 똑같이 해 보라고 할 수 있습니다. 불가능하며 곧바로 쓰러집니다. 이제 교실에서 미터자, 빗자루, 또는 볼펜보다 긴 막대를 아무거나 찾아보세요. 손바닥 위에 똑바로 세워 균형을 잡아 봅니다. 꽤 잘 서 있습니다. 물체가 회전 가속에 저항하는 것입니다 ..... 바로 회전 관성입니다! 물체가 길수록 회전 관성이 커져서 균형을 잡기 쉬워집니다. 여기에 빗자루를 거꾸로 세운 것처럼 물체 위쪽에 추가 무게가 있으면 균형을 잡기가 더 쉬워집니다. 망치를 찾을 수 있다면, 무거운 부분이 위에 있을 때는 균형 잡기가 쉽고 무거운 부분(금속 머리 부분)이 아래로 가 손가락 위에 놓이면 어렵다는 것을 보여 줄 수 있습니다. 물체가 길고 질량 중심이 손 위의 회전축에서 멀수록 회전 관성이 큽니다. 회전 관성은 고등학교 물리 교육과정에 포함되지 않는 경우가 많지만, 그렇다고 시범을 보이지 않을 이유는 없습니다! 출처: 필리핀 보홀 타그빌라란 출신의 제 옛 제자 Alfredo Guirit.
 
 ```{iframe} https://youtube.com/embed/Ft9UD-xbqxQ
 :width: 60%
@@ -141,27 +141,27 @@ Put a ballpoint straight up on your hand and try to balance it. You may invite t
 :aspectratio: auto 16 / 9
 :align: center
 
-Can you balance a hammer using your finger?
+손가락으로 망치의 균형을 잡을 수 있나요?
 ```
 
-## Rotational inertia 2 with toilet rolls 
-With a full roll just prepare the length you need then a jerk will suffice to get your piece of paper, see {numref}`fig_RI2`. If you do that with an almost empty roll, then the remaining part will unwind and give you much more than you need. The full roll has a higher resistance to acceleration, thus a greater rotational inertia. For a demo in the classroom, just borrow the rolls from the school and put them back later.
+## 회전 관성 2: 두루마리 휴지
+새 두루마리 휴지에서는 필요한 길이만큼 미리 풀어 둔 뒤 홱 잡아당기면 원하는 만큼 깔끔하게 뜯어집니다({numref}`fig_RI2` 참고). 거의 다 쓴 두루마리 휴지로 똑같이 하면, 남은 부분이 풀려 버리면서 필요한 것보다 훨씬 많이 딸려 나옵니다. 새 두루마리 휴지는 회전 가속에 대한 저항, 즉 회전 관성이 더 크기 때문입니다. 교실 시범을 위해서는 학교 화장실에서 잠깐 빌려 왔다가 나중에 제자리에 돌려놓으면 됩니다.
 
 ```{figure} figures/02-13RotationalInertia2LR.jpeg
 :width: 60%
 :name: fig_RI2
 
-What happens if you pull either of the toilet rolls?
+두 두루마리 휴지 중 어느 것을 잡아당기면 어떻게 될까요?
 ```
 
-## Rotational inertia 3 with string and breakables
-Now make the set-up of {numref}`fig_RI3`, preferably with a breakable object on one side of the string such as a porcelain cup instead of the keys, but any object will do. At the other end of the string an object such as a bolt or a screw or a key, whatever. There is a pen or pencil in the left hand as a kind of pulley. Then let students predict, *If I let go of the string, what will happen?* The teacher shows some uncertainty or even fear, would this go alright? Let go! The weight will be greatly accelerated and wind itself very quickly around the pencil. That will increase the friction so much that the cup (or keys) will stop falling. For an explanation try to link with the results of demonstration 13. A nice discussion of this experiment is on [this Harvard site](https://sciencedemonstrations.fas.harvard.edu/presentations/coffee-mug-string) and this includes references to the American Journal of Physics {cite:p}`Marlow1991`.
+## 회전 관성 3: 실과 깨지기 쉬운 물건
+이제 {numref}`fig_RI3`과 같이 장치를 꾸밉니다. 실 한쪽 끝에는 열쇠 대신 도자기 컵처럼 깨지기 쉬운 물체를 매다는 것이 좋지만, 어떤 물체든 상관없습니다. 실의 다른 쪽 끝에는 볼트나 나사, 열쇠 등 작은 물체를 매답니다. 왼손에는 도르래 역할을 할 펜이나 연필을 쥡니다. 이제 학생들에게 예측해 보라고 합니다. *내가 이 실을 놓으면 어떻게 될까요?* 교사는 조금 불안하거나 걱정스러운 표정을 지어 보이며, 정말 괜찮을까 하는 분위기를 만듭니다. 손을 놓으세요! 가벼운 추 쪽이 크게 가속되면서 연필 주위를 매우 빠르게 감아 돕니다. 그 결과 마찰이 크게 증가해 컵(또는 열쇠)이 떨어지다가 멈춥니다. 이에 대한 설명은 13번째 시범 실험(회전 관성 2)의 결과와 연결해 보세요. 이 실험에 대한 훌륭한 해설은 [이 하버드 사이트](https://sciencedemonstrations.fas.harvard.edu/presentations/coffee-mug-string)에 있으며, American Journal of Physics 문헌도 함께 소개되어 있습니다 {cite:p}`Marlow1991`.
 
 ```{figure} figures/02-14-3RotationalInertia.JPG
 :width: 60%
 :name: fig_RI3
 
-Daday ready to drop her coffee mug, safely.
+커피 머그잔을 안전하게 떨어뜨릴 준비를 하는 Daday.
 ```
 
 ```{iframe} https://youtube.com/embed/h2ulQeDoHmY
@@ -170,55 +170,55 @@ Daday ready to drop her coffee mug, safely.
 :aspectratio: auto 16 / 9
 :align: center
 
-For safety measures, cover the floor.
+안전을 위해 바닥을 덮어 두세요.
 ```
 
 
-## Circular motion 1 with string and stopper
-Now that we have the nice set-up of {numref}`fig_CMEN`, we better also use it to demonstrate properties of circular motion. While the stopper is moving, you will cut the string with scissors just above the weight. Draw a circle on the board and let students predict whether the stopper will fly off radially or tangentially (draw the two possibilities). Let students write a prediction with a reason. Then cut the string when the stopper is moving away from the students.
+## 원운동 1: 실과 고무마개
+{numref}`fig_CMEN`의 멋진 장치가 이미 있으니, 이를 활용해 원운동의 성질도 시연해 봅시다. 고무마개가 돌고 있는 동안 추 바로 위쪽의 실을 가위로 자를 것입니다. 칠판에 원을 그리고, 학생들에게 고무마개가 지름 방향(바깥쪽)으로 날아갈지 접선 방향으로 날아갈지 예측하게 하세요(두 가능성을 그림으로 그려 주세요). 학생들에게 이유와 함께 예측을 적게 합니다. 그런 다음 고무마개가 학생들로부터 멀어지는 방향으로 움직일 때 실을 자르세요.
 
 ```{figure} figures/02-15CircularMotionEN.jpg
 :width: 60%
 :name: fig_CMEN
 
-Demonstrating circular motion using a rope, pvc tube and some small weights.
+실, PVC 관, 작은 추를 이용한 원운동 시범.
 ```
 
-## Circular motion 2 with string and stopper
-Just like in the earlier rotational inertia experiment, show what happens to the velocity when reducing or increasing the radius by pulling or releasing the string in the set-up of {numref}`fig_CMEN`. Show also what happens to the velocity when you add weights while trying to keep the radius constant.
+## 원운동 2: 실과 고무마개
+앞선 회전 관성 실험에서처럼, {numref}`fig_CMEN` 장치에서 실을 당기거나 풀어 주어 반지름을 줄이거나 늘릴 때 속력이 어떻게 변하는지 보여 주세요. 또한 반지름을 일정하게 유지하려고 하면서 추를 더 매달 때 속력이 어떻게 변하는지도 보여 주세요.
 
-## Circular motion 3 quantitative
-It is possible to make this into a quantitative demonstration supporting the formula $F = \frac{mv^2}{r}$ by computing the velocity from measurement of the period *T* with a stopwatch or video from a mobile phone. Make sure to independently vary *F* and *r* while controlling for respectively *r* and *F*.
+## 원운동 3: 정량적 실험
+초시계나 휴대폰 영상으로 주기 *T*를 측정해 속력을 계산함으로써 공식 $F = \frac{mv^2}{r}$을 뒷받침하는 정량적 시범 실험으로 발전시킬 수 있습니다. *r*과 *F*를 각각 통제하면서 *F*와 *r*을 독립적으로 변화시키도록 유의하세요.
 
 
 ```{figure} images/20250602_114146.gif
 :width: 60%
 :name: fig_146
 
-Freek Pols performing the demonstration
+시범을 보이는 Freek Pols
 ```
 
-## Projectile motion 1 with water
-Throw anything away from you, its path looks like a parabola. Now display it all at the same time, ask a plastic water bottle from one of the students, make a hole near the bottom on the side and squeeze it, nice parabola. Better visible if you use ice tea or other colored drinks instead of plain water. Compensate the student for the loss of the bottle and clean up if you forgot to bring a basin.
+## 포물선 운동 1: 물
+아무 물체나 멀리 던져 보면 그 경로가 포물선처럼 보입니다. 이제 경로 전체를 한꺼번에 보여 줍시다. 학생 중 한 명에게 플라스틱 생수병을 빌려 아래쪽 측면에 구멍을 낸 뒤 병을 눌러 물을 뿜어 보세요. 멋진 포물선이 그려집니다. 맹물 대신 아이스티나 색깔 있는 음료를 사용하면 훨씬 잘 보입니다. 학생에게 병 값은 보상해 주고, 대야를 챙기지 못했다면 뒤처리를 깔끔히 하세요.
 
-## Projectile motion 2 independence of horizontal and vertical motion
-My wife Daday, also a physics teacher, made a clever device to show that the vertical motion and the parabolic motion of a projectile experience the same vertical acceleration, a free-falling coin and a simultaneously horizontally launched coin from the same height, will reach the floor at the same time. Just listen. To construct the launcher, just fold a piece of thin metal from a can over the end of a ruler.
+## 포물선 운동 2: 수평 운동과 연직 운동의 독립성
+물리 교사인 제 아내 Daday는 포물선 운동을 하는 물체와 연직 낙하하는 물체가 같은 연직 가속도를 겪는다는 것을 보여 주는 기발한 장치를 만들었습니다. 같은 높이에서 자유 낙하하는 동전과 동시에 수평으로 발사된 동전이 바닥에 동시에 닿습니다. 소리를 잘 들어 보세요. 발사 장치를 만들려면 캔에서 잘라낸 얇은 금속 조각을 자의 끝부분에 접어 끼우기만 하면 됩니다.
 
 ```{warning}
-better picture!
+더 나은 사진 필요!
 ```
 
-## Projectile motion and relative motion
-Walk with constant velocity while throwing a piece of chalk or a coin or a tennis ball straight up. It lands in your hand, *not* behind you. So it had the same horizontal velocity as you when launched!
+## 포물선 운동과 상대 운동
+일정한 속도로 걸어가면서 분필 조각이나 동전, 테니스공을 똑바로 위로 던져 보세요. 물체는 여러분 뒤쪽이 *아니라* 다시 손안으로 떨어집니다. 즉, 던져질 때 여러분과 같은 수평 속도를 가지고 있었던 것입니다!
 
-## Air pressure with newspaper and ruler
-Did any student bring a newspaper to class? Or take one from the faculty room. Is there a ruler or thin piece of wood that could be broken? Have the piece of wood sticking partly over the table edge, put a few newspaper pages over it like a blanket and push out the air underneath. Then hit the part of the wood sticking out quite hard (let a karate student do this). The paper will not tear but the wood will break. Consider the piece of wood like a see-saw pivoting at the edge of the table. The force of air pressure on the newspaper competes with the force of the hand hitting the wood.
-
-
+## 신문지와 자를 이용한 대기압 실험
+신문지를 가져온 학생이 있나요? 아니면 교무실에서 몇 장 가져오세요. 부러뜨려도 되는 나무 자나 얇은 나무 막대가 있나요? 나무 조각의 일부가 책상 모서리 밖으로 튀어나오게 놓은 뒤, 책상 위의 부분에 신문지 몇 장을 이불처럼 덮고 밑에 있는 공기를 빼냅니다. 그런 다음 튀어나온 나무 부분을 아주 세게 내리칩니다(태권도나 가라테를 배운 학생에게 시켜 보세요). 종이는 찢어지지 않고 나무가 부러집니다. 나무 조각을 책상 모서리를 받침점으로 하는 시소라고 생각해 보세요. 신문지 위를 누르는 대기압의 힘이 나무를 치는 손의 힘과 맞서는 것입니다.
 
 
-## Static and kinetic friction and center of mass with a stick
-Take a ruler, meter stick, or any other long object available. Balance it horizontally on top of your left and right index fingers. Then start moving the fingers towards each other. Without any control by the instructor, the fingers will only slide against the ruler one at a time and the two fingers will meet under the center of mass. You can make it more spectacular by blindfolding the instructor, same result. The experiment could easily be repeated by the students in their seats, they can try their rulers or other objects from their bags. Explanation: when one finger moves, an increasing part of the weight will be supported by that finger as it gets closer to the center of mass, so friction increases, and the other finger will start moving until it stops and the process repeats itself. Also see the 34 experiments with rulers in the *American Journal of Physics* [@Ehrlig1994]. An interesting variation is to add an object on one side of the stick, for example a blackboard eraser or hang a bag, then using the above procedure you will find that the center of mass has shifted.
+
+
+## 막대를 이용한 정지 마찰, 운동 마찰 및 질량 중심
+자, 미터자 또는 손에 잡히는 아무 긴 막대나 준비하세요. 양손의 검지 위에 막대를 수평으로 올려 균형을 잡습니다. 그런 다음 두 손가락을 서로를 향해 천천히 모아 갑니다. 발표자가 일부러 조절하지 않아도 두 손가락은 자에 대해 한 번에 하나씩만 미끄러지며, 결국 질량 중심 아래에서 만나게 됩니다. 눈을 가리고 해 보아도 결과는 같아 더욱 극적입니다. 학생들도 자리에 앉아 자기 자나 가방 속 다른 물건들로 이 실험을 쉽게 따라 해 볼 수 있습니다. 설명: 한 손가락이 움직여 질량 중심에 가까워질수록 그 손가락이 떠받치는 무게의 비율이 커지므로 마찰력이 증가합니다. 그러면 그 손가락은 멈추고 다른 쪽 손가락이 움직이기 시작하며, 이 과정이 번갈아 반복됩니다. *American Journal of Physics*에 실린 자를 이용한 34가지 실험 [@Ehrlig1994]도 참고해 보세요. 흥미로운 변형으로, 막대 한쪽 끝에 칠판 지우개를 올려놓거나 가방을 매달아 본 뒤 위 과정을 반복하면 질량 중심이 이동했음을 확인할 수 있습니다.
 
 ```{iframe} https://youtube.com/embed/RYFsPy8mUbI
 :width: 60%
@@ -233,11 +233,11 @@ Take a ruler, meter stick, or any other long object available. Balance it horizo
 :width: 60%
 :name: fig_639
 
-Finding the center of mass can be done (and predicted) using various materials.
+다양한 재료를 이용해 질량 중심을 찾고 예측해 볼 수 있습니다.
 ```
 
-## Static and kinetic friction with stick and scarf
-Take a meterstick, or pvc tube, or any other rod such as the end of a broom. Keep it horizontal and hang over it a piece of cloth (towel, hand kerchief, scarf) such that one end is much longer than the other end but it does not move because of static friction. Then slowly tip the rod downward a bit until the cloth starts moving. It will then not just move downward, but also sideways. Friction has now become kinetic and kinetic friction is smaller than static friction thus insufficient to prevent sliding sideways (source: Ineke Frederik, Dutch physics teacher educator).
+## 막대와 스카프를 이용한 정지 마찰과 운동 마찰
+미터자나 PVC 관, 또는 빗자루 자루 끝 같은 막대를 준비합니다. 막대를 수평으로 들고 천(수건, 손수건, 스카프 등)을 걸쳐 한쪽 끝이 다른 쪽보다 훨씬 길게 늘어지도록 하되, 정지 마찰 때문에 미끄러지지 않을 정도로 놓습니다. 그런 다음 천이 움직이기 시작할 때까지 막대를 아래쪽으로 천천히 기울입니다. 그러면 천은 아래로만 움직이는 것이 아니라 옆으로도 미끄러집니다. 이제 마찰이 운동 마찰로 바뀌었고, 운동 마찰력은 정지 마찰력보다 작아서 옆으로 미끄러지는 것을 막기에는 부족하기 때문입니다(출처: 네덜란드 물리교사 교육자 Ineke Frederik).
 
 ```{iframe} https://www.youtube.com/embed/JDwHYHY7RqI?si=b-VYk_exLajihKs4
 :width: 60%
@@ -245,12 +245,12 @@ Take a meterstick, or pvc tube, or any other rod such as the end of a broom. Kee
 :aspectratio: auto 16 / 9
 :align: center
 
-Static vs kinetic friction
+정지 마찰 vs 운동 마찰
 ```
 
 
-## Friction 1 of paper and books
-Take one half A4 and put it between the pages of a closed book, pull it. It is easy to pull it out. Now take 10 of these half A4 pieces of paper and put them each between different pages. Try to pull out all 10 at once. That is difficult. Source: Leisink, 2006
+## 마찰 1: 종이와 책
+A4 용지 반 장을 덮인 책의 페이지 사이에 끼우고 당겨 보세요. 쉽게 빠집니다. 이제 이 A4 반 장짜리 종이 10장을 각각 서로 다른 페이지 사이에 끼워 넣습니다. 10장을 한꺼번에 빼내 보세요. 매우 어렵습니다. 출처: Leisink, 2006
 
 ```{iframe} https://www.youtube.com/embed/WgknDyxIL00?si=dhsveBNTVAN3S7Ur
 :width: 60%
@@ -258,157 +258,157 @@ Take one half A4 and put it between the pages of a closed book, pull it. It is e
 :aspectratio: auto 16 / 9
 :align: center
 
-Friction...
+마찰...
 ```
 
-## Friction 2
-When students really need a time-out, let them then interleave the pages of two books. The books cannot be pulled apart. Well-known is of course the ideal version of this experiment where two traditional telephone directories are interleaved and handles are attached to the books. Two strong people cannot pull them apart, but that is not a pocket demo anymore, but it would fit in 2 minutes if the teacher shows a YouTube version.
+## 마찰 2
+학생들에게 잠시 쉬어 가는 시간이 정말 필요할 때, 두 권의 책 페이지를 한 장씩 서로 엇갈려 겹쳐 보게 하세요. 두 책을 떼어낼 수 없습니다. 물론 이 실험의 가장 유명한 이상적인 형태는 두꺼운 전화번호부 두 권의 페이지를 겹치고 손잡이를 달아 당기는 것입니다. 힘센 두 사람이 당겨도 떨어지지 않지만, 이는 더 이상 주머니 속 시범 실험은 아닙니다. 하지만 교사가 유튜브 영상을 보여 준다면 2분 안에 충분히 활용할 수 있습니다.
 
-## Friction and heat 
-Students rub their hands and feel the heat. Work converted into heat, or in a perhaps better formulation: work increases the thermal energy (or internal energy) of the skin.
+## 마찰과 열
+학생들이 손을 비비며 열을 느껴 봅니다. 일이 열로 전환되는 것이며, 더 나은 표현을 쓰자면 일이 피부의 열에너지(또는 내부 에너지)를 증가시키는 것입니다.
 
-## Friction and normal force 1
-Put a book on the table, try to push it across the table. Have a student try. Then make a pile of books (borrowed from students) and try to push. It is much more difficult; the pushing force has to be greater. So friction has something to do with the total mass of the books, or, if the normal force has been discussed, friction is proportional to the normal force exerted by the table on the books. One can have students participate and feel it themselves by having them make their own pile of notebooks or textbooks on their tables or on the writing boards of their seats.
+## 마찰과 수직항력 1
+책 한 권을 책상 위에 놓고 밀어 봅니다. 학생 한 명에게 밀어 보게 하세요. 그런 다음 학생들에게 책을 빌려 책 탑을 쌓아 놓고 밀어 봅니다. 훨씬 더 어렵고, 미는 힘도 더 커야 합니다. 즉, 마찰은 책들의 전체 질량과 관련이 있으며, 수직항력을 이미 배웠다면 마찰력은 책상이 책에 작용하는 수직항력에 비례한다고 설명할 수 있습니다. 학생들이 자기 책상이나 의자의 필기판 위에 공책이나 교과서를 쌓아 직접 밀어 보며 느껴 보도록 참여시킬 수 있습니다.
 
 ```{figure} images/booksstacked.jpg
 :width: 50%
 :name: fig_booksstacked
 
-What happens if you push one of the books? Does it matter where it is in the pile?
+책 중 한 권을 밀면 어떻게 될까요? 쌓인 책 중 어느 위치의 책을 미느냐에 따라 달라질까요?
 ```
 
 
-## Friction and normal force 2
-Take three textbooks and pile them flat on your hand and hold them up. Then with a finger of the other hand you are going to push the top book. Ask for a prediction, if you push the top book, will only the top book slide, or will two or three books slide? Why? Then show, only the top book will slide. Friction between the 2$^{\text{nd}}$ and 3$^{\text{rd}}$ book is 2x friction between 1$^{\text{st}}$ (top) and 2$^{\text{nd}}$ as friction is proportional to the normal force.
+## 마찰과 수직항력 2
+교과서 세 권을 손바닥 위에 평평하게 쌓아 올려 들고 있습니다. 이제 다른 손의 손가락으로 맨 위의 책을 밀어 봅니다. 맨 위의 책을 밀면 맨 위 책만 미끄러질지, 아니면 두 권이나 세 권이 함께 미끄러질지, 그리고 그 이유는 무엇인지 예측해 보게 하세요. 직접 보여 주면 맨 위의 책만 미끄러집니다. 2번째 책과 3번째 책 사이의 마찰력은 1번째(맨 위) 책과 2번째 책 사이 마찰력의 2배인데, 이는 마찰력이 수직항력에 비례하기 때문입니다.
 
-## Friction and inclined plane
-Tilt the instructor's table using an object under one of the legs or using a student to hold one side of the table up. Put anything round on the table (borrow some candy from students, instructor can eat it after use). The round object will accelerate down the table surface. Put a book on the table. What keeps it there? Friction. Increase the tilt, the book does not move yet. Is the magnitude of the friction still the same? Tilt more yet, the book starts moving. Why? Make sure to distinguish between *actual* friction ($mg \sin(\alpha)$) and *maximum* friction ($μ_N = μ_s~mg \cos(\alpha)$). The instructor can even illustrate how friction coefficients are determined by taking the static friction coefficient equal to: $μ_{static} = \tan(\alpha_s)$ where $\alpha_s$ is the tilt angle when the book is just about to slide. Dynamic friction occurs at an angle where the books once moving, keep sliding at constant speed $μ_{dynamic} = \tan(\alpha_d)$.
+## 마찰과 빗면
+다리 한쪽 아래에 물건을 괴거나 학생에게 한쪽을 들어 올리게 하여 교탁을 기울입니다. 둥근 물체(학생들에게 사탕을 빌려 쓰면 실험 후 교사가 먹을 수도 있습니다)를 책상 위에 놓습니다. 둥근 물체는 책상 표면을 따라 가속하며 굴러 내려갑니다. 이번에는 책을 올려놓습니다. 무엇이 책을 그 자리에 붙잡고 있을까요? 마찰력입니다. 기울기를 조금 더 높여도 책은 아직 움직이지 않습니다. 이때 마찰력의 크기는 여전히 같을까요? 기울기를 더 높이면 책이 움직이기 시작합니다. 왜 그럴까요? *실제* 작용하는 마찰력($mg \sin(\alpha)$)과 *최대* 정지 마찰력($μ_N = μ_s~mg \cos(\alpha)$)을 반드시 구분하여 설명하세요. 교사는 책이 막 미끄러지기 시작하는 경사각 $\alpha_s$를 이용해 정지 마찰 계수 $μ_{static} = \tan(\alpha_s)$를 구하는 방법도 보여 줄 수 있습니다. 운동 마찰 계수는 한 번 움직이기 시작한 책이 일정한 속력으로 계속 미끄러지는 각도 $\alpha_d$에서 $μ_{dynamic} = \tan(\alpha_d)$가 됩니다.
 
-## Difference between static and kinetic friction
-Pull a student bag across the table with a piece of elastic band or a weak spring. Movement will be kind of jerky: stick-slip movement. The elastic band or spring will be longer when the bag is not moving and shorter when it moves, showing that static friction is greater than kinetic friction.
+## 정지 마찰력과 운동 마찰력의 차이
+고무줄이나 약한 용수철에 학생 가방을 매달아 책상 위에서 끌어 보세요. 움직임이 뚝뚝 끊기는 듯한 스틱-슬립(stick-slip) 운동을 보입니다. 가방이 움직이지 않을 때 고무줄이나 용수철이 더 길게 늘어나고, 움직이기 시작하면 짧아지는데, 이는 정지 마찰력이 운동 마찰력보다 크다는 것을 보여 줍니다.
 
-## Strength of profiles
-Put a banknote on two markers. How can you fold the banknote such that it can carry a load of many coins? Two folds already helps a lot. If you pile more banknotes on top of each other, then they can carry many coins! Then try more folds, corrugated banknotes are very strong. Think also about all the roofing materials that have corrugated shapes rather than being flat, for example rooftiles and metal roof sheeting. A nice series of demos and comparison with carton and other materials can be seen [here](https://www.youtube.com/watch?v=qFZGmHbjLSM).
+## 단면 형상에 따른 강도
+마커 두 개 위에 지폐 한 장을 올려놓습니다. 동전 여러 개의 무게를 버틸 수 있도록 지폐를 어떻게 접을 수 있을까요? 두 번만 접어도 훨씬 튼튼해집니다. 지폐를 여러 장 겹쳐 쌓으면 더 많은 동전을 버틸 수 있습니다! 이제 더 여러 번 주름지게 접어 보세요. 골판지처럼 주름진 지폐는 매우 강합니다. 평평하지 않고 물결 모양(골형)으로 만든 지붕 자재들, 예를 들어 기와나 금속 지붕판도 떠올려 보세요. 골판지 및 다른 재료와 비교한 멋진 시범 영상 시리즈는 [여기](https://www.youtube.com/watch?v=qFZGmHbjLSM)에서 볼 수 있습니다.
 
 ```{figure} figures/02-31StrengthOfProfiles.jpg
 :width: 60%
 :name: fig_fold
 
-How can you fold the banknote such that it can carry a load of many coins?
+많은 동전의 무게를 버틸 수 있도록 지폐를 어떻게 접을 수 있을까요?
 ```
 
 
-## Center of mass 1: make your students feel it
-Show with a stick or a ruler or a meter stick or even a broom stick what is the center of mass. Put the stick on the table, pull it slowly outwards over the edge. At a certain point it will start to tip over. If you support the stick at that point with your finger, the two sides will balance. That is the center of mass, it is as if all the mass is concentrated there. Human bodies also have a center of mass.  
-> *Stand up all of you. Lean forward. What do you feel? Cramp in your toes? Lean more forward yet, eventually you will have to take a step forward in order not to fall. The center of mass of our body is somewhere in the belly. If that center of mass goes over the toes, then we have to take this step forward to prevent tipping over. Could you lean forward more if you were standing on skies? Stand up again, lift your leg up (forward), your shoulders will go backward to balance, so that the center of mass is still above your feet. Lift your right leg sideways, now your shoulders will move in opposite direction. Sink through your knees, your brain already knows how to compensate, some parts of the body go forward, some parts go backward*.  
+## 질량 중심 1: 학생들이 직접 느껴 보기
+막대나 자, 미터자, 혹은 빗자루 자루를 이용해 질량 중심이 무엇인지 보여 주세요. 막대를 책상 위에 놓고 가장자리 바깥으로 천천히 밀어냅니다. 어느 지점에 이르면 막대가 기울어 떨어지기 시작합니다. 바로 그 지점을 손가락으로 받치면 양쪽이 균형을 이룹니다. 그 지점이 질량 중심이며, 마치 모든 질량이 거기에 모여 있는 것처럼 행동합니다. 사람의 몸에도 질량 중심이 있습니다.
+> *모두 자리에서 일어나세요. 몸을 앞으로 기울여 보세요. 무엇이 느껴지나요? 발가락에 힘이 들어가 쥐가 날 것 같나요? 몸을 앞으로 더 기울여 보세요. 결국 넘어지지 않으려면 앞으로 한 걸음 내디뎌야 합니다. 우리 몸의 질량 중심은 배 부위 어딘가에 있습니다. 그 질량 중심이 발끝을 벗어나면, 넘어지지 않기 위해 앞으로 한 걸음 내디뎌야 합니다. 스키를 신고 서 있다면 앞으로 더 많이 기울일 수 있을까요? 다시 똑바로 서서 한쪽 다리를 앞으로 들어 올려 보세요. 균형을 맞추기 위해 어깨가 뒤로 넘어가면서 질량 중심이 여전히 발 위에 머물도록 합니다. 오른다리를 옆으로 들어 올리면 이제 어깨는 반대 방향으로 움직입니다. 무릎을 구부려 앉아 보세요. 우리 뇌는 어떤 부분은 앞으로, 어떤 부분은 뒤로 보내며 보상하는 법을 이미 알고 있습니다.*
 
-Every time your brain knows automatically how to compensate, that is built-in physics! A longer series of demo's on center of mass along with some spectacular powerpoint pictures is available from the author.
+매번 우리 뇌가 자동으로 균형을 보상하는 법을 아는 것은 몸속에 내장된 물리학입니다! 질량 중심에 관한 더 긴 시범 실험 시리즈와 멋진 파워포인트 사진 자료는 저자에게 요청할 수 있습니다.
 
-## Center of mass 2: students picking up money from their toes
-Line up some students with their back and particularly their heels against the wall of the classroom. Then put some money in front of their toes. If they can pick it up without falling, they may keep it. This is impossible to do without their center of mass going beyond their toes and falling.
+## 질량 중심 2: 발끝 앞의 돈 줍기
+학생 몇 명을 교실 벽에 등, 특히 발뒤꿈치를 딱 붙이고 일렬로 세웁니다. 그런 다음 발끝 바로 앞에 돈을 놓아 줍니다. 넘어지지 않고 돈을 집을 수 있다면 그 돈을 가져도 좋다고 말하세요. 질량 중심이 발끝 앞을 벗어나지 않고서는 넘어지지 않고 돈을 집는 것이 불가능합니다.
 
 ```{figure} figures/02-33CenterOfMass2LR.jpg
 :width: 60%
 :name: fig_CM
 
-Impossible to pick up the money when heels at the wall.
+발뒤꿈치를 벽에 대고 있으면 돈을 집을 수 없습니다.
 ```
 
-## Center of mass 3: unequal student pair
-Take two students of unequal size next to each other facing the other students in front of the classroom. They hold each other. Then let them lift their outer legs. Total instability! Same problem, their common center of mass should be above their standing legs in the middle, but lifting their outer legs will disturb the equilibrium.
+## 질량 중심 3: 체격이 다른 두 학생
+체격이 서로 다른 두 학생을 교실 앞에서 다른 학생들을 마주 보도록 나란히 세웁니다. 서로를 붙잡게 한 뒤 바깥쪽 다리를 들게 합니다. 완전히 중심을 잃습니다! 마찬가지로 두 사람의 공통 질량 중심이 가운데에 디디고 있는 두 다리 위에 있어야 하는데, 바깥쪽 다리를 들면 평형이 깨지기 때문입니다.
 
-## Center of mass 4: hammer and ruler
-Borrow a hammer and a stick and some rope or rubber bands and make the set-up of {numref}`fig_David`. Teacher education student David constructed and explained it perfectly.
+## 질량 중심 4: 망치와 자
+망치와 막대, 그리고 끈이나 고무줄을 빌려 {numref}`fig_David`와 같이 장치를 꾸밉니다. 사범대 학생 David가 이를 직접 만들고 완벽하게 설명했습니다.
 
 ```{figure} figures/02-35CenterOfMass4LR.jpg
 :width: 60%
 :name: fig_David
 
-Balancing hammer
+균형을 잡은 망치
 ```
 
-## Rotation, center of mass, stability
-Tilt a chair, tilt it more, there is a point where the chair will tip over. Take a simpler object, a book or a piece of wood. Try to link the position of the center of mass to the point where the book or block of wood will tip over. Take any other object in the room. When picking up a chair, boys tip over more easily than girls as their center of mass tends to be higher in the body. Instructions can be found in [@Liem1987, p326].
+## 회전, 질량 중심, 안정성
+의자를 기울여 보고, 더 기울여 보세요. 의자가 넘어지는 지점이 있습니다. 책이나 나무토막처럼 더 단순한 물체를 가져와 보세요. 책이나 나무토막의 질량 중심 위치와 물체가 넘어지기 시작하는 지점을 연결 지어 보세요. 교실의 다른 물체로도 해 보세요. 의자를 들어 올릴 때 남학생이 여학생보다 더 쉽게 넘어지는데, 남학생의 질량 중심이 몸에서 더 높은 위치에 있는 경향이 있기 때문입니다. 자세한 실험 방법은 [@Liem1987, p326]에서 찾을 수 있습니다.
 
-## Pressure and surface area
-Take a pencil or ballpoint, press the tip (small surface area) on the inside of your hand, now press the opposite end on your hand (large surface area). The force could be the same, but the pressure is definitely different.
+## 압력과 표면적
+연필이나 볼펜을 들고 뾰족한 끝(작은 표면적)으로 손바닥 안쪽을 눌러 보고, 이번에는 반대쪽 끝(큰 표면적)으로 손바닥을 눌러 보세요. 누르는 힘은 같을 수 있지만 압력은 분명히 다릅니다.
 
-## Simple machines: meter sticks and rulers as crowbars
-Usually there is a meter stick or something similar in the room. Use it as a crowbar and stick the end under a table leg or under a pile of books and pull the other end up. At a much reduced force, but increased distance, the weight can be lifted. Students can feel it themselves using their own rulers or even ballpoints and their usually heavy physics book which they *should* take to all class sessions anyway. Let them feel the difference by pulling on the middle part of the ballpoint and pulling at the end (much lighter).
+## 간단한 기계: 지렛대로 쓰는 미터자와 자
+보통 교실에는 미터자나 그와 비슷한 막대가 있습니다. 이를 지렛대로 삼아 한쪽 끝을 책상 다리 밑이나 쌓아 놓은 책 아래에 끼우고 다른 쪽 끝을 위로 당겨 보세요. 훨씬 작은 힘으로, 대신 더 긴 거리를 이동시켜 무거운 물체를 들어 올릴 수 있습니다. 학생들은 자기 자나 심지어 볼펜, 그리고 어차피 수업 시간마다 꼭 챙겨 와야 하는 두꺼운 물리 교과서를 이용해 직접 느껴 볼 수 있습니다. 볼펜의 가운데 부분을 잡아당길 때와 끝부분을 잡아당길 때(훨씬 가벼움)의 차이를 느끼게 해 보세요.
 
 ```{warning}
-FOTO
+사진 필요
 ```
 
-## Torque of doors and door handles
-Illustrate torque opening the door, turning a doorknob, or tilting the chair. With torque we make things turn around an axis.
+## 문과 문손잡이의 돌림힘(토크)
+문을 열거나, 문손잡이를 돌리거나, 의자를 기울이면서 돌림힘(토크)을 설명하세요. 돌림힘을 가하면 물체가 회전축 주위를 돌게 됩니다.
 
-## Torque and distance from axis
-Again, use the door. Push with your finger at the end, the door moves easily but the finger has to move a great distance to turn the door through 90$^o$. Now push close to the hinges. The force needed to move the door is much greater, but the finger only has to move a short distance to move the door 90$^o$.
+## 돌림힘(토크)과 회전축으로부터의 거리
+다시 문을 이용해 봅시다. 문 끝부분을 손가락으로 밀면 문이 쉽게 움직이지만, 문을 90$^o$ 회전시키기 위해 손가락이 매우 긴 거리를 이동해야 합니다. 이번에는 경첩 가까이에서 밀어 보세요. 문을 움직이는 데 훨씬 큰 힘이 필요하지만, 문을 90$^o$ 움직이기 위해 손가락은 아주 짧은 거리만 이동하면 됩니다.
 
-## Moment of force 1 stretched arm and bag of books
-Take a student's bag with books, hold it at arm's length and then hold it next to your body. Which one is easier? The moment of force, the product of force times arm, is greatest at arm's length and we can feel that very well. Let the students do this themselves with their bags.
+## 힘의 모멘트 1: 팔을 뻗고 책가방 들기
+학생의 책가방을 받아 팔을 쭉 편 채로 들어 보고, 그다음 몸 바로 옆에 붙여서 들어 보세요. 어느 쪽이 더 쉬울까요? 힘과 팔(거리)의 곱인 힘의 모멘트는 팔을 쭉 뻗었을 때 가장 크며, 우리는 이를 몸으로 매우 잘 느낄 수 있습니다. 학생들도 자기 가방으로 직접 해 보게 하세요.
 
-## Moment of force 2 lifting bend and stretched legs while sitting
-All students sit on their chair. Lift one knee a bit up from the chair. No problem. Now stretch the leg and again try to lift the knee from the chair. It is a lot more difficult this time. The moment of force (force times distance from hip to center of mass of the leg) is much greater now.
+## 힘의 모멘트 2: 앉아서 다리를 굽혔을 때와 폈을 때 들어 올리기
+모든 학생이 의자에 앉습니다. 한쪽 무릎을 의자에서 살짝 들어 올려 보세요. 어렵지 않습니다. 이제 다리를 쭉 편 상태에서 다시 무릎을 의자에서 들어 올려 보세요. 이번에는 훨씬 힘듭니다. 힘의 모멘트(힘 × 엉덩이에서 다리의 질량 중심까지의 거리)가 훨씬 커졌기 때문입니다.
 
-## Springs parallel and in series
-Collect some rubber bands from your students and arrange them parallel and in series and let students feel. This is like springs parallel and this is like springs in series. This can also be done with the springs from several ballpoints. In which situation, parallel or series, can one add up the spring constants? Just use logic first using Hooke's Law $F=Cu$ with $C$ as the spring constant.
+## 용수철의 병렬연결과 직렬연결
+학생들에게 고무줄을 모아 병렬과 직렬로 연결해 보고 학생들이 직접 당겨 느껴 보게 합니다. 이것이 용수철의 병렬연결이고, 저것이 용수철의 직렬연결입니다. 볼펜 여러 개에서 꺼낸 용수철로도 할 수 있습니다. 병렬과 직렬 중 어느 경우에 용수철 상수를 더할 수 있을까요? 먼저 $C$를 용수철 상수로 둔 훅의 법칙 $F=Cu$를 이용해 논리적으로 따져 보세요.
 
-## Tensile and shear stress with a piece of chalk
-Take a piece of chalk. Pull on the two sides, that creates tensile stress. The chalk breaks with a very nice flat break surface perpendicular to the length of the chalk. Now take another piece of chalk and twist the ends in opposite directions. We now have shear stress. The chalk breaks with a very different break surface. Try it, the effect is crystal clear and can be found Feynman's Lectures of Physics II p39-9.
+## 분필을 이용한 인장 응력과 전단 응력
+분필 하나를 준비합니다. 양쪽 끝을 잡아당기면 인장 응력이 작용합니다. 분필은 길이 방향에 수직인 아주 매끈하고 평평한 파단면을 남기며 부러집니다. 이제 다른 분필을 들고 양쪽 끝을 서로 반대 방향으로 비틉니다. 이번에는 전단 응력이 작용합니다. 분필은 전혀 다른 모양의 파단면을 보이며 부러집니다. 직접 해 보세요. 효과가 매우 뚜렷하며, 파인만의 물리학 강의 II권 p39-9에서도 찾아볼 수 있습니다.
 
 ```{figure} figures/02-44TensileShearStress.*
 :width: 60%
 :name: fig_stress
 
-The difference between tensile and shear stress
+인장 응력과 전단 응력의 차이
 ```
 
-## Collisions and preventing damage: egg throw
-Anybody has a raw (unboiled) egg? Now this is something you might not have in a bare classroom, but then bring it from home. Have students hold up a towel, a coat, or any piece of textile, or the curtains of the classroom window. Then throw the egg full force into that. It will survive, it will not break. There are two principles at work. The force that decelerates the egg is spread over the surface of the egg, rather than applied at one point. Furthermore, the decelerating force is spread in time as the towel or curtain moves along with the egg. The spreading of forces also applies to seatbelts in cars and protective helmets, they spread the force over the body or over the head. Seatbelts also illustrate both the spreading in time and in area of the decelerating force as the belt is wide moves along with the body, thus lowering the force by spreading it in time and across a wide surface.
+## 충돌과 파손 방지: 달걀 던지기
+날달걀(삶지 않은 달걀)을 가진 분 있나요? 이건 아무것도 없는 교실에는 없을 만한 물건이니 집에서 가져오세요. 학생들에게 수건이나 외투, 아무 천 조각이나 교실 창문 커튼을 펼쳐 들게 합니다. 그런 다음 날달걀을 힘껏 그 천을 향해 던집니다. 달걀은 깨지지 않고 멀쩡합니다! 여기에는 두 가지 원리가 작용합니다. 달걀을 감속시키는 힘이 한 점에 집중되지 않고 달걀 표면에 넓게 분산됩니다. 또한 수건이나 커튼이 달걀과 함께 움직이므로 감속시키는 힘이 작용하는 시간도 길게 분산됩니다. 이처럼 힘을 분산시키는 원리는 자동차의 안전벨트와 보호용 헬멧에도 적용되어 힘을 몸이나 머리 전체에 분산시킵니다. 안전벨트 역시 폭이 넓고 몸과 함께 움직이므로, 감속력을 시간과 넓은 면적에 걸쳐 분산시켜 힘을 줄여 준다는 두 가지 원리를 모두 보여 줍니다.
 
 ```{figure} figures/02-45EggThrow.*
 :width: 60%
 :name: fig_throw
 
-Throw an unboiled egg without breaking it.
+날달걀을 깨뜨리지 않고 던지기.
 ```
 
-## Breaking or not? Protecting delicate objects
-Look around for something that can break if dropped on a stone floor. Then look for things that can prevent that using the two principles. For example, pillows, not part of a bare classroom, but perhaps available in the school. Or make a pile of some student coats or other clothing. There may be some foam somewhere. Then drop a glass or an egg. How are breakable objects usually packages in stores? Students will give examples and even may have some in their bags. How do girls make sure their cosmetic flasks do not break in their bags?
+## 깨질까, 안 깨질까? 깨지기 쉬운 물체 보호하기
+돌바닥에 떨어뜨리면 깨질 만한 물건을 주변에서 찾아보세요. 그런 다음 앞서 본 두 가지 원리를 이용해 그 물체가 깨지지 않도록 막아 줄 물건을 찾아보세요. 예를 들어 베개는 빈 교실에는 없겠지만 학교 안에는 있을 수 있습니다. 아니면 학생들의 외투나 옷가지를 쌓아 더미를 만들 수도 있습니다. 주변 어딘가에 스티로폼이나 스펀지가 있을지도 모릅니다. 그 위로 유리컵이나 달걀을 떨어뜨려 보세요. 상점에서는 깨지기 쉬운 물건을 보통 어떻게 포장할까요? 학생들이 예를 들거나 가방에서 직접 꺼내 보여 줄 수도 있습니다. 여학생들은 가방 속에서 화장품 유리병이 깨지지 않도록 어떻게 보호하나요?
 
-## Bernoulli 1 with a piece of paper
-Hold a sheet of paper as shown in {numref}`fig_throw`. The top end will be hanging down a bit. Blow across the paper. The top end will then move upward. A simple way of explaining is that you blow some of the air above the paper away, creating a pressure difference with lower pressure above the paper while having the normal atmospheric pressure below. A more correct explanation is that moving air has a lower pressure than air standing still. This pressure difference pushes the paper up. Instruments based on this principle are used to measure an airplane's speed relative to the surrounding air.
+## 베르누이 원리 1: 종이 한 장
+{numref}`fig_throw`처럼 종이 한 장을 들고 있습니다. 위쪽 끝이 아래로 조금 처질 것입니다. 종이 위쪽 면을 따라 바람을 불어 보세요. 그러면 처져 있던 위쪽 끝이 위로 올라옵니다. 간단하게 설명하자면, 종이 위의 공기를 일부 불어내어 위쪽에는 낮은 압력이 생기고 아래쪽에는 평소의 대기압이 작용해 압력 차이가 만들어진다고 할 수 있습니다. 더 정확한 설명은 움직이는 공기가 정지한 공기보다 압력이 낮다는 것입니다. 이 압력 차이가 종이를 위로 밀어 올립니다. 이 원리를 이용한 장치는 비행기가 주변 공기에 대해 날아가는 속력을 측정하는 데 사용됩니다.
 
 ```{figure} figures/02-47-1Bernouilli1.*
 :width: 60%
 :name: fig_Bern1
 
-Bernoulli shown
+베르누이 원리 시연
 ```
 
 
 
-## Bernoulli 2 with two leaves of paper
-(Before or after the previous demo) Continue the demonstration, tear another page from a student's notebook, hold the two pages on the bottom end while the top ends of the paper are pointing parallel towards the students. Then ask students what will happen when you blow in between the pieces of paper and why. Then blow, the papers are moving towards each other rather than away from each other.....Bernoulli! Now of course you should have brought one of those toy helicopters to class as the climax to your Bernoulli demos. However, do not forget that it is not only the Bernoulli principle which makes airplanes fly, the reaction force on the wings due to downward deflection of air currents is a major force {cite:t}`Weltner1990a` & {cite:t}`Weltner1990b`.
+## 베르누이 원리 2: 종이 두 장
+(앞선 시범 전이나 후에) 시범을 이어 갑니다. 학생의 공책에서 종이 한 장을 더 찢어 두 장의 아래쪽 끝을 잡고, 종이의 위쪽 끝들이 학생들을 향해 나란히 놓이게 합니다. 두 종이 사이로 바람을 불면 종이들이 어떻게 될지, 그리고 왜 그런지 학생들에게 물어보세요. 이제 바람을 불면 종이들이 서로 멀어지는 대신 서로를 향해 다가옵니다..... 베르누이 원리입니다! 이제 베르누이 시범의 대미를 장식할 장난감 헬리콥터를 가져왔다면 금상첨화겠지요. 하지만 비행기가 날 수 있게 하는 것은 베르누이 원리만이 아니며, 날개가 공기 흐름을 아래쪽으로 꺾어 주는 데 따른 반작용 힘 또한 주된 양력이라는 점을 잊지 마세요 {cite:t}`Weltner1990a` & {cite:t}`Weltner1990b`.
 
-## Bernoulli 3 with straw and candle
-Light a candle. *If I blow through a straw on the window side of the candle, will the flame move? Which way? Why?* Answer: the flame will bend to the window side, the burning gases of the flame will point towards the area with lowest density/lowest pressure. In faster moving fluids the pressure is lower than in slower moving fluids (Bernoulli). For a younger audience: I blow some air away, the burning gas moves to the place with least air. For figures, see the chapter on Heat and Temperature. 
+## 베르누이 원리 3: 빨대와 촛불
+양초에 불을 붙입니다. *양초의 창문 쪽 옆에서 빨대를 통해 바람을 불면 촛불의 불꽃은 움직일까요? 어느 쪽으로 움직일까요? 왜 그럴까요?* 정답: 불꽃은 창문 쪽으로 휘어집니다. 불꽃의 타는 기체는 밀도가 가장 낮고 압력이 가장 낮은 영역 쪽으로 향하기 때문입니다. 유체가 빠르게 흐르는 곳에서는 느리게 흐르는 곳보다 압력이 낮습니다(베르누이 원리). 어린 학생들에게는 이렇게 설명할 수 있습니다: 내가 공기를 불어내면, 불꽃의 타는 기체가 공기가 가장 적은 쪽으로 움직인다. 관련 그림은 '열과 온도' 장을 참고하세요.
 
 ```{figure} images/20250513_114856.*
 :width: 60%
 :name: fig_Bern3
 
-Bernoulli shown
+베르누이 원리 시연
 ```
 
 
-## Energy conversions
-Drop anything and you get conversion from potential into kinetic energy, rub your hands (mechanical into thermal energy), clap your hands (mechanical into sound), point to the lights in the room (electrical energy into light and heat), etc.
+## 에너지 전환
+아무 물체나 떨어뜨리면 위치 에너지가 운동 에너지로 전환되고, 손을 비비면(역학적 에너지가 열에너지로), 박수를 치면(역학적 에너지가 소리 에너지로), 교실의 전등을 가리키면(전기 에너지가 빛과 열로) 에너지 전환의 예를 들 수 있습니다.
 
-## Work and kinetic energy
-There are rulers with a gutter. Let a marble roll down and investigate the relationship between initial height of the marble and the displacement of the cup or wedge of carton. Using graph paper helps to get better measurements.
+## 일과 운동 에너지
+홈이 파인 자가 있습니다. 구슬을 굴려 내려보내면서 구슬의 처음 높이와 종이컵 또는 종이 쐐기가 밀려난 거리 사이의 관계를 탐구해 보세요. 모눈종이를 사용하면 더 정밀하게 측정할 수 있습니다.
 
-## Asymmetry in properties, friction of human hair
-Ask a hair from a long-haired girl or propose that each student pair takes a hair from one of the two heads. Hold one end between thump and index finger of one hand, and slide with the other thump and index finger along the hair. Then slide in the other direction. It turns out that the friction of the hair is dependent on the direction of the sliding of thump/indexfinger!
+## 성질의 비대칭성: 머리카락의 마찰
+머리카락이 긴 여학생에게 머리카락 한 올을 부탁하거나, 두 명씩 짝을 지어 둘 중 한 명의 머리카락을 한 올씩 뽑아 보게 하세요. 한 손의 엄지와 검지로 머리카락 한쪽 끝을 잡고, 다른 손의 엄지와 검지로 머리카락을 따라 쓸어내립니다. 그런 다음 반대 방향으로 쓸어 봅니다. 손가락을 미끄러뜨리는 방향에 따라 머리카락의 마찰이 다르다는 것을 알 수 있습니다!

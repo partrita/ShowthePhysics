@@ -1,4 +1,4 @@
-# Demos for special occassions
+# 특별한 날을 위한 시범 실험
 
 
 

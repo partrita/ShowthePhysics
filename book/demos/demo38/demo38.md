@@ -1,21 +1,21 @@
-# Miscommunicating vessels
+# 통하지 않는 연통관
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">저자:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Peter Dekkers</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">5-15 minutes</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">소요 시간:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">5-15분</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">14-16</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">대상 연령:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">14-16세</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">density, pressure</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">관련 개념:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">밀도, 압력</td>
     </tr>
 </table>
 
@@ -24,78 +24,78 @@
 width: 70%
 align: center
 name: demo38_fig2
-alt: U-shaped tube, liquid at the left is lower than at the right
+alt: U자관, 왼쪽 액체 수위가 오른쪽보다 낮은 모습
 ---
-U-tube after removal of the stopper.
+마개를 제거한 후의 U자관.
 ```
 
-## Introduction
-The situation seems very normal - a U-tube filled with a clear liquid, with both sides at the same height. It's unclear what the cork on one side is for. That becomes apparent when you remove it, and the situation becomes incomprehensible unless you realize that there are not one but two liquids at play here. In the lower grades, this simple experiment challenges students to think about material properties. In the upper grades, it's a conceptual challenge regarding density and pressure, and a framework for some solid calculations.
+## 소개
+상황은 아주 평범해 보입니다. 투명한 액체가 채워진 U자관에서 양쪽 수면의 높이가 같습니다. 한쪽에 꽂힌 코르크 마개가 왜 있는지 분명하지 않습니다. 마개를 빼는 순간 그 이유가 드러나며, 여기에 한 가지가 아니라 두 가지 액체가 작용하고 있다는 사실을 깨닫지 못하면 이 상황을 이해하기 어렵습니다. 저학년 학생들에게 이 간단한 실험은 물질의 성질에 대해 생각해 보도록 자극합니다. 고학년 학생들에게는 밀도와 압력에 관한 개념적 도전 과제이자, 탄탄한 계산을 연습할 수 있는 틀을 제공합니다.
 
-This demonstration is adapted from {cite:t}`liem1991invitations`
+이 시범 실험은 {cite:t}`liem1991invitations`에서 각색한 것입니다.
 
-## Equipment
-* U-tube
-* Cork that can seal one side of the U-tube
-* Ethanol (as pure as possible)
-* Water
-* Stand with clamp
-* If available, a camera that projects onto the smartboard
+## 준비물
+* U자관
+* U자관의 한쪽을 밀봉할 수 있는 코르크 마개
+* 에탄올(가능한 한 순수한 것)
+* 물
+* 클램프가 달린 스탠드
+* 가능한 경우, 전자칠판에 투사할 수 있는 카메라
 
-## Preparation
-1. Attach the tube to the stand with the openings upward and fill roughly one-third of the tube's volume with ethanol.
-2. Carefully add about a quarter of the tube volume of water to one side. Tilt the tube to prevent the liquids from mixing.
-3. The water level is higher on the ethanol side. Push a cork onto that end (not too tight because it will need to be removed later, but airtight). The level on the corked side still needs to be higher than the level on the open side, or at least equal. If that is not the case, start over with less water.
-4. Now carefully add water until both levels are equal, see {numref}`Figure {number} <demo38_fig1>`.
+## 사전 준비
+1. 관의 열린 쪽이 위를 향하도록 스탠드에 고정하고 관 부피의 약 3분의 1을 에탄올로 채웁니다.
+2. 한쪽 관에 관 부피의 약 4분의 1만큼의 물을 조심스럽게 붓습니다. 두 액체가 섞이지 않도록 관을 기울여 붓습니다.
+3. 에탄올 쪽의 수위가 더 높게 올라옵니다. 그쪽 끝에 코르크 마개를 끼웁니다(나중에 빼야 하므로 너무 세게 끼우지는 않되, 공기가 통하지 않게 밀폐해야 합니다). 마개로 막은 쪽의 수위는 여전히 열린 쪽의 수위보다 높거나 최소한 같아야 합니다. 그렇지 않다면 물의 양을 줄여 처음부터 다시 시작하세요.
+4. 이제 양쪽 수위가 같아질 때까지 물을 조심스럽게 더 붓습니다({numref}`그림 {number} <demo38_fig1>` 참고).
 
-## Procedure
-Conduct a conversation with the students along the following lines:
-* *What do you notice about this situation? What can you see here?*
-* *Do you see that the liquid levels on both sides are the same height? Why is that?*
-* *Why is there a stopper? Does that make a difference?*
-* *What do you think will happen if I remove the stopper? Will anything change, or will everything stay the same?*
+## 실험 과정
+다음과 같은 흐름으로 학생들과 대화를 나눕니다:
+* *이 상황에서 무엇이 눈에 띄나요? 여기서 무엇을 볼 수 있나요?*
+* *양쪽의 액체 수위가 같은 높이인 것이 보이나요? 왜 그럴까요?*
+* *왜 마개가 꽂혀 있을까요? 마개가 어떤 차이를 만들까요?*
+* *마개를 빼면 어떤 일이 일어날 것 같나요? 무언가 변할까요, 아니면 모든 것이 그대로일까요?*
 
-Once it's clear what the class thinks, remove the stopper. The liquid level rises on the side where the stopper was, and it decreases on the other side. In these communicating vessels, the liquid levels are at unequal heights!
+학급 학생들의 생각이 정리되면 마개를 뺍니다. 마개가 있던 쪽의 액체 수위가 올라가고 다른 쪽의 수위는 내려갑니다. 이 연통관에서 양쪽의 액체 수위 높이가 서로 달라졌습니다!
 
 ```{figure} demo38_figure1.jpg
 ---
 width: 70%
 align: center
 name: demo38_fig1
-alt: U shape tube with liquid and stopper, liquid left and right are at same level
+alt: 액체와 마개가 있는 U자관, 왼쪽과 오른쪽 액체 수위가 같은 높이인 모습
 ---
-U-tube with liquid and stopper.
+액체와 마개가 있는 U자관.
 ```
 
-* *Explain what's happening here and how the liquid levels can be at unequal heights.*
+* *여기서 무슨 일이 일어나고 있는지, 그리고 어떻게 액체 수위의 높이가 서로 다를 수 있는지 설명해 보세요.*
 
-A suitable activity for this question is, for example, Think-Pair-Share, in which students first individually, then in pairs, and finally as a class come up with and share answers. As a teacher, maintain balance between supporting (hints) and encouraging, provide your own answer only if they can't figure it out on their own, or as a summary at the end.
+이 질문에는 예를 들어 생각-짝-공유(Think-Pair-Share) 활동이 적합합니다. 학생들이 먼저 개별적으로 생각하고, 다음으로 짝과 논의한 뒤, 마지막으로 학급 전체와 답을 공유하는 방식입니다. 교사는 힌트를 주며 돕는 것과 격려하는 것 사이의 균형을 유지하고, 학생들이 스스로 해결하지 못할 때나 마지막 정리 단계에서만 교사의 답을 제시하세요.
 
 ```{tip}
-Don't forget to come back to the initial situation after discussing the final situation. Students who have the necessary prior knowledge will mostly have said that the liquid levels were initially at the same height *because the pressure on both sides was equal*. But that's only the case after the cork is removed: then atmospheric pressure prevails on both sides. Yet the liquid levels were initially at the same height - how can that be? Hopefully, they can figure it out themselves, based on the developed description of the final situation: there must have been overpressure in the air under the cork to compensate for the extra weight of the water in the other leg. Water was poured into the tube until that was the case. So the fact that the levels were the same height didn't happen 'by itself,' you deliberately misled your students (to teach them something about pressure and density, of course).
+최종 상황을 논의한 뒤에는 처음 상황으로 다시 돌아가는 것을 잊지 마세요. 필요한 배경지식을 갖춘 학생들은 대부분 *양쪽의 압력이 같았기 때문에* 처음에 액체 수위가 같은 높이였다고 말했을 것입니다. 하지만 양쪽에 대기압이 똑같이 작용하는 것은 코르크를 제거한 후의 일입니다. 그런데도 처음에는 액체 수위가 같은 높이였는데, 어떻게 그럴 수 있었을까요? 학생들이 최종 상황에 대해 정리한 설명을 바탕으로 스스로 답을 찾아낼 수 있기를 바랍니다. 반대쪽 관에 담긴 물의 추가 무게를 상쇄하기 위해 코르크 아래쪽 공기에는 대기압보다 높은 압력이 작용하고 있었을 것입니다. 그런 상태가 될 때까지 관에 물을 부었던 것입니다. 즉, 수위가 같은 높이였던 것은 '저절로' 일어난 일이 아니라(물론 압력과 밀도에 대해 가르치기 위해) 교사가 의도적으로 학생들을 헷갈리게 만든 것입니다.
 ```
 
-## Physics background
-In communicating vessels, the liquid levels are always at the same height (provided a single liquid is used). This is because the same air pressure pushes on the surface of all vessels - for an equally large force upwards, liquid columns of equal height are needed. If the forces are not equal the water would experience a net force and flow until they are. So how can the liquid in these vessels be at unequal heights?
+## 물리학적 배경
+연통관에서는 (단일 액체를 사용하는 경우) 액체 수위가 항상 같은 높이를 이룹니다. 이는 모든 관의 표면에 같은 대기압이 작용하기 때문이며, 위쪽으로 같은 크기의 힘을 가하려면 같은 높이의 액체 기둥이 필요하기 때문입니다. 힘이 같지 않으면 물이 알짜힘을 받아 힘이 같아질 때까지 흐르게 됩니다. 그렇다면 이 관에서는 어떻게 액체의 수위가 서로 다른 높이를 유지할 수 있을까요?
 
-The situation is easiest to understand by looking at the bottom point of the tube. The liquid there is stationary, so the pressure from the right and from the left is equal. Then the liquid mass must be equal on both sides, so their densities must be different. It seems there's only one liquid in the tube, but there are two, with different densities. If you look closely, you can see the interface between the ethanol and the water as a slight cloudiness in the liquid. (Presumably, the refractive index varies irregularly there because the ethanol is in the process of dissolving into the water.)
+관의 가장 아래쪽 지점을 살펴보면 상황을 가장 쉽게 이해할 수 있습니다. 그 지점의 액체는 정지해 있으므로 오른쪽에서 누르는 압력과 왼쪽에서 누르는 압력이 같습니다. 그렇다면 양쪽의 액체 질량이 같아야 하므로 두 액체의 밀도가 서로 달라야 합니다. 관 속에는 한 가지 액체만 들어 있는 것처럼 보이지만, 실제로는 밀도가 서로 다른 두 가지 액체가 들어 있습니다. 자세히 보면 에탄올과 물의 경계면에서 액체가 약간 뿌옇게 보이는 것을 확인할 수 있습니다(아마도 에탄올이 물에 녹아 들어가면서 그 부분의 굴절률이 불규칙하게 변하기 때문일 것입니다).
 
-If the vessels were communicating, the liquids would have flowed if their initial levels were the same, but the cork prevented that.
+만약 관이 서로 통해 있었다면 처음 수위가 같았을 때 액체가 흘렀겠지만, 코르크 마개가 그것을 막았습니다.
 
-At ages 16-18, you can calculate together where the separation should be: with $dh$ the height difference and $h$ the height at the water side we can write:
+16~18세 학생들과는 경계면이 어디에 위치해야 하는지 함께 계산해 볼 수 있습니다. 높이 차이를 $dh$, 물 쪽의 높이를 $h$라고 하면 다음과 같이 쓸 수 있습니다:
 
 $$ \rho_e (h + dh) = \rho_w (h – x) + \rho_e \cdot x $$
 
-which can be rewritten as follows:
+이를 다시 정리하면 다음과 같습니다:
 
 $$ x = \frac{(\rho_e–\rho_w)h + \rho_e \cdot dh}{\rho_w+\rho_e}$$
 
-If a negative value for $x$ is obtained, the interface is on the ethanol side; if a positive value is obtained, $x$ is on the water side. 
+$x$ 값이 음수로 나오면 경계면은 에탄올 쪽에 있고, 양수로 나오면 $x$는 물 쪽에 있습니다.
 
-## Follow-up
-You could calculate together and test what the greatest height difference is that you can achieve with water and ethanol in this tube. It may also be interesting to observe that a candle floats in water but not in ethanol.
+## 후속 활동
+이 관에서 물과 에탄올로 만들 수 있는 최대 높이 차이가 얼마인지 함께 계산해 보고 직접 실험해 볼 수 있습니다. 또한 양초가 물에는 뜨지만 에탄올에는 가라앉는 모습을 관찰하는 것도 흥미로울 것입니다.
 
-## References
+## 참고문헌
 ```{bibliography}
 :filter: docname in docnames
 ```

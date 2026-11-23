@@ -1,0 +1,30 @@
+[project]
+name = "showthephysics"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "deepthought", email = "deepthough@postech.ac.kr" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "download-link-replacer>=1.0.6",
+    "jupyterbook-patches>=1.15.0",
+    "sphinx-exercise>=1.2.2",
+    "sphinx-iframes>=1.2.1",
+    "sphinx-image-inverter>=1.1.11",
+    "sphinx-named-colors>=1.0.3",
+    "sphinx-thebe",
+    "teachbooks==0.2.1",
+    "teachbooks-sphinx-tippy>=1.1.0",
+]
+
+[project.scripts]
+showthephysics = "showthephysics:main"
+
+[build-system]
+requires = ["uv_build>=0.13.9,<0.14.0"]
+build-backend = "uv_build"
+
+[tool.uv.sources]
+sphinx-thebe = { git = "https://github.com/TeachBooks/Sphinx-Thebe" }

@@ -1,22 +1,22 @@
-# Electricity
+# 전기
 
-## Static electricity and textile, ballpoint pen and paper
-Let students tear tiny pieces of paper from their notebooks, rub their ballpoints on their sweaters, and approach the pieces of paper with the ballpoint pen. Both electrostatic attraction and repulsion (after touching the ballpoint, the pieces of paper will be repulsed).
+## 정전기와 직물, 볼펜과 종이
+학생들에게 공책에서 아주 작은 종이 조각을 찢게 한 뒤, 볼펜을 스웨터에 문질러 종이 조각에 가까이 대 보게 합니다. 정전기적 인력과 척력(볼펜에 닿은 뒤 종이 조각이 밀려나는 현상)을 모두 관찰할 수 있습니다.
 
-## Static electricity and balloons
-I always have a balloon in my bag. There are many uses in teaching physics. Just rub it on your clothing, stick it to the wall, or see how pieces of paper react, or the long hair of your students or the hair on their skin.
+## 정전기와 풍선
+저는 항상 가방에 풍선을 하나씩 넣어 다닙니다. 물리 수업에서 활용할 곳이 아주 많기 때문입니다. 옷에 문질러 벽에 붙여 보거나, 종이 조각이나 학생들의 긴 머리카락, 팔의 솜털이 어떻게 반응하는지 살펴볼 수 있습니다.
 
-## Separating salt from pepper with a balloon
-In school cafeterias or in the faculty room one can find salt and pepper for the soup. Mix some salt and pepper. Then rub a balloon with a piece of cloth, your sweater or other materials students wear, might work, and hold it above the mixture. The pepper will be attracted, the salt will not be. Instead of the balloon, one could also use a plastic ruler. The pepper will be attracted by induced separation of charges. Now why didn't the salt get attracted? Are the grains too heavy or is salt is too conductive?
+## 풍선으로 소금과 후추 분리하기
+학교 급식실이나 교무실에 가면 국에 넣는 소금과 후추를 구할 수 있습니다. 소금과 후추를 약간 섞어 둡니다. 그런 다음 풍선을 천 조각이나 스웨터, 또는 학생들이 입고 있는 다른 옷감에 문지른 뒤 혼합물 위에 가까이 대 봅니다. 후추는 끌려 올라오지만 소금은 끌려오지 않습니다. 풍선 대신 플라스틱 자를 사용할 수도 있습니다. 후추는 정전기 유도에 의한 전하 분리로 끌려오게 됩니다. 그렇다면 왜 소금은 끌려오지 않을까요? 소금 알갱이가 너무 무거워서일까요, 아니면 소금이 전기를 너무 잘 통하기 때문일까요?
 
-## Plastic Straws of PVC pipe
-I always have some plastic straws in my bag, but usually they can be obtained from the faculty room of the school. Rub with a paper hand kerchief, then there is a possibility the straw will stick to the wall, or to a metal object such as the leg of a chair. If it does not work so well (humidity in a room full of students), then usually the straw will still attract the hair on the skin. But that can be done also with a ballpoint after rubbing with your sweater. A piece of PVC pipe gives better results.
+## 빨대 또는 PVC 관
+저는 가방에 플라스틱 빨대를 몇 개씩 가지고 다니지만, 보통 학교 교무실에서도 구할 수 있습니다. 종이 손수건(티슈)으로 문지르면 빨대가 벽이나 의자 다리 같은 금속 물체에 달라붙기도 합니다. 만약 교실에 학생이 가득 차 습도가 높아 잘 되지 않더라도, 보통 빨대를 피부의 솜털에 대면 여전히 털을 끌어당기는 것을 볼 수 있습니다. 볼펜을 스웨터에 문질러도 같은 효과를 볼 수 있습니다. PVC 관 조각을 사용하면 더 좋은 결과를 얻을 수 있습니다.
 
-## Coulomb's Law
-Ask how much charge there could be on a ballpoint or a straw. Because of the large constant in Coulomb's Law ($9\text{x}10^9$), charges must be quite small, certainly smaller than $10^{-8} \text{C}$. If $q_1~ = q_2~ = 10^{-8}$ C, then $F_{Coulomb}~= 9 \cdot 10^9 \cdot 10^{-8} \cdot 10^{-8}/10^{-4}$ N, assume a distance of 1 cm, and the result is 1/100 Newton.
+## 쿨롱의 법칙
+볼펜이나 빨대에 대전된 전하량이 어느 정도일지 질문해 봅시다. 쿨롱의 법칙에 들어가는 상수가 매우 크기 때문에($9\text{x}10^9$), 전하량은 아주 작아야 하며 확실히 $10^{-8} \text{C}$보다 작을 것입니다. 만약 $q_1~ = q_2~ = 10^{-8}$ C이고 거리가 1 cm라고 가정하면, $F_{Coulomb}~= 9 \cdot 10^9 \cdot 10^{-8} \cdot 10^{-8}/10^{-4}$ N이 되어 결과는 1/100 뉴턴이 됩니다.
 
-## Water molecules are dipoles
-Use a fork to position an aluminum coin or paperclip very carefully on top of the water surface in a glass of water. Then rub a plastic pen or straw or better PVC pipe on your jumper or other textile and let the tip of the pen or straw or pipe approach the end of the paperclip or the coin ({numref}`vid_10`). The paperclip will move away from the tip of the straw. How come? Start a discussion. Let students propose explanations. If it was electrostatic induction between coin and straw, then there should be attraction rather than repulsion. In the end, somebody might suggest that the water has a role. Water molecules are dipoles. The straw or pipe attracts the water creating a little slope and the coin or paperclip slides down that slope. Actually the slope could be shown by reflecting an almost horizontal beam of a laser pointer from the surface of the water. When the charged straw or pipe comes close to the surface, the reflected beam moves. Could an electrostatic generator be used as an outboard engine for a boat?
+## 물 분자는 쌍극자이다
+포크를 이용해 물이 담긴 유리컵의 수면 위에 알루미늄 동전이나 종이 클립을 아주 조심스럽게 띄웁니다. 그런 다음 플라스틱 펜이나 빨대, 더 좋게는 PVC 관을 스웨터나 다른 직물에 문질러 펜이나 빨대, 관의 끝부분을 클립이나 동전 끝쪽에 가까이 가져갑니다({numref}`vid_10`). 그러면 클립이 빨대 끝에서 멀어집니다. 왜 이런 일이 일어날까요? 토론을 시작해 봅시다. 학생들이 설명을 제안해 보도록 합니다. 만약 동전과 빨대 사이의 정전기 유도 때문이라면 척력이 아니라 인력이 작용해야 합니다. 결국 누군가는 물이 어떤 역할을 한다고 제안할 것입니다. 물 분자는 쌍극자입니다. 대전된 빨대나 관이 물을 끌어당겨 수면에 작은 경사를 만들고, 동전이나 클립은 그 경사를 따라 미끄러져 내려가는 것입니다. 실제로 레이저 포인터의 빛을 수면에 거의 수평하게 비추어 반사시키면 이 경사를 보여 줄 수 있습니다. 대전된 빨대나 관을 수면 가까이에 대면 반사된 빛이 움직입니다. 정전기 발생기를 보트의 선외기 엔진으로 쓸 수도 있을까요?
 
 ```{iframe} https://www.youtube.com/embed/YI4bNdYzQYQ?si=HudH10AcVgUMhkYT
 :width: 60%
@@ -24,20 +24,20 @@ Use a fork to position an aluminum coin or paperclip very carefully on top of th
 :aspectratio: auto 16 / 9
 :align: center
 
-Moving a paper clip from a distance
+멀리서 종이 클립 움직이기
 ```
 
 
-## Flow of electricity compared to water
-Switch on the light, the effect is immediate. Switch on the faucet....it takes some time. From this you may want to get into field driven (electricity) versus particle driven (water) motion. The water is like the traffic when a red light turns green. Electricity is not. Fluorescent lamps may spoil your demo as they can be slow to light but they are on the way out anyway.
+## 물의 흐름과 비교한 전류의 흐름
+전등 스위치를 켜면 불이 즉시 켜집니다. 수도꼭지를 틀면.... 물이 나오기까지 약간의 시간이 걸립니다. 이를 바탕으로 전기장에 의해 구동되는 운동(전기)과 입자에 의해 구동되는 운동(물)의 차이로 이야기를 전개할 수 있습니다. 물의 흐름은 빨간 신호등이 초록색으로 바뀔 때의 차량 흐름과 같습니다. 전기는 그렇지 않습니다. 형광등은 켜지는 데 시간이 걸려 시범을 망칠 수 있지만, 어차피 점점 사라지는 추세입니다.
 
-## Conductors and insulators
-Bare classroom? Just bring a battery, a small bulb in a holder, and some wires. They do fit in your pocket. Then in interaction with the class try out materials to see whether they conduct electricity or not. Kids may be surprised with the core of a pencil.
+## 도체와 부도체(절연체)
+교실에 아무 실험 기구가 없나요? 건전지, 소켓에 끼운 꼬마전구, 그리고 전선 몇 가닥만 가져가면 됩니다. 주머니에도 쏙 들어갑니다. 그런 다음 학생들과 상호작용하며 여러 물질이 전기를 통하는지 아닌지 시험해 봅니다. 아이들은 연필심에 전기가 통하는 것을 보고 놀랄 수도 있습니다.
 
-Take away the bulb holder and just use loose wires, the battery, and a bulb. Who can make the bulb light? Challenge the students and let them first individually draw the connections first. Walk around and see the results. Some students may draw a circuit with one wire only, others may have trouble where to connect the wires with the bulb. They are in good company, graduating students of the Massachusetts Institute of Technology (MIT) had trouble as documented in the Annenberg Private Universe video’s. Then get the one student who wanted to show his skill right away, but you did not let him/her. Let the student show and explain and draw the connections on the board.   
+전구 소켓을 빼고 전선, 건전지, 꼬마전구만 사용해 봅시다. 누가 전구에 불을 켤 수 있을까요? 학생들에게 도전 과제를 내주고, 먼저 각자 연결 방법을 그림으로 그려 보게 합니다. 교실을 돌아다니며 결과를 확인합니다. 어떤 학생은 전선 한 가닥만으로 회로를 그리기도 하고, 어떤 학생은 전구의 어느 부분에 전선을 연결해야 할지 어려워하기도 합니다. 매사추세츠 공과대학(MIT) 졸업생들조차 애넌버그(Annenberg)의 '사적인 우주(Private Universe)' 영상에 기록된 것처럼 이 문제에 어려움을 겪었으니 학생들만 그런 것이 아닙니다. 그런 다음 곧바로 자기 실력을 보여 주고 싶어 했지만 참게 했던 학생을 불러내어, 직접 시연하고 설명하며 칠판에 연결 그림을 그리게 합니다.   
 
-## Circuits with PhET
-Nowadays even bare classrooms, often have a beamer and internet connection, so with PhET simulations you can show any circuit. If there is no beamer, students will have telephones and can log into PhET. So you can even do a simulation lab activity.
+## PhET를 활용한 회로 실험
+요즘은 기자재가 없는 일반 교실에도 빔프로젝터와 인터넷이 연결되어 있는 경우가 많으므로, PhET 시뮬레이션을 통해 어떤 회로든 보여 줄 수 있습니다. 빔프로젝터가 없더라도 학생들에게 휴대전화가 있으므로 PhET에 접속할 수 있습니다. 따라서 시뮬레이션 실험 활동도 충분히 진행할 수 있습니다.
 
-## Role-play to distinguish between electric current, power, and voltage
-Students (= electrons) with bags of energy (energy per unit charge = voltage) move through light bulbs and deposit their energy (conversion from electric energy to light/heat) and return to the battery to get another load of energy. The electrons are conserved in the process as they are only carriers, the "trucks" that transport energy through circuits. It is the energy that gets transformed. The power increases when the current increases (more trucks that deliver energy) and when voltage increases (more load per truck and more current). One can play series and parallel circuits, etc. Complete roleplay instructions are available from the author, but also consider {cite:p}`Sefton2002` very valid criticism of carrier analogies for electricity and [Muller's Veritasium video](https://www.youtube.com/watch?v=bHIhgxav9LY). As any model, visualization, or analogy to facilitate learning, the roleplay is a scaffold for learning but in the last step of the process the scaffold should be taken away and the teacher will point out both the benefits and the flaws of the model. 
+## 전류, 전력, 전압을 구별하는 역할극
+학생들(= 전자)이 에너지 가방(단위 전하당 에너지 = 전압)을 메고 전구를 통과하면서 에너지를 내려놓고(전기 에너지가 빛과 열에너지로 전환됨), 다시 에너지를 싣기 위해 건전지로 돌아옵니다. 전자는 회로 전체에서 에너지를 운반하는 "트럭"과 같은 단순한 운반체이므로 이 과정에서 보존됩니다. 변환되는 것은 바로 에너지입니다. 전류가 커지거나(에너지를 배달하는 트럭이 많아짐) 전압이 커지면(트럭 한 대당 싣는 짐이 많아지고 전류도 커짐) 전력이 증가합니다. 직렬 회로와 병렬 회로 등도 역할극으로 해 볼 수 있습니다. 전체 역할극 지도안은 저자에게 요청하면 받을 수 있지만, 전기의 운반체 비유에 대한 {cite:p}`Sefton2002`의 매우 타당한 비판과 [Muller의 Veritasium 영상](https://www.youtube.com/watch?v=bHIhgxav9LY)도 함께 고려해 보시기 바랍니다. 학습을 돕는 모든 모형, 시각화, 비유와 마찬가지로 역할극 역시 학습을 위한 발판(비계)일 뿐이며, 과정의 마지막 단계에서는 그 발판을 치우고 교사가 해당 모형의 장점과 한계(결함)를 모두 짚어 주어야 합니다. 

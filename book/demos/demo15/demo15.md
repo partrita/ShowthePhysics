@@ -1,22 +1,22 @@
-# Self-propelling car 
-<span style="font-size: 25px; color: gray;">Violating conservation of momentum?</span>
+# 자가 추진 수레 
+<span style="font-size: 25px; color: gray;">운동량 보존 법칙을 위배하는 것일까?</span>
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">저자:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Leo te Brinke</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">15 minutes</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">소요 시간:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">15분</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">15 - 18</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">대상 연령:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">15 - 18세</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)"> (conservation of) linear momentum, Newtons third law, rolling resistance</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">관련 개념:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">선운동량 (보존), 뉴턴의 제3법칙, 구름 저항</td>
     </tr>
 </table>
 
@@ -33,92 +33,92 @@
 </div>
 
 
-## Introduction
-Conservation of linear momentum can be shown by mounting a pendulum on an easy-rolling cart. Pendulum and cart will always move in opposite directions. At the moment the pendulum is released the total linear momentum is zero, and of course it will stay that way.
-If the cart turns out to ride away, even if it is in a jerky way, something must be wrong with a fundamental conservation law, isn’t it?
-Most of us know from our childhood that if you’re sitting in a cart, you can move forward without touching the ground, just by moving your upper body back and forward in the right way.
+## 소개
+잘 구르는 수레에 진자를 설치하여 선운동량 보존 법칙을 보여줄 수 있습니다. 진자와 수레는 항상 서로 반대 방향으로 움직입니다. 진자를 놓는 순간 전체 선운동량은 0이며, 당연히 그 상태가 유지됩니다.
+그런데 수레가 비록 덜컹거리며 움직이더라도 한쪽으로 굴러가 버린다면, 근본적인 보존 법칙 어딘가에 문제가 있는 것이 아닐까요?
+대부분의 사람들은 어린 시절 수레에 앉아서 땅을 짚지 않고도 상체를 앞뒤로 적절히 흔들어 앞으로 나아갈 수 있다는 것을 경험으로 알고 있습니다.
 
-This experiment will only succeed if the cart is not running too smoothly, so friction is part of the secret. Although it is not the most spectacular experiment, it is one that gets you thinking about physics.
+이 실험은 수레가 너무 매끄럽게 구르지 않을 때만 성공하므로, 마찰력이 비밀의 일부입니다. 가장 화려한 실험은 아니지만, 물리학에 대해 깊이 생각해 보게 만드는 실험입니다.
 
-## Equipment
-A suitable cart with a specially-prepared asymmetric pendulum, with a suitable mass on a suitable surface.
+## 준비물
+적절한 표면 위에 놓인, 적절한 질량의 비대칭 진자가 특수하게 장착된 수레.
 ```{figure} demo15_figure1.jpg
 ---
 width: 50%
 align: center
-alt: the setup of the self-propelling car
+alt: 자가 추진 수레의 실험 장치
 ---
-The self-propelling car
+자가 추진 수레
 ```
 
-## Preparation
-The cart should run with a small amount of friction, and it is important that this rolling resistance force is constant. Our cart isn’t much more than a block of wood with three ball-bearings as wheels.
-* Mount a pendulum on the cart, make sure the whole construction, including the pendulum plus weights, is stable.
-* Secure a cross bar to the middle of the pendulum, to stop the string of the pendulum. It must be easily removable and adjustable in height.
-* Hang a mass on the pendulum.
+## 사전 준비
+수레는 약간의 마찰을 받으며 굴러야 하며, 이 구름 저항력이 일정하게 유지되는 것이 중요합니다. 우리가 사용한 수레는 바퀴로 볼베어링 세 개를 단 나무 블록 정도에 불과합니다.
+* 수레에 진자를 설치합니다. 추를 포함한 진자와 전체 구조물이 안정적인지 확인하세요.
+* 진자의 실이 중간에서 걸려 멈추도록 진자 중앙에 가로대를 고정합니다. 이 가로대는 쉽게 탈부착할 수 있고 높이를 조절할 수 있어야 합니다.
+* 진자에 추를 매답니다.
 
-This pendulum is alternatingly long during half a period and short during the other half period.
-Now it’s a matter of trial-and error: due to resistance the cart should only move during the ‘short’ half-period, and not during the ‘long’ half-period. To achieve that you can vary and tune the following variables to maximum effect:
-* The amplitude 
-* The mass of the pendulum
-* The height of the cross-bar
-* The mass of the cart itself 
-* The underlying surface
+이 진자는 반 주기 동안에는 길게, 나머지 반 주기 동안에는 짧게 번갈아 진동합니다.
+이제 시행착오를 거치며 조정해야 합니다. 저항 때문에 수레가 '짧은' 반 주기 동안에만 움직이고 '긴' 반 주기 동안에는 움직이지 않아야 합니다. 최대의 효과를 얻기 위해 다음 변인들을 조절해 보세요:
+* 진폭 
+* 진자의 질량
+* 가로대의 높이
+* 수레 자체의 질량 
+* 바닥면의 재질
 
-After all the cart should jerkily ride into one direction, after releasing the pendulum. 
+결국 진자를 놓은 후 수레는 한쪽 방향으로 덜컹거리며 움직여야 합니다. 
 
-Our cart has a total mass of about one kilogram (including the pendulum), the mass of the pendulum is 0.10 kg, the pendulum has a length of 65 cm and the crossbar is about 45 cm underneath the point of suspension.
+우리가 사용한 수레의 전체 질량은 약 1 kg(진자 포함), 진자의 질량은 0.10 kg, 진자의 길이는 65 cm이며, 가로대는 매달린 지점 아래 약 45 cm 위치에 설치했습니다.
 
-## Procedure
-First, show the cart without cross-bar and ask for predictions what will happen after the pendulum has been released. Verify the predictions and discuss the outcome; this can be done considering conservation of momentum or Newtons third law.
+## 실험 과정
+먼저 가로대가 없는 상태의 수레를 보여주고, 진자를 놓았을 때 어떤 일이 일어날지 예측해 보게 합니다. 예측을 확인하고 결과를 토론합니다. 이는 운동량 보존 법칙이나 뉴턴의 제3법칙으로 설명할 수 있습니다.
 
-Then show that the cart doesn’t move when the amplitude is small, and discuss the reason for this.
+그다음 진폭이 작을 때는 수레가 움직이지 않는 것을 보여주고, 그 이유를 논의합니다.
 
-The final question is whether there is a way to get the cart moving in one direction. After having discussed that, it is time for the experiment: *mount the cross-bar and show it…*
+마지막 질문은 수레를 한 방향으로 움직이게 만들 방법이 있는가 하는 것입니다. 이에 대해 토론한 후 실험을 보여줄 차례입니다: *가로대를 설치하고 시연해 보입니다…*
 
-Ask the audience to look closely at the motion of the cart: during which stage of the oscillation does it move?
+관객들에게 수레의 움직임을 유심히 관찰해 보라고 합니다. 진동의 어느 단계에서 수레가 움직이는가요?
 
 ```{figure} demo15_figure2.jpg
 ---
 width: 50%
 align: center
-alt: a close up showing the end of the pendulum and the cart
+alt: 진자의 끝부분과 수레를 가까이서 보여주는 사진
 ---
-Showroomview
+장치 근접 사진
 ```
 
-The discussion that follows must make clear in which way the properties of rolling resistance are responsible for this phenomenon.
-There might be a discussion about the question if this could also work with a sleigh, an air-cushion vehicle, or a boat.
+이어지는 토론에서는 구름 저항의 특성이 이 현상에 어떻게 기여하는지 명확히 짚어야 합니다.
+썰매, 공기부양정, 또는 배에서도 이 원리가 작동할 수 있는지에 대해 토론해 볼 수도 있습니다.
 
 ```{tip}
 :class: dropdown
-A thorough preparation is very important for this experiment to make sure it will work. In the case your demonstration table is not perfectly horizontal: don’t try to ride uphill but accept a little help from gravity…
+이 실험이 제대로 작동하려면 철저한 사전 준비가 매우 중요합니다. 만약 시연 테이블이 완벽하게 수평이 아니라면, 오르막으로 달리려고 애쓰지 말고 중력의 도움을 조금 받으세요…
 
-The demonstration could be expanded by using two different surfaces. On a very smooth surface conservation of momentum will occur regardless of the pendulum’s properties, on a surface with more friction it won’t. 
+서로 다른 두 표면을 사용하여 시연을 확장할 수 있습니다. 매우 매끄러운 표면에서는 진자의 특성과 관계없이 운동량 보존이 나타나지만, 마찰이 더 큰 표면에서는 그렇지 않습니다. 
 
-This experiment can be used as a design assignment too. In that case the cart must be built with hardly any instructions and then be optimized for the experiment. That is only feasible when all the variables are being changed one-by-one in a very systematic way.
+이 실험은 설계 과제로도 활용할 수 있습니다. 이 경우 거의 지침을 주지 않고 수레를 직접 제작한 뒤 실험에 맞게 최적화하도록 합니다. 이는 모든 변인을 한 번에 하나씩 매우 체계적으로 바꿀 때만 가능합니다.
 ```
 
-## Physics background
-The pendulum bob is alternatingly accelerated and decelerated to the left and to the right.  So there must be an alternating force from the suspension point on the pendulum bob and - according to Newtons third law - also from the pendulum bob on the suspension point. It is important to realize that a force on the suspension point also means a force on the cart. 
+## 물리학적 배경
+진자의 추는 왼쪽과 오른쪽으로 번갈아 가속되고 감속됩니다. 따라서 매달린 지점이 추에 교대로 힘을 가해야 하며, 뉴턴의 제3법칙에 따라 추 역시 매달린 지점에 힘을 가합니다. 매달린 지점에 작용하는 힘은 곧 수레에 작용하는 힘임을 이해하는 것이 중요합니다. 
 
-If there is only mutual interaction the total linear momentum will be conserved which causes the momentums of the cart and the pendulum to be equal and have opposite directions. A small resistance between the underlying surface and the cart will cause gradual loss of energy but this won’t change the equality of momentums. And if the amplitude is sufficiently small the force on the suspension point will not exceed the maximum rolling resistance and the cart will not move.
+상호작용만 존재한다면 전체 선운동량이 보존되어 수레와 진자의 운동량은 크기가 같고 방향이 반대가 됩니다. 바닥면과 수레 사이의 작은 저항은 점진적인 에너지 손실을 일으키지만 운동량의 크기가 같다는 사실은 바꾸지 못합니다. 그리고 진폭이 충분히 작으면 매달린 지점에 작용하는 힘이 최대 구름 저항을 넘지 못해 수레가 움직이지 않습니다.
 
-But if the pendulum is asymmetric, the force between pendulum and suspension point in one direction will be smaller but lasting longer than the force in the opposite direction. In this situation you can arrange it in such way that in one direction the force exceeds the maximal rolling resistance, but in the opposite direction it does not. So the cart will have a pulsed acceleration in one direction. In this situation there is an external force (friction), so linear momentum is no longer conserved. 
+하지만 진자가 비대칭이면 한 방향으로 진자와 매달린 지점 사이에 작용하는 힘은 반대 방향의 힘보다 크기는 작지만 더 오래 지속됩니다. 이러한 상황에서는 한 방향의 힘만 최대 구름 저항을 초과하고 반대 방향의 힘은 초과하지 않도록 조절할 수 있습니다. 따라서 수레는 한 방향으로 맥동하는 가속을 받게 됩니다. 이 상황에서는 외력(마찰력)이 작용하므로 선운동량은 더 이상 보존되지 않습니다. 
 
-The phenomenon can also be explained with Newtons laws: if the forces in both directions are equal and acting for equal intervals, then the acceleration in both directions will be equal too, as well as the increase and decrease of velocity. A friction force will not change that as long as it is equally strong in both directions. But due to the fact that rolling resistance has a maximum value, things are different as soon as the forces to the left and to the right are different.
+이 현상은 뉴턴의 법칙으로도 설명할 수 있습니다. 양방향의 힘이 같고 같은 시간 동안 작용한다면, 양방향의 가속도도 같고 속도의 증가와 감소도 같아집니다. 양방향에서 마찰력의 세기가 똑같은 한 마찰력은 이를 바꾸지 못합니다. 그러나 구름 저항에는 최댓값이 있기 때문에, 왼쪽과 오른쪽으로 작용하는 힘이 달라지면 상황이 달라집니다.
 
-This experiment could work with a sleigh (sliding resistance) as well, but not with a boat or a flying vehicle, because air-resistance and resistance in liquids are velocity-dependent and don’t have a maximum value. 
+이 실험은 썰매(미끄럼 저항)에서는 작동할 수 있지만, 배나 비행체에서는 작동하지 않습니다. 공기 저항과 액체 속에서의 저항은 속도에 의존하며 최댓값이 없기 때문입니다. 
 
 
-## Follow-up
-The phenomenon can be visualized by making graphs of the forces vs. time. You might sketch graphs of:
--	The force on the suspension point
--	The rolling resistance force
--	The resultant force
+## 후속 활동
+시간에 따른 힘의 그래프를 그려 이 현상을 시각화할 수 있습니다. 다음 그래프들을 스케치해 보세요:
+-	매달린 지점에 작용하는 힘
+-	구름 저항력
+-	알짜힘
 
-Draw the graphs straight above one another with the same time axis.
+같은 시간 축을 공유하도록 세 그래프를 위아래로 나란히 그리세요.
 
-Instead of sketching the graphs you could also have them calculated and drawn by means of a mathematics modelling programme.
+그래프를 손으로 그리는 대신 수학 모델링 프로그램을 이용해 계산하고 그리게 할 수도 있습니다.
 
-Of course, the motion of the cart and the pendulum can also be measured and analyzed, e.g. by means of a video-measurement. In the case of a symmetric pendulum the amplitudes of the cart and the pendulum could be compared to their masses.
+물론 영상 분석 등을 통해 수레와 진자의 운동을 측정하고 분석할 수도 있습니다. 대칭 진자의 경우 수레와 진자의 진폭을 각각의 질량과 비교해 볼 수 있습니다.

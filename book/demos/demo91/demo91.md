@@ -1,21 +1,21 @@
-# Mysterious fountain
+# 신비한 분수
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
     <tr style="background-color: var(--background-color);">  
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Author:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">저자:</td>
         <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Peter Dekkers</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Time:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">10-15 minutes</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">소요 시간:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">10~15분</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Age group:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">12+</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">대상 연령:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">12세 이상</td>
     </tr>
     <tr style="background-color: var(--background-color);"> 
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Concepts:</td>
-        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">Siphon, gravitational energy, conservation of energy</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">관련 개념:</td>
+        <td style="text-align: left; padding: 3px; border: none; color: var(--text-color)">사이펀, 중력 위치 에너지, 에너지 보존</td>
     </tr>
 </table>
 
@@ -31,177 +31,177 @@
     </div>
 </div>
 
-## Introduction
-In this 'black box' demonstration, the 'tap' starts to flow once you pour some liquid into the funnel. It then continues to flow unassisted for a long time. What is going on? The challenge is: use your imagination and together think of a description of what might be hidden inside. Students practice developing, comparing, and testing explanations for phenomena and reflect on the role of creativity and personal input in scientific research.
+## 소개
+이 '블랙박스' 시범 실험에서는 깔때기에 액체를 조금 붓기만 하면 '수도꼭지'에서 물이 흐르기 시작합니다. 그리고 아무런 도움 없이도 오랫동안 계속 흐릅니다. 도대체 안에서 무슨 일이 일어나고 있는 것일까요? 과제는 다음과 같습니다: 상상력을 발휘하여 그 안에 무엇이 숨겨져 있을지 함께 설명을 떠올려 보세요. 학생들은 현상에 대한 설명을 고안하고, 비교하고, 검증하는 연습을 하며, 과학 연구에서 창의성과 개인의 아이디어가 수행하는 역할에 대해 성찰하게 됩니다.
 
-## Equipment
-* Two bottles or Erlenmeyer flasks, one filled with water
-* (Optional) food coloring, two colors
-* Two tightly fitting rubber stoppers, each with two holes that the glass tubes fit exactly
-* Two large paper tubes, large enough to completely cover the bottles
-* A small funnel
-* Glass or rubber tubes 
-* A cup with some extra liquid
+## 준비물
+* 병 또는 삼각 플라스크 2개(그중 하나에는 물을 채움)
+* (선택 사항) 두 가지 색의 식용 색소
+* 유리관이 정확히 들어맞는 구멍이 각각 2개씩 뚫린 고무마개 2개
+* 병을 완전히 가릴 수 있을 만큼 큰 종이 원통 2개
+* 작은 깔때기 1개
+* 유리관 또는 고무관
+* 여분의 액체가 담긴 컵 1개
 
-The delicate tube that acts as the 'tap' can also be made of rubber. Use a transparent hose to connect the two bottles. Preferably use water of different colors in the cup and the container on the right to contribute to the mystery. 
+'수도꼭지' 역할을 하는 가는 관은 고무로 된 것을 사용할 수도 있습니다. 두 병을 연결할 때는 투명한 호스를 사용하세요. 신비감을 더하기 위해 컵과 오른쪽 용기에는 서로 다른 색의 물을 사용하는 것이 좋습니다.
 
 ```{figure} demo91_figure1.jpg
 ---
 width: 50%
 align: center
-alt: A laboratory setup featuring two large cylindrical containers wrapped in colored paper—one yellow (left) and one red (right)—connected by a transparent plastic tube. A glass funnel is inserted into the yellow container, with the tube extending from the funnel to the red container. The red container is elevated on a metallic lab jack with a scissor-lift mechanism.
+alt: 왼쪽은 노란색, 오른쪽은 빨간색 색지로 감싼 두 개의 큰 원통형 용기가 투명한 플라스틱 관으로 연결된 실험 장치. 노란색 용기에 유리 깔때기가 꽂혀 있으며, 관은 깔때기에서 빨간색 용기로 이어져 있다. 빨간색 용기는 가위형 리프트 구조의 금속 실험용 잭 위에 높여져 있다.
 ---
-The mysterious fountain.
+신비한 분수.
 ```
 
-## Preparation
-Construct the setup according to {numref}`Figure {number}<demo91_fig2>`. Place the bottles in the large paper tubes, which cover the bottles up to the stoppers, so that the contents of the bottles remain invisible. Note: both bottles and all tubes must be sealed airtight by the stoppers, the connection between the bottles as well. The connecting tube should protrude into these bottles as little as possible. The end of the tube below the funnel as well as that of the tube on the right in {numref}`Figure {number}<demo91_fig2>` should be placed as deep as possible, close to the bottom of each bottle. The 'tap' should extend as little as possible above the bottle on the right, the funnel should extend as much as possible above the one on the left.
+## 사전 준비
+{numref}`그림 {number}<demo91_fig2>`에 따라 실험 장치를 조립합니다. 병의 내용물이 보이지 않도록 마개 바로 아래까지 병을 덮는 큰 종이 원통 안에 병들을 넣습니다. 주의: 두 병과 모든 관은 마개로 공기가 새지 않게 완전히 밀봉되어야 하며, 병 사이의 연결 관도 마찬가지입니다. 연결 관은 각 병 안으로 가능한 한 조금만 들어가게 해야 합니다. 깔때기 아래의 관 끝과 {numref}`그림 {number}<demo91_fig2>`의 오른쪽 관 끝은 각 병의 바닥 가까이까지 가능한 한 깊숙이 닿아야 합니다. '수도꼭지'는 오른쪽 병 위로 가능한 한 조금만 튀어나오게 하고, 깔때기는 왼쪽 병 위로 가능한 한 높이 올라오게 설치합니다.
 
 ```{figure} demo91_figure2.jpg
 ---
 width: 50%
 align: center
 name: demo91_fig2
-alt: the schematic of the setup showing how the cilinders are connected with a tube.
+alt: 두 원통이 관으로 어떻게 연결되어 있는지 보여 주는 장치의 모식도.
 ---
-Sketch of the setup
+장치 개략도
 ```
 
 
-## Procedure
-Pour the liquid from the cup into the funnel. Then, liquid will rise in the tap tube on the right: as soon as it 'rounds the corner,' the tap starts to run and keeps running (as long as the liquid flows into the funnel and the liquid level in the container on the left is high enough). Yet, 'nothing' (visible) goes through the connecting hose between the bottles.
+## 실험 과정
+컵에 담긴 액체를 깔때기에 붓습니다. 그러면 오른쪽의 수도꼭지 관을 따라 액체가 차오르기 시작하고, 곧 '모퉁이를 돌아' 넘어가면 수도꼭지에서 물이 흐르기 시작해 (액체가 깔때기로 흘러 들어가고 왼쪽 용기의 수위가 충분히 높은 한) 계속 흐릅니다. 그럼에도 두 병 사이의 연결 호스를 통해서는 (눈에 보이는) '아무것도' 지나가지 않는 것처럼 보입니다.
 
-The discussion during the experiment is more interesting than the execution and the events. Some questions to ask and tasks to be performed (see a possible 'scenario' in the {ref}`worksheet<worksheet>`):
-* *How do you think it works?* (Add a sketch to your explanation, compare with your neighbor.)
-* *Will the tap keep on running forever? Why or why not?*
-* *Nothing seems to be happening in the connecting tube. Will it still work if we remove it?*
-* *What do you think will happen if...* (see the {ref}`worksheet<worksheet>` for possibilities)
-If food coloring is used the experiment becomes more visible and more interesting. *Could the explanation involve chemical processes?*
+이 실험에서는 실제 작동과 현상 자체보다 실험 중 이루어지는 토의가 훨씬 더 흥미롭습니다. 던질 수 있는 질문과 활동 예시는 다음과 같습니다({ref}`활동지<worksheet>`에서 가능한 시나리오를 확인하세요):
+* *어떤 원리로 작동한다고 생각하나요?* (설명에 그림을 그려 추가하고, 짝과 비교해 보세요.)
+* *수도꼭지에서 물이 영원히 나올까요? 왜 그럴까요, 혹은 왜 그렇지 않을까요?*
+* *연결 관에서는 아무 일도 일어나지 않는 것처럼 보입니다. 연결 관을 빼더라도 계속 작동할까요?*
+* *만약 ... 한다면 어떻게 될까요?* (가능한 질문들은 {ref}`활동지<worksheet>` 참고)
+식용 색소를 사용하면 실험이 더 잘 보이고 흥미로워집니다. *이 현상의 설명에 화학 반응이 관련되어 있을 수 있을까요?*
 
 
-## Physics background
-### Lower grades
-Use {numref}`Figure {number}<demo91_fig2>`, when you pour a little water into the funnel, the level in the bottle on the left rises. Air is pushed through the hose into the bottle on the right. The water level there is pushed down so that water comes up inside the 'tap' tube on the right. The tube of the 'tap' is narrow, and soon the water rounds the bend and falls into the funnel. After that, the water flowing from the tap ensures that the process continues. The water stops running when the difference in water level (from the top of the water column in a tube to the liquid level in its bottle) is the same in both bottles, or when the bottle on the right is empty.
+## 물리학적 배경
+### 저학년 수준
+{numref}`그림 {number}<demo91_fig2>`를 보세요. 깔때기에 물을 조금 부으면 왼쪽 병의 수위가 올라갑니다. 이에 따라 공기가 호스를 통해 오른쪽 병으로 밀려 들어갑니다. 오른쪽 병의 수면이 아래로 눌리면서 물이 오른쪽의 '수도꼭지' 관을 따라 위로 올라옵니다. '수도꼭지' 관은 가늘기 때문에 금세 물이 굽은 부분을 돌아 깔때기로 떨어집니다. 그 이후부터는 수도꼭지에서 흘러나오는 물이 이 과정을 계속 이어가게 만듭니다. 물은 양쪽 병의 수위 차이(관 속 물기둥 꼭대기에서 해당 병의 액면까지의 높이 차이)가 서로 같아지거나, 오른쪽 병이 비게 되면 멈춥니다.
 
-### More precisely
-Once the column of liquid below the funnel is built up, and the flow is stable, the gas pressure above the liquids inside both bottles is the same. The gas pressure above the liquid in the funnel is also always equal to the atmospheric pressure prevailing at the end of the tap. Thus, the water continues to flow from the tap as long as the liquid column on the left is taller than the one on the right. According to Bernoulli, the potential energy of the excess water in the column on the left is then converted into the kinetic energy of the water flowing from the tap. It is a siphon effect: the water keeps flowing until there is no more excess potential energy available, either when the bottle on the right is empty or the liquid columns are of equal height.
+### 더 정확한 설명
+깔때기 아래에 액체 기둥이 형성되고 흐름이 안정되면, 두 병 내부의 액체 위쪽에 있는 기체 압력은 서로 같아집니다. 깔때기 속 액체 위쪽의 기체 압력 역시 수도꼭지 끝에서 작용하는 대기압과 항상 같습니다. 따라서 왼쪽의 액체 기둥이 오른쪽보다 높은 한 물은 수도꼭지에서 계속 흘러나옵니다. 베르누이 원리에 따르면, 왼쪽 기둥의 여분의 물이 가진 위치 에너지가 수도꼭지에서 흘러나오는 물의 운동 에너지로 전환됩니다. 이는 일종의 사이펀 효과로, 오른쪽 병이 비거나 양쪽 액체 기둥의 높이가 같아져서 더 이상 여분의 위치 에너지가 남아 있지 않을 때까지 물이 계속 흐릅니다.
 
-## Follow-up
-{cite:t}`lederman1998avoiding` describe how various characteristics of scientific research can be clarified to students based on their own experiences.
+## 후속 활동
+{cite:t}`lederman1998avoiding`은 학생들 자신의 경험을 바탕으로 과학 연구의 다양한 특성을 어떻게 명확히 설명할 수 있는지 기술하고 있습니다.
 
 ```{tip}
-If it does not 'work,' check if the stoppers are securely fastened and the long tubes reach the liquid level in both bottles. Afterward, you can pull out the stoppers from the bottles, refill one, and start over. Be careful of overflow as some liquid has been added.
+장치가 '작동하지' 않는다면, 마개가 단단히 닫혀 있는지, 그리고 긴 관들이 양쪽 병의 액면 아래까지 닿아 있는지 확인하세요. 실험이 끝난 뒤에는 병에서 마개를 뽑아 한쪽 병에 물을 다시 채우고 처음부터 다시 시작할 수 있습니다. 물이 추가되었으므로 넘치지 않도록 주의하세요.
 ```
 
-## References
+## 참고문헌
 ```{bibliography}
 :filter: docname in docnames
 ```
 
-```{admonition} Worksheet
+```{admonition} 활동지
 :name: worksheet
 
-**Overview**
+**개요**
 
-This section presents a scenario, or possible way of conducting the demonstration with examples of teacher questions, comments, and explanations aimed at stimulating the exchange of ideas and insights among students, focusing on explaining observations in scientific inquiry. 
+이 절에서는 과학적 탐구에서 관찰 결과를 설명하는 데 초점을 맞추어, 학생들 사이의 아이디어와 통찰을 교환하도록 자극하기 위한 교사의 질문, 코멘트, 설명 예시를 포함한 시범 실험 진행 시나리오를 제시합니다.
 
 ---
 
-**Discussion**
+**토의**
 
-**Teacher:** "I have a cup here with a strange liquid. There's a setup here, and I'm going to pour a bit of this liquid into this funnel. What do you think will happen?"
+**교사:** "여기 이상한 액체가 담긴 컵이 있습니다. 여기 장치가 하나 있고, 이 액체를 이 깔때기에 조금 부어 보려고 합니다. 어떤 일이 일어날 것 같나요?"
 
-*Allow students to respond.*
+*학생들이 대답할 수 있도록 시간을 줍니다.*
 
-**Teacher:** "Shall we give it a try?"
+**교사:** "직접 한번 해 볼까요?"
 
-*Pour liquid into the funnel until the tap starts to flow.*
+*수도꼭지에서 물이 나오기 시작할 때까지 깔때기에 액체를 붓습니다.*
 
-**Teacher:** "As you can see, the tap begins to flow. What's going on here?"
+**교사:** "보시다시피 수도꼭지에서 물이 나오기 시작했습니다. 여기서 무슨 일이 일어나고 있는 걸까요?"
 
-**Teacher:** "Do you think it will stop if I hold my finger against the end? And if I let go, does it start again or not?"
+**교사:** "제가 손가락으로 끝을 막으면 물이 멈출까요? 그리고 손가락을 떼면 다시 나올까요, 안 나올까요?"
 
-*(The tap stops when you hold it closed with your finger but starts again when you let go.)*
+*(손가락으로 막으면 수도꼭지가 멈추지만, 떼면 다시 나옵니다.)*
 
-**Teacher:** "And if I catch the liquid? Do you think it will start again if I pour the liquid back in?"
+**교사:** "만약 흘러나오는 액체를 컵으로 받아 내면 어떻게 될까요? 받아 낸 액체를 다시 깔때기에 부으면 다시 나오기 시작할까요?"
 
-*(When you catch the liquid, the tap stops. Pour the caught liquid back into the funnel, and the tap starts again unless the bottle is empty.)*
+*(액체를 받아 내면 수도꼭지가 멈춥니다. 받아 낸 액체를 다시 깔때기에 부으면 병이 비어 있지 않은 한 수도꼭지가 다시 작동합니다.)*
 
-**Teacher:** "Does it make a difference if I hold one bottle lower or the other higher?"
+**교사:** "한쪽 병을 더 낮게 들거나 다른 쪽 병을 더 높게 들면 차이가 있을까요?"
 
-*(The height difference between the bottles does not affect the flow. The difference in liquid levels on the left must be greater than the difference on the right; the greater this difference, the faster the water flows from the tap. The bottle on the right must be placed higher than the one on the left only to allow for the tap to feed the funnel.)*
+*(병들 사이의 높이 차이는 흐름에 영향을 주지 않습니다. 왼쪽에서의 액체 수위 차이가 오른쪽에서의 차이보다 커야 하며, 이 차이가 클수록 수도꼭지에서 물이 더 빠르게 흐릅니다. 오른쪽 병을 왼쪽 병보다 높게 두어야 하는 이유는 단지 수도꼭지가 깔때기로 물을 공급할 수 있게 하기 위해서입니다.)*
 
-**Teacher:** "Will this tap run forever? When does it stop, where does all that liquid come from, and where does it go?"
+**교사:** "이 수도꼭지는 영원히 나올까요? 언제 멈추고, 저 액체는 다 어디에서 와서 어디로 가는 걸까요?"
 
-*(The flow stops when the right bottle is empty, or the difference in height difference is zero.)*
+*(오른쪽 병이 비거나, 두 높이 차이의 차가 0이 되면 흐름이 멈춥니다.)*
 
-**Teacher:** "What's the purpose of that connecting tube? It looks like nothing is going through. Does it still work if we disconnect it?"
+**교사:** "저 연결 관의 역할은 무엇일까요? 아무것도 지나가지 않는 것처럼 보이는데, 연결 관을 빼도 여전히 작동할까요?"
 
-*(No, then it stops. If you reconnect it and add some water to the funnel, it starts again.)*
+*(아니요, 그러면 멈춥니다. 다시 연결하고 깔때기에 물을 조금 부으면 다시 작동합니다.)*
 
-**Teacher:** "What do the colors of the liquids have to do with anything?"
+**교사:** "액체의 색깔은 이 현상과 무슨 상관이 있을까요?"
 
-*(Nothing.)*
+*(아무 상관 없습니다.)*
 
 ***
 
-**Assignments**
+**과제**
 
-**Students:** (in groups) Answer the following questions and present them to each other:
+**학생:** (모둠별로) 다음 질문에 답하고 서로 발표해 보세요:
 
-- What do you think is in the bottles?
-- Draw your answer in the figure.
-- Explain how it works.
+- 병 안에 무엇이 들어 있다고 생각하나요?
+- 그림에 여러분의 생각을 그려 보세요.
+- 어떻게 작동하는지 설명해 보세요.
 
-*Possible extension: try to make such a device at home / with your group.*
+*추가 확장 활동: 집에서 또는 모둠과 함께 이런 장치를 직접 만들어 보세요.*
 
 <hr size="3" color ="black">
 
-**Comparison of Answers**
+**답변 비교하기**
 
-*Everyone usually thinks their own solutions are the best. But can you also explain what makes them the best? If you do not consider your own solution but only those of other groups, which do you think are better? Why?*
+*보통 누구나 자신의 해답이 가장 뛰어나다고 생각합니다. 그렇다면 여러분의 해답이 왜 가장 뛰어난지 설명할 수 있나요? 자신의 해답은 빼고 다른 모둠의 해답만 보았을 때, 어떤 해답이 더 나은가요? 그 이유는 무엇인가요?*
 
-*(After the bottles are 'revealed':)* 
+*(병을 가린 덮개를 벗겨 '공개'한 후:)*
 
-**Teacher:** "Do you understand how it works now? Explain it. Which solution(s) do you now think are the best?"
-
----
-
-**Conclusions: Characteristics of Scientific Research**
-
-Does this experiment have anything to do with science and the ways scientists do research?
-
-*Most people are surprised when the tap starts running and continues for a while. It seems there is nothing that keeps the water running. In science, experiencing surprise is very important. If what happens was unexpected, something new can be learned, and that's what scientists find very important. To learn new things, they conduct research. In this case one approach to conducting research is to try and imagine what could be inside the bottles, and could explain what was observed. That normally results in various possible solutions that can be investigated further.*
-
-*Most scientists also usually think that their own solutions and those of their friends are the best, but that's just their opinion. To find out which solution is really the best, more research is usually needed. It could be investigated whether a proposed solution really accords with what was observed. Also you might consider carefully: is that solution understandable (does it fit in with what you already know about similar situations), or is it unrealistic? You can also build a set-up in line with the solution and see if it works. Scientists have various ways to find the best solutions.*
-
-*Of course, there is technically only one solution that is completely correct for this setup. You see it when the envelopes are removed.*
-
-*(If as a teacher you haven't removed the envelopes yet, you're setting the bar very high! Show students what's in the bottles, project the diagram if possible, and provide the necessary background information.)*
+**교사:** "이제 어떻게 작동하는지 이해가 되나요? 설명해 보세요. 이제 어떤 해답(들)이 가장 훌륭하다고 생각하나요?"
 
 ---
 
-**Explanation**
+**결론: 과학 연구의 특성**
 
-*Lower Secondary*
+이 실험은 과학, 그리고 과학자들이 연구를 수행하는 방식과 어떤 관련이 있을까요?
 
-The color of the liquids has nothing to do with it; it was only meant to make things interesting. It's just colored water. If you pour a little water into the funnel, the level in the bottle on the left rises, pushing air through the tube into the bottle on the right, which also causes the water there to rise. The tube of the 'tap' is narrow, so soon the water rises, goes around the bend, and falls into the funnel. Then you don't need to pour anymore, the water coming from the tap keeps the process going, usually until the right bottle is empty. The water stops running when the level difference in the bottles is the same, or the right bottle is empty.
+*대부분의 사람은 수도꼭지에서 물이 나오기 시작해 한동안 계속 흐를 때 놀라움을 느낍니다. 물을 계속 흐르게 만드는 동력이 아무것도 없는 것처럼 보이기 때문입니다. 과학에서는 이러한 놀라움을 경험하는 것이 매우 중요합니다. 일어난 일이 예상 밖이었다면 새로운 것을 배울 수 있으며, 이는 과학자들이 매우 중요하게 여기는 부분입니다. 새로운 것을 배우기 위해 과학자들은 연구를 수행합니다. 이 경우 연구를 수행하는 한 가지 방법은 병 안에 무엇이 들어 있을지 상상해 보고, 그것이 관찰된 현상을 설명할 수 있는지 따져 보는 것입니다. 그러면 대개 더 깊이 조사해 볼 수 있는 여러 가지 가능한 해답들이 도출됩니다.*
 
-*Upper Secondary*
+*대부분의 과학자들 역시 보통 자신이나 동료들의 해답이 가장 좋다고 생각하지만, 그것은 어디까지나 개인적인 의견일 뿐입니다. 어떤 해답이 정말로 가장 좋은지 알아내려면 대개 추가적인 연구가 필요합니다. 제안된 해답이 실제로 관찰된 내용과 부합하는지 검증해 볼 수 있습니다. 또한 그 해답이 이해 가능한지(비슷한 상황에 대해 이미 알고 있는 지식과 잘 맞아떨어지는지), 아니면 비현실적인지도 신중히 따져 볼 수 있습니다. 혹은 그 해답에 따라 직접 장치를 만들어 작동하는지 시험해 볼 수도 있습니다. 과학자들은 최선의 해답을 찾기 위해 다양한 방법을 사용합니다.*
 
-A more precise explanation (beyond the level of the Dutch secondary examination program) starts with some approximations: the liquid is incompressible, the flow is frictionless, and the temperature is constant. Then consider a small section of the liquid. Its energy can change in three ways:
+*물론 이 장치의 경우 엄밀히 말해 완전히 옳은 해답은 단 하나뿐입니다. 덮개를 벗기면 그 해답을 바로 확인할 수 있습니다.*
 
-1. If the speed changes, the kinetic energy changes,
-2. If the height changes, the potential energy changes,
-3. If the pressure changes, work may be performed.
+*(만약 교사로서 아직 덮개를 벗기지 않았다면, 학생들에게 너무 높은 기준을 요구하고 있는 셈입니다! 병 안에 무엇이 있는지 학생들에게 보여 주고, 가능하면 도식도 함께 투사하여 필요한 배경지식을 제공하세요.)*
 
-The law of conservation of energy can be written as: $0 = ΔE_{kin} + ΔE_{pot} + W$
+---
 
-Thus, for each volume element at every point in the circuit: $\frac{1}{2}ρv^2 + ρgh + P = constant$
+**해설**
 
-($ρ$ is the density of the liquid, $v$ is the speed at that point, $h$ is the height, $P$ is the pressure.)
+*중학교 수준*
 
-This is Bernoulli's law (which also plays a role in explaining how flying works when applied to a gas).
+액체의 색깔은 아무런 상관이 없으며, 단지 흥미를 돋우기 위한 장치일 뿐입니다. 그저 색소를 탄 물입니다. 깔때기에 물을 조금 부으면 왼쪽 병의 수위가 올라가고, 이로 인해 공기가 관을 통해 오른쪽 병으로 밀려 들어가 오른쪽 병의 물도 관을 따라 올라가게 됩니다. '수도꼭지' 관은 가늘기 때문에 금세 물이 올라와 굽은 부분을 지나 깔때기로 떨어집니다. 그 후에는 더 이상 물을 부을 필요가 없으며, 수도꼭지에서 나오는 물이 이 과정을 계속 유지해 주어 보통 오른쪽 병이 빌 때까지 이어집니다. 물은 양쪽 병의 수위 차이가 같아지거나 오른쪽 병이 비면 멈춥니다.
 
-The pressure at the inflow and outflow points is atmospheric pressure. Apply Bernoulli at those points (and use also that the pressure in the air within the bottles is equal everywhere) then it turns out: the difference in height of the liquid columns on the left and right results in the speed of the outgoing liquid.
+*고등학교 수준*
+
+더 정밀한 설명(네덜란드 중등 교육과정 시험 범위를 넘어서는 수준)은 몇 가지 근사에서 출발합니다. 즉, 액체는 비압축성이고, 흐름에는 마찰이 없으며, 온도는 일정하다고 가정합니다. 이제 액체의 작은 한 부분을 생각해 봅시다. 이 액체 부분의 에너지는 세 가지 방식으로 변할 수 있습니다:
+
+1. 속력이 변하면 운동 에너지가 변한다.
+2. 높이가 변하면 위치 에너지가 변한다.
+3. 압력이 변하면 일이 수행될 수 있다.
+
+에너지 보존 법칙은 다음과 같이 쓸 수 있습니다: $0 = ΔE_{kin} + ΔE_{pot} + W$
+
+따라서 회로의 모든 지점에서 각 부피 요소에 대해 다음이 성립합니다: $\frac{1}{2}ρv^2 + ρgh + P = constant$
+
+($ρ$는 액체의 밀도, $v$는 해당 지점에서의 속력, $h$는 높이, $P$는 압력입니다.)
+
+이것이 바로 베르누이 법칙입니다(기체에 적용하면 비행기가 어떻게 날 수 있는지 설명할 때도 중요한 역할을 합니다).
+
+유입 지점과 유출 지점의 압력은 모두 대기압입니다. 그 지점들에 베르누이 법칙을 적용하면(그리고 병 안의 공기 압력이 어디서나 같다는 점도 이용하면), 왼쪽과 오른쪽 액체 기둥의 높이 차이가 흘러나오는 액체의 속력을 결정한다는 결론을 얻게 됩니다.
 ```

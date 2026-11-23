@@ -1,4 +1,4 @@
-# Literature
+# 참고문헌
 
 Ananthaswamy, A. (2018). Through two doors at once. The elegant
 experiment that captures the enigma of our quantum reality. New York:
@@ -6,8 +6,7 @@ DUTTON Penguin Random House.
 
 Berg, E. van den, Sundaru. (1990). Student ideas on the velocity of
 light. *The Australian Science Teachers Journal*, *36*(2), 72-75, (May
-1990). A diagnostic test in English on the propagation of light is
-available from the first author.  
+1990). 빛의 전파에 관한 영문 진단 평가지(diagnostic test)는 제1저자에게 요청할 수 있습니다.  
 
 Berg, E. van den, Grosheide, W. (1997). Learning and teaching about
 energy, power, current, and voltage. *School Science Review*, March
@@ -80,14 +79,10 @@ Physics Teacher*, 28(2), 84-86.
 
 Wojewoda, G. (2017).
 <http://www.pl.euhou.net/docupload/files/Excersises/WorldAroundUs/Diffraction/Diffraction_and_Interference_v2.pdf>.
-Accessed 10 July 2017.
+2017년 7월 10일 접속.
 
 [*https://www.youtube.com/watch?v=xbafUQto5uk*](https://www.youtube.com/watch?v=xbafUQto5uk)
 
-[^1]: Suggestions for Biology and Chemistry can be found in Appendix A
-    and Appendix B.
+[^1]: 생물학과 화학에 관한 제안은 부록 A와 부록 B에서 찾을 수 있습니다.
 
-[^2]: A few of the demonstrations were published in *The Physics
-    Teacher* (USA), September 1998, Vol 36, 356-358. Some others were
-    published in various national and international conference
-    proceedings.
+[^2]: 이 시범 실험들 중 몇 가지는 *The Physics Teacher* (미국), 1998년 9월호, 36권, 356-358쪽에 실렸습니다. 다른 일부는 여러 국내 및 국제 학술대회 발표집에 게재되었습니다.

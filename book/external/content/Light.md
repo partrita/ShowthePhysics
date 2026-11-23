@@ -1,217 +1,217 @@
-# Light
+# 빛
 
-In the bare classroom there is scattered light from outside, sometimes direct sunlight. There are lamps in the ceiling and there are the little flashlights on the mobile telephones of students as well as light from the telephone screens. The teacher may even have a laser pointer in his/her pocket. It should be possible to show many optics phenomena with those different sources of light.
+일반 교실에는 창밖에서 들어오는 산란광이 있고, 때로는 직사광선도 비칩니다. 천장에는 전등이 있고, 학생들의 휴대전화에는 작은 손전등 기능과 화면에서 나오는 빛도 있습니다. 교사 주머니에 레이저 포인터가 들어 있을 수도 있습니다. 이처럼 다양한 광원을 활용하면 교실에서도 여러 광학 현상을 충분히 보여 줄 수 있습니다.
 
-## Preliminary diagnostic questions on the propagation of light
-The nicest start of lessons on optics is in a totally dark room with at most a candlelight. But a bare classroom is unlikely to have the necessary thick black curtains. Well, improvise with a candle, *let there be light!* I strongly suggest you go through some very basics that rarely make it into an optics lesson and try to assess some preconceptions of your students. Why not use some multiple-choice questions like the following [@van1990student], to be answered individually. 
+## 빛의 전파에 관한 사전 진단 질문
+광학 수업을 시작하는 가장 좋은 방법은 촛불 하나만 켠 완전히 어두운 교실입니다. 하지만 일반 교실에는 두꺼운 암막 커튼이 없을 가능성이 큽니다. 그래도 양초 하나로 임기응변을 발휘해 봅시다. *빛이 있으라!* 광학 수업에서 좀처럼 다루지 않는 가장 기초적인 내용부터 짚고 넘어가며 학생들의 선개념을 진단해 보기를 강력히 권합니다. 다음과 같은 선다형 질문([@van1990student])을 학생들에게 제시해 개별적으로 답하게 해 보는 것은 어떨까요? 
 
-A candle is burning in day light. The light of the candle: 
-- stays on the candle, 
-- comes out halfway towards you, 
-- moves away from the candle until obstructed. 
+낮에 양초가 타고 있습니다. 양초의 빛은: 
+- 양초에 머물러 있다. 
+- 당신을 향해 절반쯤 오다가 멈춘다. 
+- 장애물에 막힐 때까지 양초에서 멀어진다. 
 
-Then the same question but now at nighttime. Then follows a plenary discussion on how far light can go. If somebody with a telescope is 1 km away, can he see the candle? Does that mean that the light of the candle reaches the telescope, or is the light on the candle and the telescope looks at it?
+이어서 밤일 때를 가정해 같은 질문을 합니다. 그런 다음 빛이 얼마나 멀리까지 갈 수 있는지에 대해 전체 토론을 진행합니다. 만약 1 km 떨어진 곳에서 누군가 망원경으로 본다면 그 양초를 볼 수 있을까요? 그렇다면 양초의 빛이 망원경까지 도달한다는 뜻일까요, 아니면 빛은 양초에 머물러 있고 망원경이 그것을 들여다보는 것일까요?
 
-1. A candle is burning during the day. The light from the candle:
+1. 낮 동안 양초가 타고 있습니다. 양초에서 나온 빛은:
 
--   stays on the candle.
--   comes out about halfway towards you
--   comes out as far as you but no farther
--   comes out until it hits something.
+-   양초에 머물러 있다.
+-   당신을 향해 대략 절반쯤 온다.
+-   당신이 있는 곳까지만 오고 더 멀리는 가지 않는다.
+-   무언가에 부딪힐 때까지 나아간다.
 
-2. Now there is a brown out during the evening and you are using a candle. The light from the candle:
+2. 이제 저녁에 정전이 되어 양초를 켜 두었습니다. 양초에서 나온 빛은:
 
--   stays on the candle.
--   comes out about halfway towards you
--   comes out as far as you but no farther
--   comes out until it hits something.
+-   양초에 머물러 있다.
+-   당신을 향해 대략 절반쯤 온다.
+-   당신이 있는 곳까지만 오고 더 멀리는 가지 않는다.
+-   무언가에 부딪힐 때까지 나아간다.
 
-3. Now there the candle is near a light bulb. The light from the light bulb:
+3. 이제 양초 옆에 전구가 켜져 있습니다. 전구에서 나온 빛은:
 
--   stays on the bulb.
--   comes out about halfway towards you
--   comes out as far as you but no farther
--   comes out until it hits something.
+-   전구에 머물러 있다.
+-   당신을 향해 대략 절반쯤 온다.
+-   당신이 있는 곳까지만 오고 더 멀리는 가지 않는다.
+-   무언가에 부딪힐 때까지 나아간다.
 
-4. Now it is evening. The light from the light bulb:
+4. 이제 시간은 저녁입니다. 전구에서 나온 빛은:
 
--   stays on the bulb.
--   comes out about halfway towards you
--   comes out as far as you but no farther
--   comes out until it hits something.
+-   전구에 머물러 있다.
+-   당신을 향해 대략 절반쯤 온다.
+-   당신이 있는 곳까지만 오고 더 멀리는 가지 않는다.
+-   무언가에 부딪힐 때까지 나아간다.
 
-## White light and spectra with everyday objects
-Let students use transparent ballpoint pens or other transparent glass or plastic objects to produce a spectrum. Does anybody have a pocketknife with a lens? Then recombine the colors into white. With an OHP in the room there would be many more possibilities.
+## 일상 물건으로 백색광과 스펙트럼 만들기
+학생들이 투명한 볼펜이나 기타 투명한 유리 또는 플라스틱 물체를 이용해 스펙트럼을 만들어 보게 합니다. 렌즈가 달린 주머니칼을 가진 사람이 있나요? 있다면 그 색깔들을 다시 합쳐 백색광으로 만들어 보세요. 교실에 OHP가 있다면 훨씬 더 다양한 실험이 가능합니다.
 
-## Producing colors
-From the previous experiment we might have learned that anything with a wedge shape, like those cheap ballpoints with a hexagonal profile, can produce colors from white light. We can recognize such shapes everywhere, like the edge of a bathroom mirror and a prism. Look around, does anybody have clothing or shoes with glitter and colors? Any wedge shapes involved?
+## 색 만들어 내기
+앞선 실험에서 우리는 육각형 단면의 저렴한 볼펜처럼 쐐기 모양을 가진 물체라면 무엇이든 백색광으로부터 색을 만들어 낼 수 있다는 것을 알았을 것입니다. 화장실 거울의 가장자리나 프리즘처럼 주변 어디서나 이러한 모양을 찾아볼 수 있습니다. 주위를 둘러보세요. 반짝이나 색깔이 들어간 옷이나 신발을 신은 학생이 있나요? 거기에도 쐐기 모양이 숨어 있을까요?
 
-##  Color subtraction
-Anybody with transparent, colored candy wrappers? Use a flashlight or the light of a telephone and shine it through the colored paper towards the students. The original light is white, the paper wrappers subtract colors from white. A red paper wrapper subtracts blue and green and lets red go through. A blue paper wrapper subtracts green and red and lets blue go through. If you have more candy wrappers and more lamps you can add colors together again.
+## 색의 감산 혼합
+투명한 색깔의 사탕 포장지를 가진 학생이 있나요? 손전등이나 휴대전화 불빛을 이용해 색종이(포장지)를 통과시켜 학생들 쪽으로 비춰 봅니다. 원래의 빛은 백색광이며, 색포장지는 백색광에서 일부 색을 뺍니다(감산). 빨간색 포장지는 파란색과 초록색을 흡수(제거)하고 빨간색만 통과시킵니다. 파란색 포장지는 초록색과 빨간색을 빼고 파란색만 통과시킵니다. 색포장지와 전등이 더 많다면 색을 다시 합쳐 볼 수도 있습니다.
 
 ```{figure} images/20250513_121309.*
 :width: 60%
 :name: fig_subt
 
-Put various colored transparent papers on top of each other.
+서로 다른 색의 투명한 종이를 여러 장 겹쳐 놓아 보세요.
 ```
 
-## Color addition
-Perhaps you have a Newton color disk on top of a spinning top. By spinning colors you can add them up to a white appearance. Or use a string through one hole in the center and one off center to make the disk spin. Of course [PhET has a very nice simulation](https://phet.colorado.edu/en/simulations/color-vision) for color addition which shows how with primary colors all other colors can be produced.
+## 색의 가산 혼합
+팽이 위에 뉴턴의 원판(색원판)을 올려놓을 수도 있습니다. 색깔을 빠르게 회전시키면 색이 합쳐져 흰색으로 보입니다. 또는 원판의 중심과 중심에서 약간 벗어난 곳에 구멍을 뚫고 실을 꿰어 원판을 회전시켜도 됩니다. 물론 [PhET에는 아주 훌륭한 시뮬레이션](https://phet.colorado.edu/en/simulations/color-vision)이 있어서, 색의 가산 혼합을 통해 삼원색으로 어떻게 다른 모든 색을 만들어 낼 수 있는지 보여 줄 수 있습니다.
 
-## Reflection
-There must be students in class with a mirror in their bag. Other reflecting objects might be windows, metals, spoons, etc. One can easily imagine many demonstrations. A spectacular demo is to tell your class that your whole body will be visible in any mirror as long as you increase your distance to the mirror. Then you *disprove*, using a mirror taken from outside the classroom, or borrowing a mirror from one of the girls. Beware of convex and concave mirrors for this particular demo, the mirror should be flat.
+## 반사
+교실에 가방 속에 거울을 가지고 다니는 학생이 꼭 있을 것입니다. 창문, 금속, 숟가락 등 다른 반사 물체도 활용할 수 있습니다. 수많은 시범 실험을 쉽게 떠올릴 수 있습니다. 아주 극적인 시범 중 하나는, 거울로부터 멀어지기만 하면 어떤 거울에서든 온몸이 다 보일 것이라고 학생들에게 말한 뒤 교실 밖에서 가져온 거울이나 여학생에게 빌린 거울을 이용해 그것이 *틀렸음을 증명*하는 것입니다. 이 시범에서는 볼록 거울이나 오목 거울을 피하고 반드시 평면 거울을 사용해야 합니다.
 
 ```{figure} images/mirror.*
 :width: 60%
 :name: fig_mirror
 
-Does more body become visible when moving away from the mirror?
+거울에서 멀어지면 몸이 더 많이 보이게 될까요?
 ```
 
 
-## Visualization of Snell’s Reflection in three dimensions
-We rarely demonstrate what it means that incident and reflected (or refracted) light rays should be in one plane. Take three meter-sticks, or rulers, or pieces of pipe, or broom sticks, or pencils (too small). One meter-stick becomes the normal, the other two become incident and reflected or refracted rays respectively. Emphasize their orientation in one plane and show examples of orientations, which are not possible (not in one plane). Alternatively, you could ask students in their seats to demonstrate Snell's law to you using ballpoints and pencils. You can easily check 10 students in 1 minute. If you have a laser pointer and a small mirror, then of course you could easily confirm this by putting the mirror flat on the table and shining the laser on it.
+## 스넬의 반사 법칙 3차원 시각화하기
+입사 광선과 반사(또는 굴절) 광선이 한 평면 위에 있어야 한다는 것이 무슨 뜻인지 직접 시연하는 경우는 드뭅니다. 미터자나 자, 파이프 조각, 빗자루 막대기 3개를 준비합니다(연필은 너무 작습니다). 막대 하나는 법선이 되고, 나머지 두 개는 각각 입사 광선과 반사 광선(또는 굴절 광선)이 됩니다. 이들이 한 평면 위에 놓여 있음을 강조하고, 불가능한 방향의 예시(한 평면 위에 있지 않은 경우)도 보여 줍니다. 또는 학생들에게 자리에 앉은 채로 볼펜과 연필을 이용해 스넬의 법칙을 직접 만들어 보여 달라고 할 수도 있습니다. 1분 안에 학생 10명의 결과를 쉽게 확인할 수 있습니다. 레이저 포인터와 작은 거울이 있다면 거울을 책상 위에 평평하게 놓고 레이저를 비추어 이를 아주 쉽게 확인할 수 있습니다.
 
-## Snell's reflection Law with a laser pointer
-If there is a laser pointer in the room, then get a mirror from one of the girls, put it on the table, and show that the incoming and reflected rays are in one plane with the normal. Watch out that you get a flat mirror and not a concave or convex one.
+## 레이저 포인터를 이용한 스넬의 반사 법칙
+교실에 레이저 포인터가 있다면 여학생에게 거울을 하나 빌려 책상 위에 놓고, 입사 광선과 반사 광선이 법선과 함께 한 평면 위에 놓여 있음을 보여 줍니다. 이때 오목 거울이나 볼록 거울이 아닌 평면 거울을 빌렸는지 꼭 확인하세요.
 
-## Snell's reflection Law: constructing light rays with pins
-If you do have pins, then you can use a pencil standing straight up and construct light rays going towards and reflected away from a vertical mirror from several viewpoints and by extension find the location of the virtual image. See a nice series of simple and useful experiments in {cite:p}`McDermott1996`.
+## 스넬의 반사 법칙: 핀으로 광선 작도하기
+핀이 있다면 연필을 수직으로 세워 두고 여러 시점에서 거울을 향해 들어가고 반사되어 나오는 광선을 작도해 봄으로써 허상의 위치를 찾을 수 있습니다. 간단하면서도 유용한 일련의 실험들은 {cite:p}`McDermott1996`을 참고하세요.
 
-## Refraction 1 pencil slanted in glass of water
-Walk around with pencil slanted in a glass of water, or better, in rectangular container. 
+## 굴절 1: 물이 담긴 유리컵에 비스듬히 꽂은 연필
+물이 담긴 유리컵이나, 더 좋게는 사각형 투명 용기에 연필을 비스듬히 꽂고 교실을 돌아다닙니다. 
 
 ```{figure} images/20250513_110031.*
 :width: 60%
 :name: fig_pencil2
 
-A broken straw?
+빨대가 부러진 걸까요?
 ```
 
 
-## Refraction 2 pencil straight up in glass of water
-Stick your finger or a pencil straight up in a (round) glass of water. Move through the classroom while moving your finger forward and backward. No need for talking, many students seem surprised at this everyday observation of a "swollen" finger. Explaining can be quick by stating that the water in a glass acts as a lens. A better explanation with refraction of light rays might take 10 minutes or could be given as a task for seat or home work.
+## 굴절 2: 물이 담긴 유리컵에 똑바로 꽂은 연필
+물이 담긴 (둥근) 유리컵에 손가락이나 연필을 똑바로 세워 넣습니다. 교실을 돌아다니면서 손가락을 앞뒤로 움직여 봅니다. 따로 설명하지 않아도 많은 학생이 손가락이 "부풀어 보이는" 이 일상적인 관찰 결과에 놀라워합니다. 컵 속의 물이 렌즈 역할을 한다고 간단히 설명하고 넘어갈 수도 있습니다. 빛의 굴절을 이용한 더 자세한 설명은 10분 정도 걸리거나 교실 학습 또는 숙제 과제로 내줄 수 있습니다.
 
 
 ```{figure} images/pencil.*
 :width: 60%
 :name: fig_pencil
 
-Move the pencil back and forth and describe what you see
+연필을 앞뒤로 움직이면서 무엇이 보이는지 설명해 보세요
 ```
 
 
-## Refraction 3 arrows seen through air and through a glass of water
-(Czech contribution to Physics on Stage, {cite:p}`Nugent2010`) 
-Draw parallel arrows on a piece of paper (the object), hold that behind a glass of water half-filled such that some arrows are seen through the air and other arrows through the water. If the object distance is farther than the focal length, then the arrows are reversed {numref}`fig_arrow`. 
+## 굴절 3: 공기와 물이 담긴 유리컵을 통해 본 화살표
+(Physics on Stage 체코 출품작, {cite:p}`Nugent2010`) 
+종이에 나란한 화살표들을 그린 뒤(물체), 물을 반쯤 채운 유리컵 뒤에 종이를 대어 일부 화살표는 공기를 통해, 다른 화살표는 물을 통해 보이도록 합니다. 물체와 컵 사이의 거리가 초점 거리보다 멀면 화살표의 방향이 반대로 뒤집혀 보입니다({numref}`fig_arrow`). 
 
 
 ```{figure} images/20250513_103731.*
 :width: 60%
 :name: fig_arrow
 
-Do the arrows point in the same direction?
+화살표들이 같은 방향을 가리키고 있나요?
 ```
 
 
-## Refraction 4: Physics is Fun in the swimming pool
-Ask students to draw the light ray diagram requested in {numref}`fig_pool`. Walk around to identify frequent errors. Discuss, and then ask students how they could create an analog situation with a Lego mini-doll or a pencil and follow their instructions to demonstrate.
+## 굴절 4: 수영장에서 만나는 즐거운 물리
+학생들에게 {numref}`fig_pool`에서 요구하는 빛의 진행 경로(광선 작도)를 그려 보게 합니다. 교실을 돌아다니며 자주 발생하는 오류를 파악합니다. 이에 대해 토론한 뒤, 레고 피규어나 연필을 이용해 이와 유사한 상황을 어떻게 재현할 수 있을지 학생들에게 물어보고 그들의 지시에 따라 직접 시연해 봅니다.
 
 ```{figure} images/20250513_100315.*
 :width: 60%
 :name: fig_pool
 
-Fun physics in the pool
+수영장에서의 즐거운 물리
 ```
 
 
-## Bright versus dark background
-Switch off the classroom lights. The teacher or a student stands against the wall opposite of the windows. The face is clearly visible as more light is reflected from the face than from the background. Then the teacher or student stands in front of the windows with the face towards the class. Now the face looks dark and unclear as the reflected light from the face is very little compared to the light coming through the windows. Then turn on the lights in the classroom and the face is better visible again. The same effect is visible in {numref}`fig_tulip`.
+## 밝은 배경과 어두운 배경
+교실의 불을 끕니다. 교사나 학생 한 명이 창문 맞은편 벽을 등지고 섭니다. 배경보다 얼굴에서 반사되는 빛이 더 많으므로 얼굴이 또렷하게 보입니다. 이번에는 교사나 학생이 창문 앞에 서서 교실 쪽을 바라봅니다. 창문을 통해 들어오는 빛에 비해 얼굴에서 반사되는 빛이 매우 적기 때문에 이제 얼굴이 어둡고 불분명하게 보입니다. 그런 다음 교실의 불을 켜면 얼굴이 다시 잘 보이게 됩니다. 이와 같은 효과를 {numref}`fig_tulip`에서도 확인할 수 있습니다.
 
 ```{figure} figures/tulip.*
 :width: 60%
 :name: fig_tulip
 
-Has the tulip changed color?
+튤립의 색깔이 변한 걸까요?
 ```
 
 
-## Pupil, diaphragm
-Arrange students in pairs. They are to observe each other's pupil contraction. Make the classroom dark or let students cover their eyes. Then put on the lights. Can students see each other's pupils get smaller? Repeat one time for a better view the second time around.
+## 동공과 조리개
+학생들을 두 명씩 짝지어 줍니다. 서로의 동공 수축을 관찰하도록 합니다. 교실을 어둡게 하거나 학생들이 눈을 가리게 한 뒤, 불을 켭니다. 서로의 동공이 작아지는 것을 볼 수 있나요? 두 번째 볼 때 더 잘 관찰되므로 한 번 더 반복해 봅니다.
 
-## Reflection and transmission 1
-Take a piece of paper, wet it a bit in the middle with water, oil, or saliva, then hold it in front of the window (or a lamp). The wet part appears light, it transmits. Then put the paper on the table where it reflects light. Now the wet spot looks dark, because of the transmission, it reflects less than dry paper. Students can do this in their seats using their saliva or whatever wet stuff is available {numref}`fig_trans`.
+## 반사와 투과 1
+종이 한 장의 가운데 부분을 물, 기름 또는 침으로 살짝 적신 뒤 창문(또는 전등) 앞에 대고 봅니다. 젖은 부분은 빛을 투과시키므로 밝게 보입니다. 이번에는 그 종이를 빛을 반사하는 책상 위에 올려놓습니다. 젖은 부분은 빛을 투과시키기 때문에 마른 종이보다 반사를 적게 하여 이제 어둡게 보입니다. 학생들은 자리에 앉아 침이나 주변의 물기를 이용해 직접 해 볼 수 있습니다({numref}`fig_trans`).
 
 ```{figure} figures/04-15ReflectionTransmission.*
 :width: 60%
 :name: fig_trans
 
-The wet part appears light, it transmits. 
+젖은 부분은 빛을 투과시키므로 밝게 보입니다. 
 ```
 
 
-## Reflection and transmission 2
-(in winter) Do students have bicycle LEDs in their pockets or bags? Darken the room. Take two LEDs. Hold the paper with the oil stain in between and look for a point where the reflection and transmission are the same. You can even make this into a light intensity meter. You can compare the intensity of lamps with different power. See also [exploratorium](https://www.exploratorium.edu/snacks/oil-spot-photometer)
+## 반사와 투과 2
+(겨울철에) 주머니나 가방에 자전거용 LED 라이트를 가지고 있는 학생이 있나요? 교실을 어둡게 합니다. LED 두 개를 준비합니다. 기름 얼룩이 묻은 종이를 그 사이에 두고 반사와 투과 정도가 같아지는 지점을 찾습니다. 이를 조도계(광도계)로 활용할 수도 있으며, 출력이 다른 두 전등의 세기를 비교할 수도 있습니다. [Exploratorium](https://www.exploratorium.edu/snacks/oil-spot-photometer)도 참고해 보세요.
 
-## Accommodation of the eye
-Let your students hold a pen or pencil or finger near the eye. Nearer and nearer \.... the background will become unclear/unfocussed. When our eyes focus on the background, then the pen/pencil will appear unfocussed. The lens of the eye adjusts to the distance (up to a point). This is clear evidence that the lens of the eye can focus and it has to change shape and thus focal length to do so. We call this accommodation.
+## 눈의 조절 작용
+학생들에게 펜이나 연필, 또는 손가락을 눈 가까이에 들게 합니다. 점점 더 가까이 대면 \.... 배경이 흐릿해지고 초점이 맞지 않게 됩니다. 반대로 눈의 초점을 배경에 맞추면 펜이나 연필의 초점이 흐려집니다. 눈의 수정체는 거리에 따라(어느 정도 한계까지는) 초점을 조절합니다. 이는 눈의 수정체가 초점을 맞출 수 있으며, 이를 위해 모양과 초점 거리를 변화시켜야 한다는 분명한 증거입니다. 우리는 이를 눈의 조절 작용이라고 부릅니다.
 
-## Depth of field
-The previous experiment also shows the camera concept of depth of field. But students can also try with their own camera's. Let them focus on something farther away and then let them move their index finger back-and-forth in front of the lens. See how the background is sharp and the finger in the foreground is not. Also try with written words in the foreground and background. The camera's nowadays have a surprising depth of field. Perhaps have some example photographs ready on the beamer in your classroom.
+## 피사계 심도
+앞선 실험은 카메라의 피사계 심도 개념도 보여 줍니다. 하지만 학생들이 자신의 카메라(휴대전화)로 직접 해 볼 수도 있습니다. 멀리 있는 무언가에 초점을 맞춘 다음, 렌즈 앞에서 검지를 앞뒤로 움직여 보게 합니다. 배경은 선명한데 앞쪽에 있는 손가락은 흐릿한 것을 확인해 보세요. 앞쪽과 뒤쪽에 글씨를 써 놓고 비교해 볼 수도 있습니다. 요즘 카메라는 놀라울 정도로 깊은 피사계 심도를 가집니다. 교실 빔프로젝터로 보여 줄 예시 사진들을 미리 준비해 두는 것도 좋습니다.
 
-## Lenses
-Did any student bring a lens, perhaps with a pocket knife? Or bring some lenses of your own. Use the window as object (or a bicycle LED) and a piece of paper or the wall opposite the windows as screen. See whether the image is upright or upside down, etc.
+## 렌즈
+혹시 주머니칼 등에 달린 렌즈를 가져온 학생이 있나요? 아니면 교사가 직접 렌즈를 몇 개 가져갑니다. 창문(또는 자전거 LED)을 물체로 삼고, 종이나 창문 맞은편 벽을 스크린으로 삼습니다. 상이 똑바로 서 있는지 아니면 거꾸로 뒤집혀 있는지 등을 관찰해 봅니다.
 
-## Narrow slit diffraction or refraction?
-Look at the lights in the ceiling, close your eyes to a narrow slit, the beam widens perpendicular to the direction of the slit. The effect is better when using an incandescent light bulb up front, preferably with transparent glass and a straight filament. Could Huygens have seen this evidence of diffraction in the 17$^{th}$ century? Well, try tonight with a candle. With some lights even color fringes are clearly visible. However, the famous {cite:p}`Minnaert1954` explained the stripes of light through differential *refraction* by little dykes of liquid along the edge of the eyelid (part 1, p122 of the original Dutch edition). So no refraction after all. But now pay attention to light falling through your eyelashes. Do you see colors? Now isn't that diffraction by hairs?
+## 좁은 틈에 의한 회절인가 굴절인가?
+천장의 전등을 보면서 눈을 좁은 틈이 되도록 가늘게 뜨면, 빛줄기가 눈 틈의 방향과 수직 방향으로 넓어집니다. 앞쪽에 투명 유리와 직선 필라멘트가 있는 백열전구를 사용하면 효과가 더 좋습니다. 17세기 호이겐스(Huygens)도 이런 회절의 증거를 보았을까요? 오늘 밤 양초로 한번 시험해 보세요. 어떤 불빛에서는 색깔 띠까지 선명하게 보입니다. 하지만 저명한 {cite:p}`Minnaert1954`는 이 빛의 줄무늬를 눈꺼풀 가장자리를 따라 고인 작은 액체 둑에 의한 차별 *굴절* 현상으로 설명했습니다(네덜란드어 원서 1권 p122). 그러니 결국 회절이 아니었던 셈입니다. 하지만 이제 속눈썹 사이로 들어오는 빛에 주의를 기울여 보세요. 색깔이 보이나요? 그렇다면 그것은 속눈썹에 의한 회절이 아닐까요?
 
-## Mouche volante
-There is more to see in the eye itself. Look into the beautiful blue sky or another even light background like a white classroom ceiling and you may see wiry structures floating in your eye. See <http://en.wikipedia.org/wiki/entoptic_phenomenon> for a better description and some other phenomena in our eyes. While turning your head, these wiry structures tend to stay behind: inertia and proof that these are structures floating in the liquid inside the eyes!
+## 비문증(날파리증)
+눈 자체 안에서도 볼 수 있는 것이 더 있습니다. 맑고 푸른 하늘이나 하얀 교실 천장처럼 고르고 밝은 배경을 바라보면 눈 속에 실 같은 구조물들이 떠다니는 것을 볼 수 있습니다. 더 자세한 설명과 눈 속의 다른 현상들은 <http://en.wikipedia.org/wiki/entoptic_phenomenon> 을 참고하세요. 고개를 돌릴 때 이 실 같은 구조물들이 살짝 뒤처져 따라오는데, 이는 관성 때문이며 눈 안쪽 액체 속에 실제로 떠다니는 구조물이라는 증거입니다!
 
-## Parallax
-Have students close their right eye and stick up their pen at arm's length such that it is in line with a mark on the black board. Have them then close the right eye and open the left one. The pen is no longer in line with the mark on the board as we look at it from just a different angle. That is parallax. The farther the distance from pen to the mark on the board, the smaller the difference. So parallax can be used for distance measurement. See {numref}`fig_paral` for the apparent shift of the pen against a background.
+## 시차
+학생들에게 오른쪽 눈을 감고 팔을 쭉 뻗어 펜을 들어 칠판의 특정 표시와 일직선이 되도록 맞추게 합니다. 그런 다음 이번에는 왼쪽 눈을 감고 오른쪽 눈을 뜨게 합니다. 약간 다른 각도에서 바라보기 때문에 펜이 더 이상 칠판의 표시와 일직선상에 있지 않게 됩니다. 이것이 바로 시차입니다. 펜과 칠판 표시 사이의 거리가 멀수록(관측 대상이 멀수록) 위치 차이는 작아집니다. 따라서 시차는 거리를 측정하는 데 이용될 수 있습니다. 배경에 대해 펜의 위치가 겉보기에 이동하는 모습은 {numref}`fig_paral`을 참고하세요.
 
 ```{figure} figures/parallax.*
 :width: 100%
 :name: fig_paral
 
-The pen at arms’ length from the camera (the eye), is exactly aligned with the edge of the batik. When the camera has been shifted 5 cm to the left which is the distance between the eyes. The pen did not shift. The closer the pen from the batik, the smaller the apparent shift in position.
+카메라(눈)에서 팔 길이만큼 떨어진 곳에 있는 펜이 바틱(천)의 가장자리와 정확히 일직선상에 놓여 있습니다. 카메라를 양 눈 사이의 거리인 5 cm만큼 왼쪽으로 이동시켰을 때 펜은 실제로 움직이지 않았습니다. 펜이 바틱에 가까울수록 겉보기 위치 이동은 더 작아집니다.
 ```
 
-## Dominance of one eye
-With two eyes open keep the pen at arm's length and aligned with a mark on the board, focus the eyes on the board. Now close the left eye, then open left and close the right eye. If the pen shifts quite a bit (compared to two eyes open) when the right eye is closed, then the right eye is the dominant one. If that does not happen for the right eye, but for the left eye, then the left eye is dominant.
+## 한쪽 눈의 우세(우세안)
+두 눈을 모두 뜬 상태에서 팔을 뻗어 펜을 칠판의 표시에 맞추고, 초점은 칠판에 둡니다. 이제 왼쪽 눈을 감아 보고, 다시 왼쪽 눈을 뜨고 오른쪽 눈을 감아 봅니다. 오른쪽 눈을 감았을 때(두 눈을 떴을 때와 비교하여) 펜이 꽤 많이 이동한다면 오른쪽 눈이 우세안(주시안)입니다. 오른쪽 눈을 감았을 때는 그대로이고 왼쪽 눈을 감았을 때 이동한다면 왼쪽 눈이 우세안입니다.
 
-## Seeing depth 1
-Two eyes are better than one, especially in seeing depth and estimating distances. Let students take a pen or pencil in the left hand and another one in the right hand {numref}`fig_depth`. Move both hands around a bit and then let all student close one eye and move the pens toward one another until the tips touch. With one eye closed that is difficult, with two eyes open it is easy. The experiment can also be done with the two index fingers, but with pens it is more dramatic.
+## 깊이 지각(원근감) 1
+깊이를 지각하고 거리를 어림잡는 데에는 두 눈이 한 눈보다 훨씬 유리합니다. 학생들에게 왼손에 펜이나 연필 한 자루를, 오른손에 다른 한 자루를 쥐게 합니다({numref}`fig_depth`). 양손을 조금씩 움직여 본 뒤, 모든 학생에게 한쪽 눈을 감게 하고 양손의 펜 끝이 서로 맞닿도록 움직여 보게 합니다. 한 눈을 감고 하면 어렵지만, 두 눈을 뜨고 하면 쉽습니다. 양손 검지로도 이 실험을 해 볼 수 있지만, 펜으로 할 때 훨씬 극적인 효과를 볼 수 있습니다.
 
 ```{figure} figures/04-24SeeingDepth.*
 :width: 100%
 :name: fig_depth
 
-Estimating distance with one or two eyes.
+한 눈 또는 두 눈으로 거리 어림잡기.
 ```
 
-## Seeing depth 2
-This demonstration can be done as a teacher demonstration with a student in front of the class but can also be done as a semi-lab activity with student pairs where in each group one student is subject and the other is experimenter. Collect coins or buttons or paper clips or other small objects and a beaker (or draw a circle on paper). The beaker or circle should be about 60 cm from the subject. The subject closes one eye. The teacher or student experimenter holds a coin or button about 50 cm above the table and moves the hand slowly. The subject says "drop" when (s)he thinks the object is exactly above the target and then see whether the object falls inside the beaker or circle. Compare greater and smaller distances and one or two eyes. An alternative with more clear reports is to draw concentric circles with a radius of 1, 2, and 5 cm. The subject is located 1,5 m from the circles with one eye closed. The experimenter holds a marker with the tip downward. The subject instructs the experimenter to move the marker forward/backward or left/right until (s)he thinks the marker is above target. Then drop. The pattern of dots constitutes the report. Use different color markers for different conditions such as one or two eyes closed or different distances, or different observers.
+## 깊이 지각(원근감) 2
+이 시범은 교사가 학생 한 명과 교실 앞에서 진행할 수도 있고, 두 명씩 짝을 지어 한 명은 피험자, 다른 한 명은 실험자가 되어 반실험실(semi-lab) 활동으로 진행할 수도 있습니다. 동전이나 단추, 클립 같은 작은 물체와 비커(또는 종이에 원을 그림)를 준비합니다. 비커나 원은 피험자로부터 약 60 cm 거리에 둡니다. 피험자는 한쪽 눈을 감습니다. 교사나 실험자 역할의 학생이 동전이나 단추를 책상 위 약 50 cm 높이에서 들고 천천히 손을 움직입니다. 피험자는 물체가 목표 지점 바로 위에 있다고 생각할 때 "떨어뜨려"라고 말하고, 실제로 물체가 비커나 원 안에 떨어지는지 확인합니다. 거리가 더 멀 때와 가까울 때, 한 눈으로 볼 때와 두 눈으로 볼 때를 비교해 봅니다. 결과를 더 명확하게 기록할 수 있는 대안으로, 반지름이 각각 1, 2, 5 cm인 동심원을 그리는 방법이 있습니다. 피험자는 한쪽 눈을 감고 원에서 1.5 m 떨어진 곳에 위치합니다. 실험자는 마커 펜의 촉을 아래로 향하게 들고 있습니다. 피험자는 실험자에게 마커를 앞뒤 또는 좌우로 움직이라고 지시하다가 목표 지점 바로 위에 왔다고 생각할 때 떨어뜨리라고 합니다. 종이에 찍힌 점들의 분포가 곧 실험 보고서가 됩니다. 한 눈 또는 두 눈을 감았을 때, 거리가 다를 때, 관측자가 다를 때 등 조건별로 다른 색의 마커를 사용해 보세요.
 
-## Blind spot
-Almost any textbook has instructions for how to find the blind spot of the eye. Have students draw an X (left) and a big dot (right) about 6 cm apart in their notebook. Let them close the left eye and focus the right eye on the X. Then move the notebook towards the eye. At a certain point the dot will not be visible. That is when the light from the dot falls on the spot where the optic nerve leaves the eye. For detailed instructions [this workresearch](https://research.sanfordhealth.org/sanford-promise/resources/slideshows/finding-your-blind-spot).
+## 맹점
+거의 모든 교과서에는 눈의 맹점을 찾는 방법이 실려 있습니다. 학생들에게 공책에 왼쪽에는 X표를, 오른쪽에는 큰 점을 약 6 cm 간격으로 그리게 합니다. 왼쪽 눈을 감고 오른쪽 눈으로 X표에 초점을 맞춥니다. 그런 다음 공책을 눈 쪽으로 천천히 가져옵니다. 어느 지점에 이르면 오른쪽의 점이 보이지 않게 됩니다. 그 순간이 바로 점에서 온 빛이 시신경이 눈을 빠져나가는 부위에 맺힌 때입니다. 자세한 안내는 [이 안내 자료](https://research.sanfordhealth.org/sanford-promise/resources/slideshows/finding-your-blind-spot)를 참고하세요.
 
-## Center and sides of retina, peripheral vision
-Think of something to illustrate the different nature of eye cells in the center and at the periphery of the retina. The periphery is much more sensitive to detecting movement, protecting eyes against insects, etc. Students will volunteer their stories. 
+## 망막의 중심부와 주변부, 주변 시야
+망막의 중심부와 주변부에 있는 시각 세포들의 서로 다른 특성을 보여 줄 만한 무언가를 생각해 봅시다. 주변부는 움직임을 감지하고 벌레 등으로부터 눈을 보호하는 데 훨씬 더 민감합니다. 학생들도 저마다의 경험담을 들려줄 것입니다. 
 
-## Optical illusions
-Photocopy the famous pictures of parallel lines which do not seem parallel, Escher's art work, Gestalt pictures, etc. onto transparencies and that are ten little demo's right there. Or google on optical illusions and put them on your classroom beamer. See for instance [optics4kids](https://www.optics4kids.org/optical-illusions). 
+## 착시 현상
+평행한데 평행하지 않아 보이는 유명한 선 그림들, 에셔(Escher)의 작품, 게슈탈트 그림 등을 OHP 필름에 복사하면 그 자체로 열 가지나 되는 작은 시범 자료가 됩니다. 혹은 인터넷에서 착시 현상을 검색해 교실 빔프로젝터로 띄워 보여 줄 수도 있습니다. 예를 들어 [Optics4Kids](https://www.optics4kids.org/optical-illusions)를 참고해 보세요. 
 
-##  Diffraction
-If you or your classroom has a laser pointer, then possibilities for experiments are endless: hairs, holes, slits, reflection, refraction, diffraction, scattering from dust.
+## 회절
+교사나 교실에 레이저 포인터가 있다면 머리카락, 작은 구멍, 슬릿, 반사, 굴절, 회절, 먼지에 의한 산란 등 할 수 있는 실험이 무궁무진합니다.
 
 ## OHP
-If there is an OHP in the room, then 10 or 20 short demos could easily be added to this list. Think of the typical blue-purple or red-orange fringes around shadows of objects between lens and screen. One can create similar fringes by looking at windows or door openings through a big prism containing water. When the prism's triangle is pointing up, the red-yellow occurs above shades and the bluish-purple below shades. Turning the prism upside down gives the opposite effect. This is the key to explanation.
+교실에 OHP가 있다면 이 목록에 10~20가지의 짧은 시범 실험을 손쉽게 추가할 수 있습니다. 렌즈와 스크린 사이에 물체를 놓았을 때 그림자 가장자리에 나타나는 전형적인 청자색 또는 적주황색 띠를 떠올려 보세요. 물이 담긴 큰 삼각 프리즘을 통해 창문이나 문틈을 바라보아도 비슷한 색 띠를 만들어 낼 수 있습니다. 프리즘의 삼각형 꼭짓점이 위를 향할 때 그림자 위쪽에는 적황색이, 아래쪽에는 청자색이 나타납니다. 프리즘을 거꾸로 뒤집으면 반대 효과가 나타납니다. 이것이 현상을 설명하는 핵심 열쇠입니다.
 
-## Minnaert
-Marcel Minnaert was a well-known Flemish - Dutch astronomer who wrote a famous series of three books on physics in the environment. His book on light and color in the landscape was translated in English and appeared in 1954 {cite:p}`Minnaert1954, Minnaert1993`. He describes many simple experiments that he conducted with almost no tools and often surprising results. Check your knowledge of Physics in the environment against Minnaert's observations!
+## 미나르트(Minnaert)
+마르셀 미나르트(Marcel Minnaert)는 자연 환경 속의 물리를 다룬 유명한 3부작 저서를 집필한 저명한 플랑드르-네덜란드 출신 천문학자입니다. 풍경 속의 빛과 색을 다룬 그의 책은 영어로 번역되어 1954년에 출간되었습니다 {cite:p}`Minnaert1954, Minnaert1993`. 그는 거의 도구를 쓰지 않고도 놀라운 결과를 얻은 수많은 간단한 실험들을 책에 담아냈습니다. 미나르트의 관찰 내용과 비교하며 자연 속 물리에 대한 여러분의 지식을 점검해 보세요!
 
-## Other
-See {cite:p}`Wojewoda2017`  for simple optics experiments with a laser or laser pointer.
+## 기타
+레이저나 레이저 포인터를 활용한 간단한 광학 실험은 {cite:p}`Wojewoda2017`을 참고하세요.

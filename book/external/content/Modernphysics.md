@@ -1,36 +1,36 @@
-# Modern Physics
+# 현대 물리학
 
-## Flames and colors
- Try a candle, what colors do you see? Try some alcohol, since the pandemic quite abundant. What color is the flame? Now add some salt to the alcohol. What color do you see now (more orange and better visible, sodium!). All elements have their own spectral lines, Sodium has the famous yellow/orang lines. Some other salts available? Just Google on “flame colors” to get many examples.  
+## 불꽃과 색깔
+양초에 불을 붙여 보세요. 어떤 색이 보이나요? 이번에는 알코올을 조금 써 봅시다(팬데믹 이후 꽤 흔해졌습니다). 불꽃 색깔이 어떤가요? 이제 알코올에 소금을 조금 넣어 보세요. 이제 어떤 색이 보이나요(더 주황빛을 띠며 훨씬 잘 보입니다 — 나트륨!)? 모든 원소는 고유한 스펙트럼 선을 가지며, 나트륨은 유명한 노란색/주황색 선을 냅니다. 다른 염류도 있나요? "불꽃 반응 색(flame colors)"으로 구글 검색하면 수많은 예를 찾을 수 있습니다.
 
-MODERN PHYSICS VISUALIZATIONS
+현대 물리학 시각화
 
-Physicists like the surprise element in modern physics experiments, but to experience the surprise, one has to have expectations based on prior knowledge of traditional physics. Many students do not have that and take the outcomes of the experiment for granted without surprise or interest. Therefore, the teacher has to prepare the students carefully for the experiment. Following are some visualizations which might help.
+물리학자들은 현대 물리학 실험에서 의외성(놀라움)을 좋아하지만, 그 놀라움을 느끼려면 고전 물리학에 대한 사전 지식을 바탕으로 한 기대가 먼저 있어야 합니다. 많은 학생은 그런 기대가 없어 실험 결과를 당연하게 받아들이며 놀라거나 흥미를 느끼지 못합니다. 따라서 교사는 실험 전에 학생들을 세심하게 준비시켜야 합니다. 아래에 도움이 될 만한 몇 가지 시각화 방법을 소개합니다.
 
-## Particle-wave duality
+## 입자-파동 이중성
 
-Before presenting particle-wave duality, the teacher should contrast the classical differences between particles and waves. Take a glass of water or --if available- a basin. Make a wave. Where is the wave in the basin? Everywhere! The teacher talks, where is the sound? Everywhere! We cannot localize a wave, it is everywhere. Now take a piece of chalk or a pen or pencil, or a coin. Where is it? There are sharp boundaries for any object, objects are localized. This is the essential difference between waves and matter/particles. Then proceed to duality. Hopefully you have a beamer with PhET simulations or [www.falsted.com](http://www.falsted.com).
+입자-파동 이중성을 제시하기 전에, 교사는 먼저 입자와 파동의 고전적 차이를 대조해 보여야 합니다. 물이 담긴 유리컵이나(가능하다면) 대야를 준비해 물결을 일으켜 보세요. 대야 안에서 파동은 어디에 있나요? 모든 곳에 있습니다! 교사가 말을 할 때 소리는 어디에 있나요? 모든 곳에 있습니다! 우리는 파동의 위치를 한 점으로 국한할 수 없습니다. 파동은 공간 전체에 퍼져 있습니다. 이제 분필 한 조각이나 펜, 연필, 또는 동전을 들어 보세요. 그것은 어디에 있나요? 모든 물체는 경계가 뚜렷하며, 특정 위치에 국소화되어 있습니다. 이것이 파동과 물질/입자의 본질적인 차이입니다. 그다음 이중성으로 나아가세요. 교실에 빔프로젝터가 있다면 PhET 시뮬레이션이나 [www.falsted.com](http://www.falsted.com)을 보여 줄 수 있으면 좋겠습니다.
 
-## Double slit, role play of how it is NOT
-Imagine the situation of shooting microscopic bullets through a double slit. That can be simulated in a roleplay. Make two narrow slits by arranging tables and use the wall of the classroom as screen. Send students through the slits, they are only allowed straight lines and so they end up in two clumps on the screen. They form an image of the slit. If you send them one by one, this image builds up gradually. That is what you expect with particles. However, if the bullets were electrons, or protons, or even bigger molecules like C$_60$ (buckeyball), then it is NOT like that. While the electron or proton or C$_60$ is on its way, we do not know where it is. We do not even know through which slit it goes. The particle might be everywhere during its travel, but it does end up at a particular spot on the screen and that spot might not be in a straight line behind the slit. Eventually all these spots together form an interference pattern typical for waves. Electrons, protons and molecules *propagate* like waves but are *absorbed* and *emitted* like particles. Also show some simulations. There are many versions of the double slit experiment, for example with detectors at the slit(s), or even so called delayed choice experiments. Ananthaswamy (2018) wrote a captivating and very readable book about this famous class of experiments.
+## 이중 슬릿: 그렇지 않은 방식의 역할극
+이중 슬릿을 향해 아주 작은 총알을 쏘는 상황을 상상해 봅시다. 이는 역할극으로 모의 실험을 할 수 있습니다. 책상을 배치해 좁은 틈 두 개를 만들고 교실 벽을 스크린으로 사용합니다. 학생들을 슬릿으로 통과시키되 직선으로만 걷게 하면, 스크린 위의 두 덩어리 지점에 모이게 됩니다. 슬릿의 상이 맺히는 것입니다. 학생들을 한 명씩 보내면 이 상이 조금씩 쌓여 갑니다. 이것이 입자에 대해 우리가 기대하는 결과입니다. 그러나 만약 총알이 전자나 양성자, 혹은 C$_60$(버키볼)처럼 더 큰 분자라면 결코 그렇게 되지 *않습니다*. 전자나 양성자, C$_60$이 날아가는 동안에는 그것이 어디에 있는지 알 수 없습니다. 심지어 어느 슬릿을 통과하는지도 모릅니다. 입자는 이동하는 동안 모든 곳에 퍼져 있을 수 있지만, 결국 스크린의 특정 한 지점에 도달하며 그 지점은 슬릿 뒤의 일직선상에 있지 않을 수도 있습니다. 결국 이 점들이 모두 모이면 파동 특유의 간섭무늬를 이룹니다. 전자, 양성자, 분자는 파동처럼 *전파*되지만, 입자처럼 *흡수*되고 *방출*됩니다. 시뮬레이션도 함께 보여 주세요. 이중 슬릿 실험에는 슬릿에 검출기를 둔 실험이나 이른바 지연 선택(delayed choice) 실험 등 다양한 변형이 있습니다. Ananthaswamy (2018)는 이 유명한 실험군에 대해 매우 흥미롭고 읽기 쉬운 책을 썼습니다.
 
-## Mass numbers of the elements
-The fact that mass numbers of elements are not integers is difficult to understand. The non-integer mass numbers are a result of averaging masses of isotopes and mass deficits due to bonding. Get some students up front, for example, 4 single students (4 protons) and one pair (a deuterium nucleus consisting of a proton and a neutron). If indeed one out of 5 Hydrogen atoms would be Deuterium, then the mass number would be about 1.2. However, the mass number is about 1.008 showing that less than 1 in 100 Hydrogen atoms is Deuterium and the rest single protons. Atomic mass is an average of the masses of many atoms of a single element including the naturally occurring isotopes.
+## 원소의 질량수
+원소의 질량수가 정수가 아니라는 사실은 학생들이 이해하기 어려워합니다. 정수가 아닌 질량수는 동위원소들의 질량을 평균 낸 결과이자 결합에 따른 질량 결손 때문입니다. 학생 몇 명을 앞으로 불러내 보세요. 예를 들어 혼자 서 있는 학생 4명(양성자 4개)과 둘이 짝지은 한 쌍(양성자와 중성자로 이루어진 중수소 원자핵)을 세웁니다. 만약 수소 원자 5개 중 1개가 중수소라면 질량수는 약 1.2가 될 것입니다. 하지만 실제 질량수는 약 1.008이며, 이는 수소 원자 100개 중 1개 미만만이 중수소이고 나머지는 단일 양성자임을 보여 줍니다. 원자량은 자연적으로 존재하는 동위원소들을 포함하여 한 원소에 속하는 수많은 원자의 질량을 평균한 값입니다.
 
-## Rutherford experiment
-Rutherford scattering is difficult to visualize for students. Let one student in the classroom (=the atom) hold up a bag...the Gold nucleus. Then the instructor (or a student) takes some small pieces of chalk and is blindfolded (or closes the eyes). From random positions in front of the class the instructor throws electrons in the general direction of the back of the class. The chances that the chalk hits the bag are relatively small. The smaller the bag, the smaller the number of hits. So the number of chalks being bounced back says something about the size of the bag. In Rutherford's experiment, very few electrons are bounced back meaning that the nucleus only occupies a very small part of the atom. Actually, Rutherford had expected a large and soft nucleus so all electrons would get kind of stuck inside and none would bounce back. So he commented "as if you shoot bullets at a piece of paper and some bounce back!"
+## 러더퍼드 실험
+러더퍼드 산란은 학생들이 머릿속으로 그려 보기 어렵습니다. 교실에 있는 학생 한 명(=원자)이 가방(=금 원자핵)을 들어 올리게 합니다. 그런 다음 교사(또는 다른 학생)가 작은 분필 조각 몇 개를 쥐고 눈을 가립니다(또는 눈을 감습니다). 교실 앞쪽의 무작위 위치에서 교실 뒤쪽 방향을 향해 전자(원문 맥락상 입사 입자)들을 던집니다. 분필이 가방에 맞을 확률은 비교적 작습니다. 가방이 작을수록 맞는 횟수도 줄어듭니다. 따라서 튕겨 나오는 분필의 수는 가방의 크기에 대한 정보를 줍니다. 러더퍼드 실험에서는 튕겨 나오는 입자가 매우 적었고, 이는 원자핵이 원자 안에서 아주 작은 부분만을 차지함을 뜻합니다. 사실 러더퍼드는 크고 무른 원자핵을 예상했기 때문에 입자들이 그 안에 박혀 하나도 튕겨 나오지 않을 것이라 생각했습니다. 그래서 그는 "마치 종이 한 장에 총알을 쏘았는데 몇 발이 튕겨 나온 것과 같았다!"라고 말했습니다.
 
-## Big bang and Hubble 1
-Govert Schilling (2017, p167) compares the cosmos with a raisin cake. The raisins form the corners of a system of cubes in which each cube is 1 x 1 x 1 cm. When the dough rises so that after one hour the distance between neighboring raisins is 2 cm, then each cube is 2 x 2 x 2 cm. Suppose you sit on a raisin, then you see the nearest raisin move away from you with a speed of 1 cm/hour. However, the next raising is now at 4 cm instead of the initial 2 cm, so that one moved 2 cm/hour. This could also be done in a roleplay, positioning students in a matrix.
+## 빅뱅과 허블 법칙 1
+Govert Schilling (2017, p167)은 우주를 건포도 케이크에 비유합니다. 건포도들은 각 변이 1 x 1 x 1 cm인 정육면체 격자의 꼭짓점을 이룹니다. 반죽이 부풀어 한 시간 뒤 이웃한 건포도 사이의 거리가 2 cm가 되면, 각 정육면체는 2 x 2 x 2 cm가 됩니다. 여러분이 어느 한 건포도 위에 앉아 있다고 가정하면, 가장 가까운 건포도는 시속 1 cm의 속력으로 멀어지는 것처럼 보입니다. 그런데 그다음 건포도는 처음 2 cm 거리에 있던 것이 이제 4 cm 거리에 있으므로 시속 2 cm로 멀어진 셈입니다. 이 역시 학생들을 행렬로 세워 역할극으로 해 볼 수 있습니다.
 
-## Big bang and Hubble 2
-A very easy way to show this multiplication of distances is to line up 4 students at 1 meter distance from each other. Then the distance from number 1 to number 2 doubles to two meters. Let students compute what the distances between 2 and 3 and 3 and 4 should become. Numbers 3 and 4 also have to move along with that and do this one meter step. But number 3 also has to take the extra step which #4 has to follow. And then #4 has to take the extra step yet. So now the distances between 1, 2, 3, 4 are 2m, 4m, and 8m. It is very instructive to see this.
+## 빅뱅과 허블 법칙 2
+이러한 거리의 배수 증가를 보여 주는 아주 쉬운 방법은 학생 4명을 서로 1 m 간격으로 한 줄로 세우는 것입니다. 그런 다음 1번과 2번 사이의 거리를 두 배인 2 m로 늘립니다. 학생들에게 2번과 3번, 3번과 4번 사이의 거리는 어떻게 되어야 하는지 계산해 보게 하세요. 3번과 4번도 함께 이동해 1 m씩 물러나야 합니다. 그런데 3번은 거기에 더해 1 m를 더 움직여야 하고, 4번도 그것을 따라가야 합니다. 그리고 4번은 자기 몫의 1 m를 한 걸음 더 물러나야 합니다. 그러면 이제 1, 2, 3, 4번 사이의 거리는 각각 2 m, 4 m, 8 m가 됩니다. 직접 눈으로 보면 매우 교훈적입니다.
 
-## Big bang and Hubble 2
-Often cosmic expansion is shown with a balloon. Blow a balloon a little bit and mark some points. Then blow it up more and the points will get farther away from each other. We should really look only at what happens at the surface of the balloon and not at three dimensions. The pitfall is that students will see this 3-dimensionally as expansion from one particular point.
+## 빅뱅과 허블 법칙 2
+우주 팽창은 풍선으로 자주 설명합니다. 풍선을 조금만 불고 표면에 점 몇 개를 표시합니다. 그런 다음 풍선을 더 크게 불면 점들 사이의 거리가 서로 멀어집니다. 이때 우리는 3차원 공간 전체가 아니라 풍선 표면에서 일어나는 현상만을 보아야 합니다. 풍선 비유의 함정은 학생들이 이를 특정 한 점에서 3차원적으로 팽창해 나가는 것으로 오해할 수 있다는 점입니다.
 
-## Hidden dimensions in string theory
+## 끈 이론의 숨겨진 차원
 
-Some theories of space-time such as in string theories propose more than 3 (space) or 4 (space-time) dimensions. In one of his videos Sean Carroll uses a visualization to show how one could not see a dimension. A sheet of A4 has 2 dimensions, length and breadth. When rolled up tight the two dimensions are still there, but one is invisible.
+끈 이론과 같은 일부 시공간 이론에서는 3차원(공간)이나 4차원(시공간)보다 더 많은 차원을 제안합니다. Sean Carroll은 자신의 영상 중 하나에서 어떻게 한 차원이 보이지 않을 수 있는지 시각화하여 보여 줍니다. A4 용지 한 장은 길이와 너비라는 2차원을 가집니다. 이를 촘촘하게 돌돌 말면 두 차원은 여전히 존재하지만, 그중 한 차원은 눈에 보이지 않게 됩니다.
 
-And there are many more possibilities of experiments with no equipment. Google on [freihandversuche](https://www.experimentis.de/experimente-index/) for German literature (use Google translate) or look in {cite:p}`Minnaert1954` or see the 400+ demonstrations in {cite:p}`Liem1987` many of which can be performed without specialized equipment. Freihandversuche only require very simple equipment, but it might be just a bit more than what you typically have in your pocket.
+특별한 장비 없이 할 수 있는 실험의 가능성은 이 밖에도 무궁무진합니다. 독일어 문헌은 [freihandversuche](https://www.experimentis.de/experimente-index/)로 구글 검색해 보거나(구글 번역 활용), {cite:p}`Minnaert1954`를 찾아보거나, {cite:p}`Liem1987`에 수록된 400개 이상의 시범 실험(그중 다수는 전문 장비 없이 수행 가능)을 참고해 보세요. Freihandversuche는 아주 간단한 도구만을 필요로 하지만, 주머니 속에 늘 들어 있는 것보다는 조금 더 많은 도구가 필요할 수도 있습니다.
